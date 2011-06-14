@@ -1,0 +1,1556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE ncx PUBLIC
+     "-//NISO//DTD ncx 2005-1//EN"
+     "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx version="2005-1"
+     xml:lang="fr"
+     xmlns="http://www.daisy.org/z3986/2005/ncx/">
+
+  <head>
+    <!-- The following four metadata items are required for all
+        NCX documents, including those conforming to the relaxed
+        constraints of OPS 2.0 -->
+
+    <meta name="dtb:uid" content="dbf28f7e-f319-11dd-a1ae-001cc0a62c0b"/>
+
+    <meta name="dtb:depth" content="3"/>
+
+    <meta name="dtb:totalPageCount" content="0"/>
+
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+
+ <docTitle>
+   <text>Le Kama Sutra</text>
+ </docTitle>
+
+ <docAuthor>
+   
+     <text>Vatsyayana</text>
+   
+ </docAuthor>
+
+  
+
+
+
+  <navMap>
+    
+    <navPoint class="titlepage" id="level1-titlepage" playOrder="1">
+      <navLabel><text>Titre</text></navLabel>
+      <content src="title.xml"/>
+    </navPoint>
+    
+    
+    
+    
+    <navPoint class="about" id="level1-about" playOrder="2">
+      <navLabel><text>A Propos</text></navLabel>
+      <content src="about.xml"/>
+    </navPoint>
+    
+    
+    
+    
+    
+    
+    
+    
+      
+        
+        
+
+
+
+
+  
+
+
+
+<navPoint class="section" id="level1-sec1" playOrder="3">
+ 
+  <navLabel><text>Préambule</text></navLabel> 
+  <content src="main0.xml#section_395"/>
+
+</navPoint>
+
+        
+       
+    
+      
+        
+        
+
+
+
+
+
+
+  
+
+
+<navPoint class="part" id="level1-book1" playOrder="4">
+  <navLabel><text>Partie 1 - Questions générales</text></navLabel> 
+  <content src="main1.xml"/>
+   
+  
+   
+  
+    
+      
+      
+
+
+
+  
+
+
+
+
+  
+
+
+
+<navPoint class="chapter" id="level2-book1chap1" playOrder="5">
+  
+  <navLabel><text>Chapitre 1 - Observations sur les trois acquisitions terrestres : Vertu, Richesse, Amour.</text></navLabel> 
+  <content src="main2.xml"/>
+    
+  
+    
+  
+    
+      
+      
+
+
+  
+
+
+
+  
+
+
+
+<navPoint class="section" id="level3-book1chap1sec1" playOrder="6">
+ 
+  <navLabel><text>1. Première objection</text></navLabel> 
+  <content src="main2.xml#section_396"/>
+
+</navPoint>
+
+    
+  
+    
+      
+      
+
+
+
+
+  
+
+
+
+<navPoint class="section" id="level3-book1chap1sec2" playOrder="7">
+ 
+  <navLabel><text>2. Réponse</text></navLabel> 
+  <content src="main2.xml#section_400"/>
+
+</navPoint>
+
+    
+  
+    
+      
+      
+
+
+
+
+  
+
+
+
+<navPoint class="section" id="level3-book1chap1sec3" playOrder="8">
+ 
+  <navLabel><text>3. Deuxième objection</text></navLabel> 
+  <content src="main2.xml#section_401"/>
+
+</navPoint>
+
+    
+  
+    
+      
+      
+
+
+
+
+  
+
+
+
+<navPoint class="section" id="level3-book1chap1sec4" playOrder="9">
+ 
+  <navLabel><text>4. Réponse</text></navLabel> 
+  <content src="main2.xml#section_402"/>
+
+</navPoint>
+
+    
+  
+    
+      
+      
+
+
+
+
+  
+
+
+
+<navPoint class="section" id="level3-book1chap1sec5" playOrder="10">
+ 
+  <navLabel><text>5. Troisième objection</text></navLabel> 
+  <content src="main2.xml#section_403"/>
+
+</navPoint>
+
+    
+  
+    
+      
+      
+
+
+
+
+  
+
+
+
+<navPoint class="section" id="level3-book1chap1sec6" playOrder="11">
+ 
+  <navLabel><text>6. Réponse</text></navLabel> 
+  <content src="main2.xml#section_404"/>
+
+</navPoint>
+
+    
+  
+    
+      
+      
+
+
+
+
+  
+
+
+
+<navPoint class="section" id="level3-book1chap1sec7" playOrder="12">
+ 
+  <navLabel><text>7. Quatrième objection</text></navLabel> 
+  <content src="main2.xml#section_405"/>
+
+</navPoint>
+
+    
+  
+    
+      
+      
+
+
+
+
+  
+
+
+
+<navPoint class="section" id="level3-book1chap1sec8" playOrder="13">
+ 
+  <navLabel><text>8. Réponse</text></navLabel> 
+  <content src="main2.xml#section_406"/>
+
+</navPoint>
+
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+  
+
+
+
+<navPoint class="chapter" id="level2-book1chap2" playOrder="14">
+  
+  <navLabel><text>Chapitre 2 - De l’étude des soixante-quatre Arts.</text></navLabel> 
+  <content src="main3.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+  
+
+
+
+<navPoint class="chapter" id="level2-book1chap3" playOrder="15">
+  
+  <navLabel><text>Chapitre 3 - La vie d’un citoyen.</text></navLabel> 
+  <content src="main4.xml"/>
+    
+  
+    
+  
+    
+      
+      
+
+
+
+
+  
+
+
+
+<navPoint class="section" id="level3-book1chap3sec1" playOrder="16">
+ 
+  <navLabel><text>1. Festivals</text></navLabel> 
+  <content src="main4.xml#section_407"/>
+
+</navPoint>
+
+    
+  
+    
+      
+      
+
+
+
+
+  
+
+
+
+<navPoint class="section" id="level3-book1chap3sec2" playOrder="17">
+ 
+  <navLabel><text>2. Réunions de société</text></navLabel> 
+  <content src="main4.xml#section_408"/>
+
+</navPoint>
+
+    
+  
+    
+      
+      
+
+
+
+
+  
+
+
+
+<navPoint class="section" id="level3-book1chap3sec3" playOrder="18">
+ 
+  <navLabel><text>3. Parties à boire</text></navLabel> 
+  <content src="main4.xml#section_409"/>
+
+</navPoint>
+
+    
+  
+    
+      
+      
+
+
+
+
+  
+
+
+
+<navPoint class="section" id="level3-book1chap3sec4" playOrder="19">
+ 
+  <navLabel><text>4. Promenades aux jardins, ou pique-niques</text></navLabel> 
+  <content src="main4.xml#section_410"/>
+
+</navPoint>
+
+    
+  
+    
+      
+      
+
+
+
+
+  
+
+
+
+<navPoint class="section" id="level3-book1chap3sec5" playOrder="20">
+ 
+  <navLabel><text>5. Autres divertissements de société</text></navLabel> 
+  <content src="main4.xml#section_411"/>
+
+</navPoint>
+
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+  
+
+
+
+<navPoint class="chapter" id="level2-book1chap4" playOrder="21">
+  
+  <navLabel><text>Chapitre 4 - Des sortes de femmes fréquentées par les citoyens, des amis et messagers</text></navLabel> 
+  <content src="main5.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+</navPoint>
+       
+    
+      
+        
+        
+
+
+
+
+
+
+  
+
+
+<navPoint class="part" id="level1-book2" playOrder="22">
+  <navLabel><text>Partie 2 - De l’union sexuelle</text></navLabel> 
+  <content src="main6.xml"/>
+   
+  
+   
+  
+    
+      
+      
+
+
+
+
+
+
+  
+
+
+
+<navPoint class="chapter" id="level2-book2chap1" playOrder="23">
+  
+  <navLabel><text>Chapitre 1 - Sortes d’unions</text></navLabel> 
+  <content src="main7.xml"/>
+    
+  
+    
+  
+    
+      
+      
+
+
+
+
+  
+
+
+
+<navPoint class="section" id="level3-book2chap1sec1" playOrder="24">
+ 
+  <navLabel><text>1. Sortes d’unions</text></navLabel> 
+  <content src="main7.xml#section_412"/>
+
+</navPoint>
+
+    
+  
+    
+      
+      
+
+
+
+
+  
+
+
+
+<navPoint class="section" id="level3-book2chap1sec2" playOrder="25">
+ 
+  <navLabel><text>2. Égales</text></navLabel> 
+  <content src="main7.xml#section_413"/>
+
+</navPoint>
+
+    
+  
+    
+      
+      
+
+
+
+
+  
+
+
+
+<navPoint class="section" id="level3-book2chap1sec3" playOrder="26">
+ 
+  <navLabel><text>3. Inégales</text></navLabel> 
+  <content src="main7.xml#section_479"/>
+
+</navPoint>
+
+    
+  
+    
+      
+      
+
+
+
+
+  
+
+
+
+<navPoint class="section" id="level3-book2chap1sec4" playOrder="27">
+ 
+  <navLabel><text>4. Hommes</text></navLabel> 
+  <content src="main7.xml#section_480"/>
+
+</navPoint>
+
+    
+  
+    
+      
+      
+
+
+
+
+  
+
+
+
+<navPoint class="section" id="level3-book2chap1sec5" playOrder="28">
+ 
+  <navLabel><text>5. Femmes</text></navLabel> 
+  <content src="main7.xml#section_481"/>
+
+</navPoint>
+
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+  
+
+
+
+<navPoint class="chapter" id="level2-book2chap2" playOrder="29">
+  
+  <navLabel><text>Chapitre 2 - De l’embrassement.</text></navLabel> 
+  <content src="main8.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+  
+
+
+
+<navPoint class="chapter" id="level2-book2chap3" playOrder="30">
+  
+  <navLabel><text>Chapitre 3 - Du baiser.</text></navLabel> 
+  <content src="main9.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+  
+
+
+
+<navPoint class="chapter" id="level2-book2chap4" playOrder="31">
+  
+  <navLabel><text>Chapitre 4 - De la pression, ou marque, ou égratignure avec les ongles.</text></navLabel> 
+  <content src="main10.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+  
+
+
+
+<navPoint class="chapter" id="level2-book2chap5" playOrder="32">
+  
+  <navLabel><text>Chapitre 5 - De la morsure, et des moyens à employer à l’égard des femmes de différents pays.</text></navLabel> 
+  <content src="main11.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+  
+
+
+
+<navPoint class="chapter" id="level2-book2chap6" playOrder="33">
+  
+  <navLabel><text>Chapitre 6 - Des différentes manières de se coucher, et des diverses sortes de congrès.</text></navLabel> 
+  <content src="main12.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+  
+
+
+
+<navPoint class="chapter" id="level2-book2chap7" playOrder="34">
+  
+  <navLabel><text>Chapitre 7 - Des diverses manières de frapper et des sons appropriés.</text></navLabel> 
+  <content src="main13.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+  
+
+
+
+<navPoint class="chapter" id="level2-book2chap8" playOrder="35">
+  
+  <navLabel><text>Chapitre 8 - Des femmes oui jouent le role de l’homme et du travail de l’homme.</text></navLabel> 
+  <content src="main14.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+  
+
+
+
+<navPoint class="chapter" id="level2-book2chap9" playOrder="36">
+  
+  <navLabel><text>Chapitre 9 - De l’auparishtakai ou congrès buccal.</text></navLabel> 
+  <content src="main15.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+  
+
+
+
+<navPoint class="chapter" id="level2-book2chap10" playOrder="37">
+  
+  <navLabel><text>Chapitre 10 - De la manière de commencer et de finir le congrès ; différentes sortes de congrès et querelles d’amour.</text></navLabel> 
+  <content src="main16.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+  
+
+
+
+<navPoint class="chapter" id="level2-book2chap11" playOrder="38">
+  
+  <navLabel><text>Chapitre 11 - En résumé</text></navLabel> 
+  <content src="main17.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+</navPoint>
+       
+    
+      
+        
+        
+
+
+
+
+
+
+  
+
+
+<navPoint class="part" id="level1-book3" playOrder="39">
+  <navLabel><text>Partie 3 - De l’acquisition d’une épouse</text></navLabel> 
+  <content src="main18.xml"/>
+   
+  
+   
+  
+    
+      
+      
+
+
+
+
+
+
+  
+
+
+
+<navPoint class="chapter" id="level2-book3chap1" playOrder="40">
+  
+  <navLabel><text>Chapitre 1 - Du mariage.</text></navLabel> 
+  <content src="main19.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+  
+
+
+
+<navPoint class="chapter" id="level2-book3chap2" playOrder="41">
+  
+  <navLabel><text>Chapitre 2 - De la confiance à inspirer à la fille.</text></navLabel> 
+  <content src="main20.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+  
+
+
+
+<navPoint class="chapter" id="level2-book3chap3" playOrder="42">
+  
+  <navLabel><text>Chapitre 3 - De la cour, et de la manifestation des sentiments par signes et actes extérieurs.</text></navLabel> 
+  <content src="main21.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+  
+
+
+
+<navPoint class="chapter" id="level2-book3chap4" playOrder="43">
+  
+  <navLabel><text>Chapitre 4 - Des choses que l’homme doit faire seul pour s’assurer l’acquisition de la fille ; pareillement, de ce que doit faire la fille pour dominer l’homme et se l’assujettir.</text></navLabel> 
+  <content src="main22.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+  
+
+
+
+<navPoint class="chapter" id="level2-book3chap5" playOrder="44">
+  
+  <navLabel><text>Chapitre 5 - De certaines formes de mariage.</text></navLabel> 
+  <content src="main23.xml"/>
+    
+  
+    
+  
+    
+      
+      
+
+
+
+
+  
+
+
+
+<navPoint class="section" id="level3-book3chap5sec1" playOrder="45">
+ 
+  <navLabel><text>1. Formes de mariage</text></navLabel> 
+  <content src="main23.xml#section_482"/>
+
+</navPoint>
+
+    
+  
+</navPoint>
+      
+    
+  
+</navPoint>
+       
+    
+      
+        
+        
+
+
+
+
+
+
+  
+
+
+<navPoint class="part" id="level1-book4" playOrder="46">
+  <navLabel><text>Partie 4 - De l’épouse</text></navLabel> 
+  <content src="main24.xml"/>
+   
+  
+   
+  
+    
+      
+      
+
+
+
+
+
+
+  
+
+
+
+<navPoint class="chapter" id="level2-book4chap1" playOrder="47">
+  
+  <navLabel><text>Chapitre 1 - De la manière de vivre d’une femme vertueuse et de sa conduite pendant l’absence de son mari.</text></navLabel> 
+  <content src="main25.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+  
+
+
+
+<navPoint class="chapter" id="level2-book4chap2" playOrder="48">
+  
+  <navLabel><text>Chapitre 2 - De la conduite de la plus ancienne épouse envers les autres épouses de son mari, et de la plus jeune épouse envers les plus anciennes ; de la conduite d’une veuve vierge remariée ; d’une épouse rebutée par son mari ; des femmes dans le harem du roi ;</text></navLabel> 
+  <content src="main26.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+</navPoint>
+       
+    
+      
+        
+        
+
+
+
+
+
+
+  
+
+
+<navPoint class="part" id="level1-book5" playOrder="49">
+  <navLabel><text>Partie 5 - Des épouses d’autrui</text></navLabel> 
+  <content src="main27.xml"/>
+   
+  
+   
+  
+    
+      
+      
+
+
+
+
+
+
+  
+
+
+
+<navPoint class="chapter" id="level2-book5chap1" playOrder="50">
+  
+  <navLabel><text>Chapitre 1 - Des caractéristiques des hommes et des femmes. Pourquoi les femmes résistent aux poursuites des hommes. Des hommes qui ont du succès auprès des femmes, et des femmes dont la conquête est facile.</text></navLabel> 
+  <content src="main28.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+  
+
+
+
+<navPoint class="chapter" id="level2-book5chap2" playOrder="51">
+  
+  <navLabel><text>Chapitre 2 - Des moyens d’aborder une femme et des efforts à faire pour la conquérir.</text></navLabel> 
+  <content src="main29.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+  
+
+
+
+<navPoint class="chapter" id="level2-book5chap3" playOrder="52">
+  
+  <navLabel><text>Chapitre 3 - Examen de l’état d’esprit d’une femme.</text></navLabel> 
+  <content src="main30.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+  
+
+
+
+<navPoint class="chapter" id="level2-book5chap4" playOrder="53">
+  
+  <navLabel><text>Chapitre 4 - Des devoirs d’une entremetteuse.</text></navLabel> 
+  <content src="main31.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+  
+
+
+
+<navPoint class="chapter" id="level2-book5chap5" playOrder="54">
+  
+  <navLabel><text>Chapitre 5 - De l’amour des personnes en charge pour les épouses d’autrui.</text></navLabel> 
+  <content src="main32.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+  
+
+
+
+<navPoint class="chapter" id="level2-book5chap6" playOrder="55">
+  
+  <navLabel><text>Chapitre 6 - Des femmes du harem royal et de la garde de sa propre épouse.</text></navLabel> 
+  <content src="main33.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+</navPoint>
+       
+    
+      
+        
+        
+
+
+
+
+
+
+  
+
+
+<navPoint class="part" id="level1-book6" playOrder="56">
+  <navLabel><text>Partie 6 - Des Courtisanes</text></navLabel> 
+  <content src="main34.xml"/>
+   
+  
+   
+  
+    
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+  
+
+
+
+<navPoint class="chapter" id="level2-book6chap1" playOrder="57">
+  
+  <navLabel><text>Chapitre 1 - Pourquoi une courtisane s’adresse aux hommes ; des moyens de s’attacher l’homme désiré, et de l’espèce d’homme qu’il est désirable de s’attacher.</text></navLabel> 
+  <content src="main36.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+  
+
+
+
+<navPoint class="chapter" id="level2-book6chap2" playOrder="58">
+  
+  <navLabel><text>Chapitre 2 - De la courtisane vivant maritalement avec un homme.</text></navLabel> 
+  <content src="main37.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+  
+
+
+
+<navPoint class="chapter" id="level2-book6chap3" playOrder="59">
+  
+  <navLabel><text>Chapitre 3 - Des moyens de gagner de l’argent. Des signes qu’un amant commence à se fatiguer, et des moyens de s’en débarrasser.</text></navLabel> 
+  <content src="main38.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+  
+
+
+
+<navPoint class="chapter" id="level2-book6chap4" playOrder="60">
+  
+  <navLabel><text>Chapitre 4 - D’une nouvelle union avec un ancien amant.</text></navLabel> 
+  <content src="main39.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+  
+
+
+
+<navPoint class="chapter" id="level2-book6chap5" playOrder="61">
+  
+  <navLabel><text>Chapitre 5 - Des différentes sortes de gain.</text></navLabel> 
+  <content src="main40.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+  
+
+
+
+<navPoint class="chapter" id="level2-book6chap6" playOrder="62">
+  
+  <navLabel><text>Chapitre 6 - Des gains et des pertes, gains et pertes accessoires, doutes ; et enfin, des différentes sortes de courtisanes.</text></navLabel> 
+  <content src="main41.xml"/>
+    
+  
+    
+  
+    
+      
+      
+
+
+
+
+  
+
+
+
+<navPoint class="section" id="level3-book6chap6sec1" playOrder="63">
+ 
+  <navLabel><text>1. Doutes mixtes</text></navLabel> 
+  <content src="main41.xml#section_483"/>
+
+</navPoint>
+
+    
+  
+</navPoint>
+      
+    
+  
+</navPoint>
+       
+    
+      
+        
+        
+
+
+
+
+
+
+  
+
+
+<navPoint class="part" id="level1-book7" playOrder="64">
+  <navLabel><text>Partie 7 - Des moyens de s’attacher les autres</text></navLabel> 
+  <content src="main42.xml"/>
+   
+  
+   
+  
+    
+      
+      
+
+
+
+
+
+
+  
+
+
+
+<navPoint class="chapter" id="level2-book7chap1" playOrder="65">
+  
+  <navLabel><text>Chapitre 1 - De la parure personnelle ; de la séduction des cœurs ; et des médecines toniques.</text></navLabel> 
+  <content src="main43.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+  
+
+
+
+<navPoint class="chapter" id="level2-book7chap2" playOrder="66">
+  
+  <navLabel><text>Chapitre 2 - Des moyens d’exciter le désir. Expériences et recettes diverses.</text></navLabel> 
+  <content src="main44.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+</navPoint>
+       
+    
+    
+    
+      
+    
+      <navPoint class="similar" id="level1-similar" playOrder="67">
+        <navLabel><text>Recommandations</text></navLabel>
+        <content src="similar.xml"/>
+      </navPoint>
+    
+    
+  </navMap>
+
+</ncx>

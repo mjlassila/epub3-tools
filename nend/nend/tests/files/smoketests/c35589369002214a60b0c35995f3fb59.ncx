@@ -1,0 +1,1185 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="cover" content="cover"/>
+    <meta name="dtb:uid" content="isbn:9781449383152"/>
+    <meta name="dtb:depth" content="-1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>High Performance JavaScript</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="id2787173" playOrder="1">
+      <navLabel>
+        <text>High Performance JavaScript</text>
+      </navLabel>
+      <content src="index.html"/>
+      <navPoint id="id2839536" playOrder="2">
+        <navLabel>
+          <text>Preface</text>
+        </navLabel>
+        <content src="pr01.html"/>
+        <navPoint id="id2795107" playOrder="3">
+          <navLabel>
+            <text>The Internet Evolves</text>
+          </navLabel>
+          <content src="pr01.html#the_internet_evolves"/>
+        </navPoint>
+        <navPoint id="id2856190" playOrder="4">
+          <navLabel>
+            <text>Why Optimization Is Necessary</text>
+          </navLabel>
+          <content src="pr01s02.html"/>
+        </navPoint>
+        <navPoint id="id2806171" playOrder="5">
+          <navLabel>
+            <text>Next-Generation JavaScript Engines</text>
+          </navLabel>
+          <content src="pr01s03.html"/>
+        </navPoint>
+        <navPoint id="id2752396" playOrder="6">
+          <navLabel>
+            <text>Performance Is Still a Concern</text>
+          </navLabel>
+          <content src="pr01s04.html"/>
+        </navPoint>
+        <navPoint id="id2811712" playOrder="7">
+          <navLabel>
+            <text>How This Book Is Organized</text>
+          </navLabel>
+          <content src="pr01s05.html"/>
+        </navPoint>
+        <navPoint id="id2788267" playOrder="8">
+          <navLabel>
+            <text>JavaScript Loading</text>
+          </navLabel>
+          <content src="pr01s06.html"/>
+        </navPoint>
+        <navPoint id="id2850348" playOrder="9">
+          <navLabel>
+            <text>Coding Technique</text>
+          </navLabel>
+          <content src="pr01s07.html"/>
+        </navPoint>
+        <navPoint id="id2844521" playOrder="10">
+          <navLabel>
+            <text>Deployment</text>
+          </navLabel>
+          <content src="pr01s08.html"/>
+        </navPoint>
+        <navPoint id="id2788444" playOrder="11">
+          <navLabel>
+            <text>Testing</text>
+          </navLabel>
+          <content src="pr01s09.html"/>
+        </navPoint>
+        <navPoint id="id2789846" playOrder="12">
+          <navLabel>
+            <text>Who This Book Is For</text>
+          </navLabel>
+          <content src="pr01s10.html"/>
+        </navPoint>
+        <navPoint id="id2784459" playOrder="13">
+          <navLabel>
+            <text>Conventions Used in This Book</text>
+          </navLabel>
+          <content src="pr01s11.html"/>
+        </navPoint>
+        <navPoint id="id2871854" playOrder="14">
+          <navLabel>
+            <text>Using Code Examples</text>
+          </navLabel>
+          <content src="pr01s12.html"/>
+        </navPoint>
+        <navPoint id="id2823281" playOrder="15">
+          <navLabel>
+            <text>Safari® Books Online</text>
+          </navLabel>
+          <content src="pr01s13.html"/>
+        </navPoint>
+        <navPoint id="id2883981" playOrder="16">
+          <navLabel>
+            <text>How to Contact Us</text>
+          </navLabel>
+          <content src="pr01s14.html"/>
+        </navPoint>
+        <navPoint id="id2884042" playOrder="17">
+          <navLabel>
+            <text>Acknowledgments</text>
+          </navLabel>
+          <content src="pr01s15.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id2788250" playOrder="18">
+        <navLabel>
+          <text>1. Loading and Execution</text>
+        </navLabel>
+        <content src="ch01.html"/>
+        <navPoint id="id2789731" playOrder="19">
+          <navLabel>
+            <text>Script Positioning</text>
+          </navLabel>
+          <content src="ch01.html#script_positioning"/>
+        </navPoint>
+        <navPoint id="id2884245" playOrder="20">
+          <navLabel>
+            <text>Grouping Scripts</text>
+          </navLabel>
+          <content src="ch01s02.html"/>
+        </navPoint>
+        <navPoint id="id2884436" playOrder="21">
+          <navLabel>
+            <text>Nonblocking Scripts</text>
+          </navLabel>
+          <content src="ch01s03.html"/>
+          <navPoint id="id2884909" playOrder="22">
+            <navLabel>
+              <text>Deferred Scripts</text>
+            </navLabel>
+            <content src="ch01s03.html#deferred_scripts"/>
+          </navPoint>
+          <navPoint id="id2885140" playOrder="23">
+            <navLabel>
+              <text>Dynamic Script Elements</text>
+            </navLabel>
+            <content src="ch01s03.html#dynamic_script_elements"/>
+          </navPoint>
+          <navPoint id="id2895219" playOrder="24">
+            <navLabel>
+              <text>XMLHttpRequest Script Injection</text>
+            </navLabel>
+            <content src="ch01s03.html#xmlhttprequest_script_injection"/>
+          </navPoint>
+          <navPoint id="id2895371" playOrder="25">
+            <navLabel>
+              <text>Recommended Nonblocking Pattern</text>
+            </navLabel>
+            <content src="ch01s03.html#recommended_nonblocking_pattern"/>
+            <navPoint id="id2895549" playOrder="26">
+              <navLabel>
+                <text>The YUI 3 approach</text>
+              </navLabel>
+              <content src="ch01s03.html#the_yui_3_approach"/>
+            </navPoint>
+            <navPoint id="id2895641" playOrder="27">
+              <navLabel>
+                <text>The LazyLoad library</text>
+              </navLabel>
+              <content src="ch01s03.html#the_lazyload_library"/>
+            </navPoint>
+            <navPoint id="id2895759" playOrder="28">
+              <navLabel>
+                <text>The LABjs library</text>
+              </navLabel>
+              <content src="ch01s03.html#the_labjs_library"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2895987" playOrder="29">
+          <navLabel>
+            <text>Summary</text>
+          </navLabel>
+          <content src="ch01s04.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id2896092" playOrder="30">
+        <navLabel>
+          <text>2. Data Access</text>
+        </navLabel>
+        <content src="ch02.html"/>
+        <navPoint id="id2896295" playOrder="31">
+          <navLabel>
+            <text>Managing Scope</text>
+          </navLabel>
+          <content src="ch02.html#managing_scope"/>
+          <navPoint id="id2896337" playOrder="32">
+            <navLabel>
+              <text>Scope Chains and Identifier Resolution</text>
+            </navLabel>
+            <content src="ch02.html#scope_chains_and_identifier_resolution"/>
+          </navPoint>
+          <navPoint id="id2896756" playOrder="33">
+            <navLabel>
+              <text>Identifier Resolution Performance</text>
+            </navLabel>
+            <content src="ch02.html#identifier_resolution_performance"/>
+          </navPoint>
+          <navPoint id="id2897117" playOrder="34">
+            <navLabel>
+              <text>Scope Chain Augmentation</text>
+            </navLabel>
+            <content src="ch02.html#scope_chain_augmentation"/>
+          </navPoint>
+          <navPoint id="id2897519" playOrder="35">
+            <navLabel>
+              <text>Dynamic Scopes</text>
+            </navLabel>
+            <content src="ch02.html#dynamic_scopes"/>
+          </navPoint>
+          <navPoint id="id2897763" playOrder="36">
+            <navLabel>
+              <text>Closures, Scope, and Memory</text>
+            </navLabel>
+            <content src="ch02.html#closures_scope_and_memory"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2898141" playOrder="37">
+          <navLabel>
+            <text>Object Members</text>
+          </navLabel>
+          <content src="ch02s02.html"/>
+          <navPoint id="id2898283" playOrder="38">
+            <navLabel>
+              <text>Prototypes</text>
+            </navLabel>
+            <content src="ch02s02.html#prototypes"/>
+          </navPoint>
+          <navPoint id="id2898622" playOrder="39">
+            <navLabel>
+              <text>Prototype Chains</text>
+            </navLabel>
+            <content src="ch02s02.html#prototype_chains"/>
+          </navPoint>
+          <navPoint id="id2898863" playOrder="40">
+            <navLabel>
+              <text>Nested Members</text>
+            </navLabel>
+            <content src="ch02s02.html#nested_members"/>
+          </navPoint>
+          <navPoint id="id2899021" playOrder="41">
+            <navLabel>
+              <text>Caching Object Member Values</text>
+            </navLabel>
+            <content src="ch02s02.html#caching_object_member_values"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2899307" playOrder="42">
+          <navLabel>
+            <text>Summary</text>
+          </navLabel>
+          <content src="ch02s03.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id2899396" playOrder="43">
+        <navLabel>
+          <text>3. DOM Scripting</text>
+        </navLabel>
+        <content src="ch03.html"/>
+        <navPoint id="id2899472" playOrder="44">
+          <navLabel>
+            <text>DOM in the Browser World</text>
+          </navLabel>
+          <content src="ch03.html#dom_in_the_browser_world"/>
+          <navPoint id="id2899600" playOrder="45">
+            <navLabel>
+              <text>Inherently Slow</text>
+            </navLabel>
+            <content src="ch03.html#inherently_slow"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2899637" playOrder="46">
+          <navLabel>
+            <text>DOM Access and Modification</text>
+          </navLabel>
+          <content src="ch03s02.html"/>
+          <navPoint id="id2899796" playOrder="47">
+            <navLabel>
+              <text>innerHTML Versus DOM methods</text>
+            </navLabel>
+            <content src="ch03s02.html#innerhtml_versus_dom_methods"/>
+          </navPoint>
+          <navPoint id="id2900280" playOrder="48">
+            <navLabel>
+              <text>Cloning Nodes</text>
+            </navLabel>
+            <content src="ch03s02.html#cloning_nodes"/>
+          </navPoint>
+          <navPoint id="id2900428" playOrder="49">
+            <navLabel>
+              <text>HTML Collections</text>
+            </navLabel>
+            <content src="ch03s02.html#html_collections"/>
+            <navPoint id="id2900648" playOrder="50">
+              <navLabel>
+                <text>Expensive collections</text>
+              </navLabel>
+              <content src="ch03s02.html#expensive_collections"/>
+            </navPoint>
+            <navPoint id="id2900942" playOrder="51">
+              <navLabel>
+                <text>Local variables when accessing collection elements</text>
+              </navLabel>
+              <content src="ch03s02.html#local_variables_when_accessing_collectio"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id2901130" playOrder="52">
+            <navLabel>
+              <text>Walking the DOM</text>
+            </navLabel>
+            <content src="ch03s02.html#walking_the_dom"/>
+            <navPoint id="id2901157" playOrder="53">
+              <navLabel>
+                <text>Crawling the DOM</text>
+              </navLabel>
+              <content src="ch03s02.html#crawling_the_dom"/>
+            </navPoint>
+            <navPoint id="id2901306" playOrder="54">
+              <navLabel>
+                <text>Element nodes</text>
+              </navLabel>
+              <content src="ch03s02.html#element_nodes"/>
+            </navPoint>
+            <navPoint id="id2901564" playOrder="55">
+              <navLabel>
+                <text>The Selectors API</text>
+              </navLabel>
+              <content src="ch03s02.html#the_selectors_api"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2901947" playOrder="56">
+          <navLabel>
+            <text>Repaints and Reflows</text>
+          </navLabel>
+          <content src="ch03s03.html"/>
+          <navPoint id="id2902104" playOrder="57">
+            <navLabel>
+              <text>When Does a Reflow Happen?</text>
+            </navLabel>
+            <content src="ch03s03.html#when_does_a_reflow_happen"/>
+          </navPoint>
+          <navPoint id="id2902146" playOrder="58">
+            <navLabel>
+              <text>Queuing and Flushing Render Tree Changes</text>
+            </navLabel>
+            <content src="ch03s03.html#queuing_and_flushing_render_tree_changes"/>
+          </navPoint>
+          <navPoint id="id2902378" playOrder="59">
+            <navLabel>
+              <text>Minimizing Repaints and Reflows</text>
+            </navLabel>
+            <content src="ch03s03.html#minimizing_repaints_and_reflows"/>
+            <navPoint id="id2902446" playOrder="60">
+              <navLabel>
+                <text>Style changes</text>
+              </navLabel>
+              <content src="ch03s03.html#style_changes"/>
+            </navPoint>
+            <navPoint id="id2902567" playOrder="61">
+              <navLabel>
+                <text>Batching DOM changes</text>
+              </navLabel>
+              <content src="ch03s03.html#batching_dom_changes"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id2902825" playOrder="62">
+            <navLabel>
+              <text>Caching Layout Information</text>
+            </navLabel>
+            <content src="ch03s03.html#caching_layout_information"/>
+          </navPoint>
+          <navPoint id="id2902930" playOrder="63">
+            <navLabel>
+              <text>Take Elements Out of the Flow for Animations</text>
+            </navLabel>
+            <content src="ch03s03.html#take_elements_out_of_the_flow_for_animat"/>
+          </navPoint>
+          <navPoint id="id2903009" playOrder="64">
+            <navLabel>
+              <text>IE and :hover</text>
+            </navLabel>
+            <content src="ch03s03.html#ie_and_hover"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2903100" playOrder="65">
+          <navLabel>
+            <text>Event Delegation</text>
+          </navLabel>
+          <content src="ch03s04.html"/>
+        </navPoint>
+        <navPoint id="id2903359" playOrder="66">
+          <navLabel>
+            <text>Summary</text>
+          </navLabel>
+          <content src="ch03s05.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id2903446" playOrder="67">
+        <navLabel>
+          <text>4. Algorithms and Flow Control</text>
+        </navLabel>
+        <content src="ch04.html"/>
+        <navPoint id="id2903506" playOrder="68">
+          <navLabel>
+            <text>Loops</text>
+          </navLabel>
+          <content src="ch04.html#loops"/>
+          <navPoint id="id2903556" playOrder="69">
+            <navLabel>
+              <text>Types of Loops</text>
+            </navLabel>
+            <content src="ch04.html#types_of_loops"/>
+          </navPoint>
+          <navPoint id="id2903867" playOrder="70">
+            <navLabel>
+              <text>Loop Performance</text>
+            </navLabel>
+            <content src="ch04.html#loop_performance"/>
+            <navPoint id="id2904051" playOrder="71">
+              <navLabel>
+                <text>Decreasing the work per iteration</text>
+              </navLabel>
+              <content src="ch04.html#decreasing_the_work_per_iteration"/>
+            </navPoint>
+            <navPoint id="id2904437" playOrder="72">
+              <navLabel>
+                <text>Decreasing the number of iterations</text>
+              </navLabel>
+              <content src="ch04.html#decreasing_the_number_of_iterations"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id2904615" playOrder="73">
+            <navLabel>
+              <text>Function-Based Iteration</text>
+            </navLabel>
+            <content src="ch04.html#function-based_iteration"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2904766" playOrder="74">
+          <navLabel>
+            <text>Conditionals</text>
+          </navLabel>
+          <content src="ch04s02.html"/>
+          <navPoint id="id2904827" playOrder="75">
+            <navLabel>
+              <text>if-else Versus switch</text>
+            </navLabel>
+            <content src="ch04s02.html#if-else_versus_switch"/>
+          </navPoint>
+          <navPoint id="id2905026" playOrder="76">
+            <navLabel>
+              <text>Optimizing if-else</text>
+            </navLabel>
+            <content src="ch04s02.html#optimizing_if-else"/>
+          </navPoint>
+          <navPoint id="id2905213" playOrder="77">
+            <navLabel>
+              <text>Lookup Tables</text>
+            </navLabel>
+            <content src="ch04s02.html#lookup_tables"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2905438" playOrder="78">
+          <navLabel>
+            <text>Recursion</text>
+          </navLabel>
+          <content src="ch04s03.html"/>
+          <navPoint id="id2905503" playOrder="79">
+            <navLabel>
+              <text>Call Stack Limits</text>
+            </navLabel>
+            <content src="ch04s03.html#call_stack_limits"/>
+          </navPoint>
+          <navPoint id="id2905729" playOrder="80">
+            <navLabel>
+              <text>Recursion Patterns</text>
+            </navLabel>
+            <content src="ch04s03.html#recursion_patterns"/>
+          </navPoint>
+          <navPoint id="id2905820" playOrder="81">
+            <navLabel>
+              <text>Iteration</text>
+            </navLabel>
+            <content src="ch04s03.html#iteration"/>
+          </navPoint>
+          <navPoint id="id2905995" playOrder="82">
+            <navLabel>
+              <text>Memoization</text>
+            </navLabel>
+            <content src="ch04s03.html#memoization"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2906268" playOrder="83">
+          <navLabel>
+            <text>Summary</text>
+          </navLabel>
+          <content src="ch04s04.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id2906395" playOrder="84">
+        <navLabel>
+          <text>5. Strings and Regular Expressions</text>
+        </navLabel>
+        <content src="ch05.html"/>
+        <navPoint id="id2906483" playOrder="85">
+          <navLabel>
+            <text>String Concatenation</text>
+          </navLabel>
+          <content src="ch05.html#string_concatenation"/>
+          <navPoint id="id2906737" playOrder="86">
+            <navLabel>
+              <text>Plus (+) and Plus-Equals (+=) Operators</text>
+            </navLabel>
+            <content src="ch05.html#plus_plus_and_plus-equals_plusequal_oper"/>
+            <navPoint id="id2907015" playOrder="87">
+              <navLabel>
+                <text>Firefox and compile-time folding</text>
+              </navLabel>
+              <content src="ch05.html#firefox_and_compile-time_folding"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id2907143" playOrder="88">
+            <navLabel>
+              <text>Array Joining</text>
+            </navLabel>
+            <content src="ch05.html#array_joining"/>
+          </navPoint>
+          <navPoint id="id2907394" playOrder="89">
+            <navLabel>
+              <text>String.prototype.concat</text>
+            </navLabel>
+            <content src="ch05.html#stringprototypeconcat"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2907504" playOrder="90">
+          <navLabel>
+            <text>Regular Expression Optimization</text>
+          </navLabel>
+          <content src="ch05s02.html"/>
+          <navPoint id="id2907619" playOrder="91">
+            <navLabel>
+              <text>How Regular Expressions Work</text>
+            </navLabel>
+            <content src="ch05s02.html#how_regular_expressions_work"/>
+          </navPoint>
+          <navPoint id="id2907816" playOrder="92">
+            <navLabel>
+              <text>Understanding Backtracking</text>
+            </navLabel>
+            <content src="ch05s02.html#understanding_backtracking"/>
+            <navPoint id="id2907976" playOrder="93">
+              <navLabel>
+                <text>Alternation and backtracking</text>
+              </navLabel>
+              <content src="ch05s02.html#alternation_and_backtracking"/>
+            </navPoint>
+            <navPoint id="id2908142" playOrder="94">
+              <navLabel>
+                <text>Repetition and backtracking</text>
+              </navLabel>
+              <content src="ch05s02.html#repetition_and_backtracking"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id2908374" playOrder="95">
+            <navLabel>
+              <text>Runaway Backtracking</text>
+            </navLabel>
+            <content src="ch05s02.html#runaway_backtracking"/>
+            <navPoint id="id2908518" playOrder="96">
+              <navLabel>
+                <text>The solution: Be specific</text>
+              </navLabel>
+              <content src="ch05s02.html#the_solution_be_specific"/>
+            </navPoint>
+            <navPoint id="id2908643" playOrder="97">
+              <navLabel>
+                <text>Emulating atomic groups using lookahead and backreferences</text>
+              </navLabel>
+              <content src="ch05s02.html#emulating_atomic_groups_using_lookahead_"/>
+            </navPoint>
+            <navPoint id="id2908833" playOrder="98">
+              <navLabel>
+                <text>Nested quantifiers and runaway backtracking</text>
+              </navLabel>
+              <content src="ch05s02.html#nested_quantifiers_and_runaway_backtrack"/>
+              <navPoint id="id2909011" playOrder="99">
+                <navLabel>
+                  <text>From bad to worse</text>
+                </navLabel>
+                <content src="ch05s02.html#from_bad_to_worse"/>
+              </navPoint>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id2909216" playOrder="100">
+            <navLabel>
+              <text>A Note on Benchmarking</text>
+            </navLabel>
+            <content src="ch05s02.html#a_note_on_benchmarking"/>
+          </navPoint>
+          <navPoint id="id2909297" playOrder="101">
+            <navLabel>
+              <text>More Ways to Improve Regular Expression Efficiency</text>
+            </navLabel>
+            <content src="ch05s02.html#more_ways_to_improve_regular_expression_"/>
+          </navPoint>
+          <navPoint id="id2909845" playOrder="102">
+            <navLabel>
+              <text>When Not to Use Regular Expressions</text>
+            </navLabel>
+            <content src="ch05s02.html#when_not_to_use_regular_expressions"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2910000" playOrder="103">
+          <navLabel>
+            <text>String Trimming</text>
+          </navLabel>
+          <content src="ch05s03.html"/>
+          <navPoint id="id2910067" playOrder="104">
+            <navLabel>
+              <text>Trimming with Regular Expressions</text>
+            </navLabel>
+            <content src="ch05s03.html#trimming_with_regular_expressions"/>
+          </navPoint>
+          <navPoint id="id2910464" playOrder="105">
+            <navLabel>
+              <text>Trimming Without Regular Expressions</text>
+            </navLabel>
+            <content src="ch05s03.html#trimming_without_regular_expressions"/>
+          </navPoint>
+          <navPoint id="id2910547" playOrder="106">
+            <navLabel>
+              <text>A Hybrid Solution</text>
+            </navLabel>
+            <content src="ch05s03.html#a_hybrid_solution"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2911051" playOrder="107">
+          <navLabel>
+            <text>Summary</text>
+          </navLabel>
+          <content src="ch05s04.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id2911133" playOrder="108">
+        <navLabel>
+          <text>6. Responsive Interfaces</text>
+        </navLabel>
+        <content src="ch06.html"/>
+        <navPoint id="id2911189" playOrder="109">
+          <navLabel>
+            <text>The Browser UI Thread</text>
+          </navLabel>
+          <content src="ch06.html#the_browser_ui_thread"/>
+          <navPoint id="id2911402" playOrder="110">
+            <navLabel>
+              <text>Browser Limits</text>
+            </navLabel>
+            <content src="ch06.html#browser_limits"/>
+          </navPoint>
+          <navPoint id="id2911672" playOrder="111">
+            <navLabel>
+              <text>How Long Is Too Long?</text>
+            </navLabel>
+            <content src="ch06.html#how_long_is_too_long"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2911908" playOrder="112">
+          <navLabel>
+            <text>Yielding with Timers</text>
+          </navLabel>
+          <content src="ch06s02.html"/>
+          <navPoint id="id2911974" playOrder="113">
+            <navLabel>
+              <text>Timer Basics</text>
+            </navLabel>
+            <content src="ch06s02.html#timer_basics"/>
+          </navPoint>
+          <navPoint id="id2912328" playOrder="114">
+            <navLabel>
+              <text>Timer Precision</text>
+            </navLabel>
+            <content src="ch06s02.html#timer_precision"/>
+          </navPoint>
+          <navPoint id="id2912367" playOrder="115">
+            <navLabel>
+              <text>Array Processing with Timers</text>
+            </navLabel>
+            <content src="ch06s02.html#array_processing_with_timers"/>
+          </navPoint>
+          <navPoint id="id2912630" playOrder="116">
+            <navLabel>
+              <text>Splitting Up Tasks</text>
+            </navLabel>
+            <content src="ch06s02.html#splitting_up_tasks"/>
+          </navPoint>
+          <navPoint id="id2912813" playOrder="117">
+            <navLabel>
+              <text>Timed Code</text>
+            </navLabel>
+            <content src="ch06s02.html#timed_code"/>
+          </navPoint>
+          <navPoint id="id2912983" playOrder="118">
+            <navLabel>
+              <text>Timers and Performance</text>
+            </navLabel>
+            <content src="ch06s02.html#timers_and_performance"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2913115" playOrder="119">
+          <navLabel>
+            <text>Web Workers</text>
+          </navLabel>
+          <content src="ch06s03.html"/>
+          <navPoint id="id2913176" playOrder="120">
+            <navLabel>
+              <text>Worker Environment</text>
+            </navLabel>
+            <content src="ch06s03.html#worker_environment"/>
+          </navPoint>
+          <navPoint id="id2913365" playOrder="121">
+            <navLabel>
+              <text>Worker Communication</text>
+            </navLabel>
+            <content src="ch06s03.html#worker_communication"/>
+          </navPoint>
+          <navPoint id="id2913589" playOrder="122">
+            <navLabel>
+              <text>Loading External Files</text>
+            </navLabel>
+            <content src="ch06s03.html#loading_external_files"/>
+          </navPoint>
+          <navPoint id="id2913719" playOrder="123">
+            <navLabel>
+              <text>Practical Uses</text>
+            </navLabel>
+            <content src="ch06s03.html#practical_uses"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2913893" playOrder="124">
+          <navLabel>
+            <text>Summary</text>
+          </navLabel>
+          <content src="ch06s04.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id2913957" playOrder="125">
+        <navLabel>
+          <text>7. Ajax</text>
+        </navLabel>
+        <content src="ch07.html"/>
+        <navPoint id="id2913997" playOrder="126">
+          <navLabel>
+            <text>Data Transmission</text>
+          </navLabel>
+          <content src="ch07.html#data_transmission"/>
+          <navPoint id="id2914036" playOrder="127">
+            <navLabel>
+              <text>Requesting Data</text>
+            </navLabel>
+            <content src="ch07.html#requesting_data"/>
+            <navPoint id="id2914098" playOrder="128">
+              <navLabel>
+                <text>XMLHttpRequest</text>
+              </navLabel>
+              <content src="ch07.html#xmlhttprequest"/>
+              <navPoint id="id2914213" playOrder="129">
+                <navLabel>
+                  <text>POST versus GET when using XHR</text>
+                </navLabel>
+                <content src="ch07.html#post_versus_get_when_using_xhr"/>
+              </navPoint>
+            </navPoint>
+            <navPoint id="id2914276" playOrder="130">
+              <navLabel>
+                <text>Dynamic script tag insertion</text>
+              </navLabel>
+              <content src="ch07.html#dynamic_script_tag_insertion"/>
+            </navPoint>
+            <navPoint id="id2914428" playOrder="131">
+              <navLabel>
+                <text>Multipart XHR</text>
+              </navLabel>
+              <content src="ch07.html#multipart_xhr"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id2914836" playOrder="132">
+            <navLabel>
+              <text>Sending Data</text>
+            </navLabel>
+            <content src="ch07.html#sending_data"/>
+            <navPoint id="id2914897" playOrder="133">
+              <navLabel>
+                <text>XMLHttpRequest</text>
+              </navLabel>
+              <content src="ch07.html#xmlhttprequest-id001"/>
+            </navPoint>
+            <navPoint id="id2914985" playOrder="134">
+              <navLabel>
+                <text>Beacons</text>
+              </navLabel>
+              <content src="ch07.html#beacons"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2915195" playOrder="135">
+          <navLabel>
+            <text>Data Formats</text>
+          </navLabel>
+          <content src="ch07s02.html"/>
+          <navPoint id="id2915258" playOrder="136">
+            <navLabel>
+              <text>XML</text>
+            </navLabel>
+            <content src="ch07s02.html#xml"/>
+            <navPoint id="id2915480" playOrder="137">
+              <navLabel>
+                <text>XPath</text>
+              </navLabel>
+              <content src="ch07s02.html#xpath"/>
+            </navPoint>
+            <navPoint id="id2915522" playOrder="138">
+              <navLabel>
+                <text>Response sizes and parse times</text>
+              </navLabel>
+              <content src="ch07s02.html#response_sizes_and_parse_times"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id2915712" playOrder="139">
+            <navLabel>
+              <text>JSON</text>
+            </navLabel>
+            <content src="ch07s02.html#json"/>
+            <navPoint id="id2916072" playOrder="140">
+              <navLabel>
+                <text>JSON-P</text>
+              </navLabel>
+              <content src="ch07s02.html#json-p"/>
+            </navPoint>
+            <navPoint id="id2916277" playOrder="141">
+              <navLabel>
+                <text>Should you use JSON?</text>
+              </navLabel>
+              <content src="ch07s02.html#should_you_use_json"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id2916336" playOrder="142">
+            <navLabel>
+              <text>HTML</text>
+            </navLabel>
+            <content src="ch07s02.html#html"/>
+          </navPoint>
+          <navPoint id="id2916578" playOrder="143">
+            <navLabel>
+              <text>Custom Formatting</text>
+            </navLabel>
+            <content src="ch07s02.html#custom_formatting"/>
+          </navPoint>
+          <navPoint id="id2916864" playOrder="144">
+            <navLabel>
+              <text>Data Format Conclusions</text>
+            </navLabel>
+            <content src="ch07s02.html#data_format_conclusions"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2917224" playOrder="145">
+          <navLabel>
+            <text>Ajax Performance Guidelines</text>
+          </navLabel>
+          <content src="ch07s03.html"/>
+          <navPoint id="id2917263" playOrder="146">
+            <navLabel>
+              <text>Cache Data</text>
+            </navLabel>
+            <content src="ch07s03.html#cache_data"/>
+            <navPoint id="id2917312" playOrder="147">
+              <navLabel>
+                <text>Setting HTTP headers</text>
+              </navLabel>
+              <content src="ch07s03.html#setting_http_headers"/>
+            </navPoint>
+            <navPoint id="id2917467" playOrder="148">
+              <navLabel>
+                <text>Storing data locally</text>
+              </navLabel>
+              <content src="ch07s03.html#storing_data_locally"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id2917545" playOrder="149">
+            <navLabel>
+              <text>Know the Limitations of Your Ajax Library</text>
+            </navLabel>
+            <content src="ch07s03.html#know_the_limitations_of_your_ajax_librar"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2917763" playOrder="150">
+          <navLabel>
+            <text>Summary</text>
+          </navLabel>
+          <content src="ch07s04.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id2917872" playOrder="151">
+        <navLabel>
+          <text>8. Programming Practices</text>
+        </navLabel>
+        <content src="ch08.html"/>
+        <navPoint id="id2917916" playOrder="152">
+          <navLabel>
+            <text>Avoid Double Evaluation</text>
+          </navLabel>
+          <content src="ch08.html#avoid_double_evaluation"/>
+        </navPoint>
+        <navPoint id="id2918400" playOrder="153">
+          <navLabel>
+            <text>Use Object/Array Literals</text>
+          </navLabel>
+          <content src="ch08s02.html"/>
+        </navPoint>
+        <navPoint id="id2918480" playOrder="154">
+          <navLabel>
+            <text>Don’t Repeat Work</text>
+          </navLabel>
+          <content src="ch08s03.html"/>
+          <navPoint id="id2918655" playOrder="155">
+            <navLabel>
+              <text>Lazy Loading</text>
+            </navLabel>
+            <content src="ch08s03.html#lazy_loading"/>
+          </navPoint>
+          <navPoint id="id2918756" playOrder="156">
+            <navLabel>
+              <text>Conditional Advance Loading</text>
+            </navLabel>
+            <content src="ch08s03.html#conditional_advance_loading"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2918853" playOrder="157">
+          <navLabel>
+            <text>Use the Fast Parts</text>
+          </navLabel>
+          <content src="ch08s04.html"/>
+          <navPoint id="id2918884" playOrder="158">
+            <navLabel>
+              <text>Bitwise Operators</text>
+            </navLabel>
+            <content src="ch08s04.html#bitwise_operators"/>
+          </navPoint>
+          <navPoint id="id2919224" playOrder="159">
+            <navLabel>
+              <text>Native Methods</text>
+            </navLabel>
+            <content src="ch08s04.html#native_methods"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2919833" playOrder="160">
+          <navLabel>
+            <text>Summary</text>
+          </navLabel>
+          <content src="ch08s05.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id2919918" playOrder="161">
+        <navLabel>
+          <text>9. Building and Deploying High-Performance JavaScript Applications</text>
+        </navLabel>
+        <content src="ch09.html"/>
+        <navPoint id="id2919983" playOrder="162">
+          <navLabel>
+            <text>Apache Ant</text>
+          </navLabel>
+          <content src="ch09.html#apache_ant"/>
+        </navPoint>
+        <navPoint id="id2920155" playOrder="163">
+          <navLabel>
+            <text>Combining JavaScript Files</text>
+          </navLabel>
+          <content src="ch09s02.html"/>
+        </navPoint>
+        <navPoint id="id2920313" playOrder="164">
+          <navLabel>
+            <text>Preprocessing JavaScript Files</text>
+          </navLabel>
+          <content src="ch09s03.html"/>
+        </navPoint>
+        <navPoint id="id2920604" playOrder="165">
+          <navLabel>
+            <text>JavaScript Minification</text>
+          </navLabel>
+          <content src="ch09s04.html"/>
+        </navPoint>
+        <navPoint id="id2921061" playOrder="166">
+          <navLabel>
+            <text>Buildtime Versus Runtime Build Processes</text>
+          </navLabel>
+          <content src="ch09s05.html"/>
+        </navPoint>
+        <navPoint id="id2921101" playOrder="167">
+          <navLabel>
+            <text>JavaScript Compression</text>
+          </navLabel>
+          <content src="ch09s06.html"/>
+        </navPoint>
+        <navPoint id="id2921387" playOrder="168">
+          <navLabel>
+            <text>Caching JavaScript Files</text>
+          </navLabel>
+          <content src="ch09s07.html"/>
+        </navPoint>
+        <navPoint id="id2921605" playOrder="169">
+          <navLabel>
+            <text>Working Around Caching Issues</text>
+          </navLabel>
+          <content src="ch09s08.html"/>
+        </navPoint>
+        <navPoint id="id2921654" playOrder="170">
+          <navLabel>
+            <text>Using a Content Delivery Network</text>
+          </navLabel>
+          <content src="ch09s09.html"/>
+        </navPoint>
+        <navPoint id="id2921738" playOrder="171">
+          <navLabel>
+            <text>Deploying JavaScript Resources</text>
+          </navLabel>
+          <content src="ch09s10.html"/>
+        </navPoint>
+        <navPoint id="id2921838" playOrder="172">
+          <navLabel>
+            <text>Agile JavaScript Build Process</text>
+          </navLabel>
+          <content src="ch09s11.html"/>
+        </navPoint>
+        <navPoint id="id2922092" playOrder="173">
+          <navLabel>
+            <text>Summary</text>
+          </navLabel>
+          <content src="ch09s12.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id2922136" playOrder="174">
+        <navLabel>
+          <text>10. Tools</text>
+        </navLabel>
+        <content src="ch10.html"/>
+        <navPoint id="id2922220" playOrder="175">
+          <navLabel>
+            <text>JavaScript Profiling</text>
+          </navLabel>
+          <content src="ch10.html#javascript_profiling"/>
+        </navPoint>
+        <navPoint id="id2922451" playOrder="176">
+          <navLabel>
+            <text>YUI Profiler</text>
+          </navLabel>
+          <content src="ch10s02.html"/>
+        </navPoint>
+        <navPoint id="id2923106" playOrder="177">
+          <navLabel>
+            <text>Anonymous Functions</text>
+          </navLabel>
+          <content src="ch10s03.html"/>
+        </navPoint>
+        <navPoint id="id2923252" playOrder="178">
+          <navLabel>
+            <text>Firebug</text>
+          </navLabel>
+          <content src="ch10s04.html"/>
+          <navPoint id="id2923300" playOrder="179">
+            <navLabel>
+              <text>Console Panel Profiler</text>
+            </navLabel>
+            <content src="ch10s04.html#console_panel_profiler"/>
+          </navPoint>
+          <navPoint id="id2923425" playOrder="180">
+            <navLabel>
+              <text>Console API</text>
+            </navLabel>
+            <content src="ch10s04.html#console_api"/>
+          </navPoint>
+          <navPoint id="id2923696" playOrder="181">
+            <navLabel>
+              <text>Net Panel</text>
+            </navLabel>
+            <content src="ch10s04.html#net_panel"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2923827" playOrder="182">
+          <navLabel>
+            <text>Internet Explorer Developer Tools</text>
+          </navLabel>
+          <content src="ch10s05.html"/>
+        </navPoint>
+        <navPoint id="id2924079" playOrder="183">
+          <navLabel>
+            <text>Safari Web Inspector</text>
+          </navLabel>
+          <content src="ch10s06.html"/>
+          <navPoint id="id2924153" playOrder="184">
+            <navLabel>
+              <text>Profiles Panel</text>
+            </navLabel>
+            <content src="ch10s06.html#profiles_panel"/>
+          </navPoint>
+          <navPoint id="id2924462" playOrder="185">
+            <navLabel>
+              <text>Resources Panel</text>
+            </navLabel>
+            <content src="ch10s06.html#resources_panel"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2924617" playOrder="186">
+          <navLabel>
+            <text>Chrome Developer Tools</text>
+          </navLabel>
+          <content src="ch10s07.html"/>
+        </navPoint>
+        <navPoint id="id2924785" playOrder="187">
+          <navLabel>
+            <text>Script Blocking</text>
+          </navLabel>
+          <content src="ch10s08.html"/>
+        </navPoint>
+        <navPoint id="id2924855" playOrder="188">
+          <navLabel>
+            <text>Page Speed</text>
+          </navLabel>
+          <content src="ch10s09.html"/>
+        </navPoint>
+        <navPoint id="id2925070" playOrder="189">
+          <navLabel>
+            <text>Fiddler</text>
+          </navLabel>
+          <content src="ch10s10.html"/>
+        </navPoint>
+        <navPoint id="id2925261" playOrder="190">
+          <navLabel>
+            <text>YSlow</text>
+          </navLabel>
+          <content src="ch10s11.html"/>
+        </navPoint>
+        <navPoint id="id2925407" playOrder="191">
+          <navLabel>
+            <text>dynaTrace Ajax Edition</text>
+          </navLabel>
+          <content src="ch10s12.html"/>
+        </navPoint>
+        <navPoint id="id2925618" playOrder="192">
+          <navLabel>
+            <text>Summary</text>
+          </navLabel>
+          <content src="ch10s13.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id2925681" playOrder="193">
+        <navLabel>
+          <text>Index</text>
+        </navLabel>
+        <content src="ix01.html"/>
+      </navPoint>
+      <navPoint id="id2925693" playOrder="194">
+        <navLabel>
+          <text>About the Author</text>
+        </navLabel>
+        <content src="author_bios.html"/>
+      </navPoint>
+      <navPoint id="id2925708" playOrder="195">
+        <navLabel>
+          <text>Colophon</text>
+        </navLabel>
+        <content src="co02.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ncx:ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <ncx:head>
+    <ncx:meta name="cover" content="cover"/>
+    <ncx:meta name="dtb:uid" content="isbn:9780596158736"/>
+    <ncx:meta name="dtb:depth" content="-1"/>
+    <ncx:meta name="dtb:totalPageCount" content="0"/>
+    <ncx:meta name="dtb:maxPageNumber" content="0"/>
+  </ncx:head>
+  <ncx:docTitle>
+    <ncx:text>JavaScript: The Good Parts</ncx:text>
+  </ncx:docTitle>
+  <ncx:navMap>
+    <ncx:navPoint id="id2428481" playOrder="1">
+      <ncx:navLabel>
+        <ncx:text>JavaScript: The Good Parts</ncx:text>
+      </ncx:navLabel>
+      <ncx:content src="index.html"/>
+      <ncx:navPoint id="id2409888" playOrder="2">
+        <ncx:navLabel>
+          <ncx:text>Preface</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="pr01.html"/>
+        <ncx:navPoint id="id2409953" playOrder="3">
+          <ncx:navLabel>
+            <ncx:text>Conventions Used in This Book</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr01.html#conventions_used_in_this_book"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2431015" playOrder="4">
+          <ncx:navLabel>
+            <ncx:text>Using Code Examples</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr01s02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2412913" playOrder="5">
+          <ncx:navLabel>
+            <ncx:text>Safari® Books Online</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr01s03.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2415558" playOrder="6">
+          <ncx:navLabel>
+            <ncx:text>How to Contact Us</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr01s04.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2415647" playOrder="7">
+          <ncx:navLabel>
+            <ncx:text>Acknowledgments</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr01s05.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2415170" playOrder="8">
+        <ncx:navLabel>
+          <ncx:text>1. Good Parts</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch01.html"/>
+        <ncx:navPoint id="id2402080" playOrder="9">
+          <ncx:navLabel>
+            <ncx:text>Why JavaScript?</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch01.html#why_javascript_question"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2418432" playOrder="10">
+          <ncx:navLabel>
+            <ncx:text>Analyzing JavaScript</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch01s02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2404025" playOrder="11">
+          <ncx:navLabel>
+            <ncx:text>A Simple Testing Ground</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch01s03.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2430847" playOrder="12">
+        <ncx:navLabel>
+          <ncx:text>2. Grammar</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch02.html"/>
+        <ncx:navPoint id="id2412550" playOrder="13">
+          <ncx:navLabel>
+            <ncx:text>Whitespace</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02.html#whitespace"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2412736" playOrder="14">
+          <ncx:navLabel>
+            <ncx:text>Names</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02s02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2409413" playOrder="15">
+          <ncx:navLabel>
+            <ncx:text>Numbers</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02s03.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2430473" playOrder="16">
+          <ncx:navLabel>
+            <ncx:text>Strings</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02s04.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2430000" playOrder="17">
+          <ncx:navLabel>
+            <ncx:text>Statements</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02s05.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2388001" playOrder="18">
+          <ncx:navLabel>
+            <ncx:text>Expressions</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02s06.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2435267" playOrder="19">
+          <ncx:navLabel>
+            <ncx:text>Literals</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02s07.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2435503" playOrder="20">
+          <ncx:navLabel>
+            <ncx:text>Functions</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02s08.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2401424" playOrder="21">
+        <ncx:navLabel>
+          <ncx:text>3. Objects</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch03.html"/>
+        <ncx:navPoint id="id2401575" playOrder="22">
+          <ncx:navLabel>
+            <ncx:text>Object Literals</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03.html#object_literals"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2401666" playOrder="23">
+          <ncx:navLabel>
+            <ncx:text>Retrieval</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2401865" playOrder="24">
+          <ncx:navLabel>
+            <ncx:text>Update</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s03.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2401930" playOrder="25">
+          <ncx:navLabel>
+            <ncx:text>Reference</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s04.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2401970" playOrder="26">
+          <ncx:navLabel>
+            <ncx:text>Prototype</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s05.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2418817" playOrder="27">
+          <ncx:navLabel>
+            <ncx:text>Reflection</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s06.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2418965" playOrder="28">
+          <ncx:navLabel>
+            <ncx:text>Enumeration</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s07.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2419129" playOrder="29">
+          <ncx:navLabel>
+            <ncx:text>Delete</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s08.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2419179" playOrder="30">
+          <ncx:navLabel>
+            <ncx:text>Global Abatement</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s09.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2419268" playOrder="31">
+        <ncx:navLabel>
+          <ncx:text>4. Functions</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch04.html"/>
+        <ncx:navPoint id="id2419342" playOrder="32">
+          <ncx:navLabel>
+            <ncx:text>Function Objects</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04.html#function_objects"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2419416" playOrder="33">
+          <ncx:navLabel>
+            <ncx:text>Function Literal</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2428569" playOrder="34">
+          <ncx:navLabel>
+            <ncx:text>Invocation</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s03.html"/>
+          <ncx:navPoint id="id2428684" playOrder="35">
+            <ncx:navLabel>
+              <ncx:text>The Method Invocation Pattern</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s03.html#the_method_invocation_pattern"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2428804" playOrder="36">
+            <ncx:navLabel>
+              <ncx:text>The Function Invocation Pattern</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s03.html#the_function_invocation_pattern"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2428922" playOrder="37">
+            <ncx:navLabel>
+              <ncx:text>The Constructor Invocation Pattern</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s03.html#the_constructor_invocation_pattern"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2429118" playOrder="38">
+            <ncx:navLabel>
+              <ncx:text>The Apply Invocation Pattern</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s03.html#the_apply_invocation_pattern"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2429207" playOrder="39">
+          <ncx:navLabel>
+            <ncx:text>Arguments</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s04.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2429329" playOrder="40">
+          <ncx:navLabel>
+            <ncx:text>Return</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s05.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2429414" playOrder="41">
+          <ncx:navLabel>
+            <ncx:text>Exceptions</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s06.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2429589" playOrder="42">
+          <ncx:navLabel>
+            <ncx:text>Augmenting Types</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s07.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2429822" playOrder="43">
+          <ncx:navLabel>
+            <ncx:text>Recursion</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s08.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2424788" playOrder="44">
+          <ncx:navLabel>
+            <ncx:text>Scope</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s09.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2424900" playOrder="45">
+          <ncx:navLabel>
+            <ncx:text>Closure</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s10.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2425478" playOrder="46">
+          <ncx:navLabel>
+            <ncx:text>Callbacks</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s11.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2425589" playOrder="47">
+          <ncx:navLabel>
+            <ncx:text>Module</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s12.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2425872" playOrder="48">
+          <ncx:navLabel>
+            <ncx:text>Cascade</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s13.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2425982" playOrder="49">
+          <ncx:navLabel>
+            <ncx:text>Curry</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s14.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2426156" playOrder="50">
+          <ncx:navLabel>
+            <ncx:text>Memoization</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s15.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2397966" playOrder="51">
+        <ncx:navLabel>
+          <ncx:text>5. Inheritance</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch05.html"/>
+        <ncx:navPoint id="id2398067" playOrder="52">
+          <ncx:navLabel>
+            <ncx:text>Pseudoclassical</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05.html#pseudoclassical"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2398657" playOrder="53">
+          <ncx:navLabel>
+            <ncx:text>Object Specifiers</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2398757" playOrder="54">
+          <ncx:navLabel>
+            <ncx:text>Prototypal</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s03.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2398932" playOrder="55">
+          <ncx:navLabel>
+            <ncx:text>Functional</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s04.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2402432" playOrder="56">
+          <ncx:navLabel>
+            <ncx:text>Parts</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s05.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2402615" playOrder="57">
+        <ncx:navLabel>
+          <ncx:text>6. Arrays</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch06.html"/>
+        <ncx:navPoint id="id2402673" playOrder="58">
+          <ncx:navLabel>
+            <ncx:text>Array Literals</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06.html#array_literals"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2402836" playOrder="59">
+          <ncx:navLabel>
+            <ncx:text>Length</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2403058" playOrder="60">
+          <ncx:navLabel>
+            <ncx:text>Delete</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s03.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2403201" playOrder="61">
+          <ncx:navLabel>
+            <ncx:text>Enumeration</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s04.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2403282" playOrder="62">
+          <ncx:navLabel>
+            <ncx:text>Confusion</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s05.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2403393" playOrder="63">
+          <ncx:navLabel>
+            <ncx:text>Methods</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s06.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2403607" playOrder="64">
+          <ncx:navLabel>
+            <ncx:text>Dimensions</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s07.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2399514" playOrder="65">
+        <ncx:navLabel>
+          <ncx:text>7. Regular Expressions</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch07.html"/>
+        <ncx:navPoint id="id2399691" playOrder="66">
+          <ncx:navLabel>
+            <ncx:text>An Example</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07.html#an_example"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2400708" playOrder="67">
+          <ncx:navLabel>
+            <ncx:text>Construction</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07s02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2401298" playOrder="68">
+          <ncx:navLabel>
+            <ncx:text>Elements</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07s03.html"/>
+          <ncx:navPoint id="id2401334" playOrder="69">
+            <ncx:navLabel>
+              <ncx:text>Regexp Choice</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s03.html#regexp_choice"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2426296" playOrder="70">
+            <ncx:navLabel>
+              <ncx:text>Regexp Sequence</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s03.html#regexp_sequence"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2426372" playOrder="71">
+            <ncx:navLabel>
+              <ncx:text>Regexp Factor</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s03.html#regexp_factor"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2426738" playOrder="72">
+            <ncx:navLabel>
+              <ncx:text>Regexp Escape</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s03.html#regexp_escape"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2427074" playOrder="73">
+            <ncx:navLabel>
+              <ncx:text>Regexp Group</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s03.html#regexp_group"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2427328" playOrder="74">
+            <ncx:navLabel>
+              <ncx:text>Regexp Class</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s03.html#regexp_class"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2427573" playOrder="75">
+            <ncx:navLabel>
+              <ncx:text>Regexp Class Escape</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s03.html#regexp_class_escape"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2427673" playOrder="76">
+            <ncx:navLabel>
+              <ncx:text>Regexp Quantifier</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s03.html#regexp_quantifier"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2420380" playOrder="77">
+        <ncx:navLabel>
+          <ncx:text>8. Methods</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch08.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2423501" playOrder="78">
+        <ncx:navLabel>
+          <ncx:text>9. Style</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch09.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2424137" playOrder="79">
+        <ncx:navLabel>
+          <ncx:text>10. Beautiful Features</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch10.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2424401" playOrder="80">
+        <ncx:navLabel>
+          <ncx:text>A. Awful Parts</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="apa.html"/>
+        <ncx:navPoint id="id2424439" playOrder="81">
+          <ncx:navLabel>
+            <ncx:text>Global Variables</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apa.html#global_variables"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2424585" playOrder="82">
+          <ncx:navLabel>
+            <ncx:text>Scope</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apas02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2436156" playOrder="83">
+          <ncx:navLabel>
+            <ncx:text>Semicolon Insertion</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apas03.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2436262" playOrder="84">
+          <ncx:navLabel>
+            <ncx:text>Reserved Words</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apas04.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2436363" playOrder="85">
+          <ncx:navLabel>
+            <ncx:text>Unicode</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apas05.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2436410" playOrder="86">
+          <ncx:navLabel>
+            <ncx:text>typeof</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apas06.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2436565" playOrder="87">
+          <ncx:navLabel>
+            <ncx:text>parseInt</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apas07.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2436688" playOrder="88">
+          <ncx:navLabel>
+            <ncx:text>+</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apas08.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2436718" playOrder="89">
+          <ncx:navLabel>
+            <ncx:text>Floating Point</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apas09.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2436773" playOrder="90">
+          <ncx:navLabel>
+            <ncx:text>NaN</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apas10.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2436984" playOrder="91">
+          <ncx:navLabel>
+            <ncx:text>Phony Arrays</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apas11.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2437108" playOrder="92">
+          <ncx:navLabel>
+            <ncx:text>Falsy Values</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apas12.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2437469" playOrder="93">
+          <ncx:navLabel>
+            <ncx:text>hasOwnProperty</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apas13.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2437566" playOrder="94">
+          <ncx:navLabel>
+            <ncx:text>Object</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apas14.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2437736" playOrder="95">
+        <ncx:navLabel>
+          <ncx:text>B. Bad Parts</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="apb.html"/>
+        <ncx:navPoint id="id2437766" playOrder="96">
+          <ncx:navLabel>
+            <ncx:text>==</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apb.html#equalsequals"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2437933" playOrder="97">
+          <ncx:navLabel>
+            <ncx:text>with Statement</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apbs02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2438064" playOrder="98">
+          <ncx:navLabel>
+            <ncx:text>eval</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apbs03.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2438223" playOrder="99">
+          <ncx:navLabel>
+            <ncx:text>continue Statement</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apbs04.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2438352" playOrder="100">
+          <ncx:navLabel>
+            <ncx:text>switch Fall Through</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apbs05.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2438405" playOrder="101">
+          <ncx:navLabel>
+            <ncx:text>Block-less Statements</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apbs06.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2438521" playOrder="102">
+          <ncx:navLabel>
+            <ncx:text>++ −−</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apbs07.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2438677" playOrder="103">
+          <ncx:navLabel>
+            <ncx:text>Bitwise Operators</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apbs08.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2438755" playOrder="104">
+          <ncx:navLabel>
+            <ncx:text>The function Statement Versus the function Expression</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apbs09.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2438944" playOrder="105">
+          <ncx:navLabel>
+            <ncx:text>Typed Wrappers</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apbs10.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2439088" playOrder="106">
+          <ncx:navLabel>
+            <ncx:text>new</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apbs11.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2439166" playOrder="107">
+          <ncx:navLabel>
+            <ncx:text>void</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apbs12.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2439230" playOrder="108">
+        <ncx:navLabel>
+          <ncx:text>C. JSLint</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="apc.html"/>
+        <ncx:navPoint id="id2439360" playOrder="109">
+          <ncx:navLabel>
+            <ncx:text>Undefined Variables and Functions</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apc.html#undefined_variables_and_functions"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2439586" playOrder="110">
+          <ncx:navLabel>
+            <ncx:text>Members</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apcs02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2439651" playOrder="111">
+          <ncx:navLabel>
+            <ncx:text>Options</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apcs03.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2440625" playOrder="112">
+          <ncx:navLabel>
+            <ncx:text>Semicolon</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apcs04.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2440778" playOrder="113">
+          <ncx:navLabel>
+            <ncx:text>Line Breaking</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apcs05.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2440846" playOrder="114">
+          <ncx:navLabel>
+            <ncx:text>Comma</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apcs06.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2440946" playOrder="115">
+          <ncx:navLabel>
+            <ncx:text>Required Blocks</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apcs07.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2441036" playOrder="116">
+          <ncx:navLabel>
+            <ncx:text>Forbidden Blocks</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apcs08.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2441118" playOrder="117">
+          <ncx:navLabel>
+            <ncx:text>Expression Statements</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apcs09.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2441233" playOrder="118">
+          <ncx:navLabel>
+            <ncx:text>for in Statement</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apcs10.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2441289" playOrder="119">
+          <ncx:navLabel>
+            <ncx:text>switch Statement</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apcs11.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2441331" playOrder="120">
+          <ncx:navLabel>
+            <ncx:text>var Statement</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apcs12.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2441430" playOrder="121">
+          <ncx:navLabel>
+            <ncx:text>with Statement</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apcs13.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2441588" playOrder="122">
+          <ncx:navLabel>
+            <ncx:text>=</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apcs14.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2441657" playOrder="123">
+          <ncx:navLabel>
+            <ncx:text>== and !=</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apcs15.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2441808" playOrder="124">
+          <ncx:navLabel>
+            <ncx:text>Labels</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apcs16.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2442162" playOrder="125">
+          <ncx:navLabel>
+            <ncx:text>Unreachable Code</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apcs17.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2442213" playOrder="126">
+          <ncx:navLabel>
+            <ncx:text>Confusing Pluses and Minuses</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apcs18.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2442272" playOrder="127">
+          <ncx:navLabel>
+            <ncx:text>++ and −−</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apcs19.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2442306" playOrder="128">
+          <ncx:navLabel>
+            <ncx:text>Bitwise Operators</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apcs20.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2442354" playOrder="129">
+          <ncx:navLabel>
+            <ncx:text>eval Is Evil</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apcs21.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2442398" playOrder="130">
+          <ncx:navLabel>
+            <ncx:text>void</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apcs22.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2442505" playOrder="131">
+          <ncx:navLabel>
+            <ncx:text>Regular Expressions</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apcs23.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2442555" playOrder="132">
+          <ncx:navLabel>
+            <ncx:text>Constructors and new</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apcs24.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2442695" playOrder="133">
+          <ncx:navLabel>
+            <ncx:text>Not Looked For</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apcs25.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2442729" playOrder="134">
+          <ncx:navLabel>
+            <ncx:text>HTML</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apcs26.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2442872" playOrder="135">
+          <ncx:navLabel>
+            <ncx:text>JSON</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apcs27.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2442924" playOrder="136">
+          <ncx:navLabel>
+            <ncx:text>Report</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apcs28.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2443042" playOrder="137">
+        <ncx:navLabel>
+          <ncx:text>D. Syntax Diagrams</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="apd.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2444590" playOrder="138">
+        <ncx:navLabel>
+          <ncx:text>E. JSON</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ape.html"/>
+        <ncx:navPoint id="id2444645" playOrder="139">
+          <ncx:navLabel>
+            <ncx:text>JSON Syntax</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ape.html#json_syntax"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2445082" playOrder="140">
+          <ncx:navLabel>
+            <ncx:text>Using JSON Securely</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apes02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2445330" playOrder="141">
+          <ncx:navLabel>
+            <ncx:text>A JSON Parser</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apes03.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2445613" playOrder="142">
+        <ncx:navLabel>
+          <ncx:text>Colophon</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="co01.html"/>
+      </ncx:navPoint>
+    </ncx:navPoint>
+  </ncx:navMap>
+</ncx:ncx>

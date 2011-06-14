@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ncx:ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <ncx:head>
+    <ncx:meta name="dtb:depth" content="-1"/>
+    <ncx:meta name="dtb:totalPageCount" content="0"/>
+    <ncx:meta name="dtb:maxPageNumber" content="0"/>
+  </ncx:head>
+  <ncx:docTitle>
+    <ncx:text>CSS3 animations for WebKit</ncx:text>
+  </ncx:docTitle>
+  <ncx:navMap>
+    <ncx:navPoint id="poster_circle" playOrder="1">
+      <ncx:navLabel>
+        <ncx:text>Poster Circle test</ncx:text>
+      </ncx:navLabel>
+      <ncx:content src="poster_circle.html"/>
+    </ncx:navPoint>
+    <ncx:navPoint id="morphing_cubes" playOrder="2">
+      <ncx:navLabel>
+        <ncx:text>Morphing Cubes test</ncx:text>
+      </ncx:navLabel>
+      <ncx:content src="morphing_cubes.html"/>
+    </ncx:navPoint>
+  </ncx:navMap>
+</ncx:ncx>

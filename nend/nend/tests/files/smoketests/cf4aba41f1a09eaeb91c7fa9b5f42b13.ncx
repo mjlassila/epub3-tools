@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="c98702cc-1def-4789-9366-18d8bdf83710" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Nixonland</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navpoint-1" playOrder="1">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="9781416579885_cov.html" />
+    </navPoint>
+    <navPoint id="navpoint-2" playOrder="2">
+      <navLabel>
+        <text>Colophon</text>
+      </navLabel>
+      <content src="9781416579885_col01.html" />
+    </navPoint>
+    <navPoint id="navpoint-3" playOrder="3">
+      <navLabel>
+        <text>Also by Rick Perlstein</text>
+      </navLabel>
+      <content src="9781416579885_adc01.html" />
+    </navPoint>
+    <navPoint id="navpoint-4" playOrder="4">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="9781416579885_tp01.html" />
+    </navPoint>
+    <navPoint id="navpoint-5" playOrder="5">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="9781416579885_cop01.html" />
+    </navPoint>
+    <navPoint id="navpoint-6" playOrder="6">
+      <navLabel>
+        <text>Dedication</text>
+      </navLabel>
+      <content src="9781416579885_ded01.html" />
+    </navPoint>
+    <navPoint id="navpoint-8" playOrder="7">
+      <navLabel>
+        <text>Video: Bob Schieffer of CBS News interviews Rick Perlstein</text>
+      </navLabel>
+      <content src="9781416579885_htp01.html#video0" />
+    </navPoint>
+    <navPoint id="navpoint-8a" playOrder="8">
+      <navLabel>
+        <text>CONTENTS</text>
+      </navLabel>
+      <content src="9781416579885_con01.html" />
+    </navPoint>
+    <navPoint id="navpoint-8b" playOrder="9">
+      <navLabel>
+        <text>MULTIMEDIA CONTENTS</text>
+      </navLabel>
+      <content src="9781416579885_Multimedia.html" />
+    </navPoint>
+    <navPoint id="navpoint-8" playOrder="10">
+      <navLabel>
+        <text>Preface</text>
+      </navLabel>
+      <content src="9781416579885_fm01.html" />
+    </navPoint>
+    <navPoint id="navpoint-9" playOrder="11">
+      <navLabel>
+        <text>BOOK I</text>
+      </navLabel>
+      <content src="9781416579885_pt01.html" />
+      <navPoint id="navpoint-10" playOrder="12">
+        <navLabel>
+          <text>1 Hell in the City of Angels</text>
+        </navLabel>
+        <content src="9781416579885_ch01.html" />
+        <navPoint id="navpoint-10a" playOrder="13">
+          <navLabel>
+            <text>Video: Watts Riots, 1965</text>
+          </navLabel>
+          <content src="9781416579885_ch01.html#video1" />
+        </navPoint>
+        <navPoint id="navpoint-10b" playOrder="14">
+          <navLabel>
+            <text>Video: Morley Safer on Cam Ne (village torched by U.S. Marines), 1965</text>
+          </navLabel>
+          <content src="9781416579885_ch01.html#video2" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-11" playOrder="15">
+        <navLabel>
+          <text>2 The Orthogonian</text>
+        </navLabel>
+        <content src="9781416579885_ch02.html" />
+      </navPoint>
+      <navPoint id="navpoint-12" playOrder="16">
+        <navLabel>
+          <text>3 The Stench</text>
+        </navLabel>
+        <content src="9781416579885_ch03.html" />
+        <navPoint id="navpoint-12a" playOrder="17">
+          <navLabel>
+            <text>Video: Kennedy/Nixon debates, 1960</text>
+          </navLabel>
+          <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0000" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-13" playOrder="18">
+        <navLabel>
+          <text>4 Ronald Reagan</text>
+        </navLabel>
+        <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0001" />
+      </navPoint>
+      <navPoint id="navpoint-14" playOrder="19">
+        <navLabel>
+          <text>5 Long, Hot Summer</text>
+        </navLabel>
+        <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0002" />
+        <navPoint id="navpoint-14a" playOrder="20">
+          <navLabel>
+            <text>Video: Stokely Carmichael Calls For “Black Power,” June 1966</text>
+          </navLabel>
+          <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0003" />
+        </navPoint>
+        <navPoint id="navpoint-14b" playOrder="21">
+          <navLabel>
+            <text>Video: Opposition to the Vietnam War Grows, April 1965</text>
+          </navLabel>
+          <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0004" />
+        </navPoint>
+        <navPoint id="navpoint-14c" playOrder="22">
+          <navLabel>
+            <text>Video: Race Riots: Chi/MLK Interview, 1966</text>
+          </navLabel>
+          <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0005" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-15" playOrder="23">
+        <navLabel>
+          <text>6 School Was in Session</text>
+        </navLabel>
+        <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0006" />
+      </navPoint>
+      <navPoint id="navpoint-16" playOrder="24">
+        <navLabel>
+          <text>7 Batting Average</text>
+        </navLabel>
+        <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0007" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint-17" playOrder="25">
+      <navLabel>
+        <text>BOOK II</text>
+      </navLabel>
+      <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0008" />
+      <navPoint id="navpoint-18" playOrder="26">
+        <navLabel>
+          <text>8 The Bombing</text>
+        </navLabel>
+        <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0009" />
+        <navPoint id="navpoint-18a" playOrder="27">
+          <navLabel>
+            <text>Video: The Emerging Hippie Movement, January 1967</text>
+          </navLabel>
+          <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0010" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-19" playOrder="28">
+        <navLabel>
+          <text>9 Summer of Love</text>
+        </navLabel>
+        <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0011" />
+        <navPoint id="navpoint-19a" playOrder="29">
+          <navLabel>
+            <text>Video: Race Riots Explode, July 1967</text>
+          </navLabel>
+          <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0012" />
+        </navPoint>
+        <navPoint id="navpoint-19b" playOrder="30">
+          <navLabel>
+            <text>Video: Police and Rioters Clash, August 1967</text>
+          </navLabel>
+          <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0013" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-20" playOrder="31">
+        <navLabel>
+          <text>10 In Which a Cruise Ship Full of Governors Inspires Considerations on the Nature of Old and New Politics</text>
+        </navLabel>
+        <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0014" />
+        <navPoint id="navpoint-20a" playOrder="32">
+          <navLabel>
+            <text>Video: Stop the Draft Week, 1967</text>
+          </navLabel>
+          <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0015" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-21" playOrder="33">
+        <navLabel>
+          <text>11 Fed-up-niks</text>
+        </navLabel>
+        <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0016" />
+        <navPoint id="navpoint-21a" playOrder="34">
+          <navLabel>
+            <text>Video: Cronkite Editorializes Against War, February 1968</text>
+          </navLabel>
+          <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0017" />
+        </navPoint>
+        <navPoint id="navpoint-21b" playOrder="35">
+          <navLabel>
+            <text>Video: Johnson Declines to Run Again, March 1968</text>
+          </navLabel>
+          <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0018" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-22" playOrder="36">
+        <navLabel>
+          <text>12 The Sky’s the Limit</text>
+        </navLabel>
+        <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0019" />
+        <navPoint id="navpoint-22a" playOrder="37">
+          <navLabel>
+            <text>Video: King Assassination, 1968</text>
+          </navLabel>
+          <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0020" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-23" playOrder="38">
+        <navLabel>
+          <text>13 Violence</text>
+        </navLabel>
+        <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0021" />
+      </navPoint>
+      <navPoint id="navpoint-24" playOrder="39">
+        <navLabel>
+          <text>14 From Miami to the Siege of Chicago</text>
+        </navLabel>
+        <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0022" />
+        <navPoint id="navpoint-24a" playOrder="40">
+          <navLabel>
+            <text>Video: Nixon Accepts Nomination, 1968</text>
+          </navLabel>
+          <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0023" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-25" playOrder="41">
+        <navLabel>
+          <text>15 Wednesday, August 28, 1968</text>
+        </navLabel>
+        <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0024" />
+        <navPoint id="navpoint-25a" playOrder="42">
+          <navLabel>
+            <text>Video: Democratic National Convention Protests, August 1968</text>
+          </navLabel>
+          <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0025" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-26" playOrder="43">
+        <navLabel>
+          <text>16 Winning</text>
+        </navLabel>
+        <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0026" />
+        <navPoint id="navpoint-26a" playOrder="44">
+          <navLabel>
+            <text>Video: George Wallace Campaigns, 1968</text>
+          </navLabel>
+          <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0027" />
+        </navPoint>
+        <navPoint id="navpoint-26b" playOrder="45">
+          <navLabel>
+            <text>Video: Nixon Wins a Narrow Victory After a Long Night, November 1968</text>
+          </navLabel>
+          <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0028" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint-27" playOrder="46">
+      <navLabel>
+        <text>BOOK III</text>
+      </navLabel>
+      <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0029" />
+      <navPoint id="navpoint-28" playOrder="47">
+        <navLabel>
+          <text>17 The First One Hundred Days</text>
+        </navLabel>
+        <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0030" />
+      </navPoint>
+      <navPoint id="navpoint-29" playOrder="48">
+        <navLabel>
+          <text>18 Trust</text>
+        </navLabel>
+        <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0031" />
+      </navPoint>
+      <navPoint id="navpoint-30" playOrder="49">
+        <navLabel>
+          <text>19 If Gold Rust</text>
+        </navLabel>
+        <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0032" />
+      </navPoint>
+      <navPoint id="navpoint-31" playOrder="50">
+        <navLabel>
+          <text>20 The Presidential Offensive</text>
+        </navLabel>
+        <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0033" />
+        <navPoint id="navpoint-31a" playOrder="51">
+          <navLabel>
+            <text>Video: Americans Mass to Protest the Vietnam War, October 1969</text>
+          </navLabel>
+          <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0034" />
+        </navPoint>
+        <navPoint id="navpoint-31b" playOrder="52">
+          <navLabel>
+            <text>Video: Nixon Rallies the Silent Majority, November 1969</text>
+          </navLabel>
+          <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0035" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-32" playOrder="53">
+        <navLabel>
+          <text>21 The Polarization</text>
+        </navLabel>
+        <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0036" />
+      </navPoint>
+      <navPoint id="navpoint-33" playOrder="54">
+        <navLabel>
+          <text>22 Tourniquet</text>
+        </navLabel>
+        <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0037" />
+      </navPoint>
+      <navPoint id="navpoint-34" playOrder="55">
+        <navLabel>
+          <text>23 Mayday</text>
+        </navLabel>
+        <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0038" />
+      </navPoint>
+      <navPoint id="navpoint-35" playOrder="56">
+        <navLabel>
+          <text>24 Purity</text>
+        </navLabel>
+        <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0039" />
+      </navPoint>
+      <navPoint id="navpoint-36" playOrder="57">
+        <navLabel>
+          <text>25 Agnew’s Election</text>
+        </navLabel>
+        <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0040" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint-37" playOrder="58">
+      <navLabel>
+        <text>BOOK IV</text>
+      </navLabel>
+      <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0041" />
+      <navPoint id="navpoint-38" playOrder="59">
+        <navLabel>
+          <text>26 How to Survive the Debacle</text>
+        </navLabel>
+        <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0042" />
+      </navPoint>
+      <navPoint id="navpoint-39" playOrder="60">
+        <navLabel>
+          <text>27 Cruelest Month</text>
+        </navLabel>
+        <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0043" />
+        <navPoint id="navpoint-39a" playOrder="61">
+          <navLabel>
+            <text>Video: Vietnam Vets Against the War Protests, 1971</text>
+          </navLabel>
+          <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0044" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-40" playOrder="62">
+        <navLabel>
+          <text>28 Ping-Pong</text>
+        </navLabel>
+        <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0045" />
+      </navPoint>
+      <navPoint id="navpoint-41" playOrder="63">
+        <navLabel>
+          <text>29 The Coven</text>
+        </navLabel>
+        <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0046" />
+      </navPoint>
+      <navPoint id="navpoint-42" playOrder="64">
+        <navLabel>
+          <text>30 The Party of Jefferson, Jackson, and George Wallace</text>
+        </navLabel>
+        <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0047" />
+        <navPoint id="navpoint-42a" playOrder="65">
+          <navLabel>
+            <text>Video: Nixon and Dan Rather in the Oval Office, January 1972</text>
+          </navLabel>
+          <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0048" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-43" playOrder="66">
+        <navLabel>
+          <text>31 The Spring Offensive</text>
+        </navLabel>
+        <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0049" />
+      </navPoint>
+      <navPoint id="navpoint-44" playOrder="67">
+        <navLabel>
+          <text>32 Celebrities</text>
+        </navLabel>
+        <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0050" />
+        <navPoint id="navpoint-44a" playOrder="68">
+          <navLabel>
+            <text>Video: Attempted assassination of Governor George Wallace, May 1972</text>
+          </navLabel>
+          <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0051" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-45" playOrder="69">
+        <navLabel>
+          <text>33 In Which Playboy Bunnies, and Barbarella, and Tanya, Inspire Theoretical Considerations upon the Nature of Democracy</text>
+        </navLabel>
+        <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0052" />
+        <navPoint id="navpoint-45a" playOrder="70">
+          <navLabel>
+            <text>Video: Antiwar Activist Jane Fonda Speaks to the Press, Summer 1972</text>
+          </navLabel>
+          <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0053" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-46" playOrder="71">
+        <navLabel>
+          <text>34 Not Half Enough</text>
+        </navLabel>
+        <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0054" />
+        <navPoint id="navpoint-46a" playOrder="72">
+          <navLabel>
+            <text>Video: Presidential Candidate George McGovern on Ending the War, Fall 1972</text>
+          </navLabel>
+          <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0055" />
+        </navPoint>
+        <navPoint id="navpoint-46b" playOrder="73">
+          <navLabel>
+            <text>Video: Cronkite special on Watergate, 1972</text>
+          </navLabel>
+          <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0056" />
+        </navPoint>
+        <navPoint id="navpoint-46c" playOrder="74">
+          <navLabel>
+            <text>Video: Richard Nixon Speaks to the Nation on Winning Reelection, November 1972</text>
+          </navLabel>
+          <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0057" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint-47" playOrder="75">
+      <navLabel>
+        <text>Notes</text>
+      </navLabel>
+      <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0058" />
+    </navPoint>
+    <navPoint id="navpoint-48" playOrder="76">
+      <navLabel>
+        <text>Selected Bibliography</text>
+      </navLabel>
+      <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0059" />
+    </navPoint>
+    <navPoint id="navpoint-49" playOrder="77">
+      <navLabel>
+        <text>Acknowledgments</text>
+      </navLabel>
+      <content src="9781416579885_ch03.html#com_apple_itunes_epub_end0060" />
+    </navPoint>
+  </navMap>
+</ncx>
+

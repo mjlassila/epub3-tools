@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ncx:ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <ncx:head>
+    <ncx:meta name="cover" content="cover"/>
+    <ncx:meta name="dtb:uid" content="isbn:9780596809799"/>
+    <ncx:meta name="dtb:depth" content="-1"/>
+    <ncx:meta name="dtb:totalPageCount" content="0"/>
+    <ncx:meta name="dtb:maxPageNumber" content="0"/>
+  </ncx:head>
+  <ncx:docTitle>
+    <ncx:text>Confessions of a Public Speaker</ncx:text>
+  </ncx:docTitle>
+  <ncx:navMap>
+    <ncx:navPoint id="id2450289" playOrder="1">
+      <ncx:navLabel>
+        <ncx:text>Confessions of a Public Speaker</ncx:text>
+      </ncx:navLabel>
+      <ncx:content src="index.html"/>
+      <ncx:navPoint id="id2428754" playOrder="2">
+        <ncx:navLabel>
+          <ncx:text>Disclaimer</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="pr01.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2428774" playOrder="3">
+        <ncx:navLabel>
+          <ncx:text>1. I can’t see you naked</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch01.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2429703" playOrder="4">
+        <ncx:navLabel>
+          <ncx:text>2. The attack of the butterflies</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch02.html"/>
+        <ncx:navPoint id="id2442817" playOrder="5">
+          <ncx:navLabel>
+            <ncx:text>What to do before you speak</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02.html#what_to_do_before_you_speak"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2443422" playOrder="6">
+        <ncx:navLabel>
+          <ncx:text>3. $30,000 an hour</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch03.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2425270" playOrder="7">
+        <ncx:navLabel>
+          <ncx:text>4. How to work a tough room</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch04.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2441049" playOrder="8">
+        <ncx:navLabel>
+          <ncx:text>5. Do not eat the microphone</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch05.html"/>
+        <ncx:navPoint id="id2435875" playOrder="9">
+          <ncx:navLabel>
+            <ncx:text>Photos you don’t expect to see</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05.html#photos_you_dont_expect_to_see"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2436355" playOrder="10">
+        <ncx:navLabel>
+          <ncx:text>6. The science of not boring people</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch06.html"/>
+        <ncx:navPoint id="id2436885" playOrder="11">
+          <ncx:navLabel>
+            <ncx:text>Set the pace</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06.html#set_the_pace"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2437096" playOrder="12">
+          <ncx:navLabel>
+            <ncx:text>Direct the attention (“What am I looking at and why?”)</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2426777" playOrder="13">
+          <ncx:navLabel>
+            <ncx:text>Play the part: you’re the star</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s03.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2426943" playOrder="14">
+          <ncx:navLabel>
+            <ncx:text>Know what happens next</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s04.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2427037" playOrder="15">
+          <ncx:navLabel>
+            <ncx:text>Tension and release</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s05.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2427177" playOrder="16">
+          <ncx:navLabel>
+            <ncx:text>Get the audience involved</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s06.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2427339" playOrder="17">
+          <ncx:navLabel>
+            <ncx:text>You are judge, jury, and executioner</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s07.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2427387" playOrder="18">
+          <ncx:navLabel>
+            <ncx:text>Always end early</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s08.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2427426" playOrder="19">
+        <ncx:navLabel>
+          <ncx:text>7. Lessons from my 15 minutes of fame</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch07.html"/>
+        <ncx:navPoint id="id2427990" playOrder="20">
+          <ncx:navLabel>
+            <ncx:text>We perform all the time</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07.html#we_perform_all_the_time"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2437284" playOrder="21">
+          <ncx:navLabel>
+            <ncx:text>Teleprompters (and memorization) are evil</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07s02.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2437528" playOrder="22">
+        <ncx:navLabel>
+          <ncx:text>8. The things people say</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch08.html"/>
+        <ncx:navPoint id="id2437926" playOrder="23">
+          <ncx:navLabel>
+            <ncx:text>The sneaky lessons of Dr. Fox</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08.html#the_sneaky_lessons_of_dr_fox"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2438389" playOrder="24">
+          <ncx:navLabel>
+            <ncx:text>Why most speaker evaluations are useless</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08s02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2438703" playOrder="25">
+          <ncx:navLabel>
+            <ncx:text>The speaker must match the audience</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08s03.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2438959" playOrder="26">
+          <ncx:navLabel>
+            <ncx:text>Expert feedback you can get right now</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08s04.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2439161" playOrder="27">
+        <ncx:navLabel>
+          <ncx:text>9. The clutch is your friend</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch09.html"/>
+        <ncx:navPoint id="id2429970" playOrder="28">
+          <ncx:navLabel>
+            <ncx:text>Why teaching is almost impossible</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch09.html#why_teaching_is_almost_impossible"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2430153" playOrder="29">
+          <ncx:navLabel>
+            <ncx:text>How to teach anyone anything</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch09s02.html"/>
+          <ncx:navPoint id="id2430384" playOrder="30">
+            <ncx:navLabel>
+              <ncx:text>Active and interesting</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s02.html#active_and_interesting"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2430784" playOrder="31">
+            <ncx:navLabel>
+              <ncx:text>Start with an insight of interest</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s02.html#start_with_an_insight_of_interest"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2430982" playOrder="32">
+            <ncx:navLabel>
+              <ncx:text>Adapt to how students respond</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s02.html#adapt_to_how_students_respond"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2431103" playOrder="33">
+        <ncx:navLabel>
+          <ncx:text>10. Confessions</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch10.html"/>
+        <ncx:navPoint id="id2431729" playOrder="34">
+          <ncx:navLabel>
+            <ncx:text>Backstage notes</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch10.html#backstage_notes"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2431760" playOrder="35">
+        <ncx:navLabel>
+          <ncx:text>A. The little things pros do</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="apa.html"/>
+        <ncx:navPoint id="id2431781" playOrder="36">
+          <ncx:navLabel>
+            <ncx:text>The confidence monitor</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apa.html#the_confidence_monitor"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2431884" playOrder="37">
+          <ncx:navLabel>
+            <ncx:text>The countdown timer</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apas02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2431940" playOrder="38">
+          <ncx:navLabel>
+            <ncx:text>The remote control</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apas03.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2432062" playOrder="39">
+          <ncx:navLabel>
+            <ncx:text>Give stuff away to fill the front row</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apas04.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2432188" playOrder="40">
+          <ncx:navLabel>
+            <ncx:text>Hide your microphone (and wear a collar)</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apas05.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2432280" playOrder="41">
+          <ncx:navLabel>
+            <ncx:text>We don’t need no stinking badges</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apas06.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2432323" playOrder="42">
+          <ncx:navLabel>
+            <ncx:text>Lectern vs. podium</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apas07.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2432390" playOrder="43">
+          <ncx:navLabel>
+            <ncx:text>Work the camera</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apas08.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2432447" playOrder="44">
+        <ncx:navLabel>
+          <ncx:text>B. How to make a point</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="apb.html"/>
+        <ncx:navPoint id="id2433196" playOrder="45">
+          <ncx:navLabel>
+            <ncx:text>Being silent makes your points</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apb.html#being_silent_makes_your_points"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2433362" playOrder="46">
+        <ncx:navLabel>
+          <ncx:text>C. What to do if your talk sucks</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="apc.html"/>
+        <ncx:navPoint id="id2433391" playOrder="47">
+          <ncx:navLabel>
+            <ncx:text>Why your talk might suck</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apc.html#why_your_talk_might_suck"/>
+          <ncx:navPoint id="id2433398" playOrder="48">
+            <ncx:navLabel>
+              <ncx:text>This is your first time</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#this_is_your_first_time"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2433459" playOrder="49">
+            <ncx:navLabel>
+              <ncx:text>You are a turtle on crack</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#you_are_a_turtle_on_crack"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2433547" playOrder="50">
+            <ncx:navLabel>
+              <ncx:text>Obfuscation of fractured bilateral rhetoric</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#obfuscation_of_fractured_bilateral_rheto"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2433641" playOrder="51">
+            <ncx:navLabel>
+              <ncx:text>You make sex boring</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#you_make_sex_boring"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2433718" playOrder="52">
+            <ncx:navLabel>
+              <ncx:text>Your slides make me hate you</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#your_slides_make_me_hate_you"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2433769" playOrder="53">
+            <ncx:navLabel>
+              <ncx:text>You are afraid of the crowd</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#you_are_afraid_of_the_crowd"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2433811" playOrder="54">
+          <ncx:navLabel>
+            <ncx:text>Medium list of little things</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apcs02.html"/>
+          <ncx:navPoint id="id2434153" playOrder="55">
+            <ncx:navLabel>
+              <ncx:text>Feedback you get for free</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apcs02.html#feedback_you_get_for_free"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2434271" playOrder="56">
+        <ncx:navLabel>
+          <ncx:text>D. What to do when things go wrong</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="apd.html"/>
+        <ncx:navPoint id="id2434287" playOrder="57">
+          <ncx:navLabel>
+            <ncx:text>You’re being heckled</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apd.html#youre_being_heckled"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2434430" playOrder="58">
+          <ncx:navLabel>
+            <ncx:text>Everyone is staring at their laptops</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apds02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2434555" playOrder="59">
+          <ncx:navLabel>
+            <ncx:text>Your time slot gets cut from 45 minutes to 10</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apds03.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2434622" playOrder="60">
+          <ncx:navLabel>
+            <ncx:text>Everyone in the room hates you</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apds04.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2434694" playOrder="61">
+          <ncx:navLabel>
+            <ncx:text>One guy won’t stop asking questions</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apds05.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2434797" playOrder="62">
+          <ncx:navLabel>
+            <ncx:text>There is a rambling question that makes no sense and takes three minutes to ask</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apds06.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2434920" playOrder="63">
+          <ncx:navLabel>
+            <ncx:text>You are asked an impossible question</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apds07.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2434999" playOrder="64">
+          <ncx:navLabel>
+            <ncx:text>The microphone breaks</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apds08.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2435091" playOrder="65">
+          <ncx:navLabel>
+            <ncx:text>Your laptop explodes</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apds09.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2435177" playOrder="66">
+          <ncx:navLabel>
+            <ncx:text>There is a typo on your slide (nooooo!)</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apds10.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2435232" playOrder="67">
+          <ncx:navLabel>
+            <ncx:text>You’re late for your own talk</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apds11.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2464554" playOrder="68">
+          <ncx:navLabel>
+            <ncx:text>You feel sick</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apds12.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2464623" playOrder="69">
+          <ncx:navLabel>
+            <ncx:text>You’re running out of time</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apds13.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2464749" playOrder="70">
+          <ncx:navLabel>
+            <ncx:text>You left your slide deck at home</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apds14.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2464800" playOrder="71">
+          <ncx:navLabel>
+            <ncx:text>Your hosts are control freaks</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apds15.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2464910" playOrder="72">
+          <ncx:navLabel>
+            <ncx:text>You have a wardrobe malfunction</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apds16.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2464995" playOrder="73">
+          <ncx:navLabel>
+            <ncx:text>There are only five people in the audience</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apds17.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2465076" playOrder="74">
+          <ncx:navLabel>
+            <ncx:text>What to do if your situation is not here</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apds18.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2465090" playOrder="75">
+        <ncx:navLabel>
+          <ncx:text>E. You can’t do worse than this</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ape.html"/>
+        <ncx:navPoint id="id2465128" playOrder="76">
+          <ncx:navLabel>
+            <ncx:text>Does anyone speak Georgian?</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ape.html#does_anyone_speak_georgian"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2465202" playOrder="77">
+          <ncx:navLabel>
+            <ncx:text>What to do when the SWAT team comes</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apes02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2465252" playOrder="78">
+          <ncx:navLabel>
+            <ncx:text>A funny thing happened on my way to the stage</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apes03.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2465319" playOrder="79">
+          <ncx:navLabel>
+            <ncx:text>Death by lecture</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apes04.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2465348" playOrder="80">
+          <ncx:navLabel>
+            <ncx:text>CEO demo gone wrong</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apes05.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2465398" playOrder="81">
+          <ncx:navLabel>
+            <ncx:text>Do not set anything on fire</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apes06.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2465442" playOrder="82">
+          <ncx:navLabel>
+            <ncx:text>No one likes surprise porn</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apes07.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2465501" playOrder="83">
+          <ncx:navLabel>
+            <ncx:text>I see sleeping people</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apes08.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2465543" playOrder="84">
+          <ncx:navLabel>
+            <ncx:text>At worst we will shoot you</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apes09.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2465612" playOrder="85">
+          <ncx:navLabel>
+            <ncx:text>Don’t blame the trains</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apes10.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2465661" playOrder="86">
+          <ncx:navLabel>
+            <ncx:text>You work where?</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apes11.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2465713" playOrder="87">
+          <ncx:navLabel>
+            <ncx:text>Watch your slides</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apes12.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2465771" playOrder="88">
+          <ncx:navLabel>
+            <ncx:text>Why you don’t want to be up against Bono</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apes13.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2465850" playOrder="89">
+          <ncx:navLabel>
+            <ncx:text>You will never speak of this to anyone</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apes14.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2465899" playOrder="90">
+          <ncx:navLabel>
+            <ncx:text>Watch where you sit</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apes15.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2465964" playOrder="91">
+          <ncx:navLabel>
+            <ncx:text>Please make a new talk and give it five minutes from now</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apes16.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2466017" playOrder="92">
+          <ncx:navLabel>
+            <ncx:text>Check your mirror</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apes17.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2466099" playOrder="93">
+          <ncx:navLabel>
+            <ncx:text>Waterproofing cannot save you</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apes18.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2466149" playOrder="94">
+          <ncx:navLabel>
+            <ncx:text>Why you should not lecture in bars</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apes19.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2466261" playOrder="95">
+        <ncx:navLabel>
+          <ncx:text>F. Research and recommendations</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="apf.html"/>
+        <ncx:navPoint id="id2466281" playOrder="96">
+          <ncx:navLabel>
+            <ncx:text>Annotated bibliography</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apf.html#annotated_bibliography"/>
+          <ncx:navPoint id="id2466287" playOrder="97">
+            <ncx:navLabel>
+              <ncx:text>How to get over fears and anxiety</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apf.html#how_to_get_over_fears_and_anxiety"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2466326" playOrder="98">
+            <ncx:navLabel>
+              <ncx:text>How to tell great stories</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apf.html#how_to_tell_great_stories"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2466475" playOrder="99">
+            <ncx:navLabel>
+              <ncx:text>How to teach</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apf.html#how_to_teach"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2466526" playOrder="100">
+            <ncx:navLabel>
+              <ncx:text>Presentation design</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apf.html#presentation_design"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2466565" playOrder="101">
+          <ncx:navLabel>
+            <ncx:text>Studying comedians</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apfs02.html"/>
+          <ncx:navPoint id="id2466631" playOrder="102">
+            <ncx:navLabel>
+              <ncx:text>How to make a living as a public speaker</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apfs02.html#how_to_make_a_living_as_a_public_speaker"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2466710" playOrder="103">
+          <ncx:navLabel>
+            <ncx:text>Ranked bibliography</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apfs03.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2466974" playOrder="104">
+          <ncx:navLabel>
+            <ncx:text>Other research sources</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apfs04.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2467051" playOrder="105">
+        <ncx:navLabel>
+          <ncx:text>G. How to help this book: a request</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="apg.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2467133" playOrder="106">
+        <ncx:navLabel>
+          <ncx:text>H. Acknowledgments</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="aph.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2467333" playOrder="107">
+        <ncx:navLabel>
+          <ncx:text>I. Photo credits</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="api.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2467650" playOrder="108">
+        <ncx:navLabel>
+          <ncx:text>J.</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="apj.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2467678" playOrder="109">
+        <ncx:navLabel>
+          <ncx:text>Colophon</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="co01.html"/>
+      </ncx:navPoint>
+    </ncx:navPoint>
+  </ncx:navMap>
+</ncx:ncx>

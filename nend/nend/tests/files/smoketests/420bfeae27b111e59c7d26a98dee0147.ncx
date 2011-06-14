@@ -1,0 +1,2367 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="cover" content="cover"/>
+    <meta name="dtb:uid" content="isbn:9781449382698"/>
+    <meta name="dtb:depth" content="-1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>HTML &amp; CSS: The Good Parts</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="id2429605" playOrder="1">
+      <navLabel>
+        <text>HTML &amp; CSS: The Good Parts</text>
+      </navLabel>
+      <content src="index.html"/>
+      <navPoint id="id2636988" playOrder="2">
+        <navLabel>
+          <text>Preface</text>
+        </navLabel>
+        <content src="pr01.html"/>
+        <navPoint id="id2668682" playOrder="3">
+          <navLabel>
+            <text>The Who and What of This Book</text>
+          </navLabel>
+          <content src="pr01.html#the_who_and_what_of_this_book"/>
+          <navPoint id="id2526373" playOrder="4">
+            <navLabel>
+              <text>What Are the Good Parts?</text>
+            </navLabel>
+            <content src="pr01.html#what_are_the_quotation_mark_good_parts_q"/>
+          </navPoint>
+          <navPoint id="id2641698" playOrder="5">
+            <navLabel>
+              <text>What You Should Know Before You Read This Book</text>
+            </navLabel>
+            <content src="pr01.html#what_you_should_know_before_you_read_thi"/>
+          </navPoint>
+          <navPoint id="id2527228" playOrder="6">
+            <navLabel>
+              <text>The Ideal Reader</text>
+            </navLabel>
+            <content src="pr01.html#you_might_be_an_ideal_reader_of_this_boo"/>
+          </navPoint>
+          <navPoint id="id2524111" playOrder="7">
+            <navLabel>
+              <text>A Warning About Familiarity (or Lack Thereof)</text>
+            </navLabel>
+            <content src="pr01.html#a_warning_about_familiarity_open_parenth"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2652454" playOrder="8">
+          <navLabel>
+            <text>Objectives of This Book</text>
+          </navLabel>
+          <content src="pr01s02.html"/>
+          <navPoint id="id2673411" playOrder="9">
+            <navLabel>
+              <text>What Is Not In This Book</text>
+            </navLabel>
+            <content src="pr01s02.html#id2673411"/>
+          </navPoint>
+          <navPoint id="id2682842" playOrder="10">
+            <navLabel>
+              <text>About Web Standards</text>
+            </navLabel>
+            <content src="pr01s02.html#id2682842"/>
+          </navPoint>
+          <navPoint id="id2688192" playOrder="11">
+            <navLabel>
+              <text>About Photoshop</text>
+            </navLabel>
+            <content src="pr01s02.html#id2688192"/>
+          </navPoint>
+          <navPoint id="id2688256" playOrder="12">
+            <navLabel>
+              <text>What You’ll Find on the Companion Website</text>
+            </navLabel>
+            <content src="pr01s02.html#id2688256"/>
+          </navPoint>
+          <navPoint id="id2688299" playOrder="13">
+            <navLabel>
+              <text>Nomenclature</text>
+            </navLabel>
+            <content src="pr01s02.html#nomenclature"/>
+          </navPoint>
+          <navPoint id="id2689487" playOrder="14">
+            <navLabel>
+              <text>“Read the Source, Luke!”</text>
+            </navLabel>
+            <content src="pr01s02.html#the_most_important_advice_comma_especial"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2689553" playOrder="15">
+          <navLabel>
+            <text>Conventions Used in This Book</text>
+          </navLabel>
+          <content src="pr01s03.html"/>
+        </navPoint>
+        <navPoint id="id2689611" playOrder="16">
+          <navLabel>
+            <text>Using Code Examples</text>
+          </navLabel>
+          <content src="pr01s04.html"/>
+        </navPoint>
+        <navPoint id="id2697789" playOrder="17">
+          <navLabel>
+            <text>Safari® Books Online</text>
+          </navLabel>
+          <content src="pr01s05.html"/>
+        </navPoint>
+        <navPoint id="id2697830" playOrder="18">
+          <navLabel>
+            <text>How to Contact O’Reilly</text>
+          </navLabel>
+          <content src="pr01s06.html"/>
+        </navPoint>
+        <navPoint id="id2697913" playOrder="19">
+          <navLabel>
+            <text>Acknowledgments</text>
+          </navLabel>
+          <content src="pr01s07.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id2698099" playOrder="20">
+        <navLabel>
+          <text>1. Hypertext at the Core</text>
+        </navLabel>
+        <content src="ch01.html"/>
+        <navPoint id="id2698128" playOrder="21">
+          <navLabel>
+            <text>The Web Without Links</text>
+          </navLabel>
+          <content src="ch01.html#the_web_without_links"/>
+        </navPoint>
+        <navPoint id="id2698272" playOrder="22">
+          <navLabel>
+            <text>URIs</text>
+          </navLabel>
+          <content src="ch01s02.html"/>
+          <navPoint id="id2698428" playOrder="23">
+            <navLabel>
+              <text>Managing Links</text>
+            </navLabel>
+            <content src="ch01s02.html#managing_links"/>
+          </navPoint>
+          <navPoint id="id2698557" playOrder="24">
+            <navLabel>
+              <text>Improving the User Experience with Linking</text>
+            </navLabel>
+            <content src="ch01s02.html#improving_the_user_experience_with_linki"/>
+          </navPoint>
+          <navPoint id="id2698668" playOrder="25">
+            <navLabel>
+              <text>Hypertext Implementation Challenges</text>
+            </navLabel>
+            <content src="ch01s02.html#hypertext_implementation_challenges"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id2698789" playOrder="26">
+        <navLabel>
+          <text>2. Working with HTML Markup</text>
+        </navLabel>
+        <content src="ch02.html"/>
+        <navPoint id="id2698854" playOrder="27">
+          <navLabel>
+            <text>HTML Syntax</text>
+          </navLabel>
+          <content src="ch02.html#html_syntax-id1"/>
+          <navPoint id="id2698896" playOrder="28">
+            <navLabel>
+              <text>Tags, Elements, and Attributes</text>
+            </navLabel>
+            <content src="ch02.html#tags_comma_elements_comma_and_attributes"/>
+          </navPoint>
+          <navPoint id="id2699361" playOrder="29">
+            <navLabel>
+              <text>Page Structure</text>
+            </navLabel>
+            <content src="ch02.html#page_structure"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2699537" playOrder="30">
+          <navLabel>
+            <text>Rendering Modes, Flavors of HTML, and Document Type Declarations</text>
+          </navLabel>
+          <content src="ch02s02.html"/>
+          <navPoint id="id2699678" playOrder="31">
+            <navLabel>
+              <text>HTML or XHTML?</text>
+            </navLabel>
+            <content src="ch02s02.html#choosing_a_document_type_colon_html_or_x"/>
+          </navPoint>
+          <navPoint id="id2699777" playOrder="32">
+            <navLabel>
+              <text>Strict, Transitional, or Frameset?</text>
+            </navLabel>
+            <content src="ch02s02.html#choosing_a_document_type_colon_strict_co"/>
+          </navPoint>
+          <navPoint id="id2699935" playOrder="33">
+            <navLabel>
+              <text>A Tale of Two Box Models</text>
+            </navLabel>
+            <content src="ch02s02.html#a_tale_of_two_box_models"/>
+          </navPoint>
+          <navPoint id="id2700068" playOrder="34">
+            <navLabel>
+              <text>Choosing the Right Document Type for Your Project</text>
+            </navLabel>
+            <content src="ch02s02.html#choosing_the_right_document_type_for_you"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2700179" playOrder="35">
+          <navLabel>
+            <text>Beautiful Parts: Universal Attributes</text>
+          </navLabel>
+          <content src="ch02s03.html"/>
+          <navPoint id="id2700363" playOrder="36">
+            <navLabel>
+              <text>Providing Stylesheet Hooks with class and id</text>
+            </navLabel>
+            <content src="ch02s03.html#providing_stylesheet_hooks_with_class_an"/>
+          </navPoint>
+          <navPoint id="id2700661" playOrder="37">
+            <navLabel>
+              <text>Describing Content with title and lang</text>
+            </navLabel>
+            <content src="ch02s03.html#describing_content_colon_title_and_lang"/>
+          </navPoint>
+          <navPoint id="id2701204" playOrder="38">
+            <navLabel>
+              <text>The contenteditable Attribute in HTML5</text>
+            </navLabel>
+            <content src="ch02s03.html#html5_apostrophy_s_contenteditable"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2701403" playOrder="39">
+          <navLabel>
+            <text>Separating Content, Structure, Presentation, and Behavior</text>
+          </navLabel>
+          <content src="ch02s04.html"/>
+          <navPoint id="id2701410" playOrder="40">
+            <navLabel>
+              <text>Making Your Sites “Safe As Houses”</text>
+            </navLabel>
+            <content src="ch02s04.html#making_your_sites_quotation_mark_safe_as"/>
+          </navPoint>
+          <navPoint id="id2701517" playOrder="41">
+            <navLabel>
+              <text>Separation in Practice</text>
+            </navLabel>
+            <content src="ch02s04.html#separation_in_practice"/>
+          </navPoint>
+          <navPoint id="id2701600" playOrder="42">
+            <navLabel>
+              <text>Working with Document Trees</text>
+            </navLabel>
+            <content src="ch02s04.html#working_with_document_trees"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2701891" playOrder="43">
+          <navLabel>
+            <text>Browsers, Parsing, and Rendering</text>
+          </navLabel>
+          <content src="ch02s05.html"/>
+          <navPoint id="id2702105" playOrder="44">
+            <navLabel>
+              <text>Dynamic HTML, Ajax, and Rendering</text>
+            </navLabel>
+            <content src="ch02s05.html#id2702105"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id2702123" playOrder="45">
+        <navLabel>
+          <text>3. CSS Overview</text>
+        </navLabel>
+        <content src="ch03.html"/>
+        <navPoint id="id2702157" playOrder="46">
+          <navLabel>
+            <text>Connecting Stylesheets to HTML Documents</text>
+          </navLabel>
+          <content src="ch03.html#I_sect13_d1e2886"/>
+          <navPoint id="id2702267" playOrder="47">
+            <navLabel>
+              <text>Referencing a Stylesheet with link</text>
+            </navLabel>
+            <content src="ch03.html#referencing_a_stylesheet_with_link"/>
+          </navPoint>
+          <navPoint id="id2702363" playOrder="48">
+            <navLabel>
+              <text>Targeting Internet Explorer Versions with Conditional Comments</text>
+            </navLabel>
+            <content src="ch03.html#targeting_internet_explorer_versions_wit"/>
+          </navPoint>
+          <navPoint id="id2702563" playOrder="49">
+            <navLabel>
+              <text>Replacing link with style</text>
+            </navLabel>
+            <content src="ch03.html#replacing_link_with_style"/>
+          </navPoint>
+          <navPoint id="id2702666" playOrder="50">
+            <navLabel>
+              <text>Using @import</text>
+            </navLabel>
+            <content src="ch03.html#using_at_the_rate_import"/>
+          </navPoint>
+          <navPoint id="id2702787" playOrder="51">
+            <navLabel>
+              <text>Beware of style Attributes!</text>
+            </navLabel>
+            <content src="ch03.html#beware_of_style_attributes_exclamation"/>
+          </navPoint>
+          <navPoint id="id2702861" playOrder="52">
+            <navLabel>
+              <text>Targeting Rules to Specific Media</text>
+            </navLabel>
+            <content src="ch03.html#targeting_rules_to_specific_media"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2703352" playOrder="53">
+          <navLabel>
+            <text>Choosing the Elements You Want to Style: Writing Selectors</text>
+          </navLabel>
+          <content src="ch03s02.html"/>
+          <navPoint id="id2703422" playOrder="54">
+            <navLabel>
+              <text>Parents, Children, and Siblings: Element/Node Relationships</text>
+            </navLabel>
+            <content src="ch03s02.html#parents_comma_children_comma_and_sibling"/>
+          </navPoint>
+          <navPoint id="id2703716" playOrder="55">
+            <navLabel>
+              <text>Simple Selectors</text>
+            </navLabel>
+            <content src="ch03s02.html#simple_selectors"/>
+          </navPoint>
+          <navPoint id="id2704086" playOrder="56">
+            <navLabel>
+              <text>Multiple and Descendant Selectors</text>
+            </navLabel>
+            <content src="ch03s02.html#multiple_and_descendant_selectors"/>
+          </navPoint>
+          <navPoint id="id2704711" playOrder="57">
+            <navLabel>
+              <text>Selecting Direct Child Elements</text>
+            </navLabel>
+            <content src="ch03s02.html#selecting_direct_child_elements"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2704786" playOrder="58">
+          <navLabel>
+            <text>Rule Conflicts, Priority, and Precedence</text>
+          </navLabel>
+          <content src="ch03s03.html"/>
+          <navPoint id="id2704863" playOrder="59">
+            <navLabel>
+              <text>Selector Priority</text>
+            </navLabel>
+            <content src="ch03s03.html#selector_weight"/>
+          </navPoint>
+          <navPoint id="id2705024" playOrder="60">
+            <navLabel>
+              <text>Avoiding Rule Conflicts</text>
+            </navLabel>
+            <content src="ch03s03.html#source_order_comma_at_the_rate_import_d"/>
+          </navPoint>
+          <navPoint id="id2705230" playOrder="61">
+            <navLabel>
+              <text>Value Inheritance</text>
+            </navLabel>
+            <content src="ch03s03.html#value_inheritance"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2705384" playOrder="62">
+          <navLabel>
+            <text>CSS Property and Value Survey</text>
+          </navLabel>
+          <content src="ch03s04.html"/>
+        </navPoint>
+        <navPoint id="id2705399" playOrder="63">
+          <navLabel>
+            <text>CSS Units</text>
+          </navLabel>
+          <content src="ch03s05.html"/>
+          <navPoint id="id2705863" playOrder="64">
+            <navLabel>
+              <text>Cross-Media Length and Size Units</text>
+            </navLabel>
+            <content src="ch03s05.html#cross-media_length_and_size_units"/>
+          </navPoint>
+          <navPoint id="id2706018" playOrder="65">
+            <navLabel>
+              <text>Pitch and the Value of a Pixel</text>
+            </navLabel>
+            <content src="ch03s05.html#pitch_and_the_value_of_a_pixel"/>
+          </navPoint>
+          <navPoint id="id2707024" playOrder="66">
+            <navLabel>
+              <text>Print-Friendly Length Units</text>
+            </navLabel>
+            <content src="ch03s05.html#print-friendly_length_units"/>
+          </navPoint>
+          <navPoint id="id2707186" playOrder="67">
+            <navLabel>
+              <text>font-size Keywords</text>
+            </navLabel>
+            <content src="ch03s05.html#font-size_keywords"/>
+          </navPoint>
+          <navPoint id="id2707293" playOrder="68">
+            <navLabel>
+              <text>Color Units</text>
+            </navLabel>
+            <content src="ch03s05.html#color_units"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2707580" playOrder="69">
+          <navLabel>
+            <text>Key CSS Layout Properties</text>
+          </navLabel>
+          <content src="ch03s06.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id2708497" playOrder="70">
+        <navLabel>
+          <text>4. Developing a Healthy Relationship with Standards</text>
+        </navLabel>
+        <content src="ch04.html"/>
+        <navPoint id="id2708534" playOrder="71">
+          <navLabel>
+            <text>The Broad Landscape of Web-Related Standards</text>
+          </navLabel>
+          <content src="ch04.html#the_broad_landscape_of_web-related_stand"/>
+        </navPoint>
+        <navPoint id="id2708755" playOrder="72">
+          <navLabel>
+            <text>Why Web Standards?</text>
+          </navLabel>
+          <content src="ch04s02.html"/>
+          <navPoint id="id2708791" playOrder="73">
+            <navLabel>
+              <text>Interoperability</text>
+            </navLabel>
+            <content src="ch04s02.html#interoperability"/>
+          </navPoint>
+          <navPoint id="id2708823" playOrder="74">
+            <navLabel>
+              <text>Market Forces</text>
+            </navLabel>
+            <content src="ch04s02.html#market_forces"/>
+          </navPoint>
+          <navPoint id="id2708879" playOrder="75">
+            <navLabel>
+              <text>Forward Compatibility</text>
+            </navLabel>
+            <content src="ch04s02.html#forward_compatibility"/>
+          </navPoint>
+          <navPoint id="id2708913" playOrder="76">
+            <navLabel>
+              <text>Accessibility</text>
+            </navLabel>
+            <content src="ch04s02.html#accessibility"/>
+          </navPoint>
+          <navPoint id="id2708968" playOrder="77">
+            <navLabel>
+              <text>Vendor Priorities</text>
+            </navLabel>
+            <content src="ch04s02.html#vendor_priorities"/>
+          </navPoint>
+          <navPoint id="id2709030" playOrder="78">
+            <navLabel>
+              <text>Legacy Asset Inertia</text>
+            </navLabel>
+            <content src="ch04s02.html#legacy_asset_inertia"/>
+          </navPoint>
+          <navPoint id="id2709073" playOrder="79">
+            <navLabel>
+              <text>Best Practices (and Lack Thereof)</text>
+            </navLabel>
+            <content src="ch04s02.html#best_practices_open_parenthesis_and_lack"/>
+          </navPoint>
+          <navPoint id="id2709167" playOrder="80">
+            <navLabel>
+              <text>Strict Constructionism</text>
+            </navLabel>
+            <content src="ch04s02.html#strict-constructionism"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2709226" playOrder="81">
+          <navLabel>
+            <text>Taking the Middle Road: Standards-Friendliness</text>
+          </navLabel>
+          <content src="ch04s03.html"/>
+          <navPoint id="id2709261" playOrder="82">
+            <navLabel>
+              <text>Benefits of Standards-Friendliness</text>
+            </navLabel>
+            <content src="ch04s03.html#benefits_of_standards-friendliness"/>
+          </navPoint>
+          <navPoint id="id2709346" playOrder="83">
+            <navLabel>
+              <text>Rules of Standards-Friendly Development</text>
+            </navLabel>
+            <content src="ch04s03.html#rules_of_standards-friendly_development"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id2709510" playOrder="84">
+        <navLabel>
+          <text>5. Effective Style and Structure</text>
+        </navLabel>
+        <content src="ch05.html"/>
+        <navPoint id="id2709572" playOrder="85">
+          <navLabel>
+            <text>The Four Habits of Effective Stylists</text>
+          </navLabel>
+          <content src="ch05.html#the_four_habits_of_effective_stylists"/>
+          <navPoint id="id2709676" playOrder="86">
+            <navLabel>
+              <text>Habit #1: Keeping It Simple</text>
+            </navLabel>
+            <content src="ch05.html#habit_number_symble_1_colon_keeping_it_s"/>
+            <navPoint id="id2709931" playOrder="87">
+              <navLabel>
+                <text>Simplicity and huge sites</text>
+              </navLabel>
+              <content src="ch05.html#simplicity_and_huge_sites"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id2710131" playOrder="88">
+            <navLabel>
+              <text>Habit #2: Keeping It Flexible</text>
+            </navLabel>
+            <content src="ch05.html#habit_number_symble_2_colon_keeping_it_f"/>
+            <navPoint id="id2710407" playOrder="89">
+              <navLabel>
+                <text>Flexibility, internal libraries, and code reuse</text>
+              </navLabel>
+              <content src="ch05.html#flexibility_comma_internal_libraries_com"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id2710567" playOrder="90">
+            <navLabel>
+              <text>Habit #3: Keeping to Consistency</text>
+            </navLabel>
+            <content src="ch05.html#habit_number_symble_3_colon_keeping_to_c"/>
+            <navPoint id="id2710795" playOrder="91">
+              <navLabel>
+                <text>Managing templates to achieve consistency</text>
+              </navLabel>
+              <content src="ch05.html#managing_templates_to_achieve_consistenc"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id2710920" playOrder="92">
+            <navLabel>
+              <text>Habit #4: Keeping Your Bearings</text>
+            </navLabel>
+            <content src="ch05.html#habit_number_symble_4_colon_keeping_your"/>
+            <navPoint id="id2711222" playOrder="93">
+              <navLabel>
+                <text>Product documentation as an effective “compass”</text>
+              </navLabel>
+              <content src="ch05.html#product_documentation_as_an_effective_qu"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2711376" playOrder="94">
+          <navLabel>
+            <text>CSS Zen and the Stylist’s Experience</text>
+          </navLabel>
+          <content src="ch05s02.html"/>
+          <navPoint id="id2711481" playOrder="95">
+            <navLabel>
+              <text>The Functional Principles of CSS Zen</text>
+            </navLabel>
+            <content src="ch05s02.html#the_functional_principles_of_css_zen"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2711837" playOrder="96">
+          <navLabel>
+            <text>Information Architecture and Web Usability</text>
+          </navLabel>
+          <content src="ch05s03.html"/>
+          <navPoint id="id2712031" playOrder="97">
+            <navLabel>
+              <text>Multidimensionality</text>
+            </navLabel>
+            <content src="ch05s03.html#mulitdimensionality"/>
+          </navPoint>
+          <navPoint id="id2712211" playOrder="98">
+            <navLabel>
+              <text>Navigation: Orientation and Wayfinding</text>
+            </navLabel>
+            <content src="ch05s03.html#navigation_colon_orientation_and_wayfind"/>
+          </navPoint>
+          <navPoint id="id2712450" playOrder="99">
+            <navLabel>
+              <text>Visit Strategies</text>
+            </navLabel>
+            <content src="ch05s03.html#visit_strategies"/>
+          </navPoint>
+          <navPoint id="id2712675" playOrder="100">
+            <navLabel>
+              <text>Guideposts for Creating Usable Interfaces</text>
+            </navLabel>
+            <content src="ch05s03.html#beyond_convention_colon_guideposts_for_c"/>
+            <navPoint id="id2712885" playOrder="101">
+              <navLabel>
+                <text>Disabling links to the current document</text>
+              </navLabel>
+              <content src="ch05s03.html#disabling_links_to_the_current_document"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id2713090" playOrder="102">
+            <navLabel>
+              <text>Predicting Visitor Behavior with Scenarios and User Testing</text>
+            </navLabel>
+            <content src="ch05s03.html#scenarios_and_user_testing_colon_is_it_p"/>
+          </navPoint>
+          <navPoint id="id2713249" playOrder="103">
+            <navLabel>
+              <text>Taxonomy and Nomenclature</text>
+            </navLabel>
+            <content src="ch05s03.html#taxonomy_and_nomenclature_colon_organizi"/>
+          </navPoint>
+          <navPoint id="id2713587" playOrder="104">
+            <navLabel>
+              <text>Applying Taxonomy Through the Cascade</text>
+            </navLabel>
+            <content src="ch05s03.html#applying_taxonomy_through_the_cascade"/>
+          </navPoint>
+          <navPoint id="id2714046" playOrder="105">
+            <navLabel>
+              <text>New Structural Elements (HTML5)</text>
+            </navLabel>
+            <content src="ch05s03.html#other_new_structural_elements"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id2714275" playOrder="106">
+        <navLabel>
+          <text>6. Solving the Puzzle of CSS Layout</text>
+        </navLabel>
+        <content src="ch06.html"/>
+        <navPoint id="id2714308" playOrder="107">
+          <navLabel>
+            <text>The CSS Box Model and Element Size Control</text>
+          </navLabel>
+          <content src="ch06.html#the_css_box_model_and_element_size_contr"/>
+        </navPoint>
+        <navPoint id="id2714484" playOrder="108">
+          <navLabel>
+            <text>Quirks Mode and Strict Mode</text>
+          </navLabel>
+          <content src="ch06s02.html"/>
+        </navPoint>
+        <navPoint id="id2714614" playOrder="109">
+          <navLabel>
+            <text>auto Values</text>
+          </navLabel>
+          <content src="ch06s03.html"/>
+          <navPoint id="id2714798" playOrder="110">
+            <navLabel>
+              <text>The overflow Property</text>
+            </navLabel>
+            <content src="ch06s03.html#the_overflow_property"/>
+          </navPoint>
+          <navPoint id="id2715166" playOrder="111">
+            <navLabel>
+              <text>Limiting But Not Fixing Element Dimensions</text>
+            </navLabel>
+            <content src="ch06s03.html#setting_boundaries_on_element_dimensions"/>
+          </navPoint>
+          <navPoint id="id2715262" playOrder="112">
+            <navLabel>
+              <text>Handling the Unpredictable</text>
+            </navLabel>
+            <content src="ch06s03.html#handling_the_unpredictable"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2715567" playOrder="113">
+          <navLabel>
+            <text>Margins, Borders, and Padding</text>
+          </navLabel>
+          <content src="ch06s04.html"/>
+          <navPoint id="id2715595" playOrder="114">
+            <navLabel>
+              <text>Negative Margins</text>
+            </navLabel>
+            <content src="ch06s04.html#negative_margins"/>
+          </navPoint>
+          <navPoint id="id2715792" playOrder="115">
+            <navLabel>
+              <text>Collapsed Margins</text>
+            </navLabel>
+            <content src="ch06s04.html#collapsed_margins"/>
+          </navPoint>
+          <navPoint id="id2715963" playOrder="116">
+            <navLabel>
+              <text>Borders</text>
+            </navLabel>
+            <content src="ch06s04.html#borders"/>
+          </navPoint>
+          <navPoint id="id2716130" playOrder="117">
+            <navLabel>
+              <text>Padding</text>
+            </navLabel>
+            <content src="ch06s04.html#padding"/>
+          </navPoint>
+          <navPoint id="id2716197" playOrder="118">
+            <navLabel>
+              <text>The Box Behavior of the Document Root Elements</text>
+            </navLabel>
+            <content src="ch06s04.html#the_box_behavior_of_the_document_root_el"/>
+          </navPoint>
+          <navPoint id="id2716377" playOrder="119">
+            <navLabel>
+              <text>Box Property Dimensions and the % Value</text>
+            </navLabel>
+            <content src="ch06s04.html#box_property_dimensions_and_the_percent"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2716459" playOrder="120">
+          <navLabel>
+            <text>Element Flow</text>
+          </navLabel>
+          <content src="ch06s05.html"/>
+          <navPoint id="id2716549" playOrder="121">
+            <navLabel>
+              <text>Inline Elements</text>
+            </navLabel>
+            <content src="ch06s05.html#inline_elements"/>
+          </navPoint>
+          <navPoint id="id2716609" playOrder="122">
+            <navLabel>
+              <text>Block Elements</text>
+            </navLabel>
+            <content src="ch06s05.html#block_elements"/>
+          </navPoint>
+          <navPoint id="id2716701" playOrder="123">
+            <navLabel>
+              <text>Inline-Block Elements</text>
+            </navLabel>
+            <content src="ch06s05.html#inline-block_elements"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2716755" playOrder="124">
+          <navLabel>
+            <text>Using the display Property to Change an Element’s Flow</text>
+          </navLabel>
+          <content src="ch06s06.html"/>
+          <navPoint id="id2716990" playOrder="125">
+            <navLabel>
+              <text>The display Property</text>
+            </navLabel>
+            <content src="ch06s06.html#display_caveats_and_peculiarities"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2717142" playOrder="126">
+          <navLabel>
+            <text>The float and clear Properties</text>
+          </navLabel>
+          <content src="ch06s07.html"/>
+          <navPoint id="id2717288" playOrder="127">
+            <navLabel>
+              <text>The Rules of the float Property</text>
+            </navLabel>
+            <content src="ch06s07.html#the_rules_of_the_float_property"/>
+          </navPoint>
+          <navPoint id="id2717456" playOrder="128">
+            <navLabel>
+              <text>Canceling float Values with Corresponding clear Values</text>
+            </navLabel>
+            <content src="ch06s07.html#canceling_float_values_with_correspondin"/>
+          </navPoint>
+          <navPoint id="id2717692" playOrder="129">
+            <navLabel>
+              <text>float Context</text>
+            </navLabel>
+            <content src="ch06s07.html#id2717692"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2717799" playOrder="130">
+          <navLabel>
+            <text>Implementing Multicolumn Layouts</text>
+          </navLabel>
+          <content src="ch06s08.html"/>
+          <navPoint id="id2717932" playOrder="131">
+            <navLabel>
+              <text>Converting the Two-Column Layout from Markup Tables to CSS</text>
+            </navLabel>
+            <content src="ch06s08.html#converting_the_two-column_layout_from_ma"/>
+          </navPoint>
+          <navPoint id="id2718136" playOrder="132">
+            <navLabel>
+              <text>How the Two-Column Styles Work</text>
+            </navLabel>
+            <content src="ch06s08.html#how_the_two-column_styles_work"/>
+          </navPoint>
+          <navPoint id="id2718572" playOrder="133">
+            <navLabel>
+              <text>Benefits of Confining Layout Specifications to Stylesheets</text>
+            </navLabel>
+            <content src="ch06s08.html#the_payoff_on_the_hassle_colon_the_benef"/>
+          </navPoint>
+          <navPoint id="id2718870" playOrder="134">
+            <navLabel>
+              <text>Moving from Two Columns to Three</text>
+            </navLabel>
+            <content src="ch06s08.html#moving_from_two_columns_to_three"/>
+          </navPoint>
+          <navPoint id="id2719589" playOrder="135">
+            <navLabel>
+              <text>Dealing with More Than Three Columns</text>
+            </navLabel>
+            <content src="ch06s08.html#laying_out_more_than_three_variable-heig"/>
+          </navPoint>
+          <navPoint id="id2719633" playOrder="136">
+            <navLabel>
+              <text>Semantically Empty Containers for Multicolumn Layouts</text>
+            </navLabel>
+            <content src="ch06s08.html#semantically_empty_containers_for_multip"/>
+          </navPoint>
+          <navPoint id="id2719714" playOrder="137">
+            <navLabel>
+              <text>Advanced Layout in CSS3</text>
+            </navLabel>
+            <content src="ch06s08.html#looking_to_the_future_colon_advanced_lay"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2719939" playOrder="138">
+          <navLabel>
+            <text>CSS Positioning Properties</text>
+          </navLabel>
+          <content src="ch06s09.html"/>
+          <navPoint id="id2720018" playOrder="139">
+            <navLabel>
+              <text>How Positioning Works</text>
+            </navLabel>
+            <content src="ch06s09.html#how_positioning_works"/>
+          </navPoint>
+          <navPoint id="id2720402" playOrder="140">
+            <navLabel>
+              <text>Bounding Positioned Elements</text>
+            </navLabel>
+            <content src="ch06s09.html#working_with_right_and_bottom_colon_boun"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2720708" playOrder="141">
+          <navLabel>
+            <text>The visibility and z-index Properties</text>
+          </navLabel>
+          <content src="ch06s10.html"/>
+          <navPoint id="id2720742" playOrder="142">
+            <navLabel>
+              <text>Altering Visibility Without Affecting Document Flow</text>
+            </navLabel>
+            <content src="ch06s10.html#altering_visibility_without_affecting_do"/>
+          </navPoint>
+          <navPoint id="id2720837" playOrder="143">
+            <navLabel>
+              <text>Stacking</text>
+            </navLabel>
+            <content src="ch06s10.html#about_stacking"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2721101" playOrder="144">
+          <navLabel>
+            <text>Obtaining Precise Navigation Source Order and Layout</text>
+          </navLabel>
+          <content src="ch06s11.html"/>
+          <navPoint id="id2721162" playOrder="145">
+            <navLabel>
+              <text>Orienting the List</text>
+            </navLabel>
+            <content src="ch06s11.html#orienting_the_list"/>
+          </navPoint>
+          <navPoint id="id2721530" playOrder="146">
+            <navLabel>
+              <text>Forcing the Navigation List into the Desired Coordinates</text>
+            </navLabel>
+            <content src="ch06s11.html#forcing_the_navigation_list_into_the_des"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2721887" playOrder="147">
+          <navLabel>
+            <text>Layout Types and Canvas Grids</text>
+          </navLabel>
+          <content src="ch06s12.html"/>
+          <navPoint id="id2721956" playOrder="148">
+            <navLabel>
+              <text>Fixed, Proportional, and Flexible Layouts</text>
+            </navLabel>
+            <content src="ch06s12.html#the_three_types_of_template_layout_colon"/>
+          </navPoint>
+          <navPoint id="id2722530" playOrder="149">
+            <navLabel>
+              <text>Defining Grids</text>
+            </navLabel>
+            <content src="ch06s12.html#defining_grids"/>
+          </navPoint>
+          <navPoint id="id2722762" playOrder="150">
+            <navLabel>
+              <text>The Rule of Thirds, the Golden Ratio, and the Fibonacci Sequence</text>
+            </navLabel>
+            <content src="ch06s12.html#the_rule_of_thirds_comma_the_fibonacci_s"/>
+          </navPoint>
+          <navPoint id="id2722936" playOrder="151">
+            <navLabel>
+              <text>Implementing a Flexible Page Grid</text>
+            </navLabel>
+            <content src="ch06s12.html#implementing_a_flexible_page_grid_within"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id2723523" playOrder="152">
+        <navLabel>
+          <text>7. Working with Lists</text>
+        </navLabel>
+        <content src="ch07.html"/>
+        <navPoint id="id2723544" playOrder="153">
+          <navLabel>
+            <text>Ordered and Unordered Lists</text>
+          </navLabel>
+          <content src="ch07.html#ordered_and_unordered_lists"/>
+          <navPoint id="id2723567" playOrder="154">
+            <navLabel>
+              <text>User Agent Default Styles for Ordered and Unordered Lists</text>
+            </navLabel>
+            <content src="ch07.html#useragent_default_styles_for_ordered_and"/>
+          </navPoint>
+          <navPoint id="id2723795" playOrder="155">
+            <navLabel>
+              <text>Creating Valid Ordered and Unordered Lists</text>
+            </navLabel>
+            <content src="ch07.html#creating_valid_ordered_and_unordered_lis"/>
+          </navPoint>
+          <navPoint id="id2723980" playOrder="156">
+            <navLabel>
+              <text>The list-style-type Property and the type Attribute</text>
+            </navLabel>
+            <content src="ch07.html#working_with_the_list-style-type_propert"/>
+          </navPoint>
+          <navPoint id="id2724274" playOrder="157">
+            <navLabel>
+              <text>The nav Element (HTML5)</text>
+            </navLabel>
+            <content src="ch07.html#html5_apostrophy_s_nav_element"/>
+            <navPoint id="id2724495" playOrder="158">
+              <navLabel>
+                <text>Accessibility and usability concerns</text>
+              </navLabel>
+              <content src="ch07.html#accessibility_and_usability_concerns"/>
+            </navPoint>
+            <navPoint id="id2724604" playOrder="159">
+              <navLabel>
+                <text>Enabling user agents to present navigation through alternate means</text>
+              </navLabel>
+              <content src="ch07.html#enabling_uas_to_present_navigation_throu"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id2724730" playOrder="160">
+            <navLabel>
+              <text>Changing the Range of an Ordered List</text>
+            </navLabel>
+            <content src="ch07.html#contiguous_lists_with_common_context_col"/>
+            <navPoint id="id2724752" playOrder="161">
+              <navLabel>
+                <text>Greater Wavelengths</text>
+              </navLabel>
+              <content src="ch07.html#greater_wavelengths"/>
+            </navPoint>
+            <navPoint id="id2724778" playOrder="162">
+              <navLabel>
+                <text>Shorter Wavelengths</text>
+              </navLabel>
+              <content src="ch07.html#shorter_wavelengths"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2724942" playOrder="163">
+          <navLabel>
+            <text>Other Uses for Lists</text>
+          </navLabel>
+          <content src="ch07s02.html"/>
+          <navPoint id="id2724952" playOrder="164">
+            <navLabel>
+              <text>Outlines</text>
+            </navLabel>
+            <content src="ch07s02.html#outlines"/>
+          </navPoint>
+          <navPoint id="id2725025" playOrder="165">
+            <navLabel>
+              <text>Inline Serial Lists</text>
+            </navLabel>
+            <content src="ch07s02.html#inline_serial_lists"/>
+          </navPoint>
+          <navPoint id="id2725121" playOrder="166">
+            <navLabel>
+              <text>Altering the Layout of Footer Links</text>
+            </navLabel>
+            <content src="ch07s02.html#using_display_colon_inline-block_to_alte"/>
+          </navPoint>
+          <navPoint id="id2725199" playOrder="167">
+            <navLabel>
+              <text>Bullets in Backgrounds?</text>
+            </navLabel>
+            <content src="ch07s02.html#bullets_in_backgrounds_question"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2725273" playOrder="168">
+          <navLabel>
+            <text>Styling Navigation Elements</text>
+          </navLabel>
+          <content src="ch07s03.html"/>
+          <navPoint id="id2725345" playOrder="169">
+            <navLabel>
+              <text>Placing the Primary Site Navigation Within the Source Order</text>
+            </navLabel>
+            <content src="ch07s03.html#placing_the_primary_site_navigation_with"/>
+          </navPoint>
+          <navPoint id="id2725439" playOrder="170">
+            <navLabel>
+              <text>The Primary Navigation Layout Recipe</text>
+            </navLabel>
+            <content src="ch07s03.html#the_primary_navigation_layout_recipe"/>
+          </navPoint>
+          <navPoint id="id2725775" playOrder="171">
+            <navLabel>
+              <text>The Footer Navigation Recipe</text>
+            </navLabel>
+            <content src="ch07s03.html#the_secondary_navigation_recipe"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2726136" playOrder="172">
+          <navLabel>
+            <text>Definition Lists</text>
+          </navLabel>
+          <content src="ch07s04.html"/>
+          <navPoint id="id2726228" playOrder="173">
+            <navLabel>
+              <text>Styling Definition Lists</text>
+            </navLabel>
+            <content src="ch07s04.html#styling_definition_lists_to_their_purpos"/>
+          </navPoint>
+          <navPoint id="id2726474" playOrder="174">
+            <navLabel>
+              <text>Dictionary Example</text>
+            </navLabel>
+            <content src="ch07s04.html#dictionary_example_colon__quotation_mark"/>
+          </navPoint>
+          <navPoint id="id2726898" playOrder="175">
+            <navLabel>
+              <text>Dialogue Example</text>
+            </navLabel>
+            <content src="ch07s04.html#dialogue_example_colon_a_passage_from_py"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id2727205" playOrder="176">
+        <navLabel>
+          <text>8. Headings, Hyperlinks, Inline Elements, and Quotations</text>
+        </navLabel>
+        <content src="ch08.html"/>
+        <navPoint id="id2727228" playOrder="177">
+          <navLabel>
+            <text>Headings and Good Writing</text>
+          </navLabel>
+          <content src="ch08.html#headings_and_good_writing"/>
+          <navPoint id="id2727327" playOrder="178">
+            <navLabel>
+              <text>Headings in Print</text>
+            </navLabel>
+            <content src="ch08.html#headings_in_print"/>
+          </navPoint>
+          <navPoint id="id2727520" playOrder="179">
+            <navLabel>
+              <text>Optimal Heading Insertion</text>
+            </navLabel>
+            <content src="ch08.html#optimal_heading_insertion"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2727649" playOrder="180">
+          <navLabel>
+            <text>Styling Heading Elements</text>
+          </navLabel>
+          <content src="ch08s02.html"/>
+          <navPoint id="id2727686" playOrder="181">
+            <navLabel>
+              <text>Heading Sizes and Type Treatments</text>
+            </navLabel>
+            <content src="ch08s02.html#heading_sizes_and_type_treatments"/>
+          </navPoint>
+          <navPoint id="id2727764" playOrder="182">
+            <navLabel>
+              <text>Normalizing Heading Dimensions</text>
+            </navLabel>
+            <content src="ch08s02.html#normalizing_heading_dimensions"/>
+          </navPoint>
+          <navPoint id="id2727929" playOrder="183">
+            <navLabel>
+              <text>Heading Accents</text>
+            </navLabel>
+            <content src="ch08s02.html#heading_accents"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2728041" playOrder="184">
+          <navLabel>
+            <text>Link Markup</text>
+          </navLabel>
+          <content src="ch08s03.html"/>
+          <navPoint id="id2728168" playOrder="185">
+            <navLabel>
+              <text>Link Attributes</text>
+            </navLabel>
+            <content src="ch08s03.html#link_attributes"/>
+          </navPoint>
+          <navPoint id="id2728336" playOrder="186">
+            <navLabel>
+              <text>Virtuous Use of the href Attribute</text>
+            </navLabel>
+            <content src="ch08s03.html#virtuous_use_of_the_href_attribute"/>
+          </navPoint>
+          <navPoint id="id2728522" playOrder="187">
+            <navLabel>
+              <text>Linking to Specific Passages Within Documents</text>
+            </navLabel>
+            <content src="ch08s03.html#linking_to_specific_passages_within_docu"/>
+          </navPoint>
+          <navPoint id="id2728682" playOrder="188">
+            <navLabel>
+              <text>Creating Effective Link Content and title Values</text>
+            </navLabel>
+            <content src="ch08s03.html#creating_effective_link_content_and_titl"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2729002" playOrder="189">
+          <navLabel>
+            <text>Styling Links</text>
+          </navLabel>
+          <content src="ch08s04.html"/>
+          <navPoint id="id2729065" playOrder="190">
+            <navLabel>
+              <text>Link Pseudoclasses</text>
+            </navLabel>
+            <content src="ch08s04.html#link_pseudoclasses"/>
+          </navPoint>
+          <navPoint id="id2729383" playOrder="191">
+            <navLabel>
+              <text>Using display: block to Increase the Footprint of a Link</text>
+            </navLabel>
+            <content src="ch08s04.html#using_display_colon_block_to_increase_th"/>
+          </navPoint>
+          <navPoint id="id2729729" playOrder="192">
+            <navLabel>
+              <text>The text-decoration Property</text>
+            </navLabel>
+            <content src="ch08s04.html#the_text-decoration_property"/>
+          </navPoint>
+          <navPoint id="id2729833" playOrder="193">
+            <navLabel>
+              <text>The cursor Property</text>
+            </navLabel>
+            <content src="ch08s04.html#the_cursor_property"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2729954" playOrder="194">
+          <navLabel>
+            <text>Adding Semantic Value with Inline Elements</text>
+          </navLabel>
+          <content src="ch08s05.html"/>
+        </navPoint>
+        <navPoint id="id2731283" playOrder="195">
+          <navLabel>
+            <text>Quotations</text>
+          </navLabel>
+          <content src="ch08s06.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id2731563" playOrder="196">
+        <navLabel>
+          <text>9. Colors and Backgrounds</text>
+        </navLabel>
+        <content src="ch09.html"/>
+        <navPoint id="id2731642" playOrder="197">
+          <navLabel>
+            <text>Color Theory and Web Color Practice</text>
+          </navLabel>
+          <content src="ch09.html#color_theory_and_web_color_practice"/>
+          <navPoint id="id2731684" playOrder="198">
+            <navLabel>
+              <text>Usability, Accessibility, and Color</text>
+            </navLabel>
+            <content src="ch09.html#usability_comma_accessibilty_comma_and_c"/>
+          </navPoint>
+          <navPoint id="id2731888" playOrder="199">
+            <navLabel>
+              <text>The Additive Color Model</text>
+            </navLabel>
+            <content src="ch09.html#the_additive_color_model"/>
+          </navPoint>
+          <navPoint id="id2731949" playOrder="200">
+            <navLabel>
+              <text>The HSB Color Model</text>
+            </navLabel>
+            <content src="ch09.html#the_hsb_color_model"/>
+          </navPoint>
+          <navPoint id="id2732049" playOrder="201">
+            <navLabel>
+              <text>The Subtractive Color Model</text>
+            </navLabel>
+            <content src="ch09.html#the_subtractive_color_model"/>
+          </navPoint>
+          <navPoint id="id2732226" playOrder="202">
+            <navLabel>
+              <text>Design, Contrast, and Complements</text>
+            </navLabel>
+            <content src="ch09.html#design_comma_contrast_comma_and_compleme"/>
+          </navPoint>
+          <navPoint id="id2732804" playOrder="203">
+            <navLabel>
+              <text>Identifying Colors, in Brief</text>
+            </navLabel>
+            <content src="ch09.html#identifying_colors_comma_in_brief"/>
+          </navPoint>
+          <navPoint id="id2732993" playOrder="204">
+            <navLabel>
+              <text>Display Environments and the Web-Safe Palette</text>
+            </navLabel>
+            <content src="ch09.html#display_environments_and_the_continued_r"/>
+          </navPoint>
+          <navPoint id="id2733440" playOrder="205">
+            <navLabel>
+              <text>Creating Your Own Palettes</text>
+            </navLabel>
+            <content src="ch09.html#creating_your_own_palettes"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2733560" playOrder="206">
+          <navLabel>
+            <text>CSS Backgrounds</text>
+          </navLabel>
+          <content src="ch09s02.html"/>
+          <navPoint id="id2733974" playOrder="207">
+            <navLabel>
+              <text>Setting background-position Values</text>
+            </navLabel>
+            <content src="ch09s02.html#setting_background-position_values"/>
+          </navPoint>
+          <navPoint id="id2734184" playOrder="208">
+            <navLabel>
+              <text>The CSS background Shorthand Property</text>
+            </navLabel>
+            <content src="ch09s02.html#combining_background_properties_colon_th"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2734261" playOrder="209">
+          <navLabel>
+            <text>Composing Background Images</text>
+          </navLabel>
+          <content src="ch09s03.html"/>
+          <navPoint id="id2734611" playOrder="210">
+            <navLabel>
+              <text>“Faux Columns”</text>
+            </navLabel>
+            <content src="ch09s03.html#quotation_mark_faux_columns_quotation_ma"/>
+          </navPoint>
+          <navPoint id="id2734922" playOrder="211">
+            <navLabel>
+              <text>Tiled Background Textures and Patterns</text>
+            </navLabel>
+            <content src="ch09s03.html#tiled_background_textures_and_patterns"/>
+          </navPoint>
+          <navPoint id="id2735084" playOrder="212">
+            <navLabel>
+              <text>Large Background Textures and Nonrepeating Devices</text>
+            </navLabel>
+            <content src="ch09s03.html#large_background_textures_and_non-repeat"/>
+          </navPoint>
+          <navPoint id="id2735247" playOrder="213">
+            <navLabel>
+              <text>Drop Shadows, Gel Effects, and Rounded Corners</text>
+            </navLabel>
+            <content src="ch09s03.html#drop_shadows_comma_gel_effects_comma_and"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2735447" playOrder="214">
+          <navLabel>
+            <text>Bitmapped Copy and Fahrner Image Replacement</text>
+          </navLabel>
+          <content src="ch09s04.html"/>
+          <navPoint id="id2735687" playOrder="215">
+            <navLabel>
+              <text>The FIR Stylesheet Rules</text>
+            </navLabel>
+            <content src="ch09s04.html#the_fir_stylesheet_rules"/>
+          </navPoint>
+          <navPoint id="id2735822" playOrder="216">
+            <navLabel>
+              <text>Drawbacks of FIR</text>
+            </navLabel>
+            <content src="ch09s04.html#fir_apostrophy_s_drawbacks"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2735912" playOrder="217">
+          <navLabel>
+            <text>Reducing Server Load with Sprites</text>
+          </navLabel>
+          <content src="ch09s05.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id2736244" playOrder="218">
+        <navLabel>
+          <text>10. (Data) Tables</text>
+        </navLabel>
+        <content src="ch10.html"/>
+        <navPoint id="id2736288" playOrder="219">
+          <navLabel>
+            <text>The Disadvantages of Layout Tables</text>
+          </navLabel>
+          <content src="ch10.html#the_disadvantages_of_layout_tables"/>
+          <navPoint id="id2736328" playOrder="220">
+            <navLabel>
+              <text>Source Order: Square Peg, Round Hole</text>
+            </navLabel>
+            <content src="ch10.html#source_order_colon_square_peg_comma_roun"/>
+          </navPoint>
+          <navPoint id="id2736403" playOrder="221">
+            <navLabel>
+              <text>CSS Zen Becomes a Myth</text>
+            </navLabel>
+            <content src="ch10.html#css_zen_becomes_a_myth"/>
+          </navPoint>
+          <navPoint id="id2736473" playOrder="222">
+            <navLabel>
+              <text>Template Slavery Is Unavoidable</text>
+            </navLabel>
+            <content src="ch10.html#template_slavery_is_unavoidable"/>
+          </navPoint>
+          <navPoint id="id2736535" playOrder="223">
+            <navLabel>
+              <text>Positioning Is Rendered Useless</text>
+            </navLabel>
+            <content src="ch10.html#positioning_is_rendered_useless"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2736612" playOrder="224">
+          <navLabel>
+            <text>The Parts of a Data Table</text>
+          </navLabel>
+          <content src="ch10s02.html"/>
+          <navPoint id="id2737013" playOrder="225">
+            <navLabel>
+              <text>Example: The Full Smash of Table Markup</text>
+            </navLabel>
+            <content src="ch10s02.html#example_colon_the_full_smash_of_table_ma"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2737595" playOrder="226">
+          <navLabel>
+            <text>Composing Cells</text>
+          </navLabel>
+          <content src="ch10s03.html"/>
+          <navPoint id="id2737923" playOrder="227">
+            <navLabel>
+              <text>Table and Data Composition</text>
+            </navLabel>
+            <content src="ch10s03.html#table_and_data_composition"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2738477" playOrder="228">
+          <navLabel>
+            <text>Table Headers, Footers, and Heading Cells</text>
+          </navLabel>
+          <content src="ch10s04.html"/>
+          <navPoint id="id2738581" playOrder="229">
+            <navLabel>
+              <text>Attribute and Child Selectors</text>
+            </navLabel>
+            <content src="ch10s04.html#working_with_esoteric_selectors_in_the_w"/>
+          </navPoint>
+          <navPoint id="id2738871" playOrder="230">
+            <navLabel>
+              <text>Reducing Header and Footer Contrast</text>
+            </navLabel>
+            <content src="ch10s04.html#reducing_header_and_footer_contrast_comm"/>
+          </navPoint>
+          <navPoint id="id2739144" playOrder="231">
+            <navLabel>
+              <text>Adding Rollover Accents to a Table</text>
+            </navLabel>
+            <content src="ch10s04.html#using_colon_hover_comma_scripting_comma"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id2739297" playOrder="232">
+        <navLabel>
+          <text>11. Images and Multimedia</text>
+        </navLabel>
+        <content src="ch11.html"/>
+        <navPoint id="id2739385" playOrder="233">
+          <navLabel>
+            <text>Replaced Elements</text>
+          </navLabel>
+          <content src="ch11.html#replaced_elements"/>
+        </navPoint>
+        <navPoint id="id2739627" playOrder="234">
+          <navLabel>
+            <text>Preparing Images for Production</text>
+          </navLabel>
+          <content src="ch11s02.html"/>
+          <navPoint id="id2739698" playOrder="235">
+            <navLabel>
+              <text>The alt Attribute Explained</text>
+            </navLabel>
+            <content src="ch11s02.html#the_alt_attribute_explained"/>
+          </navPoint>
+          <navPoint id="id2739792" playOrder="236">
+            <navLabel>
+              <text>Image Dimensions and Borders</text>
+            </navLabel>
+            <content src="ch11s02.html#image_dimensions_and_borders"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2740211" playOrder="237">
+          <navLabel>
+            <text>Image Production</text>
+          </navLabel>
+          <content src="ch11s03.html"/>
+          <navPoint id="id2740254" playOrder="238">
+            <navLabel>
+              <text>Cropping</text>
+            </navLabel>
+            <content src="ch11s03.html#cropping_colon_reducing_an_image_apostro"/>
+          </navPoint>
+          <navPoint id="id2740405" playOrder="239">
+            <navLabel>
+              <text>Matting: Creating a Virtual “Frame”</text>
+            </navLabel>
+            <content src="ch11s03.html#matting_colon_creating_a_virtual_quotati"/>
+          </navPoint>
+          <navPoint id="id2740540" playOrder="240">
+            <navLabel>
+              <text>Resampling: Altering the Absolute Size of an Image</text>
+            </navLabel>
+            <content src="ch11s03.html#resampling_colon_altering_the_absolute_s"/>
+          </navPoint>
+          <navPoint id="id2740716" playOrder="241">
+            <navLabel>
+              <text>Level Changes: Optimizing the Contrast of Photographs</text>
+            </navLabel>
+            <content src="ch11s03.html#level_changes_colon_optimizing_the_contr"/>
+          </navPoint>
+          <navPoint id="id2740884" playOrder="242">
+            <navLabel>
+              <text>Applying Multiple Adjustments</text>
+            </navLabel>
+            <content src="ch11s03.html#applying_mutliple_adjustments_to_the_sam"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2741054" playOrder="243">
+          <navLabel>
+            <text>Working with Color Profiles</text>
+          </navLabel>
+          <content src="ch11s04.html"/>
+        </navPoint>
+        <navPoint id="id2741309" playOrder="244">
+          <navLabel>
+            <text>Image Optimization</text>
+          </navLabel>
+          <content src="ch11s05.html"/>
+          <navPoint id="id2741315" playOrder="245">
+            <navLabel>
+              <text>Choosing the Right Image Format</text>
+            </navLabel>
+            <content src="ch11s05.html#choosing_the_right_image_format"/>
+          </navPoint>
+          <navPoint id="id2741480" playOrder="246">
+            <navLabel>
+              <text>Finding the Happy Medium Between Size and Quality</text>
+            </navLabel>
+            <content src="ch11s05.html#finding_the_happy_medium_between_size_an"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2741683" playOrder="247">
+          <navLabel>
+            <text>Publishing Images</text>
+          </navLabel>
+          <content src="ch11s06.html"/>
+          <navPoint id="id2741751" playOrder="248">
+            <navLabel>
+              <text>Keeping Images Organized</text>
+            </navLabel>
+            <content src="ch11s06.html#keeping_images_organized"/>
+          </navPoint>
+          <navPoint id="id2741935" playOrder="249">
+            <navLabel>
+              <text>Image Publishing and Management in a CMS</text>
+            </navLabel>
+            <content src="ch11s06.html#image_publishing_and_management_in_conte"/>
+          </navPoint>
+          <navPoint id="id2742092" playOrder="250">
+            <navLabel>
+              <text>Image Publication Etiquette</text>
+            </navLabel>
+            <content src="ch11s06.html#image_publication_etiquette_comma_in_bri"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2742264" playOrder="251">
+          <navLabel>
+            <text>Styling Images and Plug-in Content</text>
+          </navLabel>
+          <content src="ch11s07.html"/>
+          <navPoint id="id2742314" playOrder="252">
+            <navLabel>
+              <text>Composing Image Layout Within a Column</text>
+            </navLabel>
+            <content src="ch11s07.html#composing_image_layout_within_a_column"/>
+          </navPoint>
+          <navPoint id="id2742374" playOrder="253">
+            <navLabel>
+              <text>Captioning Images</text>
+            </navLabel>
+            <content src="ch11s07.html#captioning"/>
+          </navPoint>
+          <navPoint id="id2742621" playOrder="254">
+            <navLabel>
+              <text>Working with Previews (Thumbnail Images) in a Gallery or Slideshow Setting</text>
+            </navLabel>
+            <content src="ch11s07.html#working_with_previews_open_parenthesis_t"/>
+          </navPoint>
+          <navPoint id="id2743054" playOrder="255">
+            <navLabel>
+              <text>Lightbox: Previews, Galleries, and Slideshows</text>
+            </navLabel>
+            <content src="ch11s07.html#lightbox_colon_previews_comma_galleries"/>
+          </navPoint>
+          <navPoint id="id2743168" playOrder="256">
+            <navLabel>
+              <text>SlideShowPro</text>
+            </navLabel>
+            <content src="ch11s07.html#a_brief_introduction_to_slideshowpro"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2743350" playOrder="257">
+          <navLabel>
+            <text>Adding Motion and Sound: Using SWFObject to Insert Flash Videos and Presentations</text>
+          </navLabel>
+          <content src="ch11s08.html"/>
+        </navPoint>
+        <navPoint id="id2743569" playOrder="258">
+          <navLabel>
+            <text>Inserting Unwrapped Multimedia</text>
+          </navLabel>
+          <content src="ch11s09.html"/>
+          <navPoint id="id2743793" playOrder="259">
+            <navLabel>
+              <text>A Tale of Three Companies</text>
+            </navLabel>
+            <content src="ch11s09.html#a_tale_of_three_companies"/>
+          </navPoint>
+          <navPoint id="id2743964" playOrder="260">
+            <navLabel>
+              <text>Enter Flash</text>
+            </navLabel>
+            <content src="ch11s09.html#enter_flash"/>
+          </navPoint>
+          <navPoint id="id2744048" playOrder="261">
+            <navLabel>
+              <text>Using Bare Markup to Publish Multimedia Content</text>
+            </navLabel>
+            <content src="ch11s09.html#using_bare_markup_to_publish_multimedia"/>
+          </navPoint>
+          <navPoint id="id2744156" playOrder="262">
+            <navLabel>
+              <text>A Caveat of Plug-in Content Styling</text>
+            </navLabel>
+            <content src="ch11s09.html#a_caveat_of_plug-in_content_styling_colo"/>
+          </navPoint>
+          <navPoint id="id2744195" playOrder="263">
+            <navLabel>
+              <text>Sidestepping Plug-ins with the HTTP Content-Disposition Header Field</text>
+            </navLabel>
+            <content src="ch11s09.html#sidestepping_plug-ins_with_the_http_cont"/>
+          </navPoint>
+          <navPoint id="id2744337" playOrder="264">
+            <navLabel>
+              <text>Keeping an Open Mind</text>
+            </navLabel>
+            <content src="ch11s09.html#keeping_an_open_mind"/>
+          </navPoint>
+          <navPoint id="id2744368" playOrder="265">
+            <navLabel>
+              <text>The video and audio Elements (HTML5)</text>
+            </navLabel>
+            <content src="ch11s09.html#html5_apostrophy_s_video_and_audio_eleme"/>
+            <navPoint id="id2744489" playOrder="266">
+              <navLabel>
+                <text>Embedding a video</text>
+              </navLabel>
+              <content src="ch11s09.html#embedding_a_video"/>
+            </navPoint>
+            <navPoint id="id2744594" playOrder="267">
+              <navLabel>
+                <text>Supporting alternative video formats</text>
+              </navLabel>
+              <content src="ch11s09.html#supporting_alternative_video_formats"/>
+            </navPoint>
+            <navPoint id="id2744702" playOrder="268">
+              <navLabel>
+                <text>Providing video content for browsers that don’t support the video element</text>
+              </navLabel>
+              <content src="ch11s09.html#providing_video_content_for_browsers_tha"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id2744802" playOrder="269">
+            <navLabel>
+              <text>The canvas Element (HTML5)</text>
+            </navLabel>
+            <content src="ch11s09.html#html5_apostrophy_s_canvas_element"/>
+            <navPoint id="id2744866" playOrder="270">
+              <navLabel>
+                <text>The CanvasRenderingContext2D API</text>
+              </navLabel>
+              <content src="ch11s09.html#using_the_canvas_element_along_with_the"/>
+            </navPoint>
+            <navPoint id="id2744963" playOrder="271">
+              <navLabel>
+                <text>SVG as an alternative to canvas</text>
+              </navLabel>
+              <content src="ch11s09.html#svg_as_an_alternative_to_canvas"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id2745045" playOrder="272">
+        <navLabel>
+          <text>12. Web Typography</text>
+        </navLabel>
+        <content src="ch12.html"/>
+        <navPoint id="id2745141" playOrder="273">
+          <navLabel>
+            <text>A Brief History of Letterforms</text>
+          </navLabel>
+          <content src="ch12.html#a_brief_history_of_letterforms"/>
+          <navPoint id="id2745222" playOrder="274">
+            <navLabel>
+              <text>Origins of Modern Western Letterforms</text>
+            </navLabel>
+            <content src="ch12.html#tales_and_transactions_colon_origins_of"/>
+          </navPoint>
+          <navPoint id="id2745265" playOrder="275">
+            <navLabel>
+              <text>Gutenberg’s Press and the Art of Typography</text>
+            </navLabel>
+            <content src="ch12.html#gutenberg_apostrophy_s_press_and_the_art"/>
+          </navPoint>
+          <navPoint id="id2745357" playOrder="276">
+            <navLabel>
+              <text>The Emergence of Digital Typesetting</text>
+            </navLabel>
+            <content src="ch12.html#the_emergence_of_digital_typesetting"/>
+          </navPoint>
+          <navPoint id="id2745468" playOrder="277">
+            <navLabel>
+              <text>Different Limitations Without Changed Expectations</text>
+            </navLabel>
+            <content src="ch12.html#the_moral_of_the_story_colon_different_l"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2745518" playOrder="278">
+          <navLabel>
+            <text>A Visual Glossary of Typography</text>
+          </navLabel>
+          <content src="ch12s02.html"/>
+        </navPoint>
+        <navPoint id="id2746110" playOrder="279">
+          <navLabel>
+            <text>Aliasing and Anti-Aliasing</text>
+          </navLabel>
+          <content src="ch12s03.html"/>
+        </navPoint>
+        <navPoint id="id2746374" playOrder="280">
+          <navLabel>
+            <text>Type Styles, Readability, and Legibility</text>
+          </navLabel>
+          <content src="ch12s04.html"/>
+          <navPoint id="id2746410" playOrder="281">
+            <navLabel>
+              <text>Styling for Readability</text>
+            </navLabel>
+            <content src="ch12s04.html#styling_for_readability"/>
+          </navPoint>
+          <navPoint id="id2746521" playOrder="282">
+            <navLabel>
+              <text>Styling for Legibility</text>
+            </navLabel>
+            <content src="ch12s04.html#styling_for_legibility"/>
+          </navPoint>
+          <navPoint id="id2746632" playOrder="283">
+            <navLabel>
+              <text>“The Fold” and Tiny Type</text>
+            </navLabel>
+            <content src="ch12s04.html#usability_and_acccessibility_comma_vs._q"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2746846" playOrder="284">
+          <navLabel>
+            <text>Sizing Type</text>
+          </navLabel>
+          <content src="ch12s05.html"/>
+          <navPoint id="id2747091" playOrder="285">
+            <navLabel>
+              <text>Choosing the Right Units for Sizing Type</text>
+            </navLabel>
+            <content src="ch12s05.html#choosing_and_using_the_right_units_to_si"/>
+          </navPoint>
+          <navPoint id="id2747200" playOrder="286">
+            <navLabel>
+              <text>Em/Percentage Size Telescoping</text>
+            </navLabel>
+            <content src="ch12s05.html#em_solidus_percentage_size_telescoping"/>
+          </navPoint>
+          <navPoint id="id2747382" playOrder="287">
+            <navLabel>
+              <text>Size Keywords</text>
+            </navLabel>
+            <content src="ch12s05.html#size_keywords"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2747884" playOrder="288">
+          <navLabel>
+            <text>Working with Typefaces and Fonts</text>
+          </navLabel>
+          <content src="ch12s06.html"/>
+          <navPoint id="id2747912" playOrder="289">
+            <navLabel>
+              <text>The Challenge of Limited Choices</text>
+            </navLabel>
+            <content src="ch12s06.html#the_challenge_of_limited_choices"/>
+          </navPoint>
+          <navPoint id="id2751205" playOrder="290">
+            <navLabel>
+              <text>Applying Type Choices: the font-family Property</text>
+            </navLabel>
+            <content src="ch12s06.html#applying_type_choices_colon_the_font-fam"/>
+          </navPoint>
+          <navPoint id="id2751534" playOrder="291">
+            <navLabel>
+              <text>Finding Canonical Typeface Names</text>
+            </navLabel>
+            <content src="ch12s06.html#finding_canonical_typeface_names"/>
+          </navPoint>
+          <navPoint id="id2751656" playOrder="292">
+            <navLabel>
+              <text>Accessing System Default Type with the font Property</text>
+            </navLabel>
+            <content src="ch12s06.html#accessing_system_default_type_with_the_f"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2752005" playOrder="293">
+          <navLabel>
+            <text>Character Encoding in Brief</text>
+          </navLabel>
+          <content src="ch12s07.html"/>
+          <navPoint id="id2752095" playOrder="294">
+            <navLabel>
+              <text>What Is Character Encoding?</text>
+            </navLabel>
+            <content src="ch12s07.html#so_what_apostrophy_s_character_encodi"/>
+          </navPoint>
+          <navPoint id="id2752206" playOrder="295">
+            <navLabel>
+              <text>ASCII, ISO 8859-1, Unicode, and UTF-8</text>
+            </navLabel>
+            <content src="ch12s07.html#enter_ascii_comma_iso_8859-1_comma_unico"/>
+          </navPoint>
+          <navPoint id="id2752324" playOrder="296">
+            <navLabel>
+              <text>Choosing an Encoding Scheme</text>
+            </navLabel>
+            <content src="ch12s07.html#choosing_an_encoding_scheme_colon_drifti"/>
+          </navPoint>
+          <navPoint id="id2752471" playOrder="297">
+            <navLabel>
+              <text>Inserting Entities to Provide Non-ASCII Characters</text>
+            </navLabel>
+            <content src="ch12s07.html#inserting_entities_to_provide_non-ascii"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2754627" playOrder="298">
+          <navLabel>
+            <text>Creating Balanced Type Treatments</text>
+          </navLabel>
+          <content src="ch12s08.html"/>
+          <navPoint id="id2754671" playOrder="299">
+            <navLabel>
+              <text>Predictability, Preference, and Panic</text>
+            </navLabel>
+            <content src="ch12s08.html#predictability_comma_preference_comma_an"/>
+          </navPoint>
+          <navPoint id="id2754731" playOrder="300">
+            <navLabel>
+              <text>Assessing Content Scope</text>
+            </navLabel>
+            <content src="ch12s08.html#assessing_content_scope_as_it_relates_to"/>
+          </navPoint>
+          <navPoint id="id2754938" playOrder="301">
+            <navLabel>
+              <text>Distinguishing Type: Face, Size, Weight, Style, Color</text>
+            </navLabel>
+            <content src="ch12s08.html#distinguishing_type_colon_face_comma_siz"/>
+          </navPoint>
+          <navPoint id="id2755110" playOrder="302">
+            <navLabel>
+              <text>Setting Type Around Blowouts</text>
+            </navLabel>
+            <content src="ch12s08.html#setting_type_around_blowouts"/>
+          </navPoint>
+          <navPoint id="id2755241" playOrder="303">
+            <navLabel>
+              <text>Styling Passages of Similar Priority</text>
+            </navLabel>
+            <content src="ch12s08.html#styling_passages_of_differing_focus_but"/>
+          </navPoint>
+          <navPoint id="id2755389" playOrder="304">
+            <navLabel>
+              <text>Enter Type Treatments</text>
+            </navLabel>
+            <content src="ch12s08.html#enter_type_treatments"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2755530" playOrder="305">
+          <navLabel>
+            <text>Typographical Miscellany in CSS</text>
+          </navLabel>
+          <content src="ch12s09.html"/>
+          <navPoint id="id2755556" playOrder="306">
+            <navLabel>
+              <text>The line-height Property</text>
+            </navLabel>
+            <content src="ch12s09.html#controlling_negative_space_between_lines"/>
+          </navPoint>
+          <navPoint id="id2755724" playOrder="307">
+            <navLabel>
+              <text>The font-variant and text-transform Properties</text>
+            </navLabel>
+            <content src="ch12s09.html#changing_the_apparent_case_of_text_with"/>
+          </navPoint>
+          <navPoint id="id2755840" playOrder="308">
+            <navLabel>
+              <text>The letter-spacing and word-spacing Properties</text>
+            </navLabel>
+            <content src="ch12s09.html#manipulating_words_and_short_passages_wi"/>
+          </navPoint>
+          <navPoint id="id2755902" playOrder="309">
+            <navLabel>
+              <text>The white-space Property</text>
+            </navLabel>
+            <content src="ch12s09.html#supplanting_the_pre_and_nowrap_elements"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2756018" playOrder="310">
+          <navLabel>
+            <text>The Practice of Good Web Typography</text>
+          </navLabel>
+          <content src="ch12s10.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id2756062" playOrder="311">
+        <navLabel>
+          <text>13. Clean and Accessible Forms</text>
+        </navLabel>
+        <content src="ch13.html"/>
+        <navPoint id="id2756118" playOrder="312">
+          <navLabel>
+            <text>Building Effective Forms</text>
+          </navLabel>
+          <content src="ch13.html#building_effective_forms"/>
+          <navPoint id="id2756145" playOrder="313">
+            <navLabel>
+              <text>Web Applications, User Perspective, and Design Choices</text>
+            </navLabel>
+            <content src="ch13.html#web_applications_comma_user_perspective"/>
+          </navPoint>
+          <navPoint id="id2756306" playOrder="314">
+            <navLabel>
+              <text>Organizing User Interfaces by Function</text>
+            </navLabel>
+            <content src="ch13.html#create_comma_read_comma_update_comma_del"/>
+          </navPoint>
+          <navPoint id="id2756535" playOrder="315">
+            <navLabel>
+              <text>Ten Rules for Effective Web Forms and Applications</text>
+            </navLabel>
+            <content src="ch13.html#ten_rules_for_effective_web_forms_and_ap"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2757060" playOrder="316">
+          <navLabel>
+            <text>Assessment and Structure</text>
+          </navLabel>
+          <content src="ch13s02.html"/>
+          <navPoint id="id2757103" playOrder="317">
+            <navLabel>
+              <text>Establishing Requirements</text>
+            </navLabel>
+            <content src="ch13s02.html#establishing_requirements"/>
+          </navPoint>
+          <navPoint id="id2757862" playOrder="318">
+            <navLabel>
+              <text>Markup and Structure</text>
+            </navLabel>
+            <content src="ch13s02.html#markup_and_structure"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2758694" playOrder="319">
+          <navLabel>
+            <text>Basic Form Structure, Presentation, and Behavior</text>
+          </navLabel>
+          <content src="ch13s03.html"/>
+          <navPoint id="id2758786" playOrder="320">
+            <navLabel>
+              <text>Form-Originated get Requests</text>
+            </navLabel>
+            <content src="ch13s03.html#from_client_to_server_comma_then_back_ag"/>
+          </navPoint>
+          <navPoint id="id2760094" playOrder="321">
+            <navLabel>
+              <text>The post Method and File Uploads</text>
+            </navLabel>
+            <content src="ch13s03.html#the_post_method_and_file_uploads"/>
+          </navPoint>
+          <navPoint id="id2760306" playOrder="322">
+            <navLabel>
+              <text>Manipulating the Size and Appearance of Individual Controls</text>
+            </navLabel>
+            <content src="ch13s03.html#manipulating_the_size_and_appearance_of"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2760914" playOrder="323">
+          <navLabel>
+            <text>Prototyping and Layout</text>
+          </navLabel>
+          <content src="ch13s04.html"/>
+          <navPoint id="id2760925" playOrder="324">
+            <navLabel>
+              <text>Prototyping 101</text>
+            </navLabel>
+            <content src="ch13s04.html#prototyping_101"/>
+          </navPoint>
+          <navPoint id="id2761123" playOrder="325">
+            <navLabel>
+              <text>Design Patterns, Style Resets, and Form Layout</text>
+            </navLabel>
+            <content src="ch13s04.html#design_patterns_comma_style_resets_comma"/>
+          </navPoint>
+          <navPoint id="id2761601" playOrder="326">
+            <navLabel>
+              <text>Grouping Controls by Appearance</text>
+            </navLabel>
+            <content src="ch13s04.html#accounting_for_special_cases_colon_using"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2761956" playOrder="327">
+          <navLabel>
+            <text>Required Fields and Other Submission Constraints</text>
+          </navLabel>
+          <content src="ch13s05.html"/>
+          <navPoint id="id2762012" playOrder="328">
+            <navLabel>
+              <text>Identifying Required Fields</text>
+            </navLabel>
+            <content src="ch13s05.html#identifying_required_fields"/>
+          </navPoint>
+          <navPoint id="id2762238" playOrder="329">
+            <navLabel>
+              <text>Discovering and Identifying User Input Errors</text>
+            </navLabel>
+            <content src="ch13s05.html#discovering_and_identifying_user_input_e"/>
+          </navPoint>
+          <navPoint id="id2762448" playOrder="330">
+            <navLabel>
+              <text>The disabled and readonly Attributes</text>
+            </navLabel>
+            <content src="ch13s05.html#working_with_the_disabled_and_readonly_a"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2762750" playOrder="331">
+          <navLabel>
+            <text>Creating Accessible Forms</text>
+          </navLabel>
+          <content src="ch13s06.html"/>
+          <navPoint id="id2762930" playOrder="332">
+            <navLabel>
+              <text>Implementing Forms for Accessibility</text>
+            </navLabel>
+            <content src="ch13s06.html#implementing_forms_for_accessibility"/>
+          </navPoint>
+          <navPoint id="id2763254" playOrder="333">
+            <navLabel>
+              <text>Supporting Keyboard Navigation of Forms</text>
+            </navLabel>
+            <content src="ch13s06.html#supporting_keyboard_navigation_of_forms"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2763617" playOrder="334">
+          <navLabel>
+            <text>Form Features in HTML5</text>
+          </navLabel>
+          <content src="ch13s07.html"/>
+          <navPoint id="id2763657" playOrder="335">
+            <navLabel>
+              <text>New Input Types</text>
+            </navLabel>
+            <content src="ch13s07.html#id2763657"/>
+          </navPoint>
+          <navPoint id="id2763837" playOrder="336">
+            <navLabel>
+              <text>The required Attribute</text>
+            </navLabel>
+            <content src="ch13s07.html#id2763837"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id2764003" playOrder="337">
+        <navLabel>
+          <text>14. The Bad Parts</text>
+        </navLabel>
+        <content src="ch14.html"/>
+        <navPoint id="id2764037" playOrder="338">
+          <navLabel>
+            <text>The Numbing Nature of Internet Explorer (Especially IE 6)</text>
+          </navLabel>
+          <content src="ch14.html#the_numbing_nature_of_internet_explorer"/>
+          <navPoint id="id2764139" playOrder="339">
+            <navLabel>
+              <text>Browser Wars 2.0</text>
+            </navLabel>
+            <content src="ch14.html#browser_wars_2.0_and_the_inordinate_infl"/>
+          </navPoint>
+          <navPoint id="id2764315" playOrder="340">
+            <navLabel>
+              <text>Absent or Poor Selector Support</text>
+            </navLabel>
+            <content src="ch14.html#absent_or_poor_selector_support"/>
+          </navPoint>
+          <navPoint id="id2764699" playOrder="341">
+            <navLabel>
+              <text>hasLayout</text>
+            </navLabel>
+            <content src="ch14.html#haslayout"/>
+          </navPoint>
+          <navPoint id="id2764931" playOrder="342">
+            <navLabel>
+              <text>Margin Doubling</text>
+            </navLabel>
+            <content src="ch14.html#margin_doubling"/>
+          </navPoint>
+          <navPoint id="id2765096" playOrder="343">
+            <navLabel>
+              <text>expression() Values</text>
+            </navLabel>
+            <content src="ch14.html#expression_open_parenthesis_close_parent"/>
+          </navPoint>
+          <navPoint id="id2765204" playOrder="344">
+            <navLabel>
+              <text>ActiveX Filters and Transitions</text>
+            </navLabel>
+            <content src="ch14.html#activex_filters_and_transitions"/>
+          </navPoint>
+          <navPoint id="id2765348" playOrder="345">
+            <navLabel>
+              <text>PNG Support (or Lack Thereof)</text>
+            </navLabel>
+            <content src="ch14.html#png_support..._or_lack_thereof"/>
+          </navPoint>
+          <navPoint id="id2765501" playOrder="346">
+            <navLabel>
+              <text>Poor Property Support</text>
+            </navLabel>
+            <content src="ch14.html#poor_property_support_in_ie_6_colon_disp"/>
+          </navPoint>
+          <navPoint id="id2765562" playOrder="347">
+            <navLabel>
+              <text>Issues with XHTML and XML</text>
+            </navLabel>
+            <content src="ch14.html#whence_content-type_colon_application_so"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2765711" playOrder="348">
+          <navLabel>
+            <text>Systemic Ugliness</text>
+          </navLabel>
+          <content src="ch14s02.html"/>
+          <navPoint id="id2765730" playOrder="349">
+            <navLabel>
+              <text>Template Fragility and Third-Party Content</text>
+            </navLabel>
+            <content src="ch14s02.html#template_fragility_and_third_party_conte"/>
+          </navPoint>
+          <navPoint id="id2765777" playOrder="350">
+            <navLabel>
+              <text>Markup Validation As a Prerequisite to Proper Style Implementation</text>
+            </navLabel>
+            <content src="ch14s02.html#markup_validation_as_a_prerequisite_to_p"/>
+          </navPoint>
+          <navPoint id="id2765908" playOrder="351">
+            <navLabel>
+              <text>“Best Viewed with”</text>
+            </navLabel>
+            <content src="ch14s02.html#quotation_mark_best_viewed_with_quotatio"/>
+          </navPoint>
+          <navPoint id="id2765995" playOrder="352">
+            <navLabel>
+              <text>Graded Support</text>
+            </navLabel>
+            <content src="ch14s02.html#graded_support"/>
+          </navPoint>
+          <navPoint id="id2766259" playOrder="353">
+            <navLabel>
+              <text>embed Versus object</text>
+            </navLabel>
+            <content src="ch14s02.html#the_embed-vs.-object_schism"/>
+          </navPoint>
+          <navPoint id="id2766392" playOrder="354">
+            <navLabel>
+              <text>Form Controls, Plug-in Instances, and Element Stacking</text>
+            </navLabel>
+            <content src="ch14s02.html#form_controls_comma_plug-in_instances_co"/>
+          </navPoint>
+          <navPoint id="id2766526" playOrder="355">
+            <navLabel>
+              <text>Invalid Markup for Stupid Reasons</text>
+            </navLabel>
+            <content src="ch14s02.html#invalid_markup..._for_the_craziest_reaso"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2766725" playOrder="356">
+          <navLabel>
+            <text>HTML’s Bad Neighborhoods and Cul-de-Sacs</text>
+          </navLabel>
+          <content src="ch14s03.html"/>
+          <navPoint id="id2766770" playOrder="357">
+            <navLabel>
+              <text>Frames</text>
+            </navLabel>
+            <content src="ch14s03.html#frames"/>
+          </navPoint>
+          <navPoint id="id2767083" playOrder="358">
+            <navLabel>
+              <text>The strike Element</text>
+            </navLabel>
+            <content src="ch14s03.html#the_strike_element"/>
+          </navPoint>
+          <navPoint id="id2767148" playOrder="359">
+            <navLabel>
+              <text>The name Attribute</text>
+            </navLabel>
+            <content src="ch14s03.html#the_name_attribute"/>
+          </navPoint>
+          <navPoint id="id2767643" playOrder="360">
+            <navLabel>
+              <text>The noscript and noframes Elements</text>
+            </navLabel>
+            <content src="ch14s03.html#noscript_and_noframes"/>
+          </navPoint>
+          <navPoint id="id2767744" playOrder="361">
+            <navLabel>
+              <text>Semantic Contortions and the Limited Vocabulary of HTML</text>
+            </navLabel>
+            <content src="ch14s03.html#semantic_contortions_and_the_limited_voc"/>
+          </navPoint>
+          <navPoint id="id2767782" playOrder="362">
+            <navLabel>
+              <text>Inline Presentation Elements</text>
+            </navLabel>
+            <content src="ch14s03.html#inline_presentation_elements_colon_b_com"/>
+          </navPoint>
+          <navPoint id="id2767951" playOrder="363">
+            <navLabel>
+              <text>Manipulating Vertical Space: hr and br</text>
+            </navLabel>
+            <content src="ch14s03.html#manipulating_vertical_space_colon_hr_and"/>
+          </navPoint>
+          <navPoint id="id2768058" playOrder="364">
+            <navLabel>
+              <text>The pre Element Versus the white-space Property</text>
+            </navLabel>
+            <content src="ch14s03.html#the_pre_element_vs._the_white-space_prop"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2768167" playOrder="365">
+          <navLabel>
+            <text>CSS Travesties</text>
+          </navLabel>
+          <content src="ch14s04.html"/>
+          <navPoint id="id2768199" playOrder="366">
+            <navLabel>
+              <text>@-Rules</text>
+            </navLabel>
+            <content src="ch14s04.html#at_the_rate_-rules"/>
+          </navPoint>
+          <navPoint id="id2768347" playOrder="367">
+            <navLabel>
+              <text>Computed Values and Rounding Differences</text>
+            </navLabel>
+            <content src="ch14s04.html#computed_values_and_rounding_differences"/>
+          </navPoint>
+          <navPoint id="id2768505" playOrder="368">
+            <navLabel>
+              <text>Vendor-Specific -moz and -webkit Property Prefixes</text>
+            </navLabel>
+            <content src="ch14s04.html#vendor-specific_css3_implementations_col"/>
+          </navPoint>
+          <navPoint id="id2768582" playOrder="369">
+            <navLabel>
+              <text>The inherit Value</text>
+            </navLabel>
+            <content src="ch14s04.html#the_inherit_value"/>
+          </navPoint>
+          <navPoint id="id2768656" playOrder="370">
+            <navLabel>
+              <text>Hiding Stuff: z-index and clip</text>
+            </navLabel>
+            <content src="ch14s04.html#hiding_stuff_colon_z-index_and_clip"/>
+          </navPoint>
+          <navPoint id="id2768820" playOrder="371">
+            <navLabel>
+              <text>Counters</text>
+            </navLabel>
+            <content src="ch14s04.html#counters"/>
+          </navPoint>
+          <navPoint id="id2768884" playOrder="372">
+            <navLabel>
+              <text>Element Flow Rules</text>
+            </navLabel>
+            <content src="ch14s04.html#element_flow_rules"/>
+          </navPoint>
+          <navPoint id="id2769007" playOrder="373">
+            <navLabel>
+              <text>Unicode Code Position Values and the content Property</text>
+            </navLabel>
+            <content src="ch14s04.html#unicode_code_position_values_and_the_con"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2769192" playOrder="374">
+          <navLabel>
+            <text>The Awful Parts</text>
+          </navLabel>
+          <content src="ch14s05.html"/>
+          <navPoint id="id2769224" playOrder="375">
+            <navLabel>
+              <text>The marquee and blink Elements</text>
+            </navLabel>
+            <content src="ch14s05.html#crazy_presentations_colon_marquee_and_bl"/>
+          </navPoint>
+          <navPoint id="id2769282" playOrder="376">
+            <navLabel>
+              <text>MSIE User Interface Properties</text>
+            </navLabel>
+            <content src="ch14s05.html#msie_user_interface_properties"/>
+          </navPoint>
+          <navPoint id="id2769336" playOrder="377">
+            <navLabel>
+              <text>The align Attribute</text>
+            </navLabel>
+            <content src="ch14s05.html#the_align_attribute"/>
+          </navPoint>
+          <navPoint id="id2769392" playOrder="378">
+            <navLabel>
+              <text>The style Attribute</text>
+            </navLabel>
+            <content src="ch14s05.html#the_style_attribute"/>
+          </navPoint>
+          <navPoint id="id2769468" playOrder="379">
+            <navLabel>
+              <text>div-itis</text>
+            </navLabel>
+            <content src="ch14s05.html#div-itis"/>
+          </navPoint>
+          <navPoint id="id2769628" playOrder="380">
+            <navLabel>
+              <text>Event Handler Attributes</text>
+            </navLabel>
+            <content src="ch14s05.html#event_handler_attributes"/>
+          </navPoint>
+          <navPoint id="id2769741" playOrder="381">
+            <navLabel>
+              <text>Gratuitous Underlining</text>
+            </navLabel>
+            <content src="ch14s05.html#the_u_element_open_parenthesis_and_gratu"/>
+          </navPoint>
+          <navPoint id="id2769824" playOrder="382">
+            <navLabel>
+              <text>The http-equiv Attribute</text>
+            </navLabel>
+            <content src="ch14s05.html#the_http-equiv_attribute"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2769911" playOrder="383">
+          <navLabel>
+            <text>Picking Up the Pieces</text>
+          </navLabel>
+          <content src="ch14s06.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id2769938" playOrder="384">
+        <navLabel>
+          <text>A. URIs, Client-Server Architecture, and HTTP</text>
+        </navLabel>
+        <content src="apa.html"/>
+        <navPoint id="id2769976" playOrder="385">
+          <navLabel>
+            <text>The Underlying Client-Server Architecture</text>
+          </navLabel>
+          <content src="apa.html#the_underlying_client-server_architectur"/>
+        </navPoint>
+        <navPoint id="id2770123" playOrder="386">
+          <navLabel>
+            <text>What Every Web Developer Should Know About HTTP</text>
+          </navLabel>
+          <content src="apas02.html"/>
+        </navPoint>
+        <navPoint id="id2770318" playOrder="387">
+          <navLabel>
+            <text>MIME Types, in Brief</text>
+          </navLabel>
+          <content src="apas03.html"/>
+        </navPoint>
+        <navPoint id="id2770606" playOrder="388">
+          <navLabel>
+            <text>Controlling Request Volume</text>
+          </navLabel>
+          <content src="apas04.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id2770760" playOrder="389">
+        <navLabel>
+          <text>Glossary</text>
+        </navLabel>
+        <content src="go01.html"/>
+      </navPoint>
+      <navPoint id="id2772135" playOrder="390">
+        <navLabel>
+          <text>Index</text>
+        </navLabel>
+        <content src="ix01.html"/>
+      </navPoint>
+      <navPoint id="id2772147" playOrder="391">
+        <navLabel>
+          <text>About the Author</text>
+        </navLabel>
+        <content src="author_bios.html"/>
+      </navPoint>
+      <navPoint id="id2772162" playOrder="392">
+        <navLabel>
+          <text>Colophon</text>
+        </navLabel>
+        <content src="co02.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

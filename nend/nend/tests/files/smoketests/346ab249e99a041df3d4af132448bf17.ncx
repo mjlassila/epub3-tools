@@ -1,0 +1,1333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx version="2005-1" xml:lang="en" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+    <head>
+        <meta name="dtb:uid" content="366F64F5-5997-4B18-8C44-B16B3A101FE2"></meta>
+        <meta name="dtb:depth" content="1"></meta>
+        <meta name="dtb:totalPageCount" content="0"></meta>
+        <meta name="dtb:maxPageNumber" content="0"></meta>
+    </head>
+    <docTitle>
+        <text>Aliens</text>
+    </docTitle>
+    <docAuthor>
+        <text>James Cameron</text>
+    </docAuthor>
+    <navMap>
+        <navPoint class="cover" id="cover" playOrder="1">
+            <navLabel>
+                <text>Cover</text>
+            </navLabel>
+            <content src="cover.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="idBD80D30856CB422F81C84D280BCD1571" playOrder="2">
+            <navLabel>
+                <text>FADE IN:</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid1F6B747E8C564857935E16375909DEEC" playOrder="3">
+            <navLabel>
+                <text>SOMETIME IN THE FUTURE - SPACE</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid1CEB1E11BA68407986E2053F2C1C5805" playOrder="4">
+            <navLabel>
+                <text>INT. NARCISSUS</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid3B059B67C09C4531A73A707FDE5145BE" playOrder="5">
+            <navLabel>
+                <text>INT. HOSPITAL ROOM - TIGHT ON RIPLEY - GATEWAY STATION</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidDA3631AF01D443EA96562FBE6CC65AF0" playOrder="6">
+            <navLabel>
+                <text>CHITTERING HORROR...IT SCREECHES.</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidBB23BBA316214D749AA11DD4768995ED" playOrder="7">
+            <navLabel>
+                <text>EXT. PARK</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidF1C0077C6F1E4DACBEAEBFC08CCA370C" playOrder="8">
+            <navLabel>
+                <text>INT. CORRIDOR - GATEWAY</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidC2AE025641484F60A7C1C32338E62D0A" playOrder="9">
+            <navLabel>
+                <text>INT. CONFERENCE ROOM - ON RIPLEY - GATEWAY</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidCD06C832F59E4BAAB307F416BE3045A6" playOrder="10">
+            <navLabel>
+                <text>INT. CORRIDOR</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid66A69B14639348A59A16A2C7E1BCDF37" playOrder="11">
+            <navLabel>
+                <text>INT. CONFERENCE ROOM - TIGHT ON RIPLEY - LATER</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidE4F8A98A77FB4E65A54384B5F02ED937" playOrder="12">
+            <navLabel>
+                <text>INT. CORRIDOR</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidB506EB92BA5047089AFF1C488D301F4E" playOrder="13">
+            <navLabel>
+                <text>EXT. ALIEN LANDSCAPE - DAY</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidEAC80544B7BC4105BA41569161D9D5CD" playOrder="14">
+            <navLabel>
+                <text>EXT. COLONY COMPLEX</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid33E5F32D16164FF98D2C8B3932E7FDE0" playOrder="15">
+            <navLabel>
+                <text>INT. MAIN CONCOURSE - NEAR CONTROL BLOCK</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid6E610DCF20CA40DC93C9A922EAF869FA" playOrder="16">
+            <navLabel>
+                <text>INT. OPERATIONS ROOM - CONTROL BLOCK</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid7E64F5269831453CB0DC203EAD8B917C" playOrder="17">
+            <navLabel>
+                <text>SIMPSON.</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidFB2D5C4BB67C471A8E69A103A2B86F0D" playOrder="18">
+            <navLabel>
+                <text>EXT. ACHERON - THE MIDDLE OF NOWHERE - A SIX-WHEELED</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid047DF4F6CDEB4785B87F596DCA194B0C" playOrder="19">
+            <navLabel>
+                <text>TRACTOR - DAY</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid70ADE90F21AE4408903FE162E514710B" playOrder="20">
+            <navLabel>
+                <text>INT. TRACTOR</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidBFB2019D95864C84A8D87126769F23CC" playOrder="21">
+            <navLabel>
+                <text>EXT. TRACTOR</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidC88B1666AF4041C387BD0754F16EC774" playOrder="22">
+            <navLabel>
+                <text>INT./EXT. TRACTOR</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid273044C10A92420784C71FE44DFCC1E9" playOrder="23">
+            <navLabel>
+                <text>EXT. LANDSCAPE - NIGHT</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidFE07627E6C074E61B60C7BDFF43E6A20" playOrder="24">
+            <navLabel>
+                <text>INT. RIPLEY'S APARTMENT - GATEWAY - DAY</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid543D8B67E39949DCA46EC2725CE6795F" playOrder="25">
+            <navLabel>
+                <text>INT. CORRIDOR</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid623739072E804179AEB3913FE787AA72" playOrder="26">
+            <navLabel>
+                <text>INT. RIPLEY'S APARTMENT - A LITTLE LATER</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid038379D6612344D69633E361641C9CF5" playOrder="27">
+            <navLabel>
+                <text>EXT. ACHERON LANDSCAPE - NIGHT</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidC23A62E9E95A47898C212182E603CFDA" playOrder="28">
+            <navLabel>
+                <text>INT. APARTMENT</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid294FAB7F486644379772F8C0FD95EB6F" playOrder="29">
+            <navLabel>
+                <text>EXT. DEEP SPACE - THREE WEEKS LATER</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid22A30CDB44D0485BBA2F570CF65FA916" playOrder="30">
+            <navLabel>
+                <text>INT. CORRIDOR TO CARGO LOCK</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidA2DAF82A98834B2695B6673CF9D9DB87" playOrder="31">
+            <navLabel>
+                <text>INT. CARGO LOCK</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidA3FB8F89109C41CFB6DDCDCC4E09C060" playOrder="32">
+            <navLabel>
+                <text>INT. BRIDGE</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid7F2D50D6115145E697F965C8EBDFEDDF" playOrder="33">
+            <navLabel>
+                <text>INT. HYPERSLEEP VAULT</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid7D459DB0A17A4CCB947CF47334BC73A1" playOrder="34">
+            <navLabel>
+                <text>INT. HYPERSLEEP VAULT</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid91630A40461249C2B0DB8E048C4374F1" playOrder="35">
+            <navLabel>
+                <text>MASTER SERGEANT APONE   UNIT LEADER</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid7C2CD75ADF224C90A3A72DE636749C59" playOrder="36">
+            <navLabel>
+                <text>CORPORAL HICKS   B-TEAM LEADER</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidA4BB64E1413B4731A918BBBE1B1397F5" playOrder="37">
+            <navLabel>
+                <text>PRIVATE DRAKE   'SMART-GUN' OPERATOR</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidF381882554A8490997D1CF45BF8630B6" playOrder="38">
+            <navLabel>
+                <text>PRIVATE FROST   TROOPER</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid5FA12DF6D43D4C109B7B47584CD7A5A3" playOrder="39">
+            <navLabel>
+                <text>PRIVATE CROWE   TROOPER</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid998EE298694D4577A62AB2ADF5436B88" playOrder="40">
+            <navLabel>
+                <text>PRIVATE WIERZBOWSKI   TROOPER</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid13F9E8E50908444CB4108F9A47A0597C" playOrder="41">
+            <navLabel>
+                <text>INT. SHOWERS</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid7328F2783D9144E2B76477BD15EE83CC" playOrder="42">
+            <navLabel>
+                <text>INT. MESS HALL</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid073F5B2EE35E4B6C9782761129EED103" playOrder="43">
+            <navLabel>
+                <text>INT. READY ROOM - TIGHT ON APONE - ARMORY</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid1737943CF7184C67BF8801E14003547C" playOrder="44">
+            <navLabel>
+                <text>EXT. SPACE - ACHERON</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid455C93EBC74F4DC1A7380A3A90FF56F8" playOrder="45">
+            <navLabel>
+                <text>INT. BRIDGE</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid3340552421094757A49F73B21CAF2118" playOrder="46">
+            <navLabel>
+                <text>INT. LOADING BAY - TIGHT ON MASSIVE FORKS - CARGO LOCK</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid5B4E7C2C90C7422D94338235AF5116BC" playOrder="47">
+            <navLabel>
+                <text>INT. READY ROOM - ARMORY</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid8AEB0E4B1339490BBCF3CF60D0A63D93" playOrder="48">
+            <navLabel>
+                <text>INT. LOADING BAY - ANGLE ON BURKE AND GORMAN</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid3E30BC0048C543DBBE2FE6D0CFB574C7" playOrder="49">
+            <navLabel>
+                <text>INT. READY ROOM - ARMORY</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid168BD6B5CE8B4F0B886E2BFA9C0CCD71" playOrder="50">
+            <navLabel>
+                <text>INT. DROP-SHIP - APC</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidEF3B53F5858141518881D735E7A9CD63" playOrder="51">
+            <navLabel>
+                <text>EXT. SULACO</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidCFEAA7A9C1C947C8A815590857E23BDC" playOrder="52">
+            <navLabel>
+                <text>INT. COCKPIT</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidF8AE688F0AE14A6D855A0D11A0594F49" playOrder="53">
+            <navLabel>
+                <text>EXT. SULACO - DROP-SHIP</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid24C12F4CB83E49E7AD76A14745690A20" playOrder="54">
+            <navLabel>
+                <text>INT. DROP-SHIP - APC</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid03EE655258A04B4C9A82F99592788F6C" playOrder="55">
+            <navLabel>
+                <text>EXT. DROP-SHIP</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidE727D4BA7DCE4528BB33A57EB03D3359" playOrder="56">
+            <navLabel>
+                <text>INT. COCKPIT</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid57CD93055B7A4BD09982AB02FF6FB904" playOrder="57">
+            <navLabel>
+                <text>INT. HOLD - APC</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid6D37ED56C5E444899DB1FFEC68BD8931" playOrder="58">
+            <navLabel>
+                <text>INT. COCKPIT</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid80D25B1F8D4349EFB878B2F81029140F" playOrder="59">
+            <navLabel>
+                <text>EXT. DROP-SHIP</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid868249637A414F77B88B658A0DF09FA4" playOrder="60">
+            <navLabel>
+                <text>INT. HOLD - APC</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid60E4259EECA940A4B8779429D48F5ECE" playOrder="61">
+            <navLabel>
+                <text>EXT. SHIP - AP STATION</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid320580B33E734DDC93EAAA6CAF433CAE" playOrder="62">
+            <navLabel>
+                <text>INT. HOLD - APC</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidC6C9464CC1EA409C93FB1B0A9F282304" playOrder="63">
+            <navLabel>
+                <text>EXT. COLONY COMPLEX</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidDD4CA50BCBA240DE91372280A8D501A5" playOrder="64">
+            <navLabel>
+                <text>EXT. COLONY BUILDING</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidC2DF349EFEB54A428EF27C5A3F9645BC" playOrder="65">
+            <navLabel>
+                <text>INT. COLONY - MAIN CONCOURSE</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid5C42126AF0BC4A67B6972EA8F44FB88C" playOrder="66">
+            <navLabel>
+                <text>INT. APC</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidF620A6DF3AF44CDCBEC88559B7CB61DB" playOrder="67">
+            <navLabel>
+                <text>INT. MAIN CONCOURSE - SECOND LEVEL</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidCBA85193D4F64AFFAC85718101718FEE" playOrder="68">
+            <navLabel>
+                <text>INT. APC</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid0F07CF137803479D82D09F393928D303" playOrder="69">
+            <navLabel>
+                <text>INT. SECOND LEVEL</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid7C516E6118344B4E88C0025F5B57DE23" playOrder="70">
+            <navLabel>
+                <text>INT. LOWER LEVEL - QUARTERS</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid7A71614F89A142FE953A9A05D902BC7E" playOrder="71">
+            <navLabel>
+                <text>INT. DROP-SHIP - APC</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid906DA71D61D04FD4A13A60D27540F749" playOrder="72">
+            <navLabel>
+                <text>INT. FIRST LEVEL</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid685CF6806ED046E3A980847103DCB0C3" playOrder="73">
+            <navLabel>
+                <text>INT. APC</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid7EA38DD6202D47E88A3999B4099510FB" playOrder="74">
+            <navLabel>
+                <text>INT. FIRST LEVEL</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidBFF7F31508E2472F91ED8B6243BA1285" playOrder="75">
+            <navLabel>
+                <text>EXT. COLONY COMPLEX</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid43F75521B87247F88E14F4CED6E21F33" playOrder="76">
+            <navLabel>
+                <text>INT. APC</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidB7E6ED30235740B68EF0C4C6F65C4474" playOrder="77">
+            <navLabel>
+                <text>EXT. APC - SOUTH LOCK</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidC580FB706F684FB7A81DAD38A1BD2532" playOrder="78">
+            <navLabel>
+                <text>INT. CONTROL BLOCK CORRIDOR</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid91819445C7724784A3587E63F49CCDB5" playOrder="79">
+            <navLabel>
+                <text>INT. CORRIDOR</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid6CB517E133E14AC8B05AEDCDC9AEA56C" playOrder="80">
+            <navLabel>
+                <text>INT. MEDICAL WING</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid31CE88A5D2D740FDA9107CE9AABED19C" playOrder="81">
+            <navLabel>
+                <text>INT. CORRIDOR</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidBC923A81DEF746F89C0E8AF39F0A948B" playOrder="82">
+            <navLabel>
+                <text>INT. KITCHENS</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid37BC037316874E768A6B7B2C3ACCD49D" playOrder="83">
+            <navLabel>
+                <text>STUFFED ANIMALS, DOLLS, CHEAP JEWELRY, COMIC BOOKS, EMPTY</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidF49AC3C3CE684F18B07F426468A84B87" playOrder="84">
+            <navLabel>
+                <text>INT. OPERATIONS - ON NEWT - MANAGER'S OFFICE</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidF315322C33F7416B9F490DF5EB343B71" playOrder="85">
+            <navLabel>
+                <text>INT. OPERATIONS</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid887025FCE28045729D48AB326497550E" playOrder="86">
+            <navLabel>
+                <text>INT. OFFICE</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid8E0E99EF3CA84D948FE4FFE8575A81E8" playOrder="87">
+            <navLabel>
+                <text>INT. OPERATIONS</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid8E048540D42C40B4A8E9F4FBB1A74528" playOrder="88">
+            <navLabel>
+                <text>EXT. ACHERON - TWILIGHT</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidC550126B7C1845E3BD2C05E624095B24" playOrder="89">
+            <navLabel>
+                <text>INT. APC</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid62F5DAD2FE774F0EA4813AD1736F2274" playOrder="90">
+            <navLabel>
+                <text>EXT. APC/STATION</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidE8389E37A68B4A84ABE49B4B24CB8EBF" playOrder="91">
+            <navLabel>
+                <text>INT. APC</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid4AF954496B6140D38F39891AF9D23F2B" playOrder="92">
+            <navLabel>
+                <text>INT. COMPLEX</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid7D3321B9D427471A8A6319147B488D6C" playOrder="93">
+            <navLabel>
+                <text>INT. APC</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid5E4CD73A2E48494FBBF176E0B1A8FA6D" playOrder="94">
+            <navLabel>
+                <text>INT. ALIEN STRUCTURE</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid116D05CE706C4AC3B895F191E8B1906E" playOrder="95">
+            <navLabel>
+                <text>INT. APC</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid12C88735100A49A7A3C5AB09DD66AD8F" playOrder="96">
+            <navLabel>
+                <text>INT. ALIEN STRUCTURE</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidA1BAC279ECE94903BBCE7D8177C29915" playOrder="97">
+            <navLabel>
+                <text>INT. APC</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid073F6F9960814433BB809065D3B1795E" playOrder="98">
+            <navLabel>
+                <text>INT. ALIEN STRUCTURE</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidB4F625A02A0A4D7999680E40410833DF" playOrder="99">
+            <navLabel>
+                <text>INT. LARGER CHAMBER</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidAC76BF0903A64188825CE2371ECBF242" playOrder="100">
+            <navLabel>
+                <text>INT. APC</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid1A6EC2F3E64B44BA934FB61FCE874D53" playOrder="101">
+            <navLabel>
+                <text>INT. COCOON CHAMBER</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid43A150039D474AFB90E3A64044644318" playOrder="102">
+            <navLabel>
+                <text>INT. APC</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid1EEE350E88EC4ED5895AF53B333AB5E3" playOrder="103">
+            <navLabel>
+                <text>INT. COCOON CHAMBER - TIGHT ON SEVERAL WALLS AND</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid918D961658F346B4888E1C5D4CB7B520" playOrder="104">
+            <navLabel>
+                <text>INT. APC</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidEA9980D4C7E44A27B31FD2115E2F38CD" playOrder="105">
+            <navLabel>
+                <text>INT. COCOON CHAMBER</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid2FFB416643BE43728029290A3E739853" playOrder="106">
+            <navLabel>
+                <text>INT. APC</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidB5932E364A424C58AFBA51B1579FEE8E" playOrder="107">
+            <navLabel>
+                <text>GET THEM OUT OF THERE!  DO IT</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid1FA219FEFB1D4463829B25DAFD1E0176" playOrder="108">
+            <navLabel>
+                <text>NOW!</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidBBE0890BC15B4F6ABA8CF6484014670B" playOrder="109">
+            <navLabel>
+                <text>INT. COCOON CHAMBER</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidC70382C3B9F34EE0BAEF7F5419F459DE" playOrder="110">
+            <navLabel>
+                <text>INT. APC</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidB66BA80181E7498998F848CE087C9F8E" playOrder="111">
+            <navLabel>
+                <text>APC.</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid41AAC7A7D635498FB36BAE2AF670CEC6" playOrder="112">
+            <navLabel>
+                <text>EXT. APC</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid6488289A607440579ACADE4BD9B6B161" playOrder="113">
+            <navLabel>
+                <text>INT. APC</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid9DA96771ABD840EBB690E6C841637220" playOrder="114">
+            <navLabel>
+                <text>INT. ALIEN STRUCTURE</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidF7E2C7FD63CA4FFEAAA38D82ABDEEB2C" playOrder="115">
+            <navLabel>
+                <text>INT. COCOON CHAMBER</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidD59425E2EEE74211918582AED81BBDD5" playOrder="116">
+            <navLabel>
+                <text>INT. APC</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid959B4EAE507949DBA6874E74C1A26116" playOrder="117">
+            <navLabel>
+                <text>EXT. APC</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidADD658DD59954C459047C5C7578E0967" playOrder="118">
+            <navLabel>
+                <text>INT./EXT. APC   104-</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid7349DC0DA12341E4B61CBEA0A9185C32" playOrder="119">
+            <navLabel>
+                <text>EXT. APC</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid762FCD3C589D4BD8AAAC69A2B43A5034" playOrder="120">
+            <navLabel>
+                <text>INT. APC</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidE8139D14A1734A6DB46005AF2BA58B3B" playOrder="121">
+            <navLabel>
+                <text>INT. MED LAB</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid69B46A892FCB401BA292629967D026E2" playOrder="122">
+            <navLabel>
+                <text>EXT. COLONY - DROP-SHIP</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid583DB9F1227349A0B39F13DE9BD66E27" playOrder="123">
+            <navLabel>
+                <text>INT. APC</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidEC8C3C409A394980B6237F06DF63DF2F" playOrder="124">
+            <navLabel>
+                <text>EXT. DROP-SHIP</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidFEBDA78BE9BB4CF0A361160F1BAB2966" playOrder="125">
+            <navLabel>
+                <text>EXT. APC</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid0D7D8C96E7204FC38B7F152ED4A2E660" playOrder="126">
+            <navLabel>
+                <text>INT. DROP-SHOP COCKPIT</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid48792D07A26249F3A1B7D373C6211662" playOrder="127">
+            <navLabel>
+                <text>EXT. APC - LANDSCAPE - STATION</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidF3370AD2C1E64DF38425FB42E566EDA7" playOrder="128">
+            <navLabel>
+                <text>EXT. CONTROL BLOCK - NIGHT</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidA35EF6398D864DC98CB9F44B9958E996" playOrder="129">
+            <navLabel>
+                <text>INT. OPERATIONS</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid1B5C7BCBB8D845F48459A3AF0C0FB2C0" playOrder="130">
+            <navLabel>
+                <text>INT. OPERATIONS</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid593CF5E1C28648AFA7A3780CEE8D3724" playOrder="131">
+            <navLabel>
+                <text>INT. SERVICE TUNNEL - SUBLEVEL</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidB79FABFB67C04F07BFE20F9718059F1E" playOrder="132">
+            <navLabel>
+                <text>INT. SECOND LEVEL CORRIDOR</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid3499052AE917436FB07A1CFB288B6A77" playOrder="133">
+            <navLabel>
+                <text>EMERGENCY</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid930FFFD0F9644480B41E7E38C1AF8D3E" playOrder="134">
+            <navLabel>
+                <text>LOCATING BEEPER.</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidCB20295FD4114E0581A8365D89404A84" playOrder="135">
+            <navLabel>
+                <text>EXT. CONTROL BLOCK</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid8CCD2EDD3473487E83A1F0B0764DEFC9" playOrder="136">
+            <navLabel>
+                <text>INT. CORRIDOR</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidC6CADA6094EB42B0BAC5898C1B23CC7F" playOrder="137">
+            <navLabel>
+                <text>INT. MED LAB ANNEX - OPERATING ROOM</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid8945461E75A24A9D931F3C1454B6040B" playOrder="138">
+            <navLabel>
+                <text>INT. MED LAB</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid2CDCF151735549B6B590F78BB2D7F2B3" playOrder="139">
+            <navLabel>
+                <text>INT. MED LAB ANNEX</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidECBBBAA430624B98A3C5AE56E565E56C" playOrder="140">
+            <navLabel>
+                <text>INT. CORRIDOR</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid89C0DC0EFF3E41C58C116F849E27F50D" playOrder="141">
+            <navLabel>
+                <text>INT. OPERATIONS</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid01BCEE950D0A4B6F9C2ACD4A387E7FBD" playOrder="142">
+            <navLabel>
+                <text>INT. SERVICE TUNNEL - TIGHT ON RSS GUNS</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid2166687493DA4DA893C663C2A739210B" playOrder="143">
+            <navLabel>
+                <text>INT. OPERATIONS</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidE18DB1873B5C4C148F9CC53C1AA775B3" playOrder="144">
+            <navLabel>
+                <text>INT. OPERATIONS - MINUTES LATER</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid88133DE76F2243238E813E5865FBD3C6" playOrder="145">
+            <navLabel>
+                <text>INT. MED LAB</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid041E16DDD993404C83AC71A4CE41185B" playOrder="146">
+            <navLabel>
+                <text>INT. CONDUIT</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid93C151577CD34C27A8ACE23FC0F0F65D" playOrder="147">
+            <navLabel>
+                <text>INT. MED LAB</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid52F78BB638F44EDC828D44083794980E" playOrder="148">
+            <navLabel>
+                <text>INT. OPERATIONS</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid655D5E4B2B1944E082C8BCD46D02F8CD" playOrder="149">
+            <navLabel>
+                <text>INT. CONDUIT</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid72809026729140CBB689B5FE36DB1D50" playOrder="150">
+            <navLabel>
+                <text>INT. OPERATIONS</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid8215DE4E7E064099A8FE71191394E780" playOrder="151">
+            <navLabel>
+                <text>CLACK.</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid876B5274CCEB42B080B8320B2EB89889" playOrder="152">
+            <navLabel>
+                <text>INT. CORRIDOR</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid4D54B8FE391E40E48C81E890361D88C1" playOrder="153">
+            <navLabel>
+                <text>I...</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid7237EFAB495F4750A08FB97DB33DFABB" playOrder="154">
+            <navLabel>
+                <text>INT. MED LAB - ANNEX</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid8EEDFFB836A340C4984054A32383D4A0" playOrder="155">
+            <navLabel>
+                <text>INT. MED LAB - O.R.</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidF60F1DA4135744A48F5AFFCAC7318715" playOrder="156">
+            <navLabel>
+                <text>EXT. UP-LINK TOWER - VIEW OF AP STATION</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidAD653EE2224B4DADA1093C28F036957A" playOrder="157">
+            <navLabel>
+                <text>INT. SULACO CARGO LOCK - IN ORBIT</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid11E0A2362A7C44E081720B0DB576ADBB" playOrder="158">
+            <navLabel>
+                <text>INT. OPERATING ROOM - TIGHT ON RIPLEY - MED LAB</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidC78346D2BF33448EB6AF5E0BBC16FE57" playOrder="159">
+            <navLabel>
+                <text>SQUEAL.</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid3BB831F2E8C94C2A8AC2169C561A70FE" playOrder="160">
+            <navLabel>
+                <text>INT. OPERATIONS - TIGHT ON VIDEO MONITOR</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid9F6E04301619457B96663C0F5EDFE450" playOrder="161">
+            <navLabel>
+                <text>INT. OPERATING ROOM</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid7E2737ED8FBF4DF7A6E5821349B8CC4E" playOrder="162">
+            <navLabel>
+                <text>INT. OPERATIONS</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid4F5D47ECA3914BC6901B5F71611BA784" playOrder="163">
+            <navLabel>
+                <text>INT. OPERATING ROOM</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid835A8086BA1145849AE3C81EB9617545" playOrder="164">
+            <navLabel>
+                <text>INT. OPERATIONS - ANGLE ON HUDSON</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid27D3B7DCC7904F5BACE682D0742C576E" playOrder="165">
+            <navLabel>
+                <text>AIMED RIGHT AT CAMERA.</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid70957DED8936479CB699F8C215AFC23D" playOrder="166">
+            <navLabel>
+                <text>INT. CORRIDOR</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid66135E603F934F2A85A520626B62F372" playOrder="167">
+            <navLabel>
+                <text>INT. OPERATIONS</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidCF85BA50EE764727A3047F2CC12B7EAF" playOrder="168">
+            <navLabel>
+                <text>INT. CORRIDOR</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidFC6A7E733FFD4AF095EB0340BB65485C" playOrder="169">
+            <navLabel>
+                <text>INT. OPERATIONS</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid181C3E9892AE4268838F97040C83E7E5" playOrder="170">
+            <navLabel>
+                <text>HICKS' P.O.V.</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid0581C593FF724EEA9348248D391A1847" playOrder="171">
+            <navLabel>
+                <text>INT. MED LAB CORRIDOR</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid8F89C4DCDB0846AE9AA06AEDF6613F9C" playOrder="172">
+            <navLabel>
+                <text>INT. OPERATIONS</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid756893CE3F4C4314A1EB0E5B69FC9DEC" playOrder="173">
+            <navLabel>
+                <text>INT. CORRIDOR</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid480E8CB985CB42D88130F8290BC1D0A5" playOrder="174">
+            <navLabel>
+                <text>INT. MED LAB ANNEX</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid2C422A8DECA84EC1B5A9446F6EB97730" playOrder="175">
+            <navLabel>
+                <text>INT. MED LAB</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid52C06C037FF546BC9578FFF1352BD33E" playOrder="176">
+            <navLabel>
+                <text>INT. MED LAB ANNEX</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidA64286E8BA7E4A729278BFDB7A9B5261" playOrder="177">
+            <navLabel>
+                <text>EXT. UP-LINK RELAY - LANDING FIELD</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidFC00B008B7004B35B523E9F2EDEEE7E4" playOrder="178">
+            <navLabel>
+                <text>INT. AIR DUCT</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidC654829885464631904BC95EB618F3B6" playOrder="179">
+            <navLabel>
+                <text>INT. SERVICE WAY</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid49C4F4080950458EA6CB8A4F81AE4FE2" playOrder="180">
+            <navLabel>
+                <text>INT. CHUTE</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid5F6788F2786449A3AF63BBFAF74B1FBB" playOrder="181">
+            <navLabel>
+                <text>INT. SUBBASEMENT</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid6F252362D3B24B1A8CB49BAE004C84F0" playOrder="182">
+            <navLabel>
+                <text>INT. SERVICE TUNNEL</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidA87E16A9FF134047B378434080770493" playOrder="183">
+            <navLabel>
+                <text>INT. SUBBASEMENT</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidED219A0F88184215AC4DD6013442D732" playOrder="184">
+            <navLabel>
+                <text>INT. SERVICE TUNNEL</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidFEEA9FEACA284F8F8218A65FB5F3DD2D" playOrder="185">
+            <navLabel>
+                <text>EXT. LANDING FIELD</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidD1579937E12346D88AAF79C1E1B32431" playOrder="186">
+            <navLabel>
+                <text>EXT. PROCESSING STATION</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid9D824AB1A633437BA769BB88AC847334" playOrder="187">
+            <navLabel>
+                <text>INT. DROP-SHIP</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid076B7E7805E3445D8C8E97D3B5AB7C04" playOrder="188">
+            <navLabel>
+                <text>INT. FREIGHT ELEVATOR</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidACCD8FDD781A4CFFB3B7863E2FAA8B5E" playOrder="189">
+            <navLabel>
+                <text>INT. CORRIDOR</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid29EA7BECB5BA4BA3BA88321FD7331FBB" playOrder="190">
+            <navLabel>
+                <text>INT. CATACOMB</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid73550AD254B040F1829066DDD009F674" playOrder="191">
+            <navLabel>
+                <text>INT. EGG CHAMBER</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid544CE80C052D495785DA230430996CD3" playOrder="192">
+            <navLabel>
+                <text>SCREAMS.</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidE2DDEDD9644641A78541DFAE4E360EC6" playOrder="193">
+            <navLabel>
+                <text>INT. CATACOMBS</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidB4170B49BA7647C68C3BB8E5ED234D5C" playOrder="194">
+            <navLabel>
+                <text>INT. EGG CHAMBER</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid2D79BAB757074140ABAEC200A5C9AF07" playOrder="195">
+            <navLabel>
+                <text>INT. CATACOMBS</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid1F29BD9D05CE454094B0A5EB4875AD3F" playOrder="196">
+            <navLabel>
+                <text>INT. EGG CHAMBER</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid2115884802E243128B06CCAB53A93796" playOrder="197">
+            <navLabel>
+                <text>INT. CATACOMBS - CORRIDOR   178-</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid59296AB2B6314BA7B825325117AEA24C" playOrder="198">
+            <navLabel>
+                <text>INT. SECOND LEVEL</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid5625B16B0F99499FA34E0F165528F70F" playOrder="199">
+            <navLabel>
+                <text>INT. STAIRWELL</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidED7E336CAC33435481F1134DD7188863" playOrder="200">
+            <navLabel>
+                <text>INT. CORRIDOR - ELEVATORS   182-</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid8272C6258FE34612BFBDA0B150BA03B9" playOrder="201">
+            <navLabel>
+                <text>INT. STAIRWELL</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid26E7222B1B294D8ABF4D559B5775940C" playOrder="202">
+            <navLabel>
+                <text>EXT. LANDING PLATFORM</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidFD08964A13AE4606BEB75F32BF007C65" playOrder="203">
+            <navLabel>
+                <text>BISHOP!</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid5B2C3AEADE2F4122AD3A2292827581EA" playOrder="204">
+            <navLabel>
+                <text>INT./EXT. DROP-SHIP - STATION   186-</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid5BE1433F57B34FECB674F826545F2318" playOrder="205">
+            <navLabel>
+                <text>EXT. STRATOSPHERE</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid9DACDDAA91DB424AA0092815B841B3AB" playOrder="206">
+            <navLabel>
+                <text>INT. DROP-SHIP</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidA5B0CB4331BB486084943658D3AD8E24" playOrder="207">
+            <navLabel>
+                <text>INT. SULACO CARGO LOCK - IN ORBIT - LATER</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid678004D002644D2BB7854E1E18DF362E" playOrder="208">
+            <navLabel>
+                <text>INT. DROP-SHIP</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidA469A246DC6447BE85E95F6ADF0B27C5" playOrder="209">
+            <navLabel>
+                <text>INT. CARGO LOCK - DROP-SHIP</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid5D864E362F054C5E8677F59B5559C0DB" playOrder="210">
+            <navLabel>
+                <text>INT. DARK CHAMBER</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid48463D4BD40444F3BED336489FB57310" playOrder="211">
+            <navLabel>
+                <text>INT. CARGO LOCK</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid5A71457438E2418F8843E05873E509E5" playOrder="212">
+            <navLabel>
+                <text>INT. CHANNEL</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidCA7339A6242F4B32BA7CFF0BEB9FF122" playOrder="213">
+            <navLabel>
+                <text>INT. CARGO LOCK</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidE006D3D2B69B4251BE5F247AF337AB47" playOrder="214">
+            <navLabel>
+                <text>CLANG, SCREECH.</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid5A94311A09C143348507DC2C5BE15241" playOrder="215">
+            <navLabel>
+                <text>INT. LOADING LOCK</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid7D871D331D9F4E1B806ACB43FE290AD6" playOrder="216">
+            <navLabel>
+                <text>INT. CARGO BAY</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneidA44A22ADA7604AD38EDEF3EE9B6053A4" playOrder="217">
+            <navLabel>
+                <text>INT. LOADING LOCK</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid3008C1A6D8494E0F80CCD50ABD5CF1B5" playOrder="218">
+            <navLabel>
+                <text>INT. CORRIDOR</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+        <navPoint class="section" id="sceneid2CCFD2052A4042FF8A5D792ACBB3A60C" playOrder="219">
+            <navLabel>
+                <text>THE END</text>
+            </navLabel>
+            <content src="main-1.xhtml"></content>
+        </navPoint>
+    </navMap>
+</ncx>

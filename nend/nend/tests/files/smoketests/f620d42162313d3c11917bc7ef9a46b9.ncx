@@ -1,0 +1,127 @@
+<ncx:ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <ncx:head>
+    <ncx:meta name="cover" content="cover"/>
+    <ncx:meta name="dtb:depth" content="-1"/>
+    <ncx:meta name="dtb:totalPageCount" content="0"/>
+    <ncx:meta name="dtb:maxPageNumber" content="0"/>
+  </ncx:head>
+  <ncx:docTitle>
+    <ncx:text>Advanced Algebra II: Activities and Homework</ncx:text>
+  </ncx:docTitle>
+  <ncx:navMap>
+    <ncx:navPoint id="id295918" playOrder="1">
+      <ncx:navLabel>
+        <ncx:text>Advanced Algebra II: Activities and Homework</ncx:text>
+      </ncx:navLabel>
+      <ncx:content src="index.html"/>
+      <ncx:navPoint id="id370156" playOrder="2">
+        <ncx:navLabel>
+          <ncx:text>The Philosophical Introduction No One Reads</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="pr01.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id370454" playOrder="3">
+        <ncx:navLabel>
+          <ncx:text>How to Use Advanced Algebra II</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="pr02.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id379573" playOrder="4">
+        <ncx:navLabel>
+          <ncx:text>1. Functions</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch01.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id409478" playOrder="25">
+        <ncx:navLabel>
+          <ncx:text>2. Inequalities and Absolute Values</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch02.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id418609" playOrder="36">
+        <ncx:navLabel>
+          <ncx:text>3. Simultaneous Equations</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch03.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id431497" playOrder="48">
+        <ncx:navLabel>
+          <ncx:text>4. Quadratics</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch04.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id461852" playOrder="68">
+        <ncx:navLabel>
+          <ncx:text>5. Exponents</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch05.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id490916" playOrder="78">
+        <ncx:navLabel>
+          <ncx:text>6. Logarithms</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch06.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id518700" playOrder="87">
+        <ncx:navLabel>
+          <ncx:text>7. Rational Expressions</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch07.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id539670" playOrder="94">
+        <ncx:navLabel>
+          <ncx:text>8. Radicals</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch08.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id573330" playOrder="105">
+        <ncx:navLabel>
+          <ncx:text>9. Imaginary Numbers</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch09.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id590883" playOrder="114">
+        <ncx:navLabel>
+          <ncx:text>10. Matrices</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch10.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id657195" playOrder="133">
+        <ncx:navLabel>
+          <ncx:text>11. Modeling Data with Functions</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch11.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id664690" playOrder="141">
+        <ncx:navLabel>
+          <ncx:text>12. Conics</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch12.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id680167" playOrder="156">
+        <ncx:navLabel>
+          <ncx:text>13. Sequences and Series</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch13.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id688862" playOrder="163">
+        <ncx:navLabel>
+          <ncx:text>14. Probability</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch14.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id693171" playOrder="172">
+        <ncx:navLabel>
+          <ncx:text>A. Attributions</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="apa.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id703869" playOrder="173">
+        <ncx:navLabel>
+          <ncx:text>About Connexions</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="co01.html"/>
+      </ncx:navPoint>
+    </ncx:navPoint>
+  </ncx:navMap>
+</ncx:ncx>

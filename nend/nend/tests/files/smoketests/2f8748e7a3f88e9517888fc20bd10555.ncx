@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="9780984297702" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Crush It!</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="title_page" playOrder="1">
+      <navLabel>
+        <text>Crush It!</text>
+      </navLabel>
+      <content src="title_page.xhtml" />
+    </navPoint>
+    <navPoint id="chapter01" playOrder="02">
+      <navLabel>
+        <text>Passion is Everything</text>
+      </navLabel>
+      <content src="chap01.xhtml" />
+    </navPoint>
+    <navPoint id="chapter02" playOrder="03">
+      <navLabel>
+        <text>Success is in Your DNA</text>
+      </navLabel>
+      <content src="chap01.xhtml#com_apple_itunes_epub_end0000" />
+    </navPoint>
+    <navPoint id="chapter03" playOrder="04">
+      <navLabel>
+        <text>Build Your Personal Brand</text>
+      </navLabel>
+      <content src="chap01.xhtml#com_apple_itunes_epub_end0001" />
+    </navPoint>
+    <navPoint id="chapter04" playOrder="05">
+      <navLabel>
+        <text>A Whole New World</text>
+      </navLabel>
+      <content src="chap01.xhtml#com_apple_itunes_epub_end0002" />
+    </navPoint>
+    <navPoint id="chapter05" playOrder="06">
+      <navLabel>
+        <text>Create Great Content</text>
+      </navLabel>
+      <content src="chap01.xhtml#com_apple_itunes_epub_end0003" />
+    </navPoint>
+    <navPoint id="chapter06" playOrder="07">
+      <navLabel>
+        <text>Choose Your Platform</text>
+      </navLabel>
+      <content src="chap01.xhtml#com_apple_itunes_epub_end0004" />
+    </navPoint>
+    <navPoint id="chapter07" playOrder="08">
+      <navLabel>
+        <text>Keep it Real... Very Real</text>
+      </navLabel>
+      <content src="chap01.xhtml#com_apple_itunes_epub_end0005" />
+    </navPoint>
+    <navPoint id="chapter08" playOrder="09">
+      <navLabel>
+        <text>Create Community: Digging Your Internet Trench</text>
+      </navLabel>
+      <content src="chap01.xhtml#com_apple_itunes_epub_end0006" />
+    </navPoint>
+    <navPoint id="chapter09" playOrder="10">
+      <navLabel>
+        <text>The Best Marketing Strategy Ever</text>
+      </navLabel>
+      <content src="chap01.xhtml#com_apple_itunes_epub_end0007" />
+    </navPoint>
+    <navPoint id="chapter10" playOrder="11">
+      <navLabel>
+        <text>Make the World Listen</text>
+      </navLabel>
+      <content src="chap01.xhtml#com_apple_itunes_epub_end0008" />
+    </navPoint>
+    <navPoint id="chapter11" playOrder="12">
+      <navLabel>
+        <text>Start Monetizing</text>
+      </navLabel>
+      <content src="chap01.xhtml#com_apple_itunes_epub_end0009" />
+    </navPoint>
+    <navPoint id="chapter12" playOrder="13">
+      <navLabel>
+        <text>Roll With It</text>
+      </navLabel>
+      <content src="chap01.xhtml#com_apple_itunes_epub_end0010" />
+    </navPoint>
+    <navPoint id="chapter13" playOrder="14">
+      <navLabel>
+        <text>Legacy is Greater than Currency</text>
+      </navLabel>
+      <content src="chap01.xhtml#com_apple_itunes_epub_end0011" />
+    </navPoint>
+    <navPoint id="cc-credits" playOrder="15">
+      <navLabel>
+        <text>Credits &amp; Copyright</text>
+      </navLabel>
+      <content src="chap01.xhtml#com_apple_itunes_epub_end0012" />
+    </navPoint>
+  </navMap>
+</ncx>
+

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content=""/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>The Hound of the Baskervilles</text>
+  </docTitle>  
+  <navMap>
+    
+            <navPoint id="np-1" playOrder="1">
+              <navLabel>
+                <text>Cover</text>
+              </navLabel>
+              <content src="the_hound_of_the_baskervilles-AAH812_cover.html"/>
+            </navPoint>
+        
+            <navPoint id="np-2" playOrder="2">
+              <navLabel>
+                <text>Title Page</text>
+              </navLabel>
+              <content src="the_hound_of_the_baskervilles-AAH812_booktitlepage.html"/>
+            </navPoint>
+        
+            <navPoint id="np-3" playOrder="3">
+              <navLabel>
+                <text>Copyright</text>
+              </navLabel>
+              <content src="the_hound_of_the_baskervilles-AAH812_copyright.html"/>
+            </navPoint>
+        
+            <navPoint id="np-4" playOrder="4">
+              <navLabel>
+                <text>Introduction</text>
+              </navLabel>
+              <content src="the_hound_of_the_baskervilles-AAH812_introduction.html"/>
+            </navPoint>
+        
+            <navPoint id="np-5" playOrder="5">
+              <navLabel>
+                <text>The: Hound: Of The: Baskervilles</text>
+              </navLabel>
+              <content src="the_hound_of_the_baskervilles-AAH812_part_01.html"/>
+        
+            <navPoint id="np-6" playOrder="6">
+              <navLabel>
+                <text>1: Mr. Sherlock Holmes</text>
+              </navLabel>
+              <content src="the_hound_of_the_baskervilles-AAH812_chapter_01.html"/>
+            </navPoint>
+        
+            <navPoint id="np-7" playOrder="7">
+              <navLabel>
+                <text>2: The Curse Of The Baskervilles</text>
+              </navLabel>
+              <content src="the_hound_of_the_baskervilles-AAH812_chapter_02.html"/>
+            </navPoint>
+        
+            <navPoint id="np-8" playOrder="8">
+              <navLabel>
+                <text>3: The Problem</text>
+              </navLabel>
+              <content src="the_hound_of_the_baskervilles-AAH812_chapter_03.html"/>
+            </navPoint>
+        
+            <navPoint id="np-9" playOrder="9">
+              <navLabel>
+                <text>4: Sir Henry Baskerville</text>
+              </navLabel>
+              <content src="the_hound_of_the_baskervilles-AAH812_chapter_04.html"/>
+            </navPoint>
+        
+            <navPoint id="np-10" playOrder="10">
+              <navLabel>
+                <text>5: Three Broken Threads</text>
+              </navLabel>
+              <content src="the_hound_of_the_baskervilles-AAH812_chapter_05.html"/>
+            </navPoint>
+        
+            <navPoint id="np-11" playOrder="11">
+              <navLabel>
+                <text>6: Baskerville Hall</text>
+              </navLabel>
+              <content src="the_hound_of_the_baskervilles-AAH812_chapter_06.html"/>
+            </navPoint>
+        
+            <navPoint id="np-12" playOrder="12">
+              <navLabel>
+                <text>7: The Stapletons Of Merripit House</text>
+              </navLabel>
+              <content src="the_hound_of_the_baskervilles-AAH812_chapter_07.html"/>
+            </navPoint>
+        
+            <navPoint id="np-13" playOrder="13">
+              <navLabel>
+                <text>8: First Report Of Dr. Watson</text>
+              </navLabel>
+              <content src="the_hound_of_the_baskervilles-AAH812_chapter_08.html"/>
+            </navPoint>
+        
+            <navPoint id="np-14" playOrder="14">
+              <navLabel>
+                <text>9: The Light Upon The Moor</text>
+              </navLabel>
+              <content src="the_hound_of_the_baskervilles-AAH812_chapter_09.html"/>
+            </navPoint>
+        
+            <navPoint id="np-15" playOrder="15">
+              <navLabel>
+                <text>10: Extract From The Diary Of Dr. Watson</text>
+              </navLabel>
+              <content src="the_hound_of_the_baskervilles-AAH812_chapter_10.html"/>
+            </navPoint>
+        
+            <navPoint id="np-16" playOrder="16">
+              <navLabel>
+                <text>11: The Man On The Tor</text>
+              </navLabel>
+              <content src="the_hound_of_the_baskervilles-AAH812_chapter_11.html"/>
+            </navPoint>
+        
+            <navPoint id="np-17" playOrder="17">
+              <navLabel>
+                <text>12: Death On The Moor</text>
+              </navLabel>
+              <content src="the_hound_of_the_baskervilles-AAH812_chapter_12.html"/>
+            </navPoint>
+        
+            <navPoint id="np-18" playOrder="18">
+              <navLabel>
+                <text>13: Fixing The Nets</text>
+              </navLabel>
+              <content src="the_hound_of_the_baskervilles-AAH812_chapter_13.html"/>
+            </navPoint>
+        
+            <navPoint id="np-19" playOrder="19">
+              <navLabel>
+                <text>14: The Hound Of The Baskervilles</text>
+              </navLabel>
+              <content src="the_hound_of_the_baskervilles-AAH812_chapter_14.html"/>
+            </navPoint>
+        
+            <navPoint id="np-20" playOrder="20">
+              <navLabel>
+                <text>15: A Retrospection</text>
+              </navLabel>
+              <content src="the_hound_of_the_baskervilles-AAH812_chapter_15.html"/>
+            </navPoint>
+        </navPoint>
+            <navPoint id="np-21" playOrder="21">
+              <navLabel>
+                <text>About the Publisher</text>
+              </navLabel>
+              <content src="the_hound_of_the_baskervilles-AAH812_aboutthepublisher.html"/>
+            </navPoint>
+        
+  </navMap>
+</ncx>

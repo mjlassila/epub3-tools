@@ -1,0 +1,441 @@
+<?xml version="1.0"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="a8aee3eb-9c92-2e0a-6371-ed4690b13da2"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>EPUB Best Practices</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navpoint" playOrder="1">
+      <navLabel>
+        <text>Introduction</text>
+      </navLabel>
+      <content src="Introduction.xhtml"/>
+			<navPoint id="navpoint-1" playOrder="2">
+				<navLabel>
+					<text>Intended Audience</text>
+				</navLabel>
+				<content src="Introduction.xhtml#toc-anchor-1"/>
+			</navPoint>
+			<navPoint id="navpoint-2" playOrder="3">
+				<navLabel>
+					<text>EPUB Overview</text>
+				</navLabel>
+				<content src="Introduction.xhtml#toc-anchor-2"/>
+			</navPoint>
+      <navPoint id="navpoint-3" playOrder="4">
+        <navLabel>
+          <text>EPUB Specifications</text>
+        </navLabel>
+        <content src="Introduction.xhtml#toc-anchor-3"/>
+      </navPoint>
+      <navPoint id="navpoint-4" playOrder="5">
+        <navLabel>
+          <text>Adobe Digital Editions and EPUB</text>
+        </navLabel>
+        <content src="Introduction.xhtml#toc-anchor-4"/>
+      </navPoint>
+      <navPoint id="navpoint-5" playOrder="6">
+        <navLabel>
+          <text>The advantages of EPUB and PDF</text>
+        </navLabel>
+        <content src="Introduction.xhtml#toc-anchor-5"/>
+      </navPoint>
+      <navPoint id="navpoint-6" playOrder="7">
+        <navLabel>
+          <text>An open standard for digital publications</text>
+        </navLabel>
+        <content src="Introduction.xhtml#toc-anchor-6"/>
+      </navPoint>
+      <navPoint id="navpoint-7" playOrder="8">
+        <navLabel>
+          <text>Creating EPUB files in Adobe InDesign CS3</text>
+        </navLabel>
+        <content src="Introduction.xhtml#toc-anchor-7"/>
+      </navPoint>
+      <navPoint id="navpoint-8" playOrder="9">
+        <navLabel>
+          <text>Creating EPUB files with Content Conversion Houses</text>
+        </navLabel>
+        <content src="Introduction.xhtml#toc-anchor-8"/>
+      </navPoint>
+      <navPoint id="navpoint-9" playOrder="10">
+        <navLabel>
+          <text>EPUB and multimedia</text>
+        </navLabel>
+        <content src="Introduction.xhtml#toc-anchor-9"/>
+      </navPoint>
+      <navPoint id="navpoint-10" playOrder="11">
+        <navLabel>
+          <text>Tools supporting EPUB and validation</text>
+        </navLabel>
+        <content src="Introduction.xhtml#toc-anchor-10"/>
+      </navPoint>
+      <navPoint id="navpoint-11" playOrder="12">
+        <navLabel>
+          <text>Accessibility, EPUB and NIMAS Conformance</text>
+        </navLabel>
+        <content src="Introduction.xhtml#toc-anchor-11"/>
+      </navPoint>
+      <navPoint id="navpoint-12" playOrder="13">
+        <navLabel>
+          <text>EPUB and digital rights management</text>
+        </navLabel>
+        <content src="Introduction.xhtml#toc-anchor-12"/>
+      </navPoint>
+      <navPoint id="navpoint-13" playOrder="14">
+        <navLabel>
+          <text>Consumer benefits of EPUB</text>
+        </navLabel>
+        <content src="Introduction.xhtml#toc-anchor-13"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint-14" playOrder="15">
+      <navLabel>
+        <text>OCF 1.0</text>
+      </navLabel>
+      <content src="Container_(OCF).xhtml"/>
+      <navPoint id="navpoint-15" playOrder="16">
+        <navLabel>
+          <text>Encryption</text>
+        </navLabel>
+        <content src="Container_(OCF).xhtml#toc-anchor-1"/>
+      </navPoint>
+      <navPoint id="navpoint-16" playOrder="17">
+        <navLabel>
+          <text>Compression</text>
+        </navLabel>
+        <content src="Container_(OCF).xhtml#toc-anchor-2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint-17" playOrder="18">
+      <navLabel>
+        <text>Organization: Open Packaging Format (OPF) version 2.0</text>
+      </navLabel>
+      <content src="Organization_(OPF).xhtml"/>
+      <navPoint id="navpoint-18" playOrder="19">
+        <navLabel>
+          <text>The OPF file</text>
+        </navLabel>
+        <content src="Organization_(OPF).xhtml#toc-anchor-1"/>
+        <navPoint id="navpoint-19" playOrder="20">
+          <navLabel>
+            <text>Structure of the OPF file.</text>
+          </navLabel>
+          <content src="Organization_(OPF).xhtml#toc-anchor-3"/>
+        </navPoint>
+        <navPoint id="navpoint-20" playOrder="21">
+          <navLabel>
+            <text>Metadata</text>
+          </navLabel>
+          <content src="Organization_(OPF).xhtml#toc-anchor-4"/>
+        </navPoint>
+        <navPoint id="navpoint-21" playOrder="22">
+          <navLabel>
+            <text>Manifest</text>
+          </navLabel>
+          <content src="Organization_(OPF).xhtml#toc-anchor-5"/>
+        </navPoint>
+        <navPoint id="navpoint-22" playOrder="23">
+          <navLabel>
+            <text>Spine</text>
+          </navLabel>
+          <content src="Organization_(OPF).xhtml#toc-anchor-6"/>
+        </navPoint>
+        <navPoint id="navpoint-23" playOrder="24">
+          <navLabel>
+            <text>Guide</text>
+          </navLabel>
+          <content src="Organization_(OPF).xhtml#toc-anchor-7"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-24" playOrder="25">
+        <navLabel>
+          <text>The NCX file</text>
+        </navLabel>
+        <content src="Organization_(OPF).xhtml#toc-anchor-2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint-25" playOrder="26">
+      <navLabel>
+        <text>Content</text>
+      </navLabel>
+      <content src="Content_(OPS).xhtml"/>
+      <navPoint id="navpoint-26" playOrder="27">
+        <navLabel>
+          <text>Body content (XHTML)</text>
+        </navLabel>
+        <content src="Content_(OPS).xhtml#toc-anchor-1"/>
+        <navPoint id="navpoint-27" playOrder="28">
+          <navLabel>
+            <text>Use Chapter size chunks</text>
+          </navLabel>
+          <content src="Content_(OPS).xhtml#toc-anchor-7"/>
+        </navPoint>
+        <navPoint id="navpoint-28" playOrder="29">
+          <navLabel>
+            <text>Use block-level elements</text>
+          </navLabel>
+          <content src="Content_(OPS).xhtml#toc-anchor-8"/>
+        </navPoint>
+        <navPoint id="navpoint-29" playOrder="30">
+          <navLabel>
+            <text>Use the 'br' element only when appropriate</text>
+          </navLabel>
+          <content src="Content_(OPS).xhtml#toc-anchor-9"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-30" playOrder="31">
+        <navLabel>
+          <text>Stylesheets</text>
+        </navLabel>
+        <content src="Content_(OPS).xhtml#toc-anchor-2"/>
+        <navPoint id="navpoint-31" playOrder="32">
+          <navLabel>
+            <text>CSS styling</text>
+          </navLabel>
+          <content src="Content_(OPS).xhtml#toc-anchor-10"/>
+        </navPoint>
+        <navPoint id="navpoint-32" playOrder="33">
+          <navLabel>
+            <text>Use external style sheets</text>
+          </navLabel>
+          <content src="Content_(OPS).xhtml#toc-anchor-11"/>
+        </navPoint>
+        <navPoint id="navpoint-33" playOrder="34">
+          <navLabel>
+            <text>Use spacing that looks more like a book</text>
+          </navLabel>
+          <content src="Content_(OPS).xhtml#toc-anchor-12"/>
+        </navPoint>
+        <navPoint id="navpoint-34" playOrder="35">
+          <navLabel>
+            <text>Use simple selectors</text>
+          </navLabel>
+          <content src="Content_(OPS).xhtml#toc-anchor-13"/>
+        </navPoint>
+        <navPoint id="navpoint-35" playOrder="36">
+          <navLabel>
+            <text>Keep unused styles to a minimum</text>
+          </navLabel>
+          <content src="Content_(OPS).xhtml#toc-anchor-14"/>
+        </navPoint>
+        <navPoint id="navpoint-36" playOrder="37">
+          <navLabel>
+            <text>Avoid dynamic styling</text>
+          </navLabel>
+          <content src="Content_(OPS).xhtml#toc-anchor-15"/>
+        </navPoint>
+        <navPoint id="navpoint-37" playOrder="38">
+          <navLabel>
+            <text>Use relative sizes</text>
+          </navLabel>
+          <content src="Content_(OPS).xhtml#toc-anchor-16"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-38" playOrder="39">
+        <navLabel>
+          <text>Raster Images</text>
+        </navLabel>
+        <content src="Content_(OPS).xhtml#toc-anchor-3"/>
+      </navPoint>
+      <navPoint id="navpoint-39" playOrder="40">
+        <navLabel>
+          <text>Vector Art</text>
+        </navLabel>
+        <content src="Content_(OPS).xhtml#toc-anchor-4"/>
+      </navPoint>
+      <navPoint id="navpoint-40" playOrder="41">
+        <navLabel>
+          <text>Character sets and Fonts</text>
+        </navLabel>
+        <content src="Content_(OPS).xhtml#toc-anchor-5"/>
+      </navPoint>
+      <navPoint id="navpoint-41" playOrder="42">
+        <navLabel>
+          <text>Cover Page and Illustrations</text>
+        </navLabel>
+        <content src="Content_(OPS).xhtml#toc-anchor-6"/>
+        <navPoint id="navpoint-42" playOrder="43">
+          <navLabel>
+            <text>Use SVG and the viewBox attribute.</text>
+          </navLabel>
+          <content src="Content_(OPS).xhtml#toc-anchor-17"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint-43" playOrder="44">
+      <navLabel>
+        <text>Adobe Extensions</text>
+      </navLabel>
+      <content src="Adobe_Extensions.xhtml"/>
+      <navPoint id="navpoint-44" playOrder="45">
+        <navLabel>
+          <text>Page-map</text>
+        </navLabel>
+        <content src="Adobe_Extensions.xhtml#toc-anchor-1"/>
+        <navPoint id="navpoint-45" playOrder="46">
+          <navLabel>
+            <text>Page Map resource</text>
+          </navLabel>
+          <content src="Adobe_Extensions.xhtml#toc-anchor-3"/>
+        </navPoint>
+        <navPoint id="navpoint-46" playOrder="47">
+          <navLabel>
+            <text>Page Map syntax</text>
+          </navLabel>
+          <content src="Adobe_Extensions.xhtml#toc-anchor-4"/>
+        </navPoint>
+        <navPoint id="navpoint-47" playOrder="48">
+          <navLabel>
+            <text>Synthetic page names</text>
+          </navLabel>
+          <content src="Adobe_Extensions.xhtml#toc-anchor-5"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-48" playOrder="49">
+        <navLabel>
+          <text>Layout Template</text>
+        </navLabel>
+        <content src="Adobe_Extensions.xhtml#toc-anchor-2"/>
+        <navPoint id="navpoint-49" playOrder="50">
+          <navLabel>
+            <text>Page Master Definitions</text>
+          </navLabel>
+          <content src="Adobe_Extensions.xhtml#toc-anchor-6"/>
+        </navPoint>
+        <navPoint id="navpoint-50" playOrder="51">
+          <navLabel>
+            <text>Page Master Selection</text>
+          </navLabel>
+          <content src="Adobe_Extensions.xhtml#toc-anchor-7"/>
+        </navPoint>
+        <navPoint id="navpoint-51" playOrder="52">
+          <navLabel>
+            <text>Dynamic Styling</text>
+          </navLabel>
+          <content src="Adobe_Extensions.xhtml#toc-anchor-8"/>
+        </navPoint>
+        <navPoint id="navpoint-52" playOrder="53">
+          <navLabel>
+            <text>Assigning Content to Page Master Regions</text>
+          </navLabel>
+          <content src="Adobe_Extensions.xhtml#toc-anchor-9"/>
+        </navPoint>
+        <navPoint id="navpoint-53" playOrder="54">
+          <navLabel>
+            <text>EPUB Documents without Page Template</text>
+          </navLabel>
+          <content src="Adobe_Extensions.xhtml#toc-anchor-10"/>
+        </navPoint>
+        <navPoint id="navpoint-54" playOrder="55">
+          <navLabel>
+            <text>Relationship to oeb-* CSS properties</text>
+          </navLabel>
+          <content src="Adobe_Extensions.xhtml#toc-anchor-11"/>
+        </navPoint>
+        <navPoint id="navpoint-55" playOrder="56">
+          <navLabel>
+            <text>Relationship to CSS3 features</text>
+          </navLabel>
+          <content src="Adobe_Extensions.xhtml#toc-anchor-12"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint-56" playOrder="57">
+      <navLabel>
+        <text>Practices to Avoid</text>
+      </navLabel>
+      <content src="Practices_to_Avoid.xhtml"/>
+      <navPoint id="navpoint-57" playOrder="58">
+        <navLabel>
+          <text>Using the 'br' element to format paragraphs</text>
+        </navLabel>
+        <content src="Practices_to_Avoid.xhtml#toc-anchor-1"/>
+      </navPoint>
+      <navPoint id="navpoint-58" playOrder="59">
+        <navLabel>
+          <text>One XHTML document for an entire book</text>
+        </navLabel>
+        <content src="Practices_to_Avoid.xhtml#toc-anchor-2"/>
+      </navPoint>
+      <navPoint id="navpoint-59" playOrder="60">
+        <navLabel>
+          <text>Hidden content and Interactive styling</text>
+        </navLabel>
+        <content src="Practices_to_Avoid.xhtml#toc-anchor-3"/>
+      </navPoint>
+      <navPoint id="navpoint-60" playOrder="61">
+        <navLabel>
+          <text>Fragment Identifiers for chapter level links</text>
+        </navLabel>
+        <content src="Practices_to_Avoid.xhtml#toc-anchor-4"/>
+      </navPoint>
+      <navPoint id="navpoint-61" playOrder="62">
+        <navLabel>
+          <text>SWF movies without fallback content</text>
+        </navLabel>
+        <content src="Practices_to_Avoid.xhtml#toc-anchor-5"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint-62" playOrder="63">
+      <navLabel>
+        <text>Tools for Building and validating EPUB documents</text>
+      </navLabel>
+      <content src="Tools_for_Building_EPUB_documents.xhtml"/>
+      <navPoint id="navpoint-63" playOrder="64">
+        <navLabel>
+          <text>EPUB Checker</text>
+        </navLabel>
+        <content src="Tools_for_Building_EPUB_documents.xhtml#toc-anchor-1"/>
+      </navPoint>
+      <navPoint id="navpoint-64" playOrder="65">
+        <navLabel>
+          <text>DocBook XSL</text>
+        </navLabel>
+        <content src="Tools_for_Building_EPUB_documents.xhtml#toc-anchor-2"/>
+      </navPoint>
+      <navPoint id="navpoint-65" playOrder="66">
+        <navLabel>
+          <text>OEB 1.2 to EPUB conversion</text>
+        </navLabel>
+        <content src="Tools_for_Building_EPUB_documents.xhtml#toc-anchor-3"/>
+        <navPoint id="navpoint-66" playOrder="67">
+          <navLabel>
+            <text>XHTML 1.1</text>
+          </navLabel>
+          <content src="Tools_for_Building_EPUB_documents.xhtml#toc-anchor-4"/>
+        </navPoint>
+        <navPoint id="navpoint-67" playOrder="68">
+          <navLabel>
+            <text>Remove the deprecated items.</text>
+          </navLabel>
+          <content src="Tools_for_Building_EPUB_documents.xhtml#toc-anchor-5"/>
+        </navPoint>
+        <navPoint id="navpoint-68" playOrder="69">
+          <navLabel>
+            <text>Change the metadata elements.</text>
+          </navLabel>
+          <content src="Tools_for_Building_EPUB_documents.xhtml#toc-anchor-6"/>
+        </navPoint>
+        <navPoint id="navpoint-69" playOrder="70">
+          <navLabel>
+            <text>Create an NCX file.</text>
+          </navLabel>
+          <content src="Tools_for_Building_EPUB_documents.xhtml#toc-anchor-7"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint-70" playOrder="71">
+      <navLabel>
+        <text>Useful Links</text>
+      </navLabel>
+      <content src="Useful_Links.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

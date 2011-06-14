@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="978-82-05-40110-5"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Resten av livet</text>
+  </docTitle>  
+
+  <navMap>
+
+    <navPoint id="ex1" playOrder="1">
+      <navLabel>
+        <text>Resten av livet</text>
+      </navLabel>
+      <content src="coverpage.xhtml"/>
+
+    <navPoint id="c4" playOrder="2">
+      <navLabel>
+        <text>1</text>
+      </navLabel>
+      <content src="chapter02.xhtml"/>
+    </navPoint>
+
+    <navPoint id="c5" playOrder="3">
+      <navLabel>
+        <text>2</text>
+      </navLabel>
+      <content src="chapter03.xhtml"/>
+    </navPoint>
+
+    <navPoint id="c6" playOrder="4">
+      <navLabel>
+        <text>3</text>
+      </navLabel>
+      <content src="chapter04.xhtml"/>
+    </navPoint>
+
+    <navPoint id="c7" playOrder="5">
+      <navLabel>
+        <text>4</text>
+      </navLabel>
+      <content src="chapter05.xhtml"/>
+    </navPoint>
+
+    <navPoint id="c8" playOrder="6">
+      <navLabel>
+        <text>5</text>
+      </navLabel>
+      <content src="chapter06.xhtml"/>
+    </navPoint>
+
+    <navPoint id="c9" playOrder="7">
+      <navLabel>
+        <text>6</text>
+      </navLabel>
+      <content src="chapter07.xhtml"/>
+    </navPoint>
+
+    <navPoint id="c10" playOrder="8">
+      <navLabel>
+        <text>7</text>
+      </navLabel>
+      <content src="chapter08.xhtml"/>
+    </navPoint>
+
+    <navPoint id="c11" playOrder="9">
+      <navLabel>
+        <text>8</text>
+      </navLabel>
+      <content src="chapter09.xhtml"/>
+    </navPoint>
+
+    <navPoint id="c12" playOrder="10">
+      <navLabel>
+        <text>9</text>
+      </navLabel>
+      <content src="chapter10.xhtml"/>
+    </navPoint>
+
+    <navPoint id="c13" playOrder="11">
+      <navLabel>
+        <text>10</text>
+      </navLabel>
+      <content src="chapter11.xhtml"/>
+    </navPoint>
+
+    <navPoint id="c14" playOrder="12">
+      <navLabel>
+        <text>11</text>
+      </navLabel>
+      <content src="chapter12.xhtml"/>
+    </navPoint>
+
+    <navPoint id="c15" playOrder="13">
+      <navLabel>
+        <text>12</text>
+      </navLabel>
+      <content src="chapter13.xhtml"/>
+    </navPoint>
+
+    <navPoint id="c16" playOrder="14">
+      <navLabel>
+        <text>13</text>
+      </navLabel>
+      <content src="chapter14.xhtml"/>
+    </navPoint>
+
+    <navPoint id="c17" playOrder="15">
+      <navLabel>
+        <text>14</text>
+      </navLabel>
+      <content src="chapter15.xhtml"/>
+    </navPoint>
+
+    <navPoint id="c18" playOrder="16">
+      <navLabel>
+        <text>15</text>
+      </navLabel>
+      <content src="chapter16.xhtml"/>
+    </navPoint>
+
+    <navPoint id="c19" playOrder="17">
+      <navLabel>
+        <text>16</text>
+      </navLabel>
+      <content src="chapter17.xhtml"/>
+    </navPoint>
+
+    <navPoint id="c20" playOrder="18">
+      <navLabel>
+        <text>17</text>
+      </navLabel>
+      <content src="chapter18.xhtml"/>
+    </navPoint>
+
+    <navPoint id="c21" playOrder="19">
+      <navLabel>
+        <text>18</text>
+      </navLabel>
+      <content src="chapter19.xhtml"/>
+    </navPoint>
+
+    <navPoint id="c22" playOrder="20">
+      <navLabel>
+        <text>19</text>
+      </navLabel>
+      <content src="chapter20.xhtml"/>
+    </navPoint>
+
+    <navPoint id="c23" playOrder="21">
+      <navLabel>
+        <text>20</text>
+      </navLabel>
+      <content src="chapter21.xhtml"/>
+    </navPoint>
+
+    <navPoint id="c24" playOrder="22">
+      <navLabel>
+        <text>21</text>
+      </navLabel>
+      <content src="chapter22.xhtml"/>
+    </navPoint>
+
+    <navPoint id="c25" playOrder="23">
+      <navLabel>
+        <text>22</text>
+      </navLabel>
+      <content src="chapter23.xhtml"/>
+    </navPoint>
+
+    <navPoint id="c26" playOrder="24">
+      <navLabel>
+        <text>23</text>
+      </navLabel>
+      <content src="chapter24.xhtml"/>
+    </navPoint>
+
+    <navPoint id="c27" playOrder="25">
+      <navLabel>
+        <text>24</text>
+      </navLabel>
+      <content src="chapter25.xhtml"/>
+    </navPoint>
+
+    <navPoint id="c28" playOrder="26">
+      <navLabel>
+        <text>25</text>
+      </navLabel>
+      <content src="chapter26.xhtml"/>
+    </navPoint>
+
+    <navPoint id="c29" playOrder="27">
+      <navLabel>
+        <text>Forfatternes takk</text>
+      </navLabel>
+      <content src="chapter27.xhtml"/>
+    </navPoint>
+
+    </navPoint>
+
+    <navPoint id="ex28" playOrder="28">
+      <navLabel>
+        <text>Om denne boka</text>
+      </navLabel>
+      <content src="gyldendal-kolofon.xhtml"/>
+
+
+    <navPoint id="ex28" playOrder="28">
+      <navLabel>
+        <text>Kolofon</text>
+      </navLabel>
+      <content src="gyldendal-kolofon.xhtml"/>
+    </navPoint>
+
+
+      <navPoint id="ex29" playOrder="29">
+        <navLabel>
+          <text>Bokomtale</text>
+        </navLabel>
+        <content src="gyldendal-bakside.xhtml"/>
+      </navPoint>
+  
+
+      <navPoint id="ex30" playOrder="30">
+        <navLabel>
+          <text>Om Ellen og Heidi Linde</text>
+        </navLabel>
+        <content src="gyldendal-om.xhtml"/>
+      </navPoint>
+  
+    </navPoint>
+  </navMap>
+</ncx>

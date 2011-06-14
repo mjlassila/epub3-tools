@@ -1,0 +1,2352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE ncx PUBLIC
+     "-//NISO//DTD ncx 2005-1//EN"
+     "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx version="2005-1"
+     xml:lang="en"
+     xmlns="http://www.daisy.org/z3986/2005/ncx/">
+
+  <head>
+    <!-- The following four metadata items are required for all
+        NCX documents, including those conforming to the relaxed
+        constraints of OPS 2.0 -->
+
+    <meta name="dtb:uid" content="389749a2-8bf1-11de-8046-001cc0a62c0b"/>
+
+    <meta name="dtb:depth" content="3"/>
+
+    <meta name="dtb:totalPageCount" content="0"/>
+
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+
+ <docTitle>
+   <text>Beasts of New York:  A children's book for grown-ups</text>
+ </docTitle>
+
+ <docAuthor>
+   
+     <text>Jon Evans</text>
+   
+ </docAuthor>
+
+  
+
+
+
+  <navMap>
+    
+    <navPoint class="titlepage" id="level1-titlepage" playOrder="1">
+      <navLabel><text>Title</text></navLabel>
+      <content src="title.xml"/>
+    </navPoint>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+        
+
+
+
+
+
+
+
+<navPoint class="part" id="part121058" playOrder="2">
+  <navLabel><text>Part 1</text></navLabel> 
+  <content src="main0.xml"/>
+   
+  
+   
+  
+    
+      
+
+
+
+  
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap121059" playOrder="3">
+  <navLabel><text>Chapter 1 - The Center Kingdom</text></navLabel> 
+  <content src="main1.xml"/>
+    
+  
+    
+    
+      
+
+
+  
+
+
+
+
+<navPoint class="section" id="sec121060" playOrder="4">
+  <navLabel><text>1. The Missing Acorns</text></navLabel>
+  
+    <content src="main1.xml#section_121060"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121062" playOrder="5">
+  <navLabel><text>2. Patch's Family</text></navLabel>
+  
+    <content src="main2.xml#section_121062"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121064" playOrder="6">
+  <navLabel><text>3. Patch and the Birds</text></navLabel>
+  
+    <content src="main3.xml#section_121064"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121066" playOrder="7">
+  <navLabel><text>4. In the Mountains</text></navLabel>
+  
+    <content src="main4.xml#section_121066"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121068" playOrder="8">
+  <navLabel><text>5. A Welcome Discovery</text></navLabel>
+  
+    <content src="main5.xml#section_121068"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121070" playOrder="9">
+  <navLabel><text>6. A Promise</text></navLabel>
+  
+    <content src="main6.xml#section_121070"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121072" playOrder="10">
+  <navLabel><text>7. Jumper</text></navLabel>
+  
+    <content src="main7.xml#section_121072"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121074" playOrder="11">
+  <navLabel><text>8. To the Meadow</text></navLabel>
+  
+    <content src="main8.xml#section_121074"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121076" playOrder="12">
+  <navLabel><text>9. Animal Language</text></navLabel>
+  
+    <content src="main9.xml#section_121076"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121078" playOrder="13">
+  <navLabel><text>10. A Bargain of Mice and Words</text></navLabel>
+  
+    <content src="main10.xml#section_121078"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121080" playOrder="14">
+  <navLabel><text>11. Above the Sky-Road</text></navLabel>
+  
+    <content src="main11.xml#section_121080"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap121082" playOrder="15">
+  <navLabel><text>Chapter 2 - The Kingdom of Madness</text></navLabel> 
+  <content src="main12.xml"/>
+    
+  
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121083" playOrder="16">
+  <navLabel><text>1. Fresh Kills </text></navLabel>
+  
+    <content src="main12.xml#section_121083"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121085" playOrder="17">
+  <navLabel><text>2. Solstice</text></navLabel>
+  
+    <content src="main13.xml#section_121085"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121087" playOrder="18">
+  <navLabel><text>3. Into Madness </text></navLabel>
+  
+    <content src="main14.xml#section_121087"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121089" playOrder="19">
+  <navLabel><text>4. The Uninvited Guest </text></navLabel>
+  
+    <content src="main15.xml#section_121089"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121091" playOrder="20">
+  <navLabel><text>5. The Customs of Bones </text></navLabel>
+  
+    <content src="main16.xml#section_121091"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121093" playOrder="21">
+  <navLabel><text>6. Two Escapes </text></navLabel>
+  
+    <content src="main17.xml#section_121093"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121095" playOrder="22">
+  <navLabel><text>7. Journey through Madness </text></navLabel>
+  
+    <content src="main18.xml#section_121095"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121097" playOrder="23">
+  <navLabel><text>8. Daffa </text></navLabel>
+  
+    <content src="main19.xml#section_121097"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121099" playOrder="24">
+  <navLabel><text>9. The Bridge </text></navLabel>
+  
+    <content src="main20.xml#section_121099"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121101" playOrder="25">
+  <navLabel><text>10. Glaw </text></navLabel>
+  
+    <content src="main21.xml#section_121101"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121103" playOrder="26">
+  <navLabel><text>11. The Boat </text></navLabel>
+  
+    <content src="main22.xml#section_121103"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121105" playOrder="27">
+  <navLabel><text>12. The Great Waters </text></navLabel>
+  
+    <content src="main23.xml#section_121105"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap121107" playOrder="28">
+  <navLabel><text>Chapter 3 - The Ocean Kingdom</text></navLabel> 
+  <content src="main24.xml"/>
+    
+  
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121108" playOrder="29">
+  <navLabel><text>1. The Beach</text></navLabel>
+  
+    <content src="main24.xml#section_121108"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121110" playOrder="30">
+  <navLabel><text>2. The Queen of All Cats </text></navLabel>
+  
+    <content src="main25.xml#section_121110"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121112" playOrder="31">
+  <navLabel><text>3. Companions </text></navLabel>
+  
+    <content src="main26.xml#section_121112"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121114" playOrder="32">
+  <navLabel><text>4. The Highway Bridge </text></navLabel>
+  
+    <content src="main27.xml#section_121114"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121116" playOrder="33">
+  <navLabel><text>5. Storm Shelter </text></navLabel>
+  
+    <content src="main28.xml#section_121116"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121118" playOrder="34">
+  <navLabel><text>6. Old One </text></navLabel>
+  
+    <content src="main29.xml#section_121118"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121120" playOrder="35">
+  <navLabel><text>7. Monsters </text></navLabel>
+  
+    <content src="main30.xml#section_121120"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap121122" playOrder="36">
+  <navLabel><text>Chapter 4 - The Hidden Kingdom</text></navLabel> 
+  <content src="main31.xml"/>
+    
+  
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121123" playOrder="37">
+  <navLabel><text>1. Cages </text></navLabel>
+  
+    <content src="main31.xml#section_121123"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121125" playOrder="38">
+  <navLabel><text>2. The Device </text></navLabel>
+  
+    <content src="main32.xml#section_121125"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121127" playOrder="39">
+  <navLabel><text>3. Oaths of Freedom </text></navLabel>
+  
+    <content src="main33.xml#section_121127"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121129" playOrder="40">
+  <navLabel><text>4. Siva </text></navLabel>
+  
+    <content src="main34.xml#section_121129"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121131" playOrder="41">
+  <navLabel><text>5. Creatures of the Night </text></navLabel>
+  
+    <content src="main35.xml#section_121131"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121133" playOrder="42">
+  <navLabel><text>6. City of Clans </text></navLabel>
+  
+    <content src="main36.xml#section_121133"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121135" playOrder="43">
+  <navLabel><text>7. Water's Edge </text></navLabel>
+  
+    <content src="main37.xml#section_121135"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121137" playOrder="44">
+  <navLabel><text>8. Passengers </text></navLabel>
+  
+    <content src="main38.xml#section_121137"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap121139" playOrder="45">
+  <navLabel><text>Chapter 5 - The Island of the Center Kingdom</text></navLabel> 
+  <content src="main39.xml"/>
+    
+  
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121140" playOrder="46">
+  <navLabel><text>1. Dogs </text></navLabel>
+  
+    <content src="main39.xml#section_121140"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121142" playOrder="47">
+  <navLabel><text>2. Cats </text></navLabel>
+  
+    <content src="main40.xml#section_121142"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121144" playOrder="48">
+  <navLabel><text>3. Humans </text></navLabel>
+  
+    <content src="main41.xml#section_121144"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121146" playOrder="49">
+  <navLabel><text>4. Follow the Enemy </text></navLabel>
+  
+    <content src="main42.xml#section_121146"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121148" playOrder="50">
+  <navLabel><text>5. Home </text></navLabel>
+  
+    <content src="main43.xml#section_121148"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+</navPoint>
+      
+    
+  
+</navPoint>
+       
+    
+      
+        
+
+
+
+
+
+
+
+<navPoint class="part" id="part121150" playOrder="51">
+  <navLabel><text>Part 2</text></navLabel> 
+  <content src="main44.xml"/>
+   
+  
+   
+  
+    
+      
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap121151" playOrder="52">
+  <navLabel><text>Chapter 1 - Journey to the North</text></navLabel> 
+  <content src="main45.xml"/>
+    
+  
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121152" playOrder="53">
+  <navLabel><text>1. White </text></navLabel>
+  
+    <content src="main45.xml#section_121152"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121154" playOrder="54">
+  <navLabel><text>2. Visitors Descend </text></navLabel>
+  
+    <content src="main46.xml#section_121154"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121156" playOrder="55">
+  <navLabel><text>3. A Prince of the Air </text></navLabel>
+  
+    <content src="main47.xml#section_121156"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121158" playOrder="56">
+  <navLabel><text>4. Towards the Ramble </text></navLabel>
+  
+    <content src="main48.xml#section_121158"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121160" playOrder="57">
+  <navLabel><text>5. The Ramble </text></navLabel>
+  
+    <content src="main49.xml#section_121160"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121162" playOrder="58">
+  <navLabel><text>6. Taildancer </text></navLabel>
+  
+    <content src="main50.xml#section_121162"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121164" playOrder="59">
+  <navLabel><text>7. The Gobblers </text></navLabel>
+  
+    <content src="main51.xml#section_121164"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121166" playOrder="60">
+  <navLabel><text>8. The Ancient </text></navLabel>
+  
+    <content src="main52.xml#section_121166"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121168" playOrder="61">
+  <navLabel><text>9. The Gate Beneath </text></navLabel>
+  
+    <content src="main53.xml#section_121168"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121170" playOrder="62">
+  <navLabel><text>10. The North </text></navLabel>
+  
+    <content src="main54.xml#section_121170"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap121172" playOrder="63">
+  <navLabel><text>Chapter 2 - The War for the Center Kingdom</text></navLabel> 
+  <content src="main55.xml"/>
+    
+  
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121173" playOrder="64">
+  <navLabel><text>1. The King's Guard </text></navLabel>
+  
+    <content src="main55.xml#section_121173"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121175" playOrder="65">
+  <navLabel><text>2. War-Clan </text></navLabel>
+  
+    <content src="main56.xml#section_121175"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121177" playOrder="66">
+  <navLabel><text>3. Disbelief </text></navLabel>
+  
+    <content src="main57.xml#section_121177"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121179" playOrder="67">
+  <navLabel><text>4. Skirmish </text></navLabel>
+  
+    <content src="main58.xml#section_121179"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121181" playOrder="68">
+  <navLabel><text>5. King Thorn </text></navLabel>
+  
+    <content src="main59.xml#section_121181"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121183" playOrder="69">
+  <navLabel><text>6. Silver's Tale </text></navLabel>
+  
+    <content src="main60.xml#section_121183"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121185" playOrder="70">
+  <navLabel><text>7. Understanding </text></navLabel>
+  
+    <content src="main61.xml#section_121185"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121187" playOrder="71">
+  <navLabel><text>8. Besieged </text></navLabel>
+  
+    <content src="main62.xml#section_121187"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121189" playOrder="72">
+  <navLabel><text>9. Enemy of my Enemy </text></navLabel>
+  
+    <content src="main63.xml#section_121189"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121191" playOrder="73">
+  <navLabel><text>10. An Army of the Night </text></navLabel>
+  
+    <content src="main64.xml#section_121191"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121193" playOrder="74">
+  <navLabel><text>11. Tension and Intention </text></navLabel>
+  
+    <content src="main65.xml#section_121193"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121195" playOrder="75">
+  <navLabel><text>12. The Battle of the North </text></navLabel>
+  
+    <content src="main66.xml#section_121195"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121197" playOrder="76">
+  <navLabel><text>13. Victory </text></navLabel>
+  
+    <content src="main67.xml#section_121197"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121199" playOrder="77">
+  <navLabel><text>14. To the Gate </text></navLabel>
+  
+    <content src="main68.xml#section_121199"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap121201" playOrder="78">
+  <navLabel><text>Chapter 3 - The Kingdom Beneath</text></navLabel> 
+  <content src="main69.xml"/>
+    
+  
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121202" playOrder="79">
+  <navLabel><text>1. Descent </text></navLabel>
+  
+    <content src="main69.xml#section_121202"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121204" playOrder="80">
+  <navLabel><text>2. Legless </text></navLabel>
+  
+    <content src="main70.xml#section_121204"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121206" playOrder="81">
+  <navLabel><text>3. Fallen </text></navLabel>
+  
+    <content src="main71.xml#section_121206"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121208" playOrder="82">
+  <navLabel><text>4. Water </text></navLabel>
+  
+    <content src="main72.xml#section_121208"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121210" playOrder="83">
+  <navLabel><text>5. Underwest </text></navLabel>
+  
+    <content src="main73.xml#section_121210"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121212" playOrder="84">
+  <navLabel><text>6. Rats </text></navLabel>
+  
+    <content src="main74.xml#section_121212"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121214" playOrder="85">
+  <navLabel><text>7. Croton </text></navLabel>
+  
+    <content src="main75.xml#section_121214"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121216" playOrder="86">
+  <navLabel><text>8. The King Beneath </text></navLabel>
+  
+    <content src="main76.xml#section_121216"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121218" playOrder="87">
+  <navLabel><text>9. Roots </text></navLabel>
+  
+    <content src="main77.xml#section_121218"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121220" playOrder="88">
+  <navLabel><text>10. The Chamber of Bones </text></navLabel>
+  
+    <content src="main78.xml#section_121220"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121222" playOrder="89">
+  <navLabel><text>11. The Princess </text></navLabel>
+  
+    <content src="main79.xml#section_121222"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121224" playOrder="90">
+  <navLabel><text>12. Crawling Things </text></navLabel>
+  
+    <content src="main80.xml#section_121224"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121226" playOrder="91">
+  <navLabel><text>13. Endless Escape </text></navLabel>
+  
+    <content src="main81.xml#section_121226"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap121228" playOrder="92">
+  <navLabel><text>Chapter 4 - The End of War</text></navLabel> 
+  <content src="main82.xml"/>
+    
+  
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121229" playOrder="93">
+  <navLabel><text>1. The Endless Empire </text></navLabel>
+  
+    <content src="main82.xml#section_121229"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121231" playOrder="94">
+  <navLabel><text>2. Birds in the Wind </text></navLabel>
+  
+    <content src="main83.xml#section_121231"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121233" playOrder="95">
+  <navLabel><text>3. A Murder of Crows </text></navLabel>
+  
+    <content src="main84.xml#section_121233"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121235" playOrder="96">
+  <navLabel><text>4. Through the Sky </text></navLabel>
+  
+    <content src="main85.xml#section_121235"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121237" playOrder="97">
+  <navLabel><text>5. A Desperate Night </text></navLabel>
+  
+    <content src="main86.xml#section_121237"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121239" playOrder="98">
+  <navLabel><text>6. River East </text></navLabel>
+  
+    <content src="main87.xml#section_121239"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121241" playOrder="99">
+  <navLabel><text>7. Burning Bright </text></navLabel>
+  
+    <content src="main88.xml#section_121241"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+    
+      
+    
+    
+      
+
+
+
+
+
+<navPoint class="section" id="sec121243" playOrder="100">
+  <navLabel><text>8. Forests of the Night </text></navLabel>
+  
+    <content src="main89.xml#section_121243"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap121245" playOrder="101">
+  <navLabel><text>Chapter 5 - Epilogue</text></navLabel> 
+  <content src="main90.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+      
+    
+  
+</navPoint>
+       
+    
+      
+        
+
+
+
+
+
+<navPoint class="section" id="sec121247" playOrder="102">
+  <navLabel><text>Afterword</text></navLabel>
+  
+    <content src="main91.xml"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+        
+       
+    
+      
+        
+
+
+
+
+
+<navPoint class="section" id="sec121249" playOrder="103">
+  <navLabel><text>License</text></navLabel>
+  
+    <content src="main92.xml"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+        
+       
+    
+    
+    
+    
+  </navMap>
+
+</ncx>

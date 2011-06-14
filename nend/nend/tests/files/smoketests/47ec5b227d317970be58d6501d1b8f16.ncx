@@ -1,0 +1,2697 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ncx:ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <ncx:head>
+    <ncx:meta name="cover" content="cover"/>
+    <ncx:meta name="dtb:uid" content="isbn:9780596801793"/>
+    <ncx:meta name="dtb:depth" content="-1"/>
+    <ncx:meta name="dtb:totalPageCount" content="0"/>
+    <ncx:meta name="dtb:maxPageNumber" content="0"/>
+  </ncx:head>
+  <ncx:docTitle>
+    <ncx:text>Twitter API: Up and Running</ncx:text>
+  </ncx:docTitle>
+  <ncx:navMap>
+    <ncx:navPoint id="id2440152" playOrder="1">
+      <ncx:navLabel>
+        <ncx:text>Twitter API: Up and Running</ncx:text>
+      </ncx:navLabel>
+      <ncx:content src="index.html"/>
+      <ncx:navPoint id="id2492012" playOrder="2">
+        <ncx:navLabel>
+          <ncx:text>Preface</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="pr01.html"/>
+        <ncx:navPoint id="id2504372" playOrder="3">
+          <ncx:navLabel>
+            <ncx:text>Who This Book Is For</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr01.html#why_security_is_beautiful"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2470835" playOrder="4">
+          <ncx:navLabel>
+            <ncx:text>How This Book Is Organized</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr01s02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2466813" playOrder="5">
+          <ncx:navLabel>
+            <ncx:text>Conventions Used in This Book</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr01s03.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2523687" playOrder="6">
+          <ncx:navLabel>
+            <ncx:text>Using Code Examples</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr01s04.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2523748" playOrder="7">
+          <ncx:navLabel>
+            <ncx:text>Safari® Books Online</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr01s05.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2523783" playOrder="8">
+          <ncx:navLabel>
+            <ncx:text>We’d Like to Hear from You</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr01s06.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2523858" playOrder="9">
+          <ncx:navLabel>
+            <ncx:text>Acknowledgments</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr01s07.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2470359" playOrder="10">
+        <ncx:navLabel>
+          <ncx:text>1. Hello Twitter</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch01.html"/>
+        <ncx:navPoint id="id2524125" playOrder="11">
+          <ncx:navLabel>
+            <ncx:text>What Are You Doing?</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch01.html#what_are_you_doing_question"/>
+          <ncx:navPoint id="id2524542" playOrder="12">
+            <ncx:navLabel>
+              <ncx:text>Rules of Engagement</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01.html#rules_of_engagement"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2529764" playOrder="13">
+            <ncx:navLabel>
+              <ncx:text>Opportunistic Interruptions</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01.html#opportunistic_interruptions"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2529947" playOrder="14">
+            <ncx:navLabel>
+              <ncx:text>Twitter Is Like a Side-by-Side Conversation</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01.html#twitter_is_like_a_side-by-side_conversat"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2494738" playOrder="15">
+          <ncx:navLabel>
+            <ncx:text>History of Twitter</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch01s02.html"/>
+          <ncx:navPoint id="id2494933" playOrder="16">
+            <ncx:navLabel>
+              <ncx:text>A Brief History of Microblogging</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s02.html#a_brief_history_of_microblogging"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2523992" playOrder="17">
+            <ncx:navLabel>
+              <ncx:text>Believe It or Not: Twitter Was Inspired by Bike Couriers</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s02.html#believe_it_or_not_colon_twitter_was_insp"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2526969" playOrder="18">
+            <ncx:navLabel>
+              <ncx:text>Millions and Millions Served</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s02.html#millions_and_millions_served"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2527313" playOrder="19">
+            <ncx:navLabel>
+              <ncx:text>The Rise of the Fail Whale</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s02.html#the_rise_of_the_fail_whale"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2510814" playOrder="20">
+            <ncx:navLabel>
+              <ncx:text>Who Wants to Be a Millionaire? Gauging Twitter’s Profitability</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s02.html#who_wants_to_be_a_millionaire_question"/>
+            <ncx:navPoint id="id2511011" playOrder="21">
+              <ncx:navLabel>
+                <ncx:text>Charging for service</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch01s02.html#charging_for_service"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2511099" playOrder="22">
+              <ncx:navLabel>
+                <ncx:text>Self-selecting advertisers</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch01s02.html#self-selecting_advertisers"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2511214" playOrder="23">
+              <ncx:navLabel>
+                <ncx:text>Implementing an open source service model</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch01s02.html#implementing_an_open_source_service_mode"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2511291" playOrder="24">
+            <ncx:navLabel>
+              <ncx:text>Developers Are Users, Too</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s02.html#developers_are_users_comma_too"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2544647" playOrder="25">
+          <ncx:navLabel>
+            <ncx:text>Creative Uses of Twitter</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch01s03.html"/>
+          <ncx:navPoint id="id2544846" playOrder="26">
+            <ncx:navLabel>
+              <ncx:text>Twitter Utilitarianism</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s03.html#twitter_utilitarianism"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2545064" playOrder="27">
+            <ncx:navLabel>
+              <ncx:text>Twitter for News</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s03.html#twitter_for_news"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2545148" playOrder="28">
+            <ncx:navLabel>
+              <ncx:text>Twitter for Science</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s03.html#twitter_for_science"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2545300" playOrder="29">
+            <ncx:navLabel>
+              <ncx:text>Twitter for God</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s03.html#twitter_for_god"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2507610" playOrder="30">
+            <ncx:navLabel>
+              <ncx:text>Twitter for Emergencies</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s03.html#twitter_for_emergencies"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2507775" playOrder="31">
+            <ncx:navLabel>
+              <ncx:text>Twitter for Marketing</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s03.html#twitter_for_marketing"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2507950" playOrder="32">
+            <ncx:navLabel>
+              <ncx:text>Twitter for Social Change</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s03.html#twitter_for_social_change"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2508280" playOrder="33">
+            <ncx:navLabel>
+              <ncx:text>Twitter for Money</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s03.html#twitter_for_money"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2508423" playOrder="34">
+            <ncx:navLabel>
+              <ncx:text>Twitter for Games</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s03.html#twitter_for_games"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2508577" playOrder="35">
+            <ncx:navLabel>
+              <ncx:text>Twitter for Anthropomorphism</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s03.html#twitter_for_anthropomorphism"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2495473" playOrder="36">
+            <ncx:navLabel>
+              <ncx:text>Twitter for Help</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s03.html#twitter_for_help"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2495591" playOrder="37">
+            <ncx:navLabel>
+              <ncx:text>Twitter for Creativity</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s03.html#twitter_for_creativity"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2495765" playOrder="38">
+            <ncx:navLabel>
+              <ncx:text>Twitter for Education</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s03.html#twitter_for_education"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2495881" playOrder="39">
+            <ncx:navLabel>
+              <ncx:text>Twitter for Entertainment</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s03.html#twitter_for_entertainment"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2496043" playOrder="40">
+            <ncx:navLabel>
+              <ncx:text>Twitter for Sports</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s03.html#twitter_for_sports"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2496191" playOrder="41">
+            <ncx:navLabel>
+              <ncx:text>Twitter for Evil</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s03.html#twitter_for_evil"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2496361" playOrder="42">
+            <ncx:navLabel>
+              <ncx:text>Twitter As a Shared Event</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s03.html#twitter_as_a_shared_event"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2496516" playOrder="43">
+            <ncx:navLabel>
+              <ncx:text>Twitter for Everyone</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s03.html#id2496516"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2496599" playOrder="44">
+          <ncx:navLabel>
+            <ncx:text>A Changing Culture</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch01s04.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2525030" playOrder="45">
+        <ncx:navLabel>
+          <ncx:text>2. Twitter Applications</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch02.html"/>
+        <ncx:navPoint id="id2525170" playOrder="46">
+          <ncx:navLabel>
+            <ncx:text>Twitter’s Open API</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02.html#twitter_apostrophy_s_open_api"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2525315" playOrder="47">
+          <ncx:navLabel>
+            <ncx:text>Finding Inspiration</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02s02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2525470" playOrder="48">
+          <ncx:navLabel>
+            <ncx:text>Tools for Publishing</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02s03.html"/>
+          <ncx:navPoint id="id2525522" playOrder="49">
+            <ncx:navLabel>
+              <ncx:text>Twitterfeed</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s03.html#twitterfeed"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2525609" playOrder="50">
+            <ncx:navLabel>
+              <ncx:text>SnapTweet</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s03.html#snaptweet"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2525716" playOrder="51">
+            <ncx:navLabel>
+              <ncx:text>SecretTweet</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s03.html#secrettweet"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2525861" playOrder="52">
+          <ncx:navLabel>
+            <ncx:text>Tools for the Information Stream</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02s04.html"/>
+          <ncx:navPoint id="id2525960" playOrder="53">
+            <ncx:navLabel>
+              <ncx:text>Twittervision</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s04.html#twittervision"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2526077" playOrder="54">
+            <ncx:navLabel>
+              <ncx:text>Twitter Matrix</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s04.html#twitter_matrix"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2526170" playOrder="55">
+            <ncx:navLabel>
+              <ncx:text>Twalala</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s04.html#twalala"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2526317" playOrder="56">
+          <ncx:navLabel>
+            <ncx:text>Tools of Appropriation</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02s05.html"/>
+          <ncx:navPoint id="id2526373" playOrder="57">
+            <ncx:navLabel>
+              <ncx:text>Track This</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s05.html#track_this"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2526486" playOrder="58">
+            <ncx:navLabel>
+              <ncx:text>LiveTwitting</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s05.html#live_twitting"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2492938" playOrder="59">
+            <ncx:navLabel>
+              <ncx:text>FoodFeed</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s05.html#food_feed"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2493111" playOrder="60">
+          <ncx:navLabel>
+            <ncx:text>Tools for Search</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02s06.html"/>
+          <ncx:navPoint id="id2493169" playOrder="61">
+            <ncx:navLabel>
+              <ncx:text>TwitDir</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s06.html#twitdir"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2493281" playOrder="62">
+            <ncx:navLabel>
+              <ncx:text>Green Tweets</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s06.html#green_tweets"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2493376" playOrder="63">
+            <ncx:navLabel>
+              <ncx:text>TweetBeep</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s06.html#tweetbeep"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2493484" playOrder="64">
+            <ncx:navLabel>
+              <ncx:text>Tweet Scan</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s06.html#tweet_scan"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2493611" playOrder="65">
+            <ncx:navLabel>
+              <ncx:text>Favrd</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s06.html#favrd"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2493766" playOrder="66">
+          <ncx:navLabel>
+            <ncx:text>Tools of Aggregation</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02s07.html"/>
+          <ncx:navPoint id="id2493814" playOrder="67">
+            <ncx:navLabel>
+              <ncx:text>Twappi</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s07.html#twappi"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2493919" playOrder="68">
+            <ncx:navLabel>
+              <ncx:text>Twitscoop</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s07.html#twitscoop"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2494041" playOrder="69">
+            <ncx:navLabel>
+              <ncx:text>Twist</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s07.html#twist"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2494150" playOrder="70">
+          <ncx:navLabel>
+            <ncx:text>Tools for Statistics</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02s08.html"/>
+          <ncx:navPoint id="id2494202" playOrder="71">
+            <ncx:navLabel>
+              <ncx:text>What’s Your Tweet Worth?</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s08.html#what_apostrophy_s_your_tweet_worth"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2494318" playOrder="72">
+            <ncx:navLabel>
+              <ncx:text>TweetStats</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s08.html#tweetstats"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2494442" playOrder="73">
+            <ncx:navLabel>
+              <ncx:text>Follow Cost</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s08.html#follow_cost"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2494588" playOrder="74">
+            <ncx:navLabel>
+              <ncx:text>Twitter Grader</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s08.html#twitter_grader"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2504709" playOrder="75">
+            <ncx:navLabel>
+              <ncx:text>Twitterank</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s08.html#twitterank"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2504935" playOrder="76">
+          <ncx:navLabel>
+            <ncx:text>Tools for the Follow Network</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02s09.html"/>
+          <ncx:navPoint id="id2504999" playOrder="77">
+            <ncx:navLabel>
+              <ncx:text>Does Follow</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s09.html#does_follow"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2505116" playOrder="78">
+            <ncx:navLabel>
+              <ncx:text>Qwitter</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s09.html#qwitter"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2505248" playOrder="79">
+            <ncx:navLabel>
+              <ncx:text>Friend or Follow</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s09.html#friend_or_follow"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2505354" playOrder="80">
+            <ncx:navLabel>
+              <ncx:text>Mr. Tweet</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s09.html#mr._tweet"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2505461" playOrder="81">
+            <ncx:navLabel>
+              <ncx:text>Omnee</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s09.html#omnee"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2505606" playOrder="82">
+            <ncx:navLabel>
+              <ncx:text>Twitree</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s09.html#twitree"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2505732" playOrder="83">
+          <ncx:navLabel>
+            <ncx:text>And Many More</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02s10.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2505835" playOrder="84">
+        <ncx:navLabel>
+          <ncx:text>3. Web Programming Basics</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch03.html"/>
+        <ncx:navPoint id="id2505933" playOrder="85">
+          <ncx:navLabel>
+            <ncx:text>XHTML</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03.html#xhtml"/>
+          <ncx:navPoint id="id2506064" playOrder="86">
+            <ncx:navLabel>
+              <ncx:text>Web Pages</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03.html#web_pages"/>
+            <ncx:navPoint id="id2506581" playOrder="87">
+              <ncx:navLabel>
+                <ncx:text>Form tags</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03.html#form_tags"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2507059" playOrder="88">
+            <ncx:navLabel>
+              <ncx:text>A Nod to Some Other XML Structures</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03.html#a_nod_to_some_other_xml_structures"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2507119" playOrder="89">
+          <ncx:navLabel>
+            <ncx:text>CSS</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s02.html"/>
+          <ncx:navPoint id="id2507398" playOrder="90">
+            <ncx:navLabel>
+              <ncx:text>Assigning Styles to Structure</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s02.html#assigning_styles_to_structure"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2496933" playOrder="91">
+            <ncx:navLabel>
+              <ncx:text>Laying Out Your Web Page Content</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s02.html#laying_out_your_web_page_content"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2497373" playOrder="92">
+            <ncx:navLabel>
+              <ncx:text>Decorating the Web Page Content</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s02.html#decorating_the_web_page_content"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2497786" playOrder="93">
+            <ncx:navLabel>
+              <ncx:text>Getting the Browser to Recognize Styles</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s02.html#getting_the_browser_to_recognize_styles"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2498044" playOrder="94">
+          <ncx:navLabel>
+            <ncx:text>PHP</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s03.html"/>
+          <ncx:navPoint id="id2498137" playOrder="95">
+            <ncx:navLabel>
+              <ncx:text>How to Accept Candy from Strangers</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s03.html#how_to_accept_candy_from_strangers"/>
+            <ncx:navPoint id="id2498173" playOrder="96">
+              <ncx:navLabel>
+                <ncx:text>SQL injection attacks</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03s03.html#sql_injection_attacks"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2498216" playOrder="97">
+              <ncx:navLabel>
+                <ncx:text>CRLF injection attacks</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03s03.html#crlf_injection_attacks"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2498248" playOrder="98">
+              <ncx:navLabel>
+                <ncx:text>Cross-site request forgery (CSRF) attacks</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03s03.html#cross-site_request_forgery_open_parenthe"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2498336" playOrder="99">
+            <ncx:navLabel>
+              <ncx:text>Strings, Arrays, and Objects</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s03.html#strings_comma_arrays_comma_and_objects"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2498726" playOrder="100">
+            <ncx:navLabel>
+              <ncx:text>Manipulating the Data You Collect</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s03.html#manipulating_the_data_you_collect"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2500514" playOrder="101">
+            <ncx:navLabel>
+              <ncx:text>Knowing Your Environment</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s03.html#knowing_your_environment"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2500934" playOrder="102">
+            <ncx:navLabel>
+              <ncx:text>Controlling the Flow of Logic</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s03.html#controlling_the_flow_of_logic"/>
+            <ncx:navPoint id="id2500972" playOrder="103">
+              <ncx:navLabel>
+                <ncx:text>if…elseif…else</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03s03.html#if_..._elseif_..._else"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2501065" playOrder="104">
+              <ncx:navLabel>
+                <ncx:text>while</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03s03.html#while"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2501118" playOrder="105">
+              <ncx:navLabel>
+                <ncx:text>for</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03s03.html#for"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2501172" playOrder="106">
+              <ncx:navLabel>
+                <ncx:text>foreach</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03s03.html#foreach"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2501218" playOrder="107">
+              <ncx:navLabel>
+                <ncx:text>switch…case…break</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03s03.html#switch_..._case_..._break"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2501362" playOrder="108">
+              <ncx:navLabel>
+                <ncx:text>try…catch</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03s03.html#try_..._catch"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2501430" playOrder="109">
+              <ncx:navLabel>
+                <ncx:text>die⁠(⁠ ⁠) or exit⁠(⁠ ⁠)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03s03.html#die_open_parenthesis_close_parenthesis_o"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2501530" playOrder="110">
+            <ncx:navLabel>
+              <ncx:text>File Management</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s03.html#file_management"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2501896" playOrder="111">
+            <ncx:navLabel>
+              <ncx:text>Connecting to the Database</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s03.html#connecting_to_the_database"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2502408" playOrder="112">
+            <ncx:navLabel>
+              <ncx:text>Building a Custom Function</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s03.html#building_a_custom_function"/>
+            <ncx:navPoint id="id2502480" playOrder="113">
+              <ncx:navLabel>
+                <ncx:text>Including more code in your application</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03s03.html#including_more_code_in_your_application"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2553369" playOrder="114">
+              <ncx:navLabel>
+                <ncx:text>Defining your own function</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03s03.html#defining_your_own_function"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2553677" playOrder="115">
+            <ncx:navLabel>
+              <ncx:text>SimpleXML</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s03.html#simplexml"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2553987" playOrder="116">
+            <ncx:navLabel>
+              <ncx:text>DOM</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s03.html#dom"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2554259" playOrder="117">
+            <ncx:navLabel>
+              <ncx:text>cURL</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s03.html#curl"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2555000" playOrder="118">
+            <ncx:navLabel>
+              <ncx:text>Debugging</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s03.html#debugging"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2555416" playOrder="119">
+          <ncx:navLabel>
+            <ncx:text>MySQL</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s04.html"/>
+          <ncx:navPoint id="id2555503" playOrder="120">
+            <ncx:navLabel>
+              <ncx:text>Creating a New Table</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s04.html#creating_a_new_table"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2555676" playOrder="121">
+            <ncx:navLabel>
+              <ncx:text>Retrieving Information from the Database</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s04.html#retrieving_information_from_the_database"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2555972" playOrder="122">
+            <ncx:navLabel>
+              <ncx:text>Changing Information in the Database</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s04.html#changing_information_in_the_database"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2556127" playOrder="123">
+          <ncx:navLabel>
+            <ncx:text>A Place to Call /home</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s05.html"/>
+          <ncx:navPoint id="id2556190" playOrder="124">
+            <ncx:navLabel>
+              <ncx:text>Selecting a Host Server</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s05.html#selecting_a_host_server"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2556477" playOrder="125">
+            <ncx:navLabel>
+              <ncx:text>Automation</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s05.html#automation"/>
+            <ncx:navPoint id="id2556654" playOrder="126">
+              <ncx:navLabel>
+                <ncx:text>Pseudoautomation hacks</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03s05.html#pseudo-automation_hacks"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2556768" playOrder="127">
+          <ncx:navLabel>
+            <ncx:text>Further Reading</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s06.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2556911" playOrder="128">
+        <ncx:navLabel>
+          <ncx:text>4. Meet the Twitter API</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch04.html"/>
+        <ncx:navPoint id="id2557095" playOrder="129">
+          <ncx:navLabel>
+            <ncx:text>Accessing the API</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04.html#accessing_the_api"/>
+          <ncx:navPoint id="id2557199" playOrder="130">
+            <ncx:navLabel>
+              <ncx:text>HTTP Requests</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04.html#http_requests"/>
+            <ncx:navPoint id="id2557270" playOrder="131">
+              <ncx:navLabel>
+                <ncx:text>GET</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04.html#get"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2557461" playOrder="132">
+              <ncx:navLabel>
+                <ncx:text>POST</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04.html#post"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2557747" playOrder="133">
+              <ncx:navLabel>
+                <ncx:text>DELETE</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04.html#delete"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2557901" playOrder="134">
+            <ncx:navLabel>
+              <ncx:text>HTTP Status Codes</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04.html#http_status_codes"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2558114" playOrder="135">
+            <ncx:navLabel>
+              <ncx:text>Format</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04.html#format"/>
+            <ncx:navPoint id="id2558271" playOrder="136">
+              <ncx:navLabel>
+                <ncx:text>RSS and Atom</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04.html#rss_and_atom"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2558326" playOrder="137">
+            <ncx:navLabel>
+              <ncx:text>Authentication</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04.html#authentication"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2558615" playOrder="138">
+            <ncx:navLabel>
+              <ncx:text>A Peak at OAuth</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04.html#id2558615"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2558811" playOrder="139">
+            <ncx:navLabel>
+              <ncx:text>Parameters</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04.html#parameters"/>
+            <ncx:navPoint id="id2558957" playOrder="140">
+              <ncx:navLabel>
+                <ncx:text>Parameters that may be required</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04.html#parameters_that_may_be_required"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2559141" playOrder="141">
+              <ncx:navLabel>
+                <ncx:text>Other parameters that may be useful</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04.html#other_parameters_that_may_be_useful"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2559933" playOrder="142">
+            <ncx:navLabel>
+              <ncx:text>Rate Limiting</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04.html#rate_limiting"/>
+            <ncx:navPoint id="id2560053" playOrder="143">
+              <ncx:navLabel>
+                <ncx:text>Checking the rate limit status</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04.html#checking_the_rate_limit_status"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2475972" playOrder="144">
+              <ncx:navLabel>
+                <ncx:text>Whitelisting</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04.html#whitelisting"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2476009" playOrder="145">
+            <ncx:navLabel>
+              <ncx:text>Keeping Development Light</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04.html#keeping_development_light"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2476170" playOrder="146">
+          <ncx:navLabel>
+            <ncx:text>Play Along at Home</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2476381" playOrder="147">
+          <ncx:navLabel>
+            <ncx:text>The API Methods</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s03.html"/>
+          <ncx:navPoint id="id2476476" playOrder="148">
+            <ncx:navLabel>
+              <ncx:text>Publishing</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s03.html#publishing"/>
+            <ncx:navPoint id="id2476518" playOrder="149">
+              <ncx:navLabel>
+                <ncx:text>Post a Tweet</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#post_a_tweet"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2476664" playOrder="150">
+              <ncx:navLabel>
+                <ncx:text>Delete a Tweet</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#delete_a_tweet"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2476760" playOrder="151">
+            <ncx:navLabel>
+              <ncx:text>The Information Stream</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s03.html#the_information_stream"/>
+            <ncx:navPoint id="id2476822" playOrder="152">
+              <ncx:navLabel>
+                <ncx:text>Show a Tweet</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#show_a_tweet"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2476885" playOrder="153">
+              <ncx:navLabel>
+                <ncx:text>View the Public Timeline</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#view_the_public_timeline"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2477035" playOrder="154">
+              <ncx:navLabel>
+                <ncx:text>View a Friends Timeline</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#view_a_friends_timeline"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2477193" playOrder="155">
+              <ncx:navLabel>
+                <ncx:text>View an Individual Timeline</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#view_an_individual_timeline"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2477320" playOrder="156">
+              <ncx:navLabel>
+                <ncx:text>View Replies</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#view_replies"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2477445" playOrder="157">
+              <ncx:navLabel>
+                <ncx:text>View Favorites</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#view_favorites"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2477533" playOrder="158">
+              <ncx:navLabel>
+                <ncx:text>Create a Favorite</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#create_a_favorite"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2477589" playOrder="159">
+              <ncx:navLabel>
+                <ncx:text>Delete a Favorite</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#delete_a_favorite"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2477696" playOrder="160">
+            <ncx:navLabel>
+              <ncx:text>The Follow Network</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s03.html#the_follow_network"/>
+            <ncx:navPoint id="id2477760" playOrder="161">
+              <ncx:navLabel>
+                <ncx:text>Show Member Profile</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#show_member_profile"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2478094" playOrder="162">
+              <ncx:navLabel>
+                <ncx:text>View Members Being Followed</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#view_members_being_followed"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2478282" playOrder="163">
+              <ncx:navLabel>
+                <ncx:text>View Followers</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#view_followers"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2478432" playOrder="164">
+              <ncx:navLabel>
+                <ncx:text>Get All Followers</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#get_all_followers"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2478540" playOrder="165">
+              <ncx:navLabel>
+                <ncx:text>Get All Friends</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#get_all_friends"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2478593" playOrder="166">
+              <ncx:navLabel>
+                <ncx:text>Follow a Member</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#follow_a_member"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2478851" playOrder="167">
+              <ncx:navLabel>
+                <ncx:text>Unfollow a Member</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#unfollow_a_member"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2478949" playOrder="168">
+              <ncx:navLabel>
+                <ncx:text>Confirm a Follow</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#confirm_a_follow"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2479082" playOrder="169">
+              <ncx:navLabel>
+                <ncx:text>Block a Member</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#block_a_member"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2479201" playOrder="170">
+              <ncx:navLabel>
+                <ncx:text>Remove a Block</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#remove_a_block"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2479303" playOrder="171">
+            <ncx:navLabel>
+              <ncx:text>Communication</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s03.html#communication"/>
+            <ncx:navPoint id="id2479425" playOrder="172">
+              <ncx:navLabel>
+                <ncx:text>List Received Messages</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#list_received_messages"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2479519" playOrder="173">
+              <ncx:navLabel>
+                <ncx:text>List Sent Messages</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#list_sent_messages"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2479574" playOrder="174">
+              <ncx:navLabel>
+                <ncx:text>Create a Message</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#create_a_message"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2479718" playOrder="175">
+              <ncx:navLabel>
+                <ncx:text>Delete a Message</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#delete_a_message"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2479802" playOrder="176">
+              <ncx:navLabel>
+                <ncx:text>Show a Message</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#show_a_message"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2479908" playOrder="177">
+            <ncx:navLabel>
+              <ncx:text>Member Account</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s03.html#member_account"/>
+            <ncx:navPoint id="id2480002" playOrder="178">
+              <ncx:navLabel>
+                <ncx:text>Update Member Location</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#update_member_location"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2480108" playOrder="179">
+              <ncx:navLabel>
+                <ncx:text>Update Member Profile</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#update_member_profile"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2480274" playOrder="180">
+              <ncx:navLabel>
+                <ncx:text>Update Profile Colors</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#update_profile_colors"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2480461" playOrder="181">
+              <ncx:navLabel>
+                <ncx:text>Update Background Image</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#update_background_image"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2480721" playOrder="182">
+              <ncx:navLabel>
+                <ncx:text>Update Profile Image</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#update_profile_image"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2480827" playOrder="183">
+              <ncx:navLabel>
+                <ncx:text>Update the Delivery Device</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#update_the_delivery_device"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2480963" playOrder="184">
+              <ncx:navLabel>
+                <ncx:text>Turn On/Off Notification</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#turn_on_solidus_off_notification"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2481125" playOrder="185">
+            <ncx:navLabel>
+              <ncx:text>API Administration</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s03.html#api_administration"/>
+            <ncx:navPoint id="id2481160" playOrder="186">
+              <ncx:navLabel>
+                <ncx:text>Test</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#test"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2481214" playOrder="187">
+              <ncx:navLabel>
+                <ncx:text>Verify Credentials</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#verify_credentials"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2481312" playOrder="188">
+              <ncx:navLabel>
+                <ncx:text>Check Rate Limit Status</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#check_rate_limit_status"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2481466" playOrder="189">
+              <ncx:navLabel>
+                <ncx:text>End a Member Session</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#end_a_member_session"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2481526" playOrder="190">
+            <ncx:navLabel>
+              <ncx:text>Search</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s03.html#search"/>
+            <ncx:navPoint id="id2481601" playOrder="191">
+              <ncx:navLabel>
+                <ncx:text>Keyword Search</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#keyword_search"/>
+              <ncx:navPoint id="id2481687" playOrder="192">
+                <ncx:navLabel>
+                  <ncx:text>Content searches</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="ch04s03.html#content_searches"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id2481962" playOrder="193">
+                <ncx:navLabel>
+                  <ncx:text>Meta filters</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="ch04s03.html#meta_filters"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id2482252" playOrder="194">
+                <ncx:navLabel>
+                  <ncx:text>Operators</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="ch04s03.html#operators"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id2482396" playOrder="195">
+                <ncx:navLabel>
+                  <ncx:text>Optional parameters</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="ch04s03.html#optional_parameters"/>
+              </ncx:navPoint>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2482636" playOrder="196">
+              <ncx:navLabel>
+                <ncx:text>Monitor Trends</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#monitor_trends"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2482745" playOrder="197">
+          <ncx:navLabel>
+            <ncx:text>Other Data Options</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s04.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2482877" playOrder="198">
+          <ncx:navLabel>
+            <ncx:text>Gone Phishing: A Word About Passwords</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s05.html"/>
+          <ncx:navPoint id="id2545610" playOrder="199">
+            <ncx:navLabel>
+              <ncx:text>Is Twishing Worth the Effort?</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s05.html#is_twishing_worth_the_effort_question"/>
+            <ncx:navPoint id="id2545676" playOrder="200">
+              <ncx:navLabel>
+                <ncx:text>Controlling</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s05.html#controlling"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2545732" playOrder="201">
+              <ncx:navLabel>
+                <ncx:text>Invading</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s05.html#invading"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2545794" playOrder="202">
+              <ncx:navLabel>
+                <ncx:text>Stealthing</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s05.html#stealthing"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2545857" playOrder="203">
+              <ncx:navLabel>
+                <ncx:text>Screaming</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s05.html#screaming"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2545944" playOrder="204">
+              <ncx:navLabel>
+                <ncx:text>Damaging</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s05.html#damaging"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2545995" playOrder="205">
+              <ncx:navLabel>
+                <ncx:text>Annoying</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s05.html#annoying"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2546050" playOrder="206">
+              <ncx:navLabel>
+                <ncx:text>Deceiving</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s05.html#deceiving"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2546109" playOrder="207">
+            <ncx:navLabel>
+              <ncx:text>OAuth Can Help</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s05.html#oauth_can_help"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2546348" playOrder="208">
+        <ncx:navLabel>
+          <ncx:text>5. Meet the Output</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch05.html"/>
+        <ncx:navPoint id="id2546509" playOrder="209">
+          <ncx:navLabel>
+            <ncx:text>User Objects</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05.html#user_objects"/>
+          <ncx:navPoint id="id2547206" playOrder="210">
+            <ncx:navLabel>
+              <ncx:text>User Elements</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05.html#user_elements"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2548127" playOrder="211">
+          <ncx:navLabel>
+            <ncx:text>Status Objects</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s02.html"/>
+          <ncx:navPoint id="id2548611" playOrder="212">
+            <ncx:navLabel>
+              <ncx:text>Status Elements</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s02.html#status_elements"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2549098" playOrder="213">
+          <ncx:navLabel>
+            <ncx:text>Message Objects</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s03.html"/>
+          <ncx:navPoint id="id2549420" playOrder="214">
+            <ncx:navLabel>
+              <ncx:text>Direct Message Elements</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s03.html#direct_message_elements"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2549703" playOrder="215">
+          <ncx:navLabel>
+            <ncx:text>Search Objects</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s04.html"/>
+          <ncx:navPoint id="id2549949" playOrder="216">
+            <ncx:navLabel>
+              <ncx:text>Feed Elements</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s04.html#feed_elements"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2550176" playOrder="217">
+            <ncx:navLabel>
+              <ncx:text>Entry Elements</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s04.html#entry_elements"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2550452" playOrder="218">
+          <ncx:navLabel>
+            <ncx:text>ID Objects</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s05.html"/>
+          <ncx:navPoint id="id2550586" playOrder="219">
+            <ncx:navLabel>
+              <ncx:text>ID Elements</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s05.html#id_elements"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2550680" playOrder="220">
+          <ncx:navLabel>
+            <ncx:text>Response Objects</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s06.html"/>
+          <ncx:navPoint id="id2550850" playOrder="221">
+            <ncx:navLabel>
+              <ncx:text>Response Elements</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s06.html#response_elements"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2550971" playOrder="222">
+          <ncx:navLabel>
+            <ncx:text>Hash Objects</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s07.html"/>
+          <ncx:navPoint id="id2551168" playOrder="223">
+            <ncx:navLabel>
+              <ncx:text>Hash Elements</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s07.html#hash_elements"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2551343" playOrder="224">
+            <ncx:navLabel>
+              <ncx:text>Errors</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s07.html#errors"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2551544" playOrder="225">
+        <ncx:navLabel>
+          <ncx:text>6. Application Setup</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch06.html"/>
+        <ncx:navPoint id="id2551784" playOrder="226">
+          <ncx:navLabel>
+            <ncx:text>Establishing Your Twitter Account</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06.html#establishing_your_twitter_account"/>
+          <ncx:navPoint id="id2551864" playOrder="227">
+            <ncx:navLabel>
+              <ncx:text>Registering a New Twitter Member Account</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06.html#registering_a_new_twitter_member_account"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2552174" playOrder="228">
+            <ncx:navLabel>
+              <ncx:text>Configuring Your New Account</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06.html#configuring_your_new_account"/>
+            <ncx:navPoint id="id2552211" playOrder="229">
+              <ncx:navLabel>
+                <ncx:text>Account tab</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06.html#account_tab"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2552365" playOrder="230">
+              <ncx:navLabel>
+                <ncx:text>Picture tab</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06.html#picture_tab"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2552456" playOrder="231">
+              <ncx:navLabel>
+                <ncx:text>Other settings</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06.html#other_settings"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2552812" playOrder="232">
+          <ncx:navLabel>
+            <ncx:text>Creating Your Database</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s02.html"/>
+          <ncx:navPoint id="id2552934" playOrder="233">
+            <ncx:navLabel>
+              <ncx:text>Making Sure There Is a There There</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s02.html#making_sure_there_is_a_there_there"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2553027" playOrder="234">
+            <ncx:navLabel>
+              <ncx:text>Giving the Database Some Structure</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s02.html#giving_the_database_some_structure"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2561975" playOrder="235">
+          <ncx:navLabel>
+            <ncx:text>Included Functions</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s03.html"/>
+          <ncx:navPoint id="id2562035" playOrder="236">
+            <ncx:navLabel>
+              <ncx:text>Creating Your Includes Directory</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s03.html#creating_your_includes_directory"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2562397" playOrder="237">
+            <ncx:navLabel>
+              <ncx:text>Environment Functions</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s03.html#environment_functions"/>
+            <ncx:navPoint id="id2562442" playOrder="238">
+              <ncx:navLabel>
+                <ncx:text>getServerPath⁠(⁠ ⁠)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#getserverpath_open_parenthesis_close_par"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2562524" playOrder="239">
+              <ncx:navLabel>
+                <ncx:text>getHTTPpath⁠(⁠ ⁠)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#gethttppath_open_parenthesis_close_paren"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2562597" playOrder="240">
+            <ncx:navLabel>
+              <ncx:text>API Configuration Functions</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s03.html#api_configuration_functions"/>
+            <ncx:navPoint id="id2562676" playOrder="241">
+              <ncx:navLabel>
+                <ncx:text>prepAPI⁠(⁠ ⁠)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#prepapi_open_parenthesis_close_parenthes"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2562801" playOrder="242">
+              <ncx:navLabel>
+                <ncx:text>prepRequest⁠(⁠ ⁠)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#preprequest_open_parenthesis_close_paren"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2563166" playOrder="243">
+              <ncx:navLabel>
+                <ncx:text>apiRequest⁠(⁠ ⁠)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#apirequest_open_parenthesis_close_parent"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2563291" playOrder="244">
+            <ncx:navLabel>
+              <ncx:text>Database Functions</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s03.html#database_functions"/>
+            <ncx:navPoint id="id2563326" playOrder="245">
+              <ncx:navLabel>
+                <ncx:text>getDBconfiguration⁠(⁠ ⁠)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#getdbconfiguration_open_parenthesis_clos"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2563406" playOrder="246">
+              <ncx:navLabel>
+                <ncx:text>openDB⁠(⁠ ⁠)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#opendb_open_parenthesis_close_parenthesi"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2563462" playOrder="247">
+              <ncx:navLabel>
+                <ncx:text>closeDB⁠(⁠ ⁠)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#closedb_open_parenthesis_close_parenthes"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2563522" playOrder="248">
+            <ncx:navLabel>
+              <ncx:text>SQL Queries</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s03.html#sql_queries"/>
+            <ncx:navPoint id="id2563563" playOrder="249">
+              <ncx:navLabel>
+                <ncx:text>getQueries⁠(⁠ ⁠)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#getqueries_open_parenthesis_close_parent"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2563885" playOrder="250">
+            <ncx:navLabel>
+              <ncx:text>Data Parsing Functions</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s03.html#data_parsing_functions"/>
+            <ncx:navPoint id="id2563925" playOrder="251">
+              <ncx:navLabel>
+                <ncx:text>parseFeed⁠(⁠ ⁠)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#parsefeed_open_parenthesis_close_parenth"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2564071" playOrder="252">
+              <ncx:navLabel>
+                <ncx:text>parseXML⁠(⁠ ⁠)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#parsexml_open_parenthesis_close_parenthe"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2564232" playOrder="253">
+              <ncx:navLabel>
+                <ncx:text>createDOMfromURL⁠(⁠ ⁠)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#createdomfromurl_open_parenthesis_close"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2564308" playOrder="254">
+              <ncx:navLabel>
+                <ncx:text>createParserFromString⁠(⁠ ⁠)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#createparserfromstring_open_parenthesis"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2564361" playOrder="255">
+              <ncx:navLabel>
+                <ncx:text>createXMLshell⁠(⁠ ⁠)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#createxmlshell_open_parenthesis_close_pa"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2564416" playOrder="256">
+              <ncx:navLabel>
+                <ncx:text>createRSSshell⁠(⁠ ⁠)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#createrssshell_open_parenthesis_close_pa"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2564509" playOrder="257">
+              <ncx:navLabel>
+                <ncx:text>formatTweetAsXHTML⁠(⁠ ⁠)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#formattweetasxhtml_open_parenthesis_clos"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2564580" playOrder="258">
+              <ncx:navLabel>
+                <ncx:text>addItem⁠(⁠ ⁠)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#additem_open_parenthesis_close_parenthes"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2564671" playOrder="259">
+            <ncx:navLabel>
+              <ncx:text>Password Management Functions</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s03.html#password_management_functions"/>
+            <ncx:navPoint id="id2564745" playOrder="260">
+              <ncx:navLabel>
+                <ncx:text>securePassword⁠(⁠ ⁠)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#securepassword_open_parenthesis_close_pa"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2564857" playOrder="261">
+              <ncx:navLabel>
+                <ncx:text>comparePassword⁠(⁠ ⁠)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#comparepassword_open_parenthesis_close_p"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2564930" playOrder="262">
+              <ncx:navLabel>
+                <ncx:text>scramblePassword⁠(⁠ ⁠)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#scramblepassword_open_parenthesis_close"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2565018" playOrder="263">
+              <ncx:navLabel>
+                <ncx:text>unscramblePassword⁠(⁠ ⁠)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#unscramblepassword_open_parenthesis_clos"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2565137" playOrder="264">
+            <ncx:navLabel>
+              <ncx:text>Data Validation Functions</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s03.html#data_validation_functions"/>
+            <ncx:navPoint id="id2565177" playOrder="265">
+              <ncx:navLabel>
+                <ncx:text>checkInput⁠(⁠ ⁠)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#checkinput_open_parenthesis_close_parent"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2565282" playOrder="266">
+              <ncx:navLabel>
+                <ncx:text>isSubmitted⁠(⁠ ⁠)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#issubmitted_open_parenthesis_close_paren"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2565363" playOrder="267">
+              <ncx:navLabel>
+                <ncx:text>isValidTweet⁠(⁠ ⁠)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#isvalidtweet_open_parenthesis_close_pare"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2565471" playOrder="268">
+              <ncx:navLabel>
+                <ncx:text>hasCredentials⁠(⁠ ⁠)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#hascredentials_open_parenthesis_close_pa"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2565550" playOrder="269">
+              <ncx:navLabel>
+                <ncx:text>hasAccess⁠(⁠ ⁠)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#hasaccess_open_parenthesis_close_parenth"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2565646" playOrder="270">
+            <ncx:navLabel>
+              <ncx:text>Data Sorting Functions</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s03.html#data_sorting_functions"/>
+            <ncx:navPoint id="id2565691" playOrder="271">
+              <ncx:navLabel>
+                <ncx:text>sortData⁠(⁠ ⁠)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#sortdata_open_parenthesis_close_parenthe"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2565762" playOrder="272">
+              <ncx:navLabel>
+                <ncx:text>compareFollowNet⁠(⁠ ⁠)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#comparefollownet_open_parenthesis_close"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2565859" playOrder="273">
+            <ncx:navLabel>
+              <ncx:text>Statistics Functions</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s03.html#statistics_functions"/>
+            <ncx:navPoint id="id2565902" playOrder="274">
+              <ncx:navLabel>
+                <ncx:text>groupStats⁠(⁠ ⁠)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#groupstats_open_parenthesis_close_parent"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2565989" playOrder="275">
+            <ncx:navLabel>
+              <ncx:text>Log Management Functions</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s03.html#log_management_functions"/>
+            <ncx:navPoint id="id2566030" playOrder="276">
+              <ncx:navLabel>
+                <ncx:text>openFile⁠(⁠ ⁠)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#openfile_open_parenthesis_close_parenthe"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2566110" playOrder="277">
+              <ncx:navLabel>
+                <ncx:text>writeFile⁠(⁠ ⁠)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#writefile_open_parenthesis_close_parenth"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2566165" playOrder="278">
+              <ncx:navLabel>
+                <ncx:text>closeFile⁠(⁠ ⁠)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#closefile_open_parenthesis_close_parenth"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2566254" playOrder="279">
+              <ncx:navLabel>
+                <ncx:text>deleteFile⁠(⁠ ⁠)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#deletefile_open_parenthesis_close_parent"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2566328" playOrder="280">
+            <ncx:navLabel>
+              <ncx:text>Status Messages</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s03.html#status_messages"/>
+            <ncx:navPoint id="id2566356" playOrder="281">
+              <ncx:navLabel>
+                <ncx:text>getResponse⁠(⁠ ⁠)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#getresponse_open_parenthesis_close_paren"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2566567" playOrder="282">
+            <ncx:navLabel>
+              <ncx:text>HTML Template Functions</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s03.html#html_template_functions"/>
+            <ncx:navPoint id="id2566605" playOrder="283">
+              <ncx:navLabel>
+                <ncx:text>getHeader⁠(⁠ ⁠)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#getheader_open_parenthesis_close_parenth"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2566679" playOrder="284">
+              <ncx:navLabel>
+                <ncx:text>getInterface⁠(⁠ ⁠)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#getinterface_open_parenthesis_close_pare"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2566776" playOrder="285">
+              <ncx:navLabel>
+                <ncx:text>getFooter⁠(⁠ ⁠)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#getfooter_open_parenthesis_close_parenth"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2566834" playOrder="286">
+          <ncx:navLabel>
+            <ncx:text>CSS</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s04.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2566979" playOrder="287">
+        <ncx:navLabel>
+          <ncx:text>7. Sample Applications</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch07.html"/>
+        <ncx:navPoint id="id2567059" playOrder="288">
+          <ncx:navLabel>
+            <ncx:text>Meet the Sample Apps</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07.html#meet_the_sample_apps"/>
+          <ncx:navPoint id="id2567480" playOrder="289">
+            <ncx:navLabel>
+              <ncx:text>Why Are You Asking for My Password?</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07.html#why_are_you_asking_for_my_password_quest"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2567671" playOrder="290">
+          <ncx:navLabel>
+            <ncx:text>Administration Tool</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07s02.html"/>
+          <ncx:navPoint id="id2567735" playOrder="291">
+            <ncx:navLabel>
+              <ncx:text>Take the App for a Spin</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s02.html#take_the_app_for_a_spin"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2567868" playOrder="292">
+            <ncx:navLabel>
+              <ncx:text>Check Under the Hood</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s02.html#check_under_the_hood"/>
+            <ncx:navPoint id="id2568037" playOrder="293">
+              <ncx:navLabel>
+                <ncx:text>Include external functions</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s02.html#include_external_functions"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2568223" playOrder="294">
+              <ncx:navLabel>
+                <ncx:text>Initialize values</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s02.html#initialize_values"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2568311" playOrder="295">
+              <ncx:navLabel>
+                <ncx:text>Parse input</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s02.html#parse_input"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2568384" playOrder="296">
+              <ncx:navLabel>
+                <ncx:text>Configure API requests</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s02.html#configure_api_requests"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2568444" playOrder="297">
+              <ncx:navLabel>
+                <ncx:text>Initiate cURL</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s02.html#initiate_curl"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2568527" playOrder="298">
+              <ncx:navLabel>
+                <ncx:text>Prepare database interaction</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s02.html#prepare_database_interaction"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2568672" playOrder="299">
+              <ncx:navLabel>
+                <ncx:text>Validate access</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s02.html#validate_access"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2568754" playOrder="300">
+              <ncx:navLabel>
+                <ncx:text>Save data</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s02.html#save_data"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2568872" playOrder="301">
+              <ncx:navLabel>
+                <ncx:text>Determine feedback response</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s02.html#determine_feedback_response"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2568955" playOrder="302">
+              <ncx:navLabel>
+                <ncx:text>Clean up</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s02.html#clean_up"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2569007" playOrder="303">
+              <ncx:navLabel>
+                <ncx:text>Render interface</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s02.html#render_interface"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2569110" playOrder="304">
+            <ncx:navLabel>
+              <ncx:text>Shifting Gears</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s02.html#shifting_gears"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2569353" playOrder="305">
+          <ncx:navLabel>
+            <ncx:text>Tweet Publisher</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07s03.html"/>
+          <ncx:navPoint id="id2569434" playOrder="306">
+            <ncx:navLabel>
+              <ncx:text>Take the App for a Spin</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s03.html#take_the_app_for_a_spin-id1"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2569582" playOrder="307">
+            <ncx:navLabel>
+              <ncx:text>Check Under the Hood</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s03.html#check_under_the_hood-id1"/>
+            <ncx:navPoint id="id2569731" playOrder="308">
+              <ncx:navLabel>
+                <ncx:text>Parse input</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s03.html#parse_input-id1"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2569773" playOrder="309">
+              <ncx:navLabel>
+                <ncx:text>Post message</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s03.html#post_message"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2569932" playOrder="310">
+              <ncx:navLabel>
+                <ncx:text>Render interface</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s03.html#render_interface-id1"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2570012" playOrder="311">
+            <ncx:navLabel>
+              <ncx:text>Shifting Gears</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s03.html#shifting_gears-id1"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2570099" playOrder="312">
+          <ncx:navLabel>
+            <ncx:text>Auto Tweet</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07s04.html"/>
+          <ncx:navPoint id="id2570174" playOrder="313">
+            <ncx:navLabel>
+              <ncx:text>Take the App for a Spin</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s04.html#take_the_app_for_a_spin-id2"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2570345" playOrder="314">
+            <ncx:navLabel>
+              <ncx:text>Check Under the Hood</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s04.html#check_under_the_hood-id2"/>
+            <ncx:navPoint id="id2531268" playOrder="315">
+              <ncx:navLabel>
+                <ncx:text>Parse input</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s04.html#parse_input-id2"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2531344" playOrder="316">
+              <ncx:navLabel>
+                <ncx:text>Disable profile</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s04.html#disable_profile"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2531417" playOrder="317">
+              <ncx:navLabel>
+                <ncx:text>Retrieve stored data</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s04.html#retrieve_stored_data"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2531564" playOrder="318">
+              <ncx:navLabel>
+                <ncx:text>Process deletion request</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s04.html#process_deletion_request"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2531649" playOrder="319">
+              <ncx:navLabel>
+                <ncx:text>Check feed</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s04.html#check_feed"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2531747" playOrder="320">
+              <ncx:navLabel>
+                <ncx:text>Save profile</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s04.html#save_profile"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2531783" playOrder="321">
+            <ncx:navLabel>
+              <ncx:text>Shifting Gears</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s04.html#shifting_gears-id2"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2531925" playOrder="322">
+          <ncx:navLabel>
+            <ncx:text>Tweet Broadcast</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07s05.html"/>
+          <ncx:navPoint id="id2532022" playOrder="323">
+            <ncx:navLabel>
+              <ncx:text>Take the App for a Spin</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s05.html#take_the_app_for_a_spin-id3"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2532232" playOrder="324">
+            <ncx:navLabel>
+              <ncx:text>Check Under the Hood</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s05.html#check_under_the_hood-id3"/>
+            <ncx:navPoint id="id2532416" playOrder="325">
+              <ncx:navLabel>
+                <ncx:text>Retrieve stored data</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s05.html#retrieve_stored_data-id1"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2532528" playOrder="326">
+              <ncx:navLabel>
+                <ncx:text>Process deletion request</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s05.html#process_deletion_request-id1"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2532582" playOrder="327">
+              <ncx:navLabel>
+                <ncx:text>Compare groups</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s05.html#compare_groups"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2532742" playOrder="328">
+              <ncx:navLabel>
+                <ncx:text>Save group</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s05.html#save_group"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2532896" playOrder="329">
+              <ncx:navLabel>
+                <ncx:text>Render interface</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s05.html#render_interface-id2"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2532953" playOrder="330">
+            <ncx:navLabel>
+              <ncx:text>Shifting Gears</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s05.html#shifting_gears-id3"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2533050" playOrder="331">
+          <ncx:navLabel>
+            <ncx:text>Broadcast Feed</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07s06.html"/>
+          <ncx:navPoint id="id2533087" playOrder="332">
+            <ncx:navLabel>
+              <ncx:text>Take the App for a Spin</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s06.html#take_the_app_for_a_spin-id4"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2533129" playOrder="333">
+            <ncx:navLabel>
+              <ncx:text>Check Under the Hood</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s06.html#check_under_the_hood-id4"/>
+            <ncx:navPoint id="id2533281" playOrder="334">
+              <ncx:navLabel>
+                <ncx:text>Parse input</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s06.html#parse_input-id3"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2533350" playOrder="335">
+              <ncx:navLabel>
+                <ncx:text>Retrieve update timestamp</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s06.html#retrieve_update_timestamp"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2533400" playOrder="336">
+              <ncx:navLabel>
+                <ncx:text>Initiate XML</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s06.html#initiate_xml"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2533460" playOrder="337">
+              <ncx:navLabel>
+                <ncx:text>Add daily updates</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s06.html#add_daily_updates"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2533612" playOrder="338">
+              <ncx:navLabel>
+                <ncx:text>Render RSS feed</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s06.html#render_rss_feed"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2533666" playOrder="339">
+            <ncx:navLabel>
+              <ncx:text>Shifting Gears</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s06.html#shifting_gears-id4"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2533796" playOrder="340">
+          <ncx:navLabel>
+            <ncx:text>Tweet Alert</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07s07.html"/>
+          <ncx:navPoint id="id2533920" playOrder="341">
+            <ncx:navLabel>
+              <ncx:text>Take the App for a Spin</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s07.html#take_the_app_for_a_spin-id5"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2534161" playOrder="342">
+            <ncx:navLabel>
+              <ncx:text>Check Under the Hood</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s07.html#check_under_the_hood-id5"/>
+            <ncx:navPoint id="id2534457" playOrder="343">
+              <ncx:navLabel>
+                <ncx:text>Confirm follower status</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s07.html#confirm_follower_status"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2534622" playOrder="344">
+            <ncx:navLabel>
+              <ncx:text>Shifting Gears</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s07.html#shifting_gears-id5"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2534713" playOrder="345">
+          <ncx:navLabel>
+            <ncx:text>Network Viewer</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07s08.html"/>
+          <ncx:navPoint id="id2534822" playOrder="346">
+            <ncx:navLabel>
+              <ncx:text>Take the App for a Spin</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s08.html#take_the_app_for_a_spin-id6"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2534972" playOrder="347">
+            <ncx:navLabel>
+              <ncx:text>Check Under the Hood</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s08.html#check_under_the_hood-id6"/>
+            <ncx:navPoint id="id2535234" playOrder="348">
+              <ncx:navLabel>
+                <ncx:text>Get user profile</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s08.html#get_user_profile"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2535412" playOrder="349">
+              <ncx:navLabel>
+                <ncx:text>Get follow network</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s08.html#get_follow_network"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2535546" playOrder="350">
+              <ncx:navLabel>
+                <ncx:text>Sort follow network</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s08.html#sort_follow_network"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2535660" playOrder="351">
+              <ncx:navLabel>
+                <ncx:text>Format follow network</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s08.html#format_follow_network"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2535793" playOrder="352">
+              <ncx:navLabel>
+                <ncx:text>Render interface</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s08.html#render_interface-id3"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2535856" playOrder="353">
+            <ncx:navLabel>
+              <ncx:text>Shifting Gears</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s08.html#shifting_gears-id6"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2536009" playOrder="354">
+          <ncx:navLabel>
+            <ncx:text>Best of Twitter API</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07s09.html"/>
+          <ncx:navPoint id="id2536163" playOrder="355">
+            <ncx:navLabel>
+              <ncx:text>Take the App for a Spin</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s09.html#take_the_app_for_a_spin-id7"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2536284" playOrder="356">
+            <ncx:navLabel>
+              <ncx:text>Check Under the Hood</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s09.html#check_under_the_hood-id7"/>
+            <ncx:navPoint id="id2536412" playOrder="357">
+              <ncx:navLabel>
+                <ncx:text>Parse input</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s09.html#parse_input-id4"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2536539" playOrder="358">
+              <ncx:navLabel>
+                <ncx:text>Add bookmarks</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s09.html#add_bookmarks"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2536635" playOrder="359">
+            <ncx:navLabel>
+              <ncx:text>Shifting Gears</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s09.html#shifting_gears-id7"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2536778" playOrder="360">
+        <ncx:navLabel>
+          <ncx:text>8. Automated Tasks</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch08.html"/>
+        <ncx:navPoint id="id2537109" playOrder="361">
+          <ncx:navLabel>
+            <ncx:text>RSS to Tweet</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08.html#rss_to_tweet"/>
+          <ncx:navPoint id="id2537242" playOrder="362">
+            <ncx:navLabel>
+              <ncx:text>Check Under the Hood</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08.html#check_under_the_hood-id8"/>
+            <ncx:navPoint id="id2537449" playOrder="363">
+              <ncx:navLabel>
+                <ncx:text>Include external functions</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08.html#include_external_functions-id1"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2537563" playOrder="364">
+              <ncx:navLabel>
+                <ncx:text>Initiate logging</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08.html#initiate_logging"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2537660" playOrder="365">
+              <ncx:navLabel>
+                <ncx:text>Prepare database interaction</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08.html#prepare_database_interaction-id1"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2537760" playOrder="366">
+              <ncx:navLabel>
+                <ncx:text>Retrieve stored data</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08.html#retrieve_stored_data-id2"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2537854" playOrder="367">
+              <ncx:navLabel>
+                <ncx:text>Post message</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08.html#post_message-id1"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2537901" playOrder="368">
+              <ncx:navLabel>
+                <ncx:text>Clean up</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08.html#clean_up-id1"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2537935" playOrder="369">
+              <ncx:navLabel>
+                <ncx:text>Log output</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08.html#log_output"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2538039" playOrder="370">
+          <ncx:navLabel>
+            <ncx:text>Aggregate Broadcast</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08s02.html"/>
+          <ncx:navPoint id="id2538143" playOrder="371">
+            <ncx:navLabel>
+              <ncx:text>Check Under the Hood</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s02.html#check_under_the_hood-id9"/>
+            <ncx:navPoint id="id2538321" playOrder="372">
+              <ncx:navLabel>
+                <ncx:text>Retrieve stored data</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s02.html#retrieve_stored_data-id3"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2538394" playOrder="373">
+              <ncx:navLabel>
+                <ncx:text>Purge old stored data</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s02.html#purge_old_stored_data"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2538437" playOrder="374">
+              <ncx:navLabel>
+                <ncx:text>Log output</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s02.html#log_output-id1"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2538544" playOrder="375">
+          <ncx:navLabel>
+            <ncx:text>Scan Tweets</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08s03.html"/>
+          <ncx:navPoint id="id2538642" playOrder="376">
+            <ncx:navLabel>
+              <ncx:text>Check Under the Hood</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s03.html#check_under_the_hood-id10"/>
+            <ncx:navPoint id="id2538997" playOrder="377">
+              <ncx:navLabel>
+                <ncx:text>Retrieve master password</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s03.html#retrieve_master_password"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2539103" playOrder="378">
+              <ncx:navLabel>
+                <ncx:text>Retrieve last ID</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s03.html#retrieve_last_id"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2539161" playOrder="379">
+              <ncx:navLabel>
+                <ncx:text>Check for matching tweets</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s03.html#check_for_matching_tweets"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2539288" playOrder="380">
+              <ncx:navLabel>
+                <ncx:text>Format message</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s03.html#format_message"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2539322" playOrder="381">
+              <ncx:navLabel>
+                <ncx:text>Retrieve users</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s03.html#retrieve_users"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2539357" playOrder="382">
+              <ncx:navLabel>
+                <ncx:text>Confirm follower status</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s03.html#confirm_follower_status-id1"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2539424" playOrder="383">
+              <ncx:navLabel>
+                <ncx:text>Notify users</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s03.html#notify_users"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2539474" playOrder="384">
+              <ncx:navLabel>
+                <ncx:text>Log activity</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s03.html#log_activity"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2539539" playOrder="385">
+              <ncx:navLabel>
+                <ncx:text>Log output</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s03.html#log_output-id2"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2539665" playOrder="386">
+          <ncx:navLabel>
+            <ncx:text>Queue Users</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08s04.html"/>
+          <ncx:navPoint id="id2539779" playOrder="387">
+            <ncx:navLabel>
+              <ncx:text>Check Under the Hood</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s04.html#check_under_the_hood-id11"/>
+            <ncx:navPoint id="id2539895" playOrder="388">
+              <ncx:navLabel>
+                <ncx:text>Mine new users</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s04.html#mine_new_users"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2539962" playOrder="389">
+          <ncx:navLabel>
+            <ncx:text>Collect Favorites</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08s05.html"/>
+          <ncx:navPoint id="id2540083" playOrder="390">
+            <ncx:navLabel>
+              <ncx:text>Check Under the Hood</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s05.html#check_under_the_hood-id12"/>
+            <ncx:navPoint id="id2540363" playOrder="391">
+              <ncx:navLabel>
+                <ncx:text>Retrieve master password</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s05.html#retrieve_master_password-id1"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2540434" playOrder="392">
+              <ncx:navLabel>
+                <ncx:text>Retrieve queue</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s05.html#retrieve_queue"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2540497" playOrder="393">
+              <ncx:navLabel>
+                <ncx:text>Retrieve favorites</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s05.html#retrieve_favorites"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2540698" playOrder="394">
+              <ncx:navLabel>
+                <ncx:text>Update queue</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s05.html#update_queue"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2540736" playOrder="395">
+              <ncx:navLabel>
+                <ncx:text>Log output</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s05.html#log_output-id3"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2540868" playOrder="396">
+        <ncx:navLabel>
+          <ncx:text>A. Twitter API Reference</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="apa.html"/>
+        <ncx:navPoint id="id2540968" playOrder="397">
+          <ncx:navLabel>
+            <ncx:text>Status Methods</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apa.html#status_methods"/>
+          <ncx:navPoint id="id2540974" playOrder="398">
+            <ncx:navLabel>
+              <ncx:text>Delete a Tweet</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apa.html#delete_a_tweet-id1"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2541225" playOrder="399">
+            <ncx:navLabel>
+              <ncx:text>View Followers</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apa.html#view_followers-id1"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2541480" playOrder="400">
+            <ncx:navLabel>
+              <ncx:text>View Members Being Followed</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apa.html#view_members_being_followed-id1"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2541741" playOrder="401">
+            <ncx:navLabel>
+              <ncx:text>View a Friends Timeline</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apa.html#view_a_friends_timeline-id1"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2542046" playOrder="402">
+            <ncx:navLabel>
+              <ncx:text>View the Public Timeline</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apa.html#view_the_public_timeline-id1"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2542210" playOrder="403">
+            <ncx:navLabel>
+              <ncx:text>View Replies</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apa.html#view_replies-id1"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2542500" playOrder="404">
+            <ncx:navLabel>
+              <ncx:text>Show a Tweet</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apa.html#show_a_tweet-id1"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2542715" playOrder="405">
+            <ncx:navLabel>
+              <ncx:text>Post a Tweet</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apa.html#post_a_tweet-id1"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2543010" playOrder="406">
+            <ncx:navLabel>
+              <ncx:text>View an Individual Timeline</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apa.html#view_an_individual_timeline-id1"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2511487" playOrder="407">
+          <ncx:navLabel>
+            <ncx:text>Users Methods</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apas02.html"/>
+          <ncx:navPoint id="id2511493" playOrder="408">
+            <ncx:navLabel>
+              <ncx:text>Show Member Profile</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apas02.html#show_member_profile-id1"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2511798" playOrder="409">
+          <ncx:navLabel>
+            <ncx:text>Direct Message Methods</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apas03.html"/>
+          <ncx:navPoint id="id2511804" playOrder="410">
+            <ncx:navLabel>
+              <ncx:text>List Received Messages</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apas03.html#list_received_messages-id1"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2512109" playOrder="411">
+            <ncx:navLabel>
+              <ncx:text>Delete a Message</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apas03.html#delete_a_message-id1"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2512326" playOrder="412">
+            <ncx:navLabel>
+              <ncx:text>Create a Message</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apas03.html#create_a_message-id1"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2512565" playOrder="413">
+            <ncx:navLabel>
+              <ncx:text>List Sent Messages</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apas03.html#list_sent_messages-id1"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2512867" playOrder="414">
+          <ncx:navLabel>
+            <ncx:text>Friendship Methods</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apas04.html"/>
+          <ncx:navPoint id="id2512873" playOrder="415">
+            <ncx:navLabel>
+              <ncx:text>Follow a Member</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apas04.html#follow_a_member-id1"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2513140" playOrder="416">
+            <ncx:navLabel>
+              <ncx:text>Unfollow a Member</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apas04.html#unfollow_a_member-id1"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2513366" playOrder="417">
+            <ncx:navLabel>
+              <ncx:text>Confirm a Follow</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apas04.html#confirm_a_follow-id1"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2513617" playOrder="418">
+          <ncx:navLabel>
+            <ncx:text>Social Graph Methods</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apas05.html"/>
+          <ncx:navPoint id="id2513623" playOrder="419">
+            <ncx:navLabel>
+              <ncx:text>Get All Friends</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apas05.html#get_all_friends-id1"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2513862" playOrder="420">
+            <ncx:navLabel>
+              <ncx:text>Get All Followers</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apas05.html#get_all_followers-id1"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2514083" playOrder="421">
+          <ncx:navLabel>
+            <ncx:text>Account Methods</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apas06.html"/>
+          <ncx:navPoint id="id2514089" playOrder="422">
+            <ncx:navLabel>
+              <ncx:text>End a Member Session</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apas06.html#end_a_member_session-id1"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2514252" playOrder="423">
+            <ncx:navLabel>
+              <ncx:text>Check Rate Limit Status</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apas06.html#check_rate_limit_status-id1"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2514392" playOrder="424">
+            <ncx:navLabel>
+              <ncx:text>Update the Delivery Device</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apas06.html#update_the_delivery_device-id1"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2514623" playOrder="425">
+            <ncx:navLabel>
+              <ncx:text>Update Member Location</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apas06.html#update_member_location-id1"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2514865" playOrder="426">
+            <ncx:navLabel>
+              <ncx:text>Update Member Profile</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apas06.html#update_member_profile-id1"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2515233" playOrder="427">
+            <ncx:navLabel>
+              <ncx:text>Update Background Image</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apas06.html#update_background_image-id1"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2515447" playOrder="428">
+            <ncx:navLabel>
+              <ncx:text>Update Profile Colors</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apas06.html#update_profile_colors-id1"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2515818" playOrder="429">
+            <ncx:navLabel>
+              <ncx:text>Update Profile Image</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apas06.html#update_profile_image-id1"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2516032" playOrder="430">
+            <ncx:navLabel>
+              <ncx:text>Verify Credentials</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apas06.html#verify_credentials-id1"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2516191" playOrder="431">
+          <ncx:navLabel>
+            <ncx:text>Favorite Methods</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apas07.html"/>
+          <ncx:navPoint id="id2516197" playOrder="432">
+            <ncx:navLabel>
+              <ncx:text>View Favorites</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apas07.html#view_bookmarks"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2516470" playOrder="433">
+            <ncx:navLabel>
+              <ncx:text>Create a Favorite</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apas07.html#create_a_bookmark"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2516682" playOrder="434">
+            <ncx:navLabel>
+              <ncx:text>Delete a Favorite</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apas07.html#delete_a_bookmark"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2516908" playOrder="435">
+          <ncx:navLabel>
+            <ncx:text>Notification Methods</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apas08.html"/>
+          <ncx:navPoint id="id2516914" playOrder="436">
+            <ncx:navLabel>
+              <ncx:text>Turn On Notification</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apas08.html#turn_on_notification"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2517150" playOrder="437">
+            <ncx:navLabel>
+              <ncx:text>Turn Off Notification</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apas08.html#turn_off_notification"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2517364" playOrder="438">
+          <ncx:navLabel>
+            <ncx:text>Block Methods</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apas09.html"/>
+          <ncx:navPoint id="id2517370" playOrder="439">
+            <ncx:navLabel>
+              <ncx:text>Block a Member</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apas09.html#block_a_member-id1"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2517596" playOrder="440">
+            <ncx:navLabel>
+              <ncx:text>Remove a Block</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apas09.html#remove_a_block-id1"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2517820" playOrder="441">
+          <ncx:navLabel>
+            <ncx:text>Help Methods</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apas10.html"/>
+          <ncx:navPoint id="id2517826" playOrder="442">
+            <ncx:navLabel>
+              <ncx:text>Test</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apas10.html#test-id1"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2517982" playOrder="443">
+          <ncx:navLabel>
+            <ncx:text>Search Methods</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apas11.html"/>
+          <ncx:navPoint id="id2517988" playOrder="444">
+            <ncx:navLabel>
+              <ncx:text>Keyword Search</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apas11.html#keyword_search-id1"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2518513" playOrder="445">
+            <ncx:navLabel>
+              <ncx:text>Monitor Trends</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apas11.html#monitor_trends-id1"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2518667" playOrder="446">
+        <ncx:navLabel>
+          <ncx:text>Index</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ix01.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2518668" playOrder="447">
+        <ncx:navLabel>
+          <ncx:text>Colophon</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="co01.html"/>
+      </ncx:navPoint>
+    </ncx:navPoint>
+  </ncx:navMap>
+</ncx:ncx>

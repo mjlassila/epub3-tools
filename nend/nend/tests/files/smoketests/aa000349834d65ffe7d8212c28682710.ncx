@@ -1,0 +1,1931 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx
+  PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <!--The following four metadata items are required for all
+            NCX documents, including those conforming to the relaxed
+            constraints of OPS 2.0-->
+      <meta name="dtb:uid" content="b2d5601c-80ee-416d-a787-e70e15066799"/>
+      <meta name="epub-creator" content="epubBooks (www.epubbooks.com)"/>
+      <meta name="dtb:depth" content="1"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+   <docTitle>
+      <text>Aesop's Fables</text>
+   </docTitle>
+   <docAuthor>
+      <text>Aesop</text>
+   </docAuthor>
+   <navMap>
+      <navPoint id="navpoint-1" playOrder="1">
+         <navLabel>
+            <text>Title Page</text>
+         </navLabel>
+         <content src="title.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-2" playOrder="2">
+         <navLabel>
+            <text>epubBooks Information</text>
+         </navLabel>
+         <content src="epubbooksinfo.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-3" playOrder="3">
+         <navLabel>
+            <text>PREFACE</text>
+         </navLabel>
+         <content src="preface.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-4" playOrder="4">
+         <navLabel>
+            <text>The Wolf And The Lamb</text>
+         </navLabel>
+         <content src="chapter-001.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-5" playOrder="5">
+         <navLabel>
+            <text>The Bat And The Weasels</text>
+         </navLabel>
+         <content src="chapter-002.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-6" playOrder="6">
+         <navLabel>
+            <text>The Ass And The Grasshopper</text>
+         </navLabel>
+         <content src="chapter-003.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-7" playOrder="7">
+         <navLabel>
+            <text>The Lion And The Mouse</text>
+         </navLabel>
+         <content src="chapter-004.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-8" playOrder="8">
+         <navLabel>
+            <text>The Charcoal–Burner And The Fuller</text>
+         </navLabel>
+         <content src="chapter-005.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-9" playOrder="9">
+         <navLabel>
+            <text>The Father And His Sons</text>
+         </navLabel>
+         <content src="chapter-006.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-10" playOrder="10">
+         <navLabel>
+            <text>The Boy Hunting Locusts</text>
+         </navLabel>
+         <content src="chapter-007.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-11" playOrder="11">
+         <navLabel>
+            <text>The Cock and the Jewel</text>
+         </navLabel>
+         <content src="chapter-008.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-12" playOrder="12">
+         <navLabel>
+            <text>The Kingdom of the Lion</text>
+         </navLabel>
+         <content src="chapter-009.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-13" playOrder="13">
+         <navLabel>
+            <text>The Wolf and the Crane</text>
+         </navLabel>
+         <content src="chapter-010.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-14" playOrder="14">
+         <navLabel>
+            <text>The Fisherman Piping</text>
+         </navLabel>
+         <content src="chapter-011.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-15" playOrder="15">
+         <navLabel>
+            <text>Hercules and the Wagoner</text>
+         </navLabel>
+         <content src="chapter-012.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-16" playOrder="16">
+         <navLabel>
+            <text>The Ants and the Grasshopper</text>
+         </navLabel>
+         <content src="chapter-013.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-17" playOrder="17">
+         <navLabel>
+            <text>The Traveler and His Dog</text>
+         </navLabel>
+         <content src="chapter-014.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-18" playOrder="18">
+         <navLabel>
+            <text>The Dog and the Shadow</text>
+         </navLabel>
+         <content src="chapter-015.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-19" playOrder="19">
+         <navLabel>
+            <text>The Mole and His Mother</text>
+         </navLabel>
+         <content src="chapter-016.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-20" playOrder="20">
+         <navLabel>
+            <text>The Herdsman and the Lost Bull</text>
+         </navLabel>
+         <content src="chapter-017.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-21" playOrder="21">
+         <navLabel>
+            <text>The Hare and the Tortoise</text>
+         </navLabel>
+         <content src="chapter-018.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-22" playOrder="22">
+         <navLabel>
+            <text>The Pomegranate, Apple–Tree, and Bramble</text>
+         </navLabel>
+         <content src="chapter-019.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-23" playOrder="23">
+         <navLabel>
+            <text>The Farmer and the Stork</text>
+         </navLabel>
+         <content src="chapter-020.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-24" playOrder="24">
+         <navLabel>
+            <text>The Farmer and the Snake</text>
+         </navLabel>
+         <content src="chapter-021.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-25" playOrder="25">
+         <navLabel>
+            <text>The Fawn and His Mother</text>
+         </navLabel>
+         <content src="chapter-022.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-26" playOrder="26">
+         <navLabel>
+            <text>The Bear and the Fox</text>
+         </navLabel>
+         <content src="chapter-023.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-27" playOrder="27">
+         <navLabel>
+            <text>The Swallow and the Crow</text>
+         </navLabel>
+         <content src="chapter-024.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-28" playOrder="28">
+         <navLabel>
+            <text>The Mountain in Labor</text>
+         </navLabel>
+         <content src="chapter-025.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-29" playOrder="29">
+         <navLabel>
+            <text>The Ass, the Fox, and the Lion</text>
+         </navLabel>
+         <content src="chapter-026.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-30" playOrder="30">
+         <navLabel>
+            <text>The Tortoise and the Eagle</text>
+         </navLabel>
+         <content src="chapter-027.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-31" playOrder="31">
+         <navLabel>
+            <text>The Flies and the Honey–Pot</text>
+         </navLabel>
+         <content src="chapter-028.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-32" playOrder="32">
+         <navLabel>
+            <text>The Man and the Lion</text>
+         </navLabel>
+         <content src="chapter-029.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-33" playOrder="33">
+         <navLabel>
+            <text>The Farmer and the Cranes</text>
+         </navLabel>
+         <content src="chapter-030.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-34" playOrder="34">
+         <navLabel>
+            <text>The Dog in the Manger</text>
+         </navLabel>
+         <content src="chapter-031.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-35" playOrder="35">
+         <navLabel>
+            <text>The Fox and the Goat</text>
+         </navLabel>
+         <content src="chapter-032.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-36" playOrder="36">
+         <navLabel>
+            <text>The Bear and the Two Travelers</text>
+         </navLabel>
+         <content src="chapter-033.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-37" playOrder="37">
+         <navLabel>
+            <text>The Oxen and the Axle–Trees</text>
+         </navLabel>
+         <content src="chapter-034.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-38" playOrder="38">
+         <navLabel>
+            <text>The Thirsty Pigeon</text>
+         </navLabel>
+         <content src="chapter-035.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-39" playOrder="39">
+         <navLabel>
+            <text>The Raven and the Swan</text>
+         </navLabel>
+         <content src="chapter-036.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-40" playOrder="40">
+         <navLabel>
+            <text>The Goat and the Goatherd</text>
+         </navLabel>
+         <content src="chapter-037.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-41" playOrder="41">
+         <navLabel>
+            <text>The Miser</text>
+         </navLabel>
+         <content src="chapter-038.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-42" playOrder="42">
+         <navLabel>
+            <text>The Sick Lion</text>
+         </navLabel>
+         <content src="chapter-039.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-43" playOrder="43">
+         <navLabel>
+            <text>The Horse and Groom</text>
+         </navLabel>
+         <content src="chapter-040.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-44" playOrder="44">
+         <navLabel>
+            <text>The Ass and the Lapdog</text>
+         </navLabel>
+         <content src="chapter-041.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-45" playOrder="45">
+         <navLabel>
+            <text>The Lioness</text>
+         </navLabel>
+         <content src="chapter-042.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-46" playOrder="46">
+         <navLabel>
+            <text>The Boasting Traveler</text>
+         </navLabel>
+         <content src="chapter-043.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-47" playOrder="47">
+         <navLabel>
+            <text>The Cat and the Cock</text>
+         </navLabel>
+         <content src="chapter-044.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-48" playOrder="48">
+         <navLabel>
+            <text>The Piglet, the Sheep, and the Goat</text>
+         </navLabel>
+         <content src="chapter-045.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-49" playOrder="49">
+         <navLabel>
+            <text>The Boy and the Filberts</text>
+         </navLabel>
+         <content src="chapter-046.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-50" playOrder="50">
+         <navLabel>
+            <text>The Lion in Love</text>
+         </navLabel>
+         <content src="chapter-047.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-51" playOrder="51">
+         <navLabel>
+            <text>The Laborer and the Snake</text>
+         </navLabel>
+         <content src="chapter-048.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-52" playOrder="52">
+         <navLabel>
+            <text>The Wolf in Sheep's Clothing</text>
+         </navLabel>
+         <content src="chapter-049.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-53" playOrder="53">
+         <navLabel>
+            <text>The Ass and the Mule</text>
+         </navLabel>
+         <content src="chapter-050.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-54" playOrder="54">
+         <navLabel>
+            <text>The Frogs Asking for a King</text>
+         </navLabel>
+         <content src="chapter-051.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-55" playOrder="55">
+         <navLabel>
+            <text>The Boys and the Frogs</text>
+         </navLabel>
+         <content src="chapter-052.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-56" playOrder="56">
+         <navLabel>
+            <text>The Sick Stag</text>
+         </navLabel>
+         <content src="chapter-053.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-57" playOrder="57">
+         <navLabel>
+            <text>The Salt Merchant and His Ass</text>
+         </navLabel>
+         <content src="chapter-054.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-58" playOrder="58">
+         <navLabel>
+            <text>The Oxen and the Butchers</text>
+         </navLabel>
+         <content src="chapter-055.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-59" playOrder="59">
+         <navLabel>
+            <text>The Lion, the Mouse, and the Fox</text>
+         </navLabel>
+         <content src="chapter-056.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-60" playOrder="60">
+         <navLabel>
+            <text>The Vain Jackdaw</text>
+         </navLabel>
+         <content src="chapter-057.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-61" playOrder="61">
+         <navLabel>
+            <text>The Goatherd and the Wild Goats</text>
+         </navLabel>
+         <content src="chapter-058.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-62" playOrder="62">
+         <navLabel>
+            <text>Old friends cannot with impunity be sacrificed for new ones.</text>
+         </navLabel>
+         <content src="chapter-059.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-63" playOrder="63">
+         <navLabel>
+            <text>The Mischievous Dog</text>
+         </navLabel>
+         <content src="chapter-060.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-64" playOrder="64">
+         <navLabel>
+            <text>The Fox Who Had Lost His Tail</text>
+         </navLabel>
+         <content src="chapter-061.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-65" playOrder="65">
+         <navLabel>
+            <text>The Boy and the Nettles</text>
+         </navLabel>
+         <content src="chapter-062.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-66" playOrder="66">
+         <navLabel>
+            <text>The Man and His Two Sweethearts</text>
+         </navLabel>
+         <content src="chapter-063.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-67" playOrder="67">
+         <navLabel>
+            <text>The Astronomer</text>
+         </navLabel>
+         <content src="chapter-064.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-68" playOrder="68">
+         <navLabel>
+            <text>The Wolves and the Sheep</text>
+         </navLabel>
+         <content src="chapter-065.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-69" playOrder="69">
+         <navLabel>
+            <text>The Old Woman and the Physician</text>
+         </navLabel>
+         <content src="chapter-066.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-70" playOrder="70">
+         <navLabel>
+            <text>The Fighting Cocks and the Eagle</text>
+         </navLabel>
+         <content src="chapter-067.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-71" playOrder="71">
+         <navLabel>
+            <text>The Charger and the Miller</text>
+         </navLabel>
+         <content src="chapter-068.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-72" playOrder="72">
+         <navLabel>
+            <text>The Fox and the Monkey</text>
+         </navLabel>
+         <content src="chapter-069.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-73" playOrder="73">
+         <navLabel>
+            <text>The Horse and His Rider</text>
+         </navLabel>
+         <content src="chapter-070.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-74" playOrder="74">
+         <navLabel>
+            <text>The Belly and the Members</text>
+         </navLabel>
+         <content src="chapter-071.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-75" playOrder="75">
+         <navLabel>
+            <text>The Vine and the Goat</text>
+         </navLabel>
+         <content src="chapter-072.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-76" playOrder="76">
+         <navLabel>
+            <text>Jupiter and the Monkey</text>
+         </navLabel>
+         <content src="chapter-073.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-77" playOrder="77">
+         <navLabel>
+            <text>The Widow and Her Little Maidens</text>
+         </navLabel>
+         <content src="chapter-074.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-78" playOrder="78">
+         <navLabel>
+            <text>The Shepherd's Boy and the Wolf</text>
+         </navLabel>
+         <content src="chapter-075.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-79" playOrder="79">
+         <navLabel>
+            <text>The Cat and the Birds</text>
+         </navLabel>
+         <content src="chapter-076.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-80" playOrder="80">
+         <navLabel>
+            <text>The Kid and the Wolf</text>
+         </navLabel>
+         <content src="chapter-077.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-81" playOrder="81">
+         <navLabel>
+            <text>The Ox and the Frog</text>
+         </navLabel>
+         <content src="chapter-078.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-82" playOrder="82">
+         <navLabel>
+            <text>The Shepherd and the Wolf</text>
+         </navLabel>
+         <content src="chapter-079.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-83" playOrder="83">
+         <navLabel>
+            <text>The Father and His Two Daughters</text>
+         </navLabel>
+         <content src="chapter-080.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-84" playOrder="84">
+         <navLabel>
+            <text>The Farmer and His Sons</text>
+         </navLabel>
+         <content src="chapter-081.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-85" playOrder="85">
+         <navLabel>
+            <text>The Crab and Its Mother</text>
+         </navLabel>
+         <content src="chapter-082.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-86" playOrder="86">
+         <navLabel>
+            <text>The Heifer and the Ox</text>
+         </navLabel>
+         <content src="chapter-083.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-87" playOrder="87">
+         <navLabel>
+            <text>The Swallow, the Serpent, and the Court of Justice</text>
+         </navLabel>
+         <content src="chapter-084.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-88" playOrder="88">
+         <navLabel>
+            <text>The Thief and His Mother</text>
+         </navLabel>
+         <content src="chapter-085.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-89" playOrder="89">
+         <navLabel>
+            <text>The Old Man and Death</text>
+         </navLabel>
+         <content src="chapter-086.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-90" playOrder="90">
+         <navLabel>
+            <text>The Fir–Tree and the Bramble</text>
+         </navLabel>
+         <content src="chapter-087.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-91" playOrder="91">
+         <navLabel>
+            <text>The Mouse, the Frog, and the Hawk</text>
+         </navLabel>
+         <content src="chapter-088.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-92" playOrder="92">
+         <navLabel>
+            <text>The Man Bitten by a Dog</text>
+         </navLabel>
+         <content src="chapter-089.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-93" playOrder="93">
+         <navLabel>
+            <text>The Two Pots</text>
+         </navLabel>
+         <content src="chapter-090.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-94" playOrder="94">
+         <navLabel>
+            <text>The Wolf and the Sheep</text>
+         </navLabel>
+         <content src="chapter-091.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-95" playOrder="95">
+         <navLabel>
+            <text>The Aethiop</text>
+         </navLabel>
+         <content src="chapter-092.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-96" playOrder="96">
+         <navLabel>
+            <text>The Fisherman and His Nets</text>
+         </navLabel>
+         <content src="chapter-093.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-97" playOrder="97">
+         <navLabel>
+            <text>The Huntsman and the Fisherman</text>
+         </navLabel>
+         <content src="chapter-094.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-98" playOrder="98">
+         <navLabel>
+            <text>The Old Woman and the Wine–Jar</text>
+         </navLabel>
+         <content src="chapter-095.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-99" playOrder="99">
+         <navLabel>
+            <text>The Fox and the Crow</text>
+         </navLabel>
+         <content src="chapter-096.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-100" playOrder="100">
+         <navLabel>
+            <text>The Two Dogs</text>
+         </navLabel>
+         <content src="chapter-097.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-101" playOrder="101">
+         <navLabel>
+            <text>The Stag in the Ox–Stall</text>
+         </navLabel>
+         <content src="chapter-098.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-102" playOrder="102">
+         <navLabel>
+            <text>The Hawk, the Kite, and the Pigeons</text>
+         </navLabel>
+         <content src="chapter-099.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-103" playOrder="103">
+         <navLabel>
+            <text>The Widow and the Sheep</text>
+         </navLabel>
+         <content src="chapter-100.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-104" playOrder="104">
+         <navLabel>
+            <text>The Wild Ass and the Lion</text>
+         </navLabel>
+         <content src="chapter-101.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-105" playOrder="105">
+         <navLabel>
+            <text>The Eagle and the Arrow</text>
+         </navLabel>
+         <content src="chapter-102.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-106" playOrder="106">
+         <navLabel>
+            <text>The Sick Kite</text>
+         </navLabel>
+         <content src="chapter-103.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-107" playOrder="107">
+         <navLabel>
+            <text>The Lion and the Dolphin</text>
+         </navLabel>
+         <content src="chapter-104.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-108" playOrder="108">
+         <navLabel>
+            <text>The Lion and the Boar</text>
+         </navLabel>
+         <content src="chapter-105.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-109" playOrder="109">
+         <navLabel>
+            <text>The One–Eyed Doe</text>
+         </navLabel>
+         <content src="chapter-106.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-110" playOrder="110">
+         <navLabel>
+            <text>The Shepherd and the Sea</text>
+         </navLabel>
+         <content src="chapter-107.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-111" playOrder="111">
+         <navLabel>
+            <text>The Ass, the Cock, and the Lion</text>
+         </navLabel>
+         <content src="chapter-108.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-112" playOrder="112">
+         <navLabel>
+            <text>The Mice and the Weasels</text>
+         </navLabel>
+         <content src="chapter-109.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-113" playOrder="113">
+         <navLabel>
+            <text>The Mice in Council</text>
+         </navLabel>
+         <content src="chapter-110.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-114" playOrder="114">
+         <navLabel>
+            <text>The Wolf and the Housedog</text>
+         </navLabel>
+         <content src="chapter-111.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-115" playOrder="115">
+         <navLabel>
+            <text>The Rivers and the Sea</text>
+         </navLabel>
+         <content src="chapter-112.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-116" playOrder="116">
+         <navLabel>
+            <text>The Playful Ass</text>
+         </navLabel>
+         <content src="chapter-113.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-117" playOrder="117">
+         <navLabel>
+            <text>The Three Tradesmen</text>
+         </navLabel>
+         <content src="chapter-114.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-118" playOrder="118">
+         <navLabel>
+            <text>The Master and His Dogs</text>
+         </navLabel>
+         <content src="chapter-115.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-119" playOrder="119">
+         <navLabel>
+            <text>The Wolf and the Shepherds</text>
+         </navLabel>
+         <content src="chapter-116.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-120" playOrder="120">
+         <navLabel>
+            <text>The Dolphins, the Whales, and the Sprat</text>
+         </navLabel>
+         <content src="chapter-117.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-121" playOrder="121">
+         <navLabel>
+            <text>The Ass Carrying the Image</text>
+         </navLabel>
+         <content src="chapter-118.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-122" playOrder="122">
+         <navLabel>
+            <text>The Two Travelers and the Axe</text>
+         </navLabel>
+         <content src="chapter-119.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-123" playOrder="123">
+         <navLabel>
+            <text>The Old Lion</text>
+         </navLabel>
+         <content src="chapter-120.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-124" playOrder="124">
+         <navLabel>
+            <text>The Old Hound</text>
+         </navLabel>
+         <content src="chapter-121.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-125" playOrder="125">
+         <navLabel>
+            <text>The Bee and Jupiter</text>
+         </navLabel>
+         <content src="chapter-122.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-126" playOrder="126">
+         <navLabel>
+            <text>The Milk–Woman and Her Pail</text>
+         </navLabel>
+         <content src="chapter-123.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-127" playOrder="127">
+         <navLabel>
+            <text>The Seaside Travelers</text>
+         </navLabel>
+         <content src="chapter-124.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-128" playOrder="128">
+         <navLabel>
+            <text>The Brazier and His Dog</text>
+         </navLabel>
+         <content src="chapter-125.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-129" playOrder="129">
+         <navLabel>
+            <text>The Ass and His Shadow</text>
+         </navLabel>
+         <content src="chapter-126.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-130" playOrder="130">
+         <navLabel>
+            <text>The Ass and His Masters</text>
+         </navLabel>
+         <content src="chapter-127.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-131" playOrder="131">
+         <navLabel>
+            <text>The Oak and the Reeds</text>
+         </navLabel>
+         <content src="chapter-128.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-132" playOrder="132">
+         <navLabel>
+            <text>The Fisherman and the Little Fish</text>
+         </navLabel>
+         <content src="chapter-129.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-133" playOrder="133">
+         <navLabel>
+            <text>The Hunter and the Woodman</text>
+         </navLabel>
+         <content src="chapter-130.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-134" playOrder="134">
+         <navLabel>
+            <text>The Wild Boar and the Fox</text>
+         </navLabel>
+         <content src="chapter-131.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-135" playOrder="135">
+         <navLabel>
+            <text>The Lion in a Farmyard</text>
+         </navLabel>
+         <content src="chapter-132.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-136" playOrder="136">
+         <navLabel>
+            <text>Mercury and the Sculptor</text>
+         </navLabel>
+         <content src="chapter-133.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-137" playOrder="137">
+         <navLabel>
+            <text>The Swan and the Goose</text>
+         </navLabel>
+         <content src="chapter-134.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-138" playOrder="138">
+         <navLabel>
+            <text>The Swollen Fox</text>
+         </navLabel>
+         <content src="chapter-135.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-139" playOrder="139">
+         <navLabel>
+            <text>The Fox and the Woodcutter</text>
+         </navLabel>
+         <content src="chapter-136.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-140" playOrder="140">
+         <navLabel>
+            <text>The Birdcatcher, the Partridge, and the Cock</text>
+         </navLabel>
+         <content src="chapter-137.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-141" playOrder="141">
+         <navLabel>
+            <text>The Monkey and the Fishermen</text>
+         </navLabel>
+         <content src="chapter-138.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-142" playOrder="142">
+         <navLabel>
+            <text>The Flea and the Wrestler</text>
+         </navLabel>
+         <content src="chapter-139.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-143" playOrder="143">
+         <navLabel>
+            <text>The Two Frogs</text>
+         </navLabel>
+         <content src="chapter-140.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-144" playOrder="144">
+         <navLabel>
+            <text>The Cat and the Mice</text>
+         </navLabel>
+         <content src="chapter-141.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-145" playOrder="145">
+         <navLabel>
+            <text>The Lion, the Bear, and the Fox</text>
+         </navLabel>
+         <content src="chapter-142.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-146" playOrder="146">
+         <navLabel>
+            <text>The Doe and the Lion</text>
+         </navLabel>
+         <content src="chapter-143.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-147" playOrder="147">
+         <navLabel>
+            <text>The Farmer and the Fox</text>
+         </navLabel>
+         <content src="chapter-144.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-148" playOrder="148">
+         <navLabel>
+            <text>The Seagull and the Kite</text>
+         </navLabel>
+         <content src="chapter-145.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-149" playOrder="149">
+         <navLabel>
+            <text>The Philosopher, the Ants, and Mercury</text>
+         </navLabel>
+         <content src="chapter-146.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-150" playOrder="150">
+         <navLabel>
+            <text>The Mouse and the Bull</text>
+         </navLabel>
+         <content src="chapter-147.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-151" playOrder="151">
+         <navLabel>
+            <text>The Lion and the Hare</text>
+         </navLabel>
+         <content src="chapter-148.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-152" playOrder="152">
+         <navLabel>
+            <text>The Peasant and the Eagle</text>
+         </navLabel>
+         <content src="chapter-149.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-153" playOrder="153">
+         <navLabel>
+            <text>The Image of Mercury and the Carpenter</text>
+         </navLabel>
+         <content src="chapter-150.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-154" playOrder="154">
+         <navLabel>
+            <text>The Bull and the Goat</text>
+         </navLabel>
+         <content src="chapter-151.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-155" playOrder="155">
+         <navLabel>
+            <text>The Dancing Monkeys</text>
+         </navLabel>
+         <content src="chapter-152.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-156" playOrder="156">
+         <navLabel>
+            <text>The Fox and the Leopard</text>
+         </navLabel>
+         <content src="chapter-153.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-157" playOrder="157">
+         <navLabel>
+            <text>The Monkeys and Their Mother</text>
+         </navLabel>
+         <content src="chapter-154.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-158" playOrder="158">
+         <navLabel>
+            <text>The Oaks and Jupiter</text>
+         </navLabel>
+         <content src="chapter-155.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-159" playOrder="159">
+         <navLabel>
+            <text>The Hare and the Hound</text>
+         </navLabel>
+         <content src="chapter-156.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-160" playOrder="160">
+         <navLabel>
+            <text>The Traveler and Fortune</text>
+         </navLabel>
+         <content src="chapter-157.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-161" playOrder="161">
+         <navLabel>
+            <text>The Bald Knight</text>
+         </navLabel>
+         <content src="chapter-158.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-162" playOrder="162">
+         <navLabel>
+            <text>The Shepherd and the Dog</text>
+         </navLabel>
+         <content src="chapter-159.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-163" playOrder="163">
+         <navLabel>
+            <text>The Lamp</text>
+         </navLabel>
+         <content src="chapter-160.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-164" playOrder="164">
+         <navLabel>
+            <text>The Lion, the Fox, and the Ass</text>
+         </navLabel>
+         <content src="chapter-161.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-165" playOrder="165">
+         <navLabel>
+            <text>The Bull, the Lioness, and the Wild–Boar Hunter</text>
+         </navLabel>
+         <content src="chapter-162.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-166" playOrder="166">
+         <navLabel>
+            <text>The Oak and the Woodcutters</text>
+         </navLabel>
+         <content src="chapter-163.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-167" playOrder="167">
+         <navLabel>
+            <text>The Hen and the Golden Eggs</text>
+         </navLabel>
+         <content src="chapter-164.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-168" playOrder="168">
+         <navLabel>
+            <text>The Ass and the Frogs</text>
+         </navLabel>
+         <content src="chapter-165.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-169" playOrder="169">
+         <navLabel>
+            <text>Men often bear little grievances with less courage than they do large misfortunes.</text>
+         </navLabel>
+         <content src="chapter-166.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-170" playOrder="170">
+         <navLabel>
+            <text>The Crow and the Raven</text>
+         </navLabel>
+         <content src="chapter-167.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-171" playOrder="171">
+         <navLabel>
+            <text>The Trees and the Axe</text>
+         </navLabel>
+         <content src="chapter-168.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-172" playOrder="172">
+         <navLabel>
+            <text>The Crab and the Fox</text>
+         </navLabel>
+         <content src="chapter-169.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-173" playOrder="173">
+         <navLabel>
+            <text>The Woman and Her Hen</text>
+         </navLabel>
+         <content src="chapter-170.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-174" playOrder="174">
+         <navLabel>
+            <text>The Ass and the Old Shepherd</text>
+         </navLabel>
+         <content src="chapter-171.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-175" playOrder="175">
+         <navLabel>
+            <text>The Kites and the Swans</text>
+         </navLabel>
+         <content src="chapter-172.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-176" playOrder="176">
+         <navLabel>
+            <text>The Wolves and the Sheepdogs</text>
+         </navLabel>
+         <content src="chapter-173.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-177" playOrder="177">
+         <navLabel>
+            <text>The Hares and the Foxes</text>
+         </navLabel>
+         <content src="chapter-174.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-178" playOrder="178">
+         <navLabel>
+            <text>The Bowman and Lion</text>
+         </navLabel>
+         <content src="chapter-175.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-179" playOrder="179">
+         <navLabel>
+            <text>The Camel</text>
+         </navLabel>
+         <content src="chapter-176.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-180" playOrder="180">
+         <navLabel>
+            <text>The Wasp and the Snake</text>
+         </navLabel>
+         <content src="chapter-177.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-181" playOrder="181">
+         <navLabel>
+            <text>The Dog and the Hare</text>
+         </navLabel>
+         <content src="chapter-178.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-182" playOrder="182">
+         <navLabel>
+            <text>The Bull and the Calf</text>
+         </navLabel>
+         <content src="chapter-179.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-183" playOrder="183">
+         <navLabel>
+            <text>The Stag, the Wolf, and the Sheep</text>
+         </navLabel>
+         <content src="chapter-180.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-184" playOrder="184">
+         <navLabel>
+            <text>The Peacock and the Crane</text>
+         </navLabel>
+         <content src="chapter-181.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-185" playOrder="185">
+         <navLabel>
+            <text>The Fox and the Hedgehog</text>
+         </navLabel>
+         <content src="chapter-182.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-186" playOrder="186">
+         <navLabel>
+            <text>The Eagle, the Cat, and the Wild Sow</text>
+         </navLabel>
+         <content src="chapter-183.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-187" playOrder="187">
+         <navLabel>
+            <text>The Thief and the Innkeeper</text>
+         </navLabel>
+         <content src="chapter-184.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-188" playOrder="188">
+         <navLabel>
+            <text>The Mule</text>
+         </navLabel>
+         <content src="chapter-185.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-189" playOrder="189">
+         <navLabel>
+            <text>The Hart and the Vine</text>
+         </navLabel>
+         <content src="chapter-186.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-190" playOrder="190">
+         <navLabel>
+            <text>The Serpent and the Eagle</text>
+         </navLabel>
+         <content src="chapter-187.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-191" playOrder="191">
+         <navLabel>
+            <text>The Crow and the Pitcher</text>
+         </navLabel>
+         <content src="chapter-188.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-192" playOrder="192">
+         <navLabel>
+            <text>The Two Frogs</text>
+         </navLabel>
+         <content src="chapter-189.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-193" playOrder="193">
+         <navLabel>
+            <text>The Wolf and the Fox</text>
+         </navLabel>
+         <content src="chapter-190.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-194" playOrder="194">
+         <navLabel>
+            <text>The Walnut–Tree</text>
+         </navLabel>
+         <content src="chapter-191.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-195" playOrder="195">
+         <navLabel>
+            <text>The Gnat and the Lion</text>
+         </navLabel>
+         <content src="chapter-192.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-196" playOrder="196">
+         <navLabel>
+            <text>The Monkey and the Dolphin</text>
+         </navLabel>
+         <content src="chapter-193.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-197" playOrder="197">
+         <navLabel>
+            <text>The Jackdaw and the Doves</text>
+         </navLabel>
+         <content src="chapter-194.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-198" playOrder="198">
+         <navLabel>
+            <text>The Horse and the Stag</text>
+         </navLabel>
+         <content src="chapter-195.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-199" playOrder="199">
+         <navLabel>
+            <text>The Kid and the Wolf</text>
+         </navLabel>
+         <content src="chapter-196.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-200" playOrder="200">
+         <navLabel>
+            <text>The Prophet</text>
+         </navLabel>
+         <content src="chapter-197.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-201" playOrder="201">
+         <navLabel>
+            <text>The Fox and the Monkey</text>
+         </navLabel>
+         <content src="chapter-198.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-202" playOrder="202">
+         <navLabel>
+            <text>The Thief and the Housedog</text>
+         </navLabel>
+         <content src="chapter-199.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-203" playOrder="203">
+         <navLabel>
+            <text>The Man, the Horse, the Ox, and the Dog</text>
+         </navLabel>
+         <content src="chapter-200.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-204" playOrder="204">
+         <navLabel>
+            <text>The Apes and the Two Travelers</text>
+         </navLabel>
+         <content src="chapter-201.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-205" playOrder="205">
+         <navLabel>
+            <text>The Wolf and the Shepherd</text>
+         </navLabel>
+         <content src="chapter-202.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-206" playOrder="206">
+         <navLabel>
+            <text>The Hares and the Lions</text>
+         </navLabel>
+         <content src="chapter-203.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-207" playOrder="207">
+         <navLabel>
+            <text>The Lark and Her Young Ones</text>
+         </navLabel>
+         <content src="chapter-204.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-208" playOrder="208">
+         <navLabel>
+            <text>The Fox and the Lion</text>
+         </navLabel>
+         <content src="chapter-205.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-209" playOrder="209">
+         <navLabel>
+            <text>The Weasel and the Mice</text>
+         </navLabel>
+         <content src="chapter-206.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-210" playOrder="210">
+         <navLabel>
+            <text>The Boy Bathing</text>
+         </navLabel>
+         <content src="chapter-207.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-211" playOrder="211">
+         <navLabel>
+            <text>The Ass and the Wolf</text>
+         </navLabel>
+         <content src="chapter-208.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-212" playOrder="212">
+         <navLabel>
+            <text>The Seller of Images</text>
+         </navLabel>
+         <content src="chapter-209.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-213" playOrder="213">
+         <navLabel>
+            <text>The Fox and the Grapes</text>
+         </navLabel>
+         <content src="chapter-210.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-214" playOrder="214">
+         <navLabel>
+            <text>The Man and His Wife</text>
+         </navLabel>
+         <content src="chapter-211.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-215" playOrder="215">
+         <navLabel>
+            <text>The Peacock and Juno</text>
+         </navLabel>
+         <content src="chapter-212.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-216" playOrder="216">
+         <navLabel>
+            <text>The Hawk and the Nightingale</text>
+         </navLabel>
+         <content src="chapter-213.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-217" playOrder="217">
+         <navLabel>
+            <text>The Dog, the Cock, and the Fox</text>
+         </navLabel>
+         <content src="chapter-214.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-218" playOrder="218">
+         <navLabel>
+            <text>The Wolf and the Goat</text>
+         </navLabel>
+         <content src="chapter-215.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-219" playOrder="219">
+         <navLabel>
+            <text>The Lion and the Bull</text>
+         </navLabel>
+         <content src="chapter-216.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-220" playOrder="220">
+         <navLabel>
+            <text>The Goat and the Ass</text>
+         </navLabel>
+         <content src="chapter-217.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-221" playOrder="221">
+         <navLabel>
+            <text>The Town Mouse and the Country Mouse</text>
+         </navLabel>
+         <content src="chapter-218.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-222" playOrder="222">
+         <navLabel>
+            <text>The Wolf, the Fox, and the Ape</text>
+         </navLabel>
+         <content src="chapter-219.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-223" playOrder="223">
+         <navLabel>
+            <text>The Fly and the Draught–Mule</text>
+         </navLabel>
+         <content src="chapter-220.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-224" playOrder="224">
+         <navLabel>
+            <text>The Fishermen</text>
+         </navLabel>
+         <content src="chapter-221.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-225" playOrder="225">
+         <navLabel>
+            <text>The Lion and the Three Bulls</text>
+         </navLabel>
+         <content src="chapter-222.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-226" playOrder="226">
+         <navLabel>
+            <text>The Fowler and the Viper</text>
+         </navLabel>
+         <content src="chapter-223.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-227" playOrder="227">
+         <navLabel>
+            <text>The Horse and the Ass</text>
+         </navLabel>
+         <content src="chapter-224.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-228" playOrder="228">
+         <navLabel>
+            <text>The Fox and the Mask</text>
+         </navLabel>
+         <content src="chapter-225.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-229" playOrder="229">
+         <navLabel>
+            <text>The Geese and the Cranes</text>
+         </navLabel>
+         <content src="chapter-226.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-230" playOrder="230">
+         <navLabel>
+            <text>The Blind Man and the Whelp</text>
+         </navLabel>
+         <content src="chapter-227.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-231" playOrder="231">
+         <navLabel>
+            <text>The Dogs and the Fox</text>
+         </navLabel>
+         <content src="chapter-228.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-232" playOrder="232">
+         <navLabel>
+            <text>The Cobbler Turned Doctor</text>
+         </navLabel>
+         <content src="chapter-229.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-233" playOrder="233">
+         <navLabel>
+            <text>The Wolf and the Horse</text>
+         </navLabel>
+         <content src="chapter-230.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-234" playOrder="234">
+         <navLabel>
+            <text>The Brother and the Sister</text>
+         </navLabel>
+         <content src="chapter-231.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-235" playOrder="235">
+         <navLabel>
+            <text>The Wasps, the Partridges, and the Farmer</text>
+         </navLabel>
+         <content src="chapter-232.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-236" playOrder="236">
+         <navLabel>
+            <text>The Crow and Mercury</text>
+         </navLabel>
+         <content src="chapter-233.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-237" playOrder="237">
+         <navLabel>
+            <text>The North Wind and the Sun</text>
+         </navLabel>
+         <content src="chapter-234.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-238" playOrder="238">
+         <navLabel>
+            <text>The Two Men Who Were Enemies</text>
+         </navLabel>
+         <content src="chapter-235.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-239" playOrder="239">
+         <navLabel>
+            <text>The Gamecocks and the Partridge</text>
+         </navLabel>
+         <content src="chapter-236.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-240" playOrder="240">
+         <navLabel>
+            <text>The Quack Frog</text>
+         </navLabel>
+         <content src="chapter-237.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-241" playOrder="241">
+         <navLabel>
+            <text>The Lion, the Wolf, and the Fox</text>
+         </navLabel>
+         <content src="chapter-238.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-242" playOrder="242">
+         <navLabel>
+            <text>The Dog's House</text>
+         </navLabel>
+         <content src="chapter-239.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-243" playOrder="243">
+         <navLabel>
+            <text>The Wolf and the Lion</text>
+         </navLabel>
+         <content src="chapter-240.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-244" playOrder="244">
+         <navLabel>
+            <text>The Birds, the Beasts, and the Bat</text>
+         </navLabel>
+         <content src="chapter-241.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-245" playOrder="245">
+         <navLabel>
+            <text>The Spendthrift and the Swallow</text>
+         </navLabel>
+         <content src="chapter-242.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-246" playOrder="246">
+         <navLabel>
+            <text>The Fox and the Lion</text>
+         </navLabel>
+         <content src="chapter-243.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-247" playOrder="247">
+         <navLabel>
+            <text>The Owl and the Birds</text>
+         </navLabel>
+         <content src="chapter-244.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-248" playOrder="248">
+         <navLabel>
+            <text>The Trumpeter Taken Prisoner</text>
+         </navLabel>
+         <content src="chapter-245.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-249" playOrder="249">
+         <navLabel>
+            <text>The Ass in the Lion's Skin</text>
+         </navLabel>
+         <content src="chapter-246.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-250" playOrder="250">
+         <navLabel>
+            <text>The Sparrow and the Hare</text>
+         </navLabel>
+         <content src="chapter-247.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-251" playOrder="251">
+         <navLabel>
+            <text>The Flea and the Ox</text>
+         </navLabel>
+         <content src="chapter-248.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-252" playOrder="252">
+         <navLabel>
+            <text>The Goods and the Ills</text>
+         </navLabel>
+         <content src="chapter-249.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-253" playOrder="253">
+         <navLabel>
+            <text>The Dove and the Crow</text>
+         </navLabel>
+         <content src="chapter-250.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-254" playOrder="254">
+         <navLabel>
+            <text>Mercury and the Workmen</text>
+         </navLabel>
+         <content src="chapter-251.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-255" playOrder="255">
+         <navLabel>
+            <text>The Eagle and the Jackdaw</text>
+         </navLabel>
+         <content src="chapter-252.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-256" playOrder="256">
+         <navLabel>
+            <text>The Fox and the Crane</text>
+         </navLabel>
+         <content src="chapter-253.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-257" playOrder="257">
+         <navLabel>
+            <text>Jupiter, Neptune, Minerva, and Momus</text>
+         </navLabel>
+         <content src="chapter-254.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-258" playOrder="258">
+         <navLabel>
+            <text>The Eagle and the Fox</text>
+         </navLabel>
+         <content src="chapter-255.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-259" playOrder="259">
+         <navLabel>
+            <text>The Man and the Satyr</text>
+         </navLabel>
+         <content src="chapter-256.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-260" playOrder="260">
+         <navLabel>
+            <text>The Ass and His Purchaser</text>
+         </navLabel>
+         <content src="chapter-257.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-261" playOrder="261">
+         <navLabel>
+            <text>The Two Bags</text>
+         </navLabel>
+         <content src="chapter-258.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-262" playOrder="262">
+         <navLabel>
+            <text>The Stag at the Pool</text>
+         </navLabel>
+         <content src="chapter-259.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-263" playOrder="263">
+         <navLabel>
+            <text>The Jackdaw and the Fox</text>
+         </navLabel>
+         <content src="chapter-260.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-264" playOrder="264">
+         <navLabel>
+            <text>The Lark Burying Her Father</text>
+         </navLabel>
+         <content src="chapter-261.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-265" playOrder="265">
+         <navLabel>
+            <text>The Gnat and the Bull</text>
+         </navLabel>
+         <content src="chapter-262.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-266" playOrder="266">
+         <navLabel>
+            <text>The Bitch and Her Whelps</text>
+         </navLabel>
+         <content src="chapter-263.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-267" playOrder="267">
+         <navLabel>
+            <text>The Dogs and the Hides</text>
+         </navLabel>
+         <content src="chapter-264.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-268" playOrder="268">
+         <navLabel>
+            <text>The Shepherd and the Sheep</text>
+         </navLabel>
+         <content src="chapter-265.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-269" playOrder="269">
+         <navLabel>
+            <text>The Grasshopper and the Owl</text>
+         </navLabel>
+         <content src="chapter-266.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-270" playOrder="270">
+         <navLabel>
+            <text>The Monkey and the Camel</text>
+         </navLabel>
+         <content src="chapter-267.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-271" playOrder="271">
+         <navLabel>
+            <text>The Peasant and the Apple–Tree</text>
+         </navLabel>
+         <content src="chapter-268.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-272" playOrder="272">
+         <navLabel>
+            <text>The Two Soldiers and the Robber</text>
+         </navLabel>
+         <content src="chapter-269.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-273" playOrder="273">
+         <navLabel>
+            <text>The Trees Under the Protection of the Gods</text>
+         </navLabel>
+         <content src="chapter-270.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-274" playOrder="274">
+         <navLabel>
+            <text>The Mother and the Wolf</text>
+         </navLabel>
+         <content src="chapter-271.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-275" playOrder="275">
+         <navLabel>
+            <text>The Ass and the Horse</text>
+         </navLabel>
+         <content src="chapter-272.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-276" playOrder="276">
+         <navLabel>
+            <text>Truth and the Traveler</text>
+         </navLabel>
+         <content src="chapter-273.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-277" playOrder="277">
+         <navLabel>
+            <text>The Manslayer</text>
+         </navLabel>
+         <content src="chapter-274.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-278" playOrder="278">
+         <navLabel>
+            <text>The Lion and the Fox</text>
+         </navLabel>
+         <content src="chapter-275.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-279" playOrder="279">
+         <navLabel>
+            <text>The Lion and the Eagle</text>
+         </navLabel>
+         <content src="chapter-276.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-280" playOrder="280">
+         <navLabel>
+            <text>The Hen and the Swallow</text>
+         </navLabel>
+         <content src="chapter-277.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-281" playOrder="281">
+         <navLabel>
+            <text>The Buffoon and the Countryman</text>
+         </navLabel>
+         <content src="chapter-278.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-282" playOrder="282">
+         <navLabel>
+            <text>The Crow and the Serpent</text>
+         </navLabel>
+         <content src="chapter-279.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-283" playOrder="283">
+         <navLabel>
+            <text>The Hunter and the Horseman</text>
+         </navLabel>
+         <content src="chapter-280.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-284" playOrder="284">
+         <navLabel>
+            <text>The King's Son and the Painted Lion</text>
+         </navLabel>
+         <content src="chapter-281.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-285" playOrder="285">
+         <navLabel>
+            <text>The Cat and Venus</text>
+         </navLabel>
+         <content src="chapter-282.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-286" playOrder="286">
+         <navLabel>
+            <text>The She–Goats and Their Beards</text>
+         </navLabel>
+         <content src="chapter-283.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-287" playOrder="287">
+         <navLabel>
+            <text>The Miller, His Son, and Their Ass</text>
+         </navLabel>
+         <content src="chapter-284.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-288" playOrder="288">
+         <navLabel>
+            <text>The Crow and the Sheep</text>
+         </navLabel>
+         <content src="chapter-285.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-289" playOrder="289">
+         <navLabel>
+            <text>The Fox and the Bramble</text>
+         </navLabel>
+         <content src="chapter-286.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-290" playOrder="290">
+         <navLabel>
+            <text>The Wolf and the Lion</text>
+         </navLabel>
+         <content src="chapter-287.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-291" playOrder="291">
+         <navLabel>
+            <text>The Dog and the Oyster</text>
+         </navLabel>
+         <content src="chapter-288.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-292" playOrder="292">
+         <navLabel>
+            <text>The Ant and the Dove</text>
+         </navLabel>
+         <content src="chapter-289.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-293" playOrder="293">
+         <navLabel>
+            <text>The Partridge and the Fowler</text>
+         </navLabel>
+         <content src="chapter-290.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-294" playOrder="294">
+         <navLabel>
+            <text>The Flea and the Man</text>
+         </navLabel>
+         <content src="chapter-291.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-295" playOrder="295">
+         <navLabel>
+            <text>The Thieves and the Cock</text>
+         </navLabel>
+         <content src="chapter-292.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-296" playOrder="296">
+         <navLabel>
+            <text>The Dog and the Cook</text>
+         </navLabel>
+         <content src="chapter-293.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-297" playOrder="297">
+         <navLabel>
+            <text>The Travelers and the Plane–Tree</text>
+         </navLabel>
+         <content src="chapter-294.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-298" playOrder="298">
+         <navLabel>
+            <text>The Hares and the Frogs</text>
+         </navLabel>
+         <content src="chapter-295.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-299" playOrder="299">
+         <navLabel>
+            <text>The Lion, Jupiter, and the Elephant</text>
+         </navLabel>
+         <content src="chapter-296.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-300" playOrder="300">
+         <navLabel>
+            <text>The Lamb and the Wolf</text>
+         </navLabel>
+         <content src="chapter-297.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-301" playOrder="301">
+         <navLabel>
+            <text>The Rich Man and the Tanner</text>
+         </navLabel>
+         <content src="chapter-298.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-302" playOrder="302">
+         <navLabel>
+            <text>The Shipwrecked Man and the Sea</text>
+         </navLabel>
+         <content src="chapter-299.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-303" playOrder="303">
+         <navLabel>
+            <text>The Mules and the Robbers</text>
+         </navLabel>
+         <content src="chapter-300.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-304" playOrder="304">
+         <navLabel>
+            <text>The Viper and the File</text>
+         </navLabel>
+         <content src="chapter-301.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-305" playOrder="305">
+         <navLabel>
+            <text>The Lion and the Shepherd</text>
+         </navLabel>
+         <content src="chapter-302.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-306" playOrder="306">
+         <navLabel>
+            <text>The Camel and Jupiter</text>
+         </navLabel>
+         <content src="chapter-303.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-307" playOrder="307">
+         <navLabel>
+            <text>The Panther and the Shepherds</text>
+         </navLabel>
+         <content src="chapter-304.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-308" playOrder="308">
+         <navLabel>
+            <text>The Ass and the Charger</text>
+         </navLabel>
+         <content src="chapter-305.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-309" playOrder="309">
+         <navLabel>
+            <text>The Eagle and His Captor</text>
+         </navLabel>
+         <content src="chapter-306.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-310" playOrder="310">
+         <navLabel>
+            <text>The Bald Man and the Fly</text>
+         </navLabel>
+         <content src="chapter-307.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-311" playOrder="311">
+         <navLabel>
+            <text>The Olive–Tree and the Fig–Tree</text>
+         </navLabel>
+         <content src="chapter-308.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-312" playOrder="312">
+         <navLabel>
+            <text>The Eagle and the Kite</text>
+         </navLabel>
+         <content src="chapter-309.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-313" playOrder="313">
+         <navLabel>
+            <text>The Ass and His Driver</text>
+         </navLabel>
+         <content src="chapter-310.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-314" playOrder="314">
+         <navLabel>
+            <text>The Thrush and the Fowler</text>
+         </navLabel>
+         <content src="chapter-311.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-315" playOrder="315">
+         <navLabel>
+            <text>The Rose and the Amaranth</text>
+         </navLabel>
+         <content src="chapter-312.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-316" playOrder="316">
+         <navLabel>
+            <text>The Frogs' Complaint Against the Sun</text>
+         </navLabel>
+         <content src="chapter-313.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-317" playOrder="317">
+         <navLabel>
+            <text>LIFE OF AESOP</text>
+         </navLabel>
+         <content src="chapter-314.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-318" playOrder="318">
+         <navLabel>
+            <text>Footnotes</text>
+         </navLabel>
+         <content src="footnotes.xml"/>
+      </navPoint>
+   </navMap>
+</ncx>

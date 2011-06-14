@@ -1,0 +1,1329 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="cover" content="cover"/>
+    <meta name="dtb:uid" content="isbn:9780596806774"/>
+    <meta name="dtb:depth" content="-1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>JavaScript Patterns</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="id2597700" playOrder="1">
+      <navLabel>
+        <text>JavaScript Patterns</text>
+      </navLabel>
+      <content src="index.html"/>
+      <navPoint id="id2554068" playOrder="2">
+        <navLabel>
+          <text>Preface</text>
+        </navLabel>
+        <content src="pr01.html"/>
+        <navPoint id="id2554396" playOrder="3">
+          <navLabel>
+            <text>Target Audience</text>
+          </navLabel>
+          <content src="pr01.html#target_audience"/>
+        </navPoint>
+        <navPoint id="id2604247" playOrder="4">
+          <navLabel>
+            <text>Conventions Used in This Book</text>
+          </navLabel>
+          <content src="pr01s02.html"/>
+        </navPoint>
+        <navPoint id="id2495485" playOrder="5">
+          <navLabel>
+            <text>Using Code Examples</text>
+          </navLabel>
+          <content src="pr01s03.html"/>
+        </navPoint>
+        <navPoint id="id2604862" playOrder="6">
+          <navLabel>
+            <text>Safari® Books Online</text>
+          </navLabel>
+          <content src="pr01s04.html"/>
+        </navPoint>
+        <navPoint id="id2494804" playOrder="7">
+          <navLabel>
+            <text>How to Contact Us</text>
+          </navLabel>
+          <content src="pr01s05.html"/>
+        </navPoint>
+        <navPoint id="id2603137" playOrder="8">
+          <navLabel>
+            <text>Acknowledgments</text>
+          </navLabel>
+          <content src="pr01s06.html"/>
+        </navPoint>
+        <navPoint id="id2577583" playOrder="9">
+          <navLabel>
+            <text>Credits</text>
+          </navLabel>
+          <content src="pr01s07.html"/>
+        </navPoint>
+        <navPoint id="id2603742" playOrder="10">
+          <navLabel>
+            <text>Reading</text>
+          </navLabel>
+          <content src="pr01s08.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id2603801" playOrder="11">
+        <navLabel>
+          <text>1. Introduction</text>
+        </navLabel>
+        <content src="ch01.html"/>
+        <navPoint id="id2604724" playOrder="12">
+          <navLabel>
+            <text>Patterns</text>
+          </navLabel>
+          <content src="ch01.html#patterns"/>
+        </navPoint>
+        <navPoint id="id2597461" playOrder="13">
+          <navLabel>
+            <text>JavaScript: Concepts</text>
+          </navLabel>
+          <content src="ch01s02.html"/>
+          <navPoint id="id2597539" playOrder="14">
+            <navLabel>
+              <text>Object-Oriented</text>
+            </navLabel>
+            <content src="ch01s02.html#object-oriented"/>
+          </navPoint>
+          <navPoint id="id2604719" playOrder="15">
+            <navLabel>
+              <text>No Classes</text>
+            </navLabel>
+            <content src="ch01s02.html#no_classes"/>
+          </navPoint>
+          <navPoint id="id2604661" playOrder="16">
+            <navLabel>
+              <text>Prototypes</text>
+            </navLabel>
+            <content src="ch01s02.html#prototypes"/>
+          </navPoint>
+          <navPoint id="id2636805" playOrder="17">
+            <navLabel>
+              <text>Environment</text>
+            </navLabel>
+            <content src="ch01s02.html#environment"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2636884" playOrder="18">
+          <navLabel>
+            <text>ECMAScript 5</text>
+          </navLabel>
+          <content src="ch01s03.html"/>
+        </navPoint>
+        <navPoint id="id2637034" playOrder="19">
+          <navLabel>
+            <text>JSLint</text>
+          </navLabel>
+          <content src="ch01s04.html"/>
+        </navPoint>
+        <navPoint id="id2637530" playOrder="20">
+          <navLabel>
+            <text>The Console</text>
+          </navLabel>
+          <content src="ch01s05.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id2637699" playOrder="21">
+        <navLabel>
+          <text>2. Essentials</text>
+        </navLabel>
+        <content src="ch02.html"/>
+        <navPoint id="id2637732" playOrder="22">
+          <navLabel>
+            <text>Writing Maintainable Code</text>
+          </navLabel>
+          <content src="ch02.html#writing_maintainable_code"/>
+        </navPoint>
+        <navPoint id="id2637883" playOrder="23">
+          <navLabel>
+            <text>Minimizing Globals</text>
+          </navLabel>
+          <content src="ch02s02.html"/>
+          <navPoint id="id2638040" playOrder="24">
+            <navLabel>
+              <text>The Problem with Globals</text>
+            </navLabel>
+            <content src="ch02s02.html#the_problem_with_globals"/>
+          </navPoint>
+          <navPoint id="id2647911" playOrder="25">
+            <navLabel>
+              <text>Side Effects When Forgetting var</text>
+            </navLabel>
+            <content src="ch02s02.html#side_effects_when_forgetting_var"/>
+          </navPoint>
+          <navPoint id="id2648049" playOrder="26">
+            <navLabel>
+              <text>Access to the Global Object</text>
+            </navLabel>
+            <content src="ch02s02.html#access_to_the_global_object"/>
+          </navPoint>
+          <navPoint id="id2648184" playOrder="27">
+            <navLabel>
+              <text>Single var Pattern</text>
+            </navLabel>
+            <content src="ch02s02.html#single_var"/>
+          </navPoint>
+          <navPoint id="id2648330" playOrder="28">
+            <navLabel>
+              <text>Hoisting: A Problem with Scattered vars</text>
+            </navLabel>
+            <content src="ch02s02.html#hoisting_colon_a_problem_with_scattered"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2648533" playOrder="29">
+          <navLabel>
+            <text>for Loops</text>
+          </navLabel>
+          <content src="ch02s03.html"/>
+        </navPoint>
+        <navPoint id="id2649081" playOrder="30">
+          <navLabel>
+            <text>for-in Loops</text>
+          </navLabel>
+          <content src="ch02s04.html"/>
+        </navPoint>
+        <navPoint id="id2649474" playOrder="31">
+          <navLabel>
+            <text>(Not) Augmenting Built-in Prototypes</text>
+          </navLabel>
+          <content src="ch02s05.html"/>
+        </navPoint>
+        <navPoint id="id2649621" playOrder="32">
+          <navLabel>
+            <text>switch Pattern</text>
+          </navLabel>
+          <content src="ch02s06.html"/>
+        </navPoint>
+        <navPoint id="id2649745" playOrder="33">
+          <navLabel>
+            <text>Avoiding Implied Typecasting</text>
+          </navLabel>
+          <content src="ch02s07.html"/>
+          <navPoint id="id2649854" playOrder="34">
+            <navLabel>
+              <text>Avoiding eval()</text>
+            </navLabel>
+            <content src="ch02s07.html#avoiding_eval_open_parenthesis_close_par"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2650225" playOrder="35">
+          <navLabel>
+            <text>Number Conversions with parseInt()</text>
+          </navLabel>
+          <content src="ch02s08.html"/>
+        </navPoint>
+        <navPoint id="id2650347" playOrder="36">
+          <navLabel>
+            <text>Coding Conventions</text>
+          </navLabel>
+          <content src="ch02s09.html"/>
+          <navPoint id="id2650398" playOrder="37">
+            <navLabel>
+              <text>Indentation</text>
+            </navLabel>
+            <content src="ch02s09.html#indentation"/>
+          </navPoint>
+          <navPoint id="id2650518" playOrder="38">
+            <navLabel>
+              <text>Curly Braces</text>
+            </navLabel>
+            <content src="ch02s09.html#curly_braces"/>
+          </navPoint>
+          <navPoint id="id2650640" playOrder="39">
+            <navLabel>
+              <text>Opening Brace Location</text>
+            </navLabel>
+            <content src="ch02s09.html#opening_brace_location"/>
+          </navPoint>
+          <navPoint id="id2650789" playOrder="40">
+            <navLabel>
+              <text>White Space</text>
+            </navLabel>
+            <content src="ch02s09.html#white_space"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2651109" playOrder="41">
+          <navLabel>
+            <text>Naming Conventions</text>
+          </navLabel>
+          <content src="ch02s10.html"/>
+          <navPoint id="id2651140" playOrder="42">
+            <navLabel>
+              <text>Capitalizing Constructors</text>
+            </navLabel>
+            <content src="ch02s10.html#capitalizing_constructors"/>
+          </navPoint>
+          <navPoint id="id2651243" playOrder="43">
+            <navLabel>
+              <text>Separating Words</text>
+            </navLabel>
+            <content src="ch02s10.html#separating_words"/>
+          </navPoint>
+          <navPoint id="id2651420" playOrder="44">
+            <navLabel>
+              <text>Other Naming Patterns</text>
+            </navLabel>
+            <content src="ch02s10.html#other_naming_patterns"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2651609" playOrder="45">
+          <navLabel>
+            <text>Writing Comments</text>
+          </navLabel>
+          <content src="ch02s11.html"/>
+        </navPoint>
+        <navPoint id="id2651710" playOrder="46">
+          <navLabel>
+            <text>Writing API Docs</text>
+          </navLabel>
+          <content src="ch02s12.html"/>
+          <navPoint id="id2651874" playOrder="47">
+            <navLabel>
+              <text>YUIDoc Example</text>
+            </navLabel>
+            <content src="ch02s12.html#yuidoc_example"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2652389" playOrder="48">
+          <navLabel>
+            <text>Writing to Be Read</text>
+          </navLabel>
+          <content src="ch02s13.html"/>
+        </navPoint>
+        <navPoint id="id2652498" playOrder="49">
+          <navLabel>
+            <text>Peer Reviews</text>
+          </navLabel>
+          <content src="ch02s14.html"/>
+        </navPoint>
+        <navPoint id="id2652596" playOrder="50">
+          <navLabel>
+            <text>Minify…In Production</text>
+          </navLabel>
+          <content src="ch02s15.html"/>
+        </navPoint>
+        <navPoint id="id2652792" playOrder="51">
+          <navLabel>
+            <text>Run JSLint</text>
+          </navLabel>
+          <content src="ch02s16.html"/>
+        </navPoint>
+        <navPoint id="id2652908" playOrder="52">
+          <navLabel>
+            <text>Summary</text>
+          </navLabel>
+          <content src="ch02s17.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id2653003" playOrder="53">
+        <navLabel>
+          <text>3. Literals and Constructors</text>
+        </navLabel>
+        <content src="ch03.html"/>
+        <navPoint id="id2653070" playOrder="54">
+          <navLabel>
+            <text>Object Literal</text>
+          </navLabel>
+          <content src="ch03.html#object_literal"/>
+          <navPoint id="id2653297" playOrder="55">
+            <navLabel>
+              <text>The Object Literal Syntax</text>
+            </navLabel>
+            <content src="ch03.html#the_object_literal_syntax"/>
+          </navPoint>
+          <navPoint id="id2653355" playOrder="56">
+            <navLabel>
+              <text>Objects from a Constructor</text>
+            </navLabel>
+            <content src="ch03.html#objects_from_a_constructor"/>
+          </navPoint>
+          <navPoint id="id2653513" playOrder="57">
+            <navLabel>
+              <text>Object Constructor Catch</text>
+            </navLabel>
+            <content src="ch03.html#object_constructor_catch"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2653637" playOrder="58">
+          <navLabel>
+            <text>Custom Constructor Functions</text>
+          </navLabel>
+          <content src="ch03s02.html"/>
+          <navPoint id="id2653887" playOrder="59">
+            <navLabel>
+              <text>Constructor’s Return Values</text>
+            </navLabel>
+            <content src="ch03s02.html#constructor_apostrophy_s_return_values"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2654070" playOrder="60">
+          <navLabel>
+            <text>Patterns for Enforcing new</text>
+          </navLabel>
+          <content src="ch03s03.html"/>
+          <navPoint id="id2654253" playOrder="61">
+            <navLabel>
+              <text>Naming Convention</text>
+            </navLabel>
+            <content src="ch03s03.html#naming_convention"/>
+          </navPoint>
+          <navPoint id="id2654303" playOrder="62">
+            <navLabel>
+              <text>Using that</text>
+            </navLabel>
+            <content src="ch03s03.html#using_that"/>
+          </navPoint>
+          <navPoint id="id2654431" playOrder="63">
+            <navLabel>
+              <text>Self-Invoking Constructor</text>
+            </navLabel>
+            <content src="ch03s03.html#self-invoking_constructor"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2654614" playOrder="64">
+          <navLabel>
+            <text>Array Literal</text>
+          </navLabel>
+          <content src="ch03s04.html"/>
+          <navPoint id="id2654691" playOrder="65">
+            <navLabel>
+              <text>Array Literal Syntax</text>
+            </navLabel>
+            <content src="ch03s04.html#array_literal_syntax"/>
+          </navPoint>
+          <navPoint id="id2654734" playOrder="66">
+            <navLabel>
+              <text>Array Constructor Curiousness</text>
+            </navLabel>
+            <content src="ch03s04.html#array_constructor_curiousness"/>
+          </navPoint>
+          <navPoint id="id2654871" playOrder="67">
+            <navLabel>
+              <text>Check for Array-ness</text>
+            </navLabel>
+            <content src="ch03s04.html#check_for_array-ness"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2655062" playOrder="68">
+          <navLabel>
+            <text>JSON</text>
+          </navLabel>
+          <content src="ch03s05.html"/>
+          <navPoint id="id2655124" playOrder="69">
+            <navLabel>
+              <text>Working with JSON</text>
+            </navLabel>
+            <content src="ch03s05.html#working_with_json"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2655272" playOrder="70">
+          <navLabel>
+            <text>Regular Expression Literal</text>
+          </navLabel>
+          <content src="ch03s06.html"/>
+          <navPoint id="id2655361" playOrder="71">
+            <navLabel>
+              <text>Regular Expression Literal Syntax</text>
+            </navLabel>
+            <content src="ch03s06.html#regular_expression_literal_syntax"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2655534" playOrder="72">
+          <navLabel>
+            <text>Primitive Wrappers</text>
+          </navLabel>
+          <content src="ch03s07.html"/>
+        </navPoint>
+        <navPoint id="id2655949" playOrder="73">
+          <navLabel>
+            <text>Error Objects</text>
+          </navLabel>
+          <content src="ch03s08.html"/>
+        </navPoint>
+        <navPoint id="id2656165" playOrder="74">
+          <navLabel>
+            <text>Summary</text>
+          </navLabel>
+          <content src="ch03s09.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id2656502" playOrder="75">
+        <navLabel>
+          <text>4. Functions</text>
+        </navLabel>
+        <content src="ch04.html"/>
+        <navPoint id="id2656542" playOrder="76">
+          <navLabel>
+            <text>Background</text>
+          </navLabel>
+          <content src="ch04.html#background"/>
+          <navPoint id="id2656836" playOrder="77">
+            <navLabel>
+              <text>Disambiguation of Terminology</text>
+            </navLabel>
+            <content src="ch04.html#disambiguation_of_terminology"/>
+          </navPoint>
+          <navPoint id="id2657136" playOrder="78">
+            <navLabel>
+              <text>Declarations Versus Expressions: Names and Hoisting</text>
+            </navLabel>
+            <content src="ch04.html#declarations_versus_expressions_colon_na"/>
+          </navPoint>
+          <navPoint id="id2657248" playOrder="79">
+            <navLabel>
+              <text>Function’s name Property</text>
+            </navLabel>
+            <content src="ch04.html#function_apostrophy_s_name_property"/>
+          </navPoint>
+          <navPoint id="id2657369" playOrder="80">
+            <navLabel>
+              <text>Function Hoisting</text>
+            </navLabel>
+            <content src="ch04.html#function_hoisting"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2657613" playOrder="81">
+          <navLabel>
+            <text>Callback Pattern</text>
+          </navLabel>
+          <content src="ch04s02.html"/>
+          <navPoint id="id2657775" playOrder="82">
+            <navLabel>
+              <text>A Callback Example</text>
+            </navLabel>
+            <content src="ch04s02.html#a_callback_example"/>
+          </navPoint>
+          <navPoint id="id2658037" playOrder="83">
+            <navLabel>
+              <text>Callbacks and Scope</text>
+            </navLabel>
+            <content src="ch04s02.html#callbacks_and_scope"/>
+          </navPoint>
+          <navPoint id="id2658317" playOrder="84">
+            <navLabel>
+              <text>Asynchronous Event Listeners</text>
+            </navLabel>
+            <content src="ch04s02.html#asynchronous_event_listeners"/>
+          </navPoint>
+          <navPoint id="id2658474" playOrder="85">
+            <navLabel>
+              <text>Timeouts</text>
+            </navLabel>
+            <content src="ch04s02.html#timeouts"/>
+          </navPoint>
+          <navPoint id="id2658581" playOrder="86">
+            <navLabel>
+              <text>Callbacks in Libraries</text>
+            </navLabel>
+            <content src="ch04s02.html#callbacks_in_libraries"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2658636" playOrder="87">
+          <navLabel>
+            <text>Returning Functions</text>
+          </navLabel>
+          <content src="ch04s03.html"/>
+        </navPoint>
+        <navPoint id="id2658742" playOrder="88">
+          <navLabel>
+            <text>Self-Defining Functions</text>
+          </navLabel>
+          <content src="ch04s04.html"/>
+        </navPoint>
+        <navPoint id="id2658973" playOrder="89">
+          <navLabel>
+            <text>Immediate Functions</text>
+          </navLabel>
+          <content src="ch04s05.html"/>
+          <navPoint id="id2659213" playOrder="90">
+            <navLabel>
+              <text>Parameters of an Immediate Function</text>
+            </navLabel>
+            <content src="ch04s05.html#parameters_of_an_immediate_function"/>
+          </navPoint>
+          <navPoint id="id2659284" playOrder="91">
+            <navLabel>
+              <text>Returned Values from Immediate Functions</text>
+            </navLabel>
+            <content src="ch04s05.html#returned_values_from_immediate_functions"/>
+          </navPoint>
+          <navPoint id="id2659509" playOrder="92">
+            <navLabel>
+              <text>Benefits and Usage</text>
+            </navLabel>
+            <content src="ch04s05.html#benefits_and_usage"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2659641" playOrder="93">
+          <navLabel>
+            <text>Immediate Object Initialization</text>
+          </navLabel>
+          <content src="ch04s06.html"/>
+        </navPoint>
+        <navPoint id="id2659922" playOrder="94">
+          <navLabel>
+            <text>Init-Time Branching</text>
+          </navLabel>
+          <content src="ch04s07.html"/>
+        </navPoint>
+        <navPoint id="id2660184" playOrder="95">
+          <navLabel>
+            <text>Function Properties—A Memoization Pattern</text>
+          </navLabel>
+          <content src="ch04s08.html"/>
+        </navPoint>
+        <navPoint id="id2660422" playOrder="96">
+          <navLabel>
+            <text>Configuration Objects</text>
+          </navLabel>
+          <content src="ch04s09.html"/>
+        </navPoint>
+        <navPoint id="id2660642" playOrder="97">
+          <navLabel>
+            <text>Curry</text>
+          </navLabel>
+          <content src="ch04s10.html"/>
+          <navPoint id="id2660662" playOrder="98">
+            <navLabel>
+              <text>Function Application</text>
+            </navLabel>
+            <content src="ch04s10.html#function_application"/>
+          </navPoint>
+          <navPoint id="id2660875" playOrder="99">
+            <navLabel>
+              <text>Partial Application</text>
+            </navLabel>
+            <content src="ch04s10.html#partial_application"/>
+          </navPoint>
+          <navPoint id="id2661052" playOrder="100">
+            <navLabel>
+              <text>Currying</text>
+            </navLabel>
+            <content src="ch04s10.html#currying"/>
+          </navPoint>
+          <navPoint id="id2661485" playOrder="101">
+            <navLabel>
+              <text>When to Use Currying</text>
+            </navLabel>
+            <content src="ch04s10.html#when_to_use_currying_question"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2661551" playOrder="102">
+          <navLabel>
+            <text>Summary</text>
+          </navLabel>
+          <content src="ch04s11.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id2661749" playOrder="103">
+        <navLabel>
+          <text>5. Object Creation Patterns</text>
+        </navLabel>
+        <content src="ch05.html"/>
+        <navPoint id="id2661800" playOrder="104">
+          <navLabel>
+            <text>Namespace Pattern</text>
+          </navLabel>
+          <content src="ch05.html#namespace_pattern"/>
+          <navPoint id="id2662002" playOrder="105">
+            <navLabel>
+              <text>General Purpose Namespace Function</text>
+            </navLabel>
+            <content src="ch05.html#general_purpose_namespace_function"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2662179" playOrder="106">
+          <navLabel>
+            <text>Declaring Dependencies</text>
+          </navLabel>
+          <content src="ch05s02.html"/>
+        </navPoint>
+        <navPoint id="id2662424" playOrder="107">
+          <navLabel>
+            <text>Private Properties and Methods</text>
+          </navLabel>
+          <content src="ch05s03.html"/>
+          <navPoint id="id2662521" playOrder="108">
+            <navLabel>
+              <text>Private Members</text>
+            </navLabel>
+            <content src="ch05s03.html#private_members"/>
+          </navPoint>
+          <navPoint id="id2662605" playOrder="109">
+            <navLabel>
+              <text>Privileged Methods</text>
+            </navLabel>
+            <content src="ch05s03.html#privileged_methods"/>
+          </navPoint>
+          <navPoint id="id2662673" playOrder="110">
+            <navLabel>
+              <text>Privacy Failures</text>
+            </navLabel>
+            <content src="ch05s03.html#privacy_failures"/>
+          </navPoint>
+          <navPoint id="id2662920" playOrder="111">
+            <navLabel>
+              <text>Object Literals and Privacy</text>
+            </navLabel>
+            <content src="ch05s03.html#object_literals_and_privacy"/>
+          </navPoint>
+          <navPoint id="id2663027" playOrder="112">
+            <navLabel>
+              <text>Prototypes and Privacy</text>
+            </navLabel>
+            <content src="ch05s03.html#prototypes_and_privacy"/>
+          </navPoint>
+          <navPoint id="id2663165" playOrder="113">
+            <navLabel>
+              <text>Revealing Private Functions As Public Methods</text>
+            </navLabel>
+            <content src="ch05s03.html#revealing_private_functions_as_public_me"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2663436" playOrder="114">
+          <navLabel>
+            <text>Module Pattern</text>
+          </navLabel>
+          <content src="ch05s04.html"/>
+          <navPoint id="id2663720" playOrder="115">
+            <navLabel>
+              <text>Revealing Module Pattern</text>
+            </navLabel>
+            <content src="ch05s04.html#revealing_module_pattern"/>
+          </navPoint>
+          <navPoint id="id2663809" playOrder="116">
+            <navLabel>
+              <text>Modules That Create Constructors</text>
+            </navLabel>
+            <content src="ch05s04.html#modules_that_create_constructors"/>
+          </navPoint>
+          <navPoint id="id2663932" playOrder="117">
+            <navLabel>
+              <text>Importing Globals into a Module</text>
+            </navLabel>
+            <content src="ch05s04.html#importing_globals_into_a_module"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2664022" playOrder="118">
+          <navLabel>
+            <text>Sandbox Pattern</text>
+          </navLabel>
+          <content src="ch05s05.html"/>
+          <navPoint id="id2664128" playOrder="119">
+            <navLabel>
+              <text>A Global Constructor</text>
+            </navLabel>
+            <content src="ch05s05.html#a_global_constructor"/>
+          </navPoint>
+          <navPoint id="id2664373" playOrder="120">
+            <navLabel>
+              <text>Adding Modules</text>
+            </navLabel>
+            <content src="ch05s05.html#adding_modules"/>
+          </navPoint>
+          <navPoint id="id2664460" playOrder="121">
+            <navLabel>
+              <text>Implementing the Constructor</text>
+            </navLabel>
+            <content src="ch05s05.html#implementing_the_constructor"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2664674" playOrder="122">
+          <navLabel>
+            <text>Static Members</text>
+          </navLabel>
+          <content src="ch05s06.html"/>
+          <navPoint id="id2664772" playOrder="123">
+            <navLabel>
+              <text>Public Static Members</text>
+            </navLabel>
+            <content src="ch05s06.html#public_static_members"/>
+          </navPoint>
+          <navPoint id="id2665117" playOrder="124">
+            <navLabel>
+              <text>Private Static Members</text>
+            </navLabel>
+            <content src="ch05s06.html#private_static_members"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2665363" playOrder="125">
+          <navLabel>
+            <text>Object Constants</text>
+          </navLabel>
+          <content src="ch05s07.html"/>
+        </navPoint>
+        <navPoint id="id2665635" playOrder="126">
+          <navLabel>
+            <text>Chaining Pattern</text>
+          </navLabel>
+          <content src="ch05s08.html"/>
+          <navPoint id="id2665726" playOrder="127">
+            <navLabel>
+              <text>Pros and Cons of the Chaining Pattern</text>
+            </navLabel>
+            <content src="ch05s08.html#pros_and_cons_of_the_chaining_pattern"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2665844" playOrder="128">
+          <navLabel>
+            <text>method() Method</text>
+          </navLabel>
+          <content src="ch05s09.html"/>
+        </navPoint>
+        <navPoint id="id2666119" playOrder="129">
+          <navLabel>
+            <text>Summary</text>
+          </navLabel>
+          <content src="ch05s10.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id2666191" playOrder="130">
+        <navLabel>
+          <text>6. Code Reuse Patterns</text>
+        </navLabel>
+        <content src="ch06.html"/>
+        <navPoint id="id2666271" playOrder="131">
+          <navLabel>
+            <text>Classical Versus Modern Inheritance Patterns</text>
+          </navLabel>
+          <content src="ch06.html#classical_versus_modern_inheritance_patt"/>
+        </navPoint>
+        <navPoint id="id2666448" playOrder="132">
+          <navLabel>
+            <text>Expected Outcome When Using Classical Inheritance</text>
+          </navLabel>
+          <content src="ch06s02.html"/>
+        </navPoint>
+        <navPoint id="id2666600" playOrder="133">
+          <navLabel>
+            <text>Classical Pattern #1—The Default Pattern</text>
+          </navLabel>
+          <content src="ch06s03.html"/>
+          <navPoint id="id2666728" playOrder="134">
+            <navLabel>
+              <text>Following the Prototype Chain</text>
+            </navLabel>
+            <content src="ch06s03.html#following_the_prototype_chain"/>
+          </navPoint>
+          <navPoint id="id2667164" playOrder="135">
+            <navLabel>
+              <text>Drawbacks When Using Pattern #1</text>
+            </navLabel>
+            <content src="ch06s03.html#drawbacks_when_using_pattern_number_symb"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2667245" playOrder="136">
+          <navLabel>
+            <text>Classical Pattern #2—Rent-a-Constructor</text>
+          </navLabel>
+          <content src="ch06s04.html"/>
+          <navPoint id="id2667460" playOrder="137">
+            <navLabel>
+              <text>The Prototype Chain</text>
+            </navLabel>
+            <content src="ch06s04.html#the_prototype_chain"/>
+          </navPoint>
+          <navPoint id="id2667594" playOrder="138">
+            <navLabel>
+              <text>Multiple Inheritance by Borrowing Constructors</text>
+            </navLabel>
+            <content src="ch06s04.html#multiple_inheritance_by_borrowing_constr"/>
+          </navPoint>
+          <navPoint id="id2667681" playOrder="139">
+            <navLabel>
+              <text>Pros and Cons of the Borrowing Constructor Pattern</text>
+            </navLabel>
+            <content src="ch06s04.html#pros_and_cons_of_the_borrowing_construct"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2667752" playOrder="140">
+          <navLabel>
+            <text>Classical Pattern #3—Rent and Set Prototype</text>
+          </navLabel>
+          <content src="ch06s05.html"/>
+        </navPoint>
+        <navPoint id="id2667976" playOrder="141">
+          <navLabel>
+            <text>Classical Pattern #4—Share the Prototype</text>
+          </navLabel>
+          <content src="ch06s06.html"/>
+        </navPoint>
+        <navPoint id="id2668111" playOrder="142">
+          <navLabel>
+            <text>Classical Pattern #5—A Temporary Constructor</text>
+          </navLabel>
+          <content src="ch06s07.html"/>
+          <navPoint id="id2668336" playOrder="143">
+            <navLabel>
+              <text>Storing the Superclass</text>
+            </navLabel>
+            <content src="ch06s07.html#storing_the_superclass"/>
+          </navPoint>
+          <navPoint id="id2668375" playOrder="144">
+            <navLabel>
+              <text>Resetting the Constructor Pointer</text>
+            </navLabel>
+            <content src="ch06s07.html#resetting_the_constructor_pointer"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2668567" playOrder="145">
+          <navLabel>
+            <text>Klass</text>
+          </navLabel>
+          <content src="ch06s08.html"/>
+        </navPoint>
+        <navPoint id="id2669116" playOrder="146">
+          <navLabel>
+            <text>Prototypal Inheritance</text>
+          </navLabel>
+          <content src="ch06s09.html"/>
+          <navPoint id="id2669303" playOrder="147">
+            <navLabel>
+              <text>Discussion</text>
+            </navLabel>
+            <content src="ch06s09.html#discussion"/>
+          </navPoint>
+          <navPoint id="id2669366" playOrder="148">
+            <navLabel>
+              <text>Addition to ECMAScript 5</text>
+            </navLabel>
+            <content src="ch06s09.html#addition_to_ecmascript_5"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2669496" playOrder="149">
+          <navLabel>
+            <text>Inheritance by Copying Properties</text>
+          </navLabel>
+          <content src="ch06s10.html"/>
+        </navPoint>
+        <navPoint id="id2669768" playOrder="150">
+          <navLabel>
+            <text>Mix-ins</text>
+          </navLabel>
+          <content src="ch06s11.html"/>
+        </navPoint>
+        <navPoint id="id2669979" playOrder="151">
+          <navLabel>
+            <text>Borrowing Methods</text>
+          </navLabel>
+          <content src="ch06s12.html"/>
+          <navPoint id="id2670158" playOrder="152">
+            <navLabel>
+              <text>Example: Borrow from Array</text>
+            </navLabel>
+            <content src="ch06s12.html#example_colon_borrow_from_array"/>
+          </navPoint>
+          <navPoint id="id2670233" playOrder="153">
+            <navLabel>
+              <text>Borrow and Bind</text>
+            </navLabel>
+            <content src="ch06s12.html#borrow_and_bind"/>
+          </navPoint>
+          <navPoint id="id2670546" playOrder="154">
+            <navLabel>
+              <text>Function.prototype.bind()</text>
+            </navLabel>
+            <content src="ch06s12.html#function.prototype.bind_open_parenthesis"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2670732" playOrder="155">
+          <navLabel>
+            <text>Summary</text>
+          </navLabel>
+          <content src="ch06s13.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id2670793" playOrder="156">
+        <navLabel>
+          <text>7. Design Patterns</text>
+        </navLabel>
+        <content src="ch07.html"/>
+        <navPoint id="id2670843" playOrder="157">
+          <navLabel>
+            <text>Singleton</text>
+          </navLabel>
+          <content src="ch07.html#singleton"/>
+          <navPoint id="id2670940" playOrder="158">
+            <navLabel>
+              <text>Using new</text>
+            </navLabel>
+            <content src="ch07.html#using_new"/>
+          </navPoint>
+          <navPoint id="id2671118" playOrder="159">
+            <navLabel>
+              <text>Instance in a Static Property</text>
+            </navLabel>
+            <content src="ch07.html#instance_in_a_static_property"/>
+          </navPoint>
+          <navPoint id="id2671205" playOrder="160">
+            <navLabel>
+              <text>Instance in a Closure</text>
+            </navLabel>
+            <content src="ch07.html#instance_in_a_closure"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2671478" playOrder="161">
+          <navLabel>
+            <text>Factory</text>
+          </navLabel>
+          <content src="ch07s02.html"/>
+          <navPoint id="id2671708" playOrder="162">
+            <navLabel>
+              <text>Built-in Object Factory</text>
+            </navLabel>
+            <content src="ch07s02.html#built-in_object_factory"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2671819" playOrder="163">
+          <navLabel>
+            <text>Iterator</text>
+          </navLabel>
+          <content src="ch07s03.html"/>
+        </navPoint>
+        <navPoint id="id2672059" playOrder="164">
+          <navLabel>
+            <text>Decorator</text>
+          </navLabel>
+          <content src="ch07s04.html"/>
+          <navPoint id="id2672109" playOrder="165">
+            <navLabel>
+              <text>Usage</text>
+            </navLabel>
+            <content src="ch07s04.html#usage"/>
+          </navPoint>
+          <navPoint id="id2672198" playOrder="166">
+            <navLabel>
+              <text>Implementation</text>
+            </navLabel>
+            <content src="ch07s04.html#implementation"/>
+          </navPoint>
+          <navPoint id="id2672518" playOrder="167">
+            <navLabel>
+              <text>Implementation Using a List</text>
+            </navLabel>
+            <content src="ch07s04.html#implementation_using_a_list"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2672800" playOrder="168">
+          <navLabel>
+            <text>Strategy</text>
+          </navLabel>
+          <content src="ch07s05.html"/>
+          <navPoint id="id2672876" playOrder="169">
+            <navLabel>
+              <text>Data Validation Example</text>
+            </navLabel>
+            <content src="ch07s05.html#data_validation_example"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2673138" playOrder="170">
+          <navLabel>
+            <text>Façade</text>
+          </navLabel>
+          <content src="ch07s06.html"/>
+        </navPoint>
+        <navPoint id="id2673290" playOrder="171">
+          <navLabel>
+            <text>Proxy</text>
+          </navLabel>
+          <content src="ch07s07.html"/>
+          <navPoint id="id2673430" playOrder="172">
+            <navLabel>
+              <text>An Example</text>
+            </navLabel>
+            <content src="ch07s07.html#an_example"/>
+            <navPoint id="id2673460" playOrder="173">
+              <navLabel>
+                <text>A video expando</text>
+              </navLabel>
+              <content src="ch07s07.html#a_video_expando"/>
+            </navPoint>
+            <navPoint id="id2673529" playOrder="174">
+              <navLabel>
+                <text>Without a proxy</text>
+              </navLabel>
+              <content src="ch07s07.html#without_a_proxy"/>
+            </navPoint>
+            <navPoint id="id2673624" playOrder="175">
+              <navLabel>
+                <text>HTML</text>
+              </navLabel>
+              <content src="ch07s07.html#html"/>
+            </navPoint>
+            <navPoint id="id2673658" playOrder="176">
+              <navLabel>
+                <text>Event handlers</text>
+              </navLabel>
+              <content src="ch07s07.html#event_handlers"/>
+            </navPoint>
+            <navPoint id="id2673801" playOrder="177">
+              <navLabel>
+                <text>videos object</text>
+              </navLabel>
+              <content src="ch07s07.html#videos_object"/>
+            </navPoint>
+            <navPoint id="id2673884" playOrder="178">
+              <navLabel>
+                <text>http object</text>
+              </navLabel>
+              <content src="ch07s07.html#http_object"/>
+            </navPoint>
+            <navPoint id="id2673956" playOrder="179">
+              <navLabel>
+                <text>Enter the proxy</text>
+              </navLabel>
+              <content src="ch07s07.html#enter_the_proxy"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id2674200" playOrder="180">
+            <navLabel>
+              <text>Proxy As a Cache</text>
+            </navLabel>
+            <content src="ch07s07.html#proxy_as_a_cache"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2674301" playOrder="181">
+          <navLabel>
+            <text>Mediator</text>
+          </navLabel>
+          <content src="ch07s08.html"/>
+          <navPoint id="id2674437" playOrder="182">
+            <navLabel>
+              <text>Mediator Example</text>
+            </navLabel>
+            <content src="ch07s08.html#mediator_example"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2674726" playOrder="183">
+          <navLabel>
+            <text>Observer</text>
+          </navLabel>
+          <content src="ch07s09.html"/>
+          <navPoint id="id2674804" playOrder="184">
+            <navLabel>
+              <text>Example #1: Magazine Subscriptions</text>
+            </navLabel>
+            <content src="ch07s09.html#example_colon_magazine_subscriptions"/>
+          </navPoint>
+          <navPoint id="id2675321" playOrder="185">
+            <navLabel>
+              <text>Example #2: The Keypress Game</text>
+            </navLabel>
+            <content src="ch07s09.html#example_number_symble_2_colon_the_keypre"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2675822" playOrder="186">
+          <navLabel>
+            <text>Summary</text>
+          </navLabel>
+          <content src="ch07s10.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id2675941" playOrder="187">
+        <navLabel>
+          <text>8. DOM and Browser Patterns</text>
+        </navLabel>
+        <content src="ch08.html"/>
+        <navPoint id="id2675980" playOrder="188">
+          <navLabel>
+            <text>Separation of Concerns</text>
+          </navLabel>
+          <content src="ch08.html#separation_of_concerns"/>
+        </navPoint>
+        <navPoint id="id2676260" playOrder="189">
+          <navLabel>
+            <text>DOM Scripting</text>
+          </navLabel>
+          <content src="ch08s02.html"/>
+          <navPoint id="id2676307" playOrder="190">
+            <navLabel>
+              <text>DOM Access</text>
+            </navLabel>
+            <content src="ch08s02.html#dom_access"/>
+          </navPoint>
+          <navPoint id="id2676448" playOrder="191">
+            <navLabel>
+              <text>DOM Manipulation</text>
+            </navLabel>
+            <content src="ch08s02.html#dom_manipulation"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2676661" playOrder="192">
+          <navLabel>
+            <text>Events</text>
+          </navLabel>
+          <content src="ch08s03.html"/>
+          <navPoint id="id2676696" playOrder="193">
+            <navLabel>
+              <text>Event Handling</text>
+            </navLabel>
+            <content src="ch08s03.html#event_handling"/>
+          </navPoint>
+          <navPoint id="id2677017" playOrder="194">
+            <navLabel>
+              <text>Event Delegation</text>
+            </navLabel>
+            <content src="ch08s03.html#event_delegation"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2677281" playOrder="195">
+          <navLabel>
+            <text>Long-Running Scripts</text>
+          </navLabel>
+          <content src="ch08s04.html"/>
+          <navPoint id="id2677348" playOrder="196">
+            <navLabel>
+              <text>setTimeout()</text>
+            </navLabel>
+            <content src="ch08s04.html#settimeout_open_parenthesis_close_parent"/>
+          </navPoint>
+          <navPoint id="id2677408" playOrder="197">
+            <navLabel>
+              <text>Web Workers</text>
+            </navLabel>
+            <content src="ch08s04.html#web_workers"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2677541" playOrder="198">
+          <navLabel>
+            <text>Remote Scripting</text>
+          </navLabel>
+          <content src="ch08s05.html"/>
+          <navPoint id="id2677586" playOrder="199">
+            <navLabel>
+              <text>XMLHttpRequest</text>
+            </navLabel>
+            <content src="ch08s05.html#xmlhttprequest"/>
+          </navPoint>
+          <navPoint id="id2677888" playOrder="200">
+            <navLabel>
+              <text>JSONP</text>
+            </navLabel>
+            <content src="ch08s05.html#jsonp"/>
+            <navPoint id="id2678022" playOrder="201">
+              <navLabel>
+                <text>JSONP example: Tic-tac-toe</text>
+              </navLabel>
+              <content src="ch08s05.html#jsonp_example_colon_tic-tac-toe"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id2678267" playOrder="202">
+            <navLabel>
+              <text>Frames and Image Beacons</text>
+            </navLabel>
+            <content src="ch08s05.html#frames_and_image_beacons"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2678371" playOrder="203">
+          <navLabel>
+            <text>Deploying JavaScript</text>
+          </navLabel>
+          <content src="ch08s06.html"/>
+          <navPoint id="id2678450" playOrder="204">
+            <navLabel>
+              <text>Combining Scripts</text>
+            </navLabel>
+            <content src="ch08s06.html#combining_scripts"/>
+          </navPoint>
+          <navPoint id="id2678584" playOrder="205">
+            <navLabel>
+              <text>Minifying and Compressing</text>
+            </navLabel>
+            <content src="ch08s06.html#minifying_and_compressing"/>
+          </navPoint>
+          <navPoint id="id2678702" playOrder="206">
+            <navLabel>
+              <text>Expires Header</text>
+            </navLabel>
+            <content src="ch08s06.html#expires_header"/>
+          </navPoint>
+          <navPoint id="id2678769" playOrder="207">
+            <navLabel>
+              <text>Using a CDN</text>
+            </navLabel>
+            <content src="ch08s06.html#using_a_cdn"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2678856" playOrder="208">
+          <navLabel>
+            <text>Loading Strategies</text>
+          </navLabel>
+          <content src="ch08s07.html"/>
+          <navPoint id="id2679023" playOrder="209">
+            <navLabel>
+              <text>The Place of the &lt;script&gt; Element</text>
+            </navLabel>
+            <content src="ch08s07.html#the_place_of_the_lscriptg_element"/>
+          </navPoint>
+          <navPoint id="id2679120" playOrder="210">
+            <navLabel>
+              <text>HTTP Chunking</text>
+            </navLabel>
+            <content src="ch08s07.html#http_chunking"/>
+          </navPoint>
+          <navPoint id="id2679336" playOrder="211">
+            <navLabel>
+              <text>Dynamic &lt;script&gt; Element for Nonblocking Downloads</text>
+            </navLabel>
+            <content src="ch08s07.html#dynamic_lscriptg_element_for_nonblocking"/>
+            <navPoint id="id2679547" playOrder="212">
+              <navLabel>
+                <text>Appending the &lt;script&gt; element</text>
+              </navLabel>
+              <content src="ch08s07.html#appending_the_lscriptg_element"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id2679738" playOrder="213">
+            <navLabel>
+              <text>Lazy-Loading</text>
+            </navLabel>
+            <content src="ch08s07.html#lazy-loading"/>
+          </navPoint>
+          <navPoint id="id2679828" playOrder="214">
+            <navLabel>
+              <text>Loading on Demand</text>
+            </navLabel>
+            <content src="ch08s07.html#loading_on_demand"/>
+          </navPoint>
+          <navPoint id="id2680059" playOrder="215">
+            <navLabel>
+              <text>Preloading JavaScript</text>
+            </navLabel>
+            <content src="ch08s07.html#preloading_javascript"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id2680363" playOrder="216">
+          <navLabel>
+            <text>Summary</text>
+          </navLabel>
+          <content src="ch08s08.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id2680467" playOrder="217">
+        <navLabel>
+          <text>Index</text>
+        </navLabel>
+        <content src="ix01.html"/>
+      </navPoint>
+      <navPoint id="id2680479" playOrder="218">
+        <navLabel>
+          <text>About the Author</text>
+        </navLabel>
+        <content src="author_bios.html"/>
+      </navPoint>
+      <navPoint id="id2680494" playOrder="219">
+        <navLabel>
+          <text>Colophon</text>
+        </navLabel>
+        <content src="co02.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

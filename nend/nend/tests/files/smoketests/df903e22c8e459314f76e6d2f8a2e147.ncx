@@ -1,0 +1,1131 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ncx:ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <ncx:head>
+    <ncx:meta name="cover" content="cover"/>
+    <ncx:meta name="dtb:uid" content="isbn:9780596805180"/>
+    <ncx:meta name="dtb:depth" content="-1"/>
+    <ncx:meta name="dtb:totalPageCount" content="0"/>
+    <ncx:meta name="dtb:maxPageNumber" content="0"/>
+  </ncx:head>
+  <ncx:docTitle>
+    <ncx:text>Programming the Semantic Web</ncx:text>
+  </ncx:docTitle>
+  <ncx:navMap>
+    <ncx:navPoint id="id2851041" playOrder="1">
+      <ncx:navLabel>
+        <ncx:text>Programming the Semantic Web</ncx:text>
+      </ncx:navLabel>
+      <ncx:content src="index.html"/>
+      <ncx:navPoint id="id2850233" playOrder="2">
+        <ncx:navLabel>
+          <ncx:text>Foreword</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="pr01.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2863911" playOrder="3">
+        <ncx:navLabel>
+          <ncx:text>Preface</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="pr02.html"/>
+        <ncx:navPoint id="id2871461" playOrder="4">
+          <ncx:navLabel>
+            <ncx:text>Conventions Used in This Book</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr02.html#I_sect1_d1e399"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2871501" playOrder="5">
+          <ncx:navLabel>
+            <ncx:text>Using Code Examples</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr02s02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2871554" playOrder="6">
+          <ncx:navLabel>
+            <ncx:text>Safari® Books Online</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr02s03.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2871596" playOrder="7">
+          <ncx:navLabel>
+            <ncx:text>How to Contact Us</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr02s04.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2871683" playOrder="8">
+        <ncx:navLabel>
+          <ncx:text>I. Semantic Data</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="pt01.html"/>
+        <ncx:navPoint id="id2871689" playOrder="9">
+          <ncx:navLabel>
+            <ncx:text>1. Why Semantics?</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch01.html"/>
+          <ncx:navPoint id="id2894523" playOrder="10">
+            <ncx:navLabel>
+              <ncx:text>Data Integration Across the Web</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01.html#I_sect11_d1e534"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2863715" playOrder="11">
+            <ncx:navLabel>
+              <ncx:text>Traditional Data-Modeling Methods</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s02.html"/>
+            <ncx:navPoint id="id2863775" playOrder="12">
+              <ncx:navLabel>
+                <ncx:text>Tabular Data</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch01s02.html#id2863775"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2895303" playOrder="13">
+              <ncx:navLabel>
+                <ncx:text>Relational Data</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch01s02.html#id2895303"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2895554" playOrder="14">
+              <ncx:navLabel>
+                <ncx:text>Evolving and Refactoring Schemas</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch01s02.html#id2895554"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2893741" playOrder="15">
+              <ncx:navLabel>
+                <ncx:text>Very Complicated Schemas</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch01s02.html#id2893741"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2893962" playOrder="16">
+              <ncx:navLabel>
+                <ncx:text>Getting It Right the First Time</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch01s02.html#id2893962"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2894256" playOrder="17">
+            <ncx:navLabel>
+              <ncx:text>Semantic Relationships</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s03.html"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2862530" playOrder="18">
+            <ncx:navLabel>
+              <ncx:text>Metadata Is Data</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s04.html"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2862637" playOrder="19">
+            <ncx:navLabel>
+              <ncx:text>Building for the Unexpected</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s05.html"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2862727" playOrder="20">
+            <ncx:navLabel>
+              <ncx:text>“Perpetual Beta”</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s06.html"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2862867" playOrder="21">
+          <ncx:navLabel>
+            <ncx:text>2. Expressing Meaning</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02.html"/>
+          <ncx:navPoint id="id2863328" playOrder="22">
+            <ncx:navLabel>
+              <ncx:text>An Example: Movie Data</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02.html#I_sect12_d1e1676"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2863610" playOrder="23">
+            <ncx:navLabel>
+              <ncx:text>Building a Simple Triplestore</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s02.html"/>
+            <ncx:navPoint id="id2863680" playOrder="24">
+              <ncx:navLabel>
+                <ncx:text>Indexes</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s02.html#id2863680"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2856642" playOrder="25">
+              <ncx:navLabel>
+                <ncx:text>The add and remove Methods</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s02.html#id2856642"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2856858" playOrder="26">
+              <ncx:navLabel>
+                <ncx:text>Querying</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s02.html#id2856858"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2857053" playOrder="27">
+            <ncx:navLabel>
+              <ncx:text>Merging Graphs</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s03.html"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2857240" playOrder="28">
+            <ncx:navLabel>
+              <ncx:text>Adding and Querying Movie Data</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s04.html"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2857540" playOrder="29">
+            <ncx:navLabel>
+              <ncx:text>Other Examples</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s05.html"/>
+            <ncx:navPoint id="id2857611" playOrder="30">
+              <ncx:navLabel>
+                <ncx:text>Places</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s05.html#id2857611"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2855355" playOrder="31">
+              <ncx:navLabel>
+                <ncx:text>Celebrities</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s05.html#id2855355"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2855591" playOrder="32">
+              <ncx:navLabel>
+                <ncx:text>Business</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s05.html#id2855591"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2855809" playOrder="33">
+          <ncx:navLabel>
+            <ncx:text>3. Using Semantic Data</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03.html"/>
+          <ncx:navPoint id="id2855869" playOrder="34">
+            <ncx:navLabel>
+              <ncx:text>A Simple Query Language</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03.html#I_sect13_d1e2295"/>
+            <ncx:navPoint id="id2855975" playOrder="35">
+              <ncx:navLabel>
+                <ncx:text>Variable Binding</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03.html#id2855975"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2856469" playOrder="36">
+              <ncx:navLabel>
+                <ncx:text>Implementing a Query Language</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03.html#id2856469"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2861486" playOrder="37">
+            <ncx:navLabel>
+              <ncx:text>Feed-Forward Inference</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s02.html"/>
+            <ncx:navPoint id="id2861638" playOrder="38">
+              <ncx:navLabel>
+                <ncx:text>Inferring New Triples</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03s02.html#id2861638"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2862067" playOrder="39">
+              <ncx:navLabel>
+                <ncx:text>Geocoding</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03s02.html#id2862067"/>
+              <ncx:navPoint id="id2862142" playOrder="40">
+                <ncx:navLabel>
+                  <ncx:text>Using a free online geocoder</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="ch03s02.html#id2862142"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id2862261" playOrder="41">
+                <ncx:navLabel>
+                  <ncx:text>Adding a geocoding rule</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="ch03s02.html#id2862261"/>
+              </ncx:navPoint>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2862411" playOrder="42">
+              <ncx:navLabel>
+                <ncx:text>Chains of Rules</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03s02.html#id2862411"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2858150" playOrder="43">
+              <ncx:navLabel>
+                <ncx:text>A Word About “Artificial Intelligence”</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03s02.html#id2858150"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2858214" playOrder="44">
+            <ncx:navLabel>
+              <ncx:text>Searching for Connections</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s03.html"/>
+            <ncx:navPoint id="id2858335" playOrder="45">
+              <ncx:navLabel>
+                <ncx:text>Six Degrees of Kevin Bacon</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03s03.html#id2858335"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2858731" playOrder="46">
+            <ncx:navLabel>
+              <ncx:text>Shared Keys and Overlapping Graphs</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s04.html"/>
+            <ncx:navPoint id="id2858832" playOrder="47">
+              <ncx:navLabel>
+                <ncx:text>Example: Joining the Business and Places Graphs</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03s04.html#id2858832"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2858997" playOrder="48">
+              <ncx:navLabel>
+                <ncx:text>Querying the Joined Graph</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03s04.html#id2858997"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2859214" playOrder="49">
+            <ncx:navLabel>
+              <ncx:text>Basic Graph Visualization</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s05.html"/>
+            <ncx:navPoint id="id2859279" playOrder="50">
+              <ncx:navLabel>
+                <ncx:text>Graphviz</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03s05.html#id2859279"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2859386" playOrder="51">
+              <ncx:navLabel>
+                <ncx:text>Displaying Sets of Triples</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03s05.html#id2859386"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2875041" playOrder="52">
+              <ncx:navLabel>
+                <ncx:text>Displaying Query Results</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03s05.html#id2875041"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2875270" playOrder="53">
+            <ncx:navLabel>
+              <ncx:text>Semantic Data Is Flexible</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s06.html"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2875366" playOrder="54">
+        <ncx:navLabel>
+          <ncx:text>II. Standards and Sources</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="pt02.html"/>
+        <ncx:navPoint id="id2875373" playOrder="55">
+          <ncx:navLabel>
+            <ncx:text>4. Just Enough RDF</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04.html"/>
+          <ncx:navPoint id="id2875474" playOrder="56">
+            <ncx:navLabel>
+              <ncx:text>What Is RDF?</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04.html#I_sect11_d1e3640"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2875602" playOrder="57">
+            <ncx:navLabel>
+              <ncx:text>The RDF Data Model</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s02.html"/>
+            <ncx:navPoint id="id2875640" playOrder="58">
+              <ncx:navLabel>
+                <ncx:text>URIs As Strong Keys</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s02.html#id2875640"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2875732" playOrder="59">
+              <ncx:navLabel>
+                <ncx:text>Resources</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s02.html#id2875732"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2876038" playOrder="60">
+              <ncx:navLabel>
+                <ncx:text>Blank Nodes</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s02.html#id2876038"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2876289" playOrder="61">
+              <ncx:navLabel>
+                <ncx:text>Literal Values</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s02.html#id2876289"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2876352" playOrder="62">
+            <ncx:navLabel>
+              <ncx:text>RDF Serialization Formats</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s03.html"/>
+            <ncx:navPoint id="id2876480" playOrder="63">
+              <ncx:navLabel>
+                <ncx:text>A Graph of Friends</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#id2876480"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2876654" playOrder="64">
+              <ncx:navLabel>
+                <ncx:text>N-Triples</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#id2876654"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2852469" playOrder="65">
+              <ncx:navLabel>
+                <ncx:text>N3</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#id2852469"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2852872" playOrder="66">
+              <ncx:navLabel>
+                <ncx:text>RDF/XML</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#rdf_xml_section"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2853306" playOrder="67">
+              <ncx:navLabel>
+                <ncx:text>RDFa</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s03.html#id2853306"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2854420" playOrder="68">
+            <ncx:navLabel>
+              <ncx:text>Introducing RDFLib</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s04.html"/>
+            <ncx:navPoint id="id2864537" playOrder="69">
+              <ncx:navLabel>
+                <ncx:text>Persistence with RDFLib</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s04.html#id2864537"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2864825" playOrder="70">
+            <ncx:navLabel>
+              <ncx:text>SPARQL</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s05.html"/>
+            <ncx:navPoint id="id2865044" playOrder="71">
+              <ncx:navLabel>
+                <ncx:text>SELECT Query Form</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s05.html#id2865044"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2865272" playOrder="72">
+              <ncx:navLabel>
+                <ncx:text>OPTIONAL and FILTER Constraints</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s05.html#id2865272"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2865660" playOrder="73">
+              <ncx:navLabel>
+                <ncx:text>Multiple Graph Patterns</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s05.html#id2865660"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2865937" playOrder="74">
+              <ncx:navLabel>
+                <ncx:text>CONSTRUCT Query Form</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s05.html#id2865937"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2866030" playOrder="75">
+              <ncx:navLabel>
+                <ncx:text>ASK and DESCRIBE Query Forms</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s05.html#id2866030"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2866192" playOrder="76">
+              <ncx:navLabel>
+                <ncx:text>SPARQL Queries in RDFLib</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s05.html#id2866192"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2872056" playOrder="77">
+              <ncx:navLabel>
+                <ncx:text>Useful Query Modifiers</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s05.html#id2872056"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2872368" playOrder="78">
+          <ncx:navLabel>
+            <ncx:text>5. Sources of Semantic Data</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05.html"/>
+          <ncx:navPoint id="id2872458" playOrder="79">
+            <ncx:navLabel>
+              <ncx:text>Friend of a Friend (FOAF)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05.html#I_sect12_d1e5740"/>
+            <ncx:navPoint id="id2872995" playOrder="80">
+              <ncx:navLabel>
+                <ncx:text>Graph Analysis of a Social Network</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch05.html#id2872995"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2873966" playOrder="81">
+            <ncx:navLabel>
+              <ncx:text>Linked Data</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s02.html"/>
+            <ncx:navPoint id="id2874101" playOrder="82">
+              <ncx:navLabel>
+                <ncx:text>The Cloud of Data</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch05s02.html#id2874101"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2874418" playOrder="83">
+              <ncx:navLabel>
+                <ncx:text>Are You Your FOAF file?</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch05s02.html#id2874418"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2866968" playOrder="84">
+              <ncx:navLabel>
+                <ncx:text>Consuming Linked Data</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch05s02.html#id2866968"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2867718" playOrder="85">
+            <ncx:navLabel>
+              <ncx:text>Freebase</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s03.html"/>
+            <ncx:navPoint id="id2867820" playOrder="86">
+              <ncx:navLabel>
+                <ncx:text>An Identity Database</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch05s03.html#id2867820"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2868069" playOrder="87">
+              <ncx:navLabel>
+                <ncx:text>RDF Interface</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch05s03.html#id2868069"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2868244" playOrder="88">
+              <ncx:navLabel>
+                <ncx:text>Freebase Schema</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch05s03.html#id2868244"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2868872" playOrder="89">
+              <ncx:navLabel>
+                <ncx:text>MQL Interface</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch05s03.html#id2868872"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2869212" playOrder="90">
+              <ncx:navLabel>
+                <ncx:text>Using the metaweb.py Library</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch05s03.html#id2869212"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2869517" playOrder="91">
+              <ncx:navLabel>
+                <ncx:text>Interacting with Humans</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch05s03.html#id2869517"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2869911" playOrder="92">
+          <ncx:navLabel>
+            <ncx:text>6. What Do You Mean, “Ontology”?</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06.html"/>
+          <ncx:navPoint id="id2869993" playOrder="93">
+            <ncx:navLabel>
+              <ncx:text>What Is It Good For?</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06.html#I_sect13_d1e7458"/>
+            <ncx:navPoint id="id2870064" playOrder="94">
+              <ncx:navLabel>
+                <ncx:text>A Contract for Meaning</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06.html#id2870064"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2870187" playOrder="95">
+              <ncx:navLabel>
+                <ncx:text>Models Are Data</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06.html#id2870187"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2870313" playOrder="96">
+            <ncx:navLabel>
+              <ncx:text>An Introduction to Data Modeling</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s02.html"/>
+            <ncx:navPoint id="id2870360" playOrder="97">
+              <ncx:navLabel>
+                <ncx:text>Classes and Properties</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s02.html#id2870360"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2870808" playOrder="98">
+              <ncx:navLabel>
+                <ncx:text>Modeling Films</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s02.html#id2870808"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2895869" playOrder="99">
+              <ncx:navLabel>
+                <ncx:text>Reifying Relationships</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s02.html#id2895869"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2896121" playOrder="100">
+            <ncx:navLabel>
+              <ncx:text>Just Enough OWL</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s03.html"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2896919" playOrder="101">
+            <ncx:navLabel>
+              <ncx:text>Using Protégé</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s04.html"/>
+            <ncx:navPoint id="id2896990" playOrder="102">
+              <ncx:navLabel>
+                <ncx:text>Creating a New Ontology</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s04.html#id2896990"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2897101" playOrder="103">
+              <ncx:navLabel>
+                <ncx:text>Editing an Ontology</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s04.html#id2897101"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2897497" playOrder="104">
+            <ncx:navLabel>
+              <ncx:text>Just a Bit More OWL</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s05.html"/>
+            <ncx:navPoint id="id2897524" playOrder="105">
+              <ncx:navLabel>
+                <ncx:text>Functional and Inverse Functional Properties</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s05.html#id2897524"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2897625" playOrder="106">
+              <ncx:navLabel>
+                <ncx:text>Inverse Properties</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s05.html#id2897625"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2897680" playOrder="107">
+              <ncx:navLabel>
+                <ncx:text>Disjoint Classes</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s05.html#id2897680"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2897869" playOrder="108">
+              <ncx:navLabel>
+                <ncx:text>Keepin’ It Real</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s05.html#id2897869"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2897976" playOrder="109">
+            <ncx:navLabel>
+              <ncx:text>Some Other Ontologies</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s06.html"/>
+            <ncx:navPoint id="id2898042" playOrder="110">
+              <ncx:navLabel>
+                <ncx:text>Describing FOAF</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s06.html#id2898042"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2898093" playOrder="111">
+              <ncx:navLabel>
+                <ncx:text>A Beer Ontology</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s06.html#id2898093"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2898472" playOrder="112">
+            <ncx:navLabel>
+              <ncx:text>This Is Not My Beautiful Relational Schema!</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s07.html"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2898788" playOrder="113">
+          <ncx:navLabel>
+            <ncx:text>7. Publishing Semantic Data</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07.html"/>
+          <ncx:navPoint id="id2898911" playOrder="114">
+            <ncx:navLabel>
+              <ncx:text>Embedding Semantics</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07.html#I_sect14_d1e8909"/>
+            <ncx:navPoint id="id2898996" playOrder="115">
+              <ncx:navLabel>
+                <ncx:text>Microformats</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07.html#id2898996"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2899575" playOrder="116">
+              <ncx:navLabel>
+                <ncx:text>RDFa</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07.html#id2899575"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2900087" playOrder="117">
+              <ncx:navLabel>
+                <ncx:text>Yahoo! SearchMonkey</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07.html#id2900087"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2887250" playOrder="118">
+              <ncx:navLabel>
+                <ncx:text>Google’s Rich Snippets</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07.html#id2887250"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2887518" playOrder="119">
+            <ncx:navLabel>
+              <ncx:text>Dealing with Legacy Data</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s02.html"/>
+            <ncx:navPoint id="id2887660" playOrder="120">
+              <ncx:navLabel>
+                <ncx:text>Internet Video Archive</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s02.html#id2887660"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2888365" playOrder="121">
+              <ncx:navLabel>
+                <ncx:text>Tables and Spreadsheets</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s02.html#id2888365"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2888897" playOrder="122">
+              <ncx:navLabel>
+                <ncx:text>Legacy Relational Data</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s02.html#id2888897"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2889513" playOrder="123">
+            <ncx:navLabel>
+              <ncx:text>RDFLib to Linked Data</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s03.html"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2890758" playOrder="124">
+        <ncx:navLabel>
+          <ncx:text>III. Putting It into Practice</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="pt03.html"/>
+        <ncx:navPoint id="id2890764" playOrder="125">
+          <ncx:navLabel>
+            <ncx:text>8. Overview of Toolkits</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08.html"/>
+          <ncx:navPoint id="id2890820" playOrder="126">
+            <ncx:navLabel>
+              <ncx:text>Sesame</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08.html#I_sect11_d1e10403"/>
+            <ncx:navPoint id="id2890910" playOrder="127">
+              <ncx:navLabel>
+                <ncx:text>Using the Sesame Java API</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08.html#id2890910"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2891999" playOrder="128">
+              <ncx:navLabel>
+                <ncx:text>RDFS Inferencing in Sesame</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08.html#id2891999"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2892483" playOrder="129">
+              <ncx:navLabel>
+                <ncx:text>A Servlet Container for the Sesame Server</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08.html#id2892483"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2892645" playOrder="130">
+              <ncx:navLabel>
+                <ncx:text>Installing the Sesame Web Application</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08.html#id2892645"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2892724" playOrder="131">
+              <ncx:navLabel>
+                <ncx:text>The Workbench</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08.html#id2892724"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2877077" playOrder="132">
+              <ncx:navLabel>
+                <ncx:text>Adding Data</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08.html#id2877077"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2877246" playOrder="133">
+              <ncx:navLabel>
+                <ncx:text>SPARQL Queries</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08.html#id2877246"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2877450" playOrder="134">
+              <ncx:navLabel>
+                <ncx:text>REST API</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08.html#id2877450"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2877807" playOrder="135">
+            <ncx:navLabel>
+              <ncx:text>Other RDF Stores</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s02.html"/>
+            <ncx:navPoint id="id2877851" playOrder="136">
+              <ncx:navLabel>
+                <ncx:text>Jena (Open Source)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s02.html#id2877851"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2877903" playOrder="137">
+              <ncx:navLabel>
+                <ncx:text>Redland (Open Source)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s02.html#id2877903"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2877943" playOrder="138">
+              <ncx:navLabel>
+                <ncx:text>Mulgara (Open Source)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s02.html#id2877943"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2877980" playOrder="139">
+              <ncx:navLabel>
+                <ncx:text>OpenLink Virtuoso (Commercial and Open Source)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s02.html#id2877980"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2878029" playOrder="140">
+              <ncx:navLabel>
+                <ncx:text>Franz AllegroGraph (Commercial)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s02.html#id2878029"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2878092" playOrder="141">
+              <ncx:navLabel>
+                <ncx:text>Oracle (Commercial)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s02.html#id2878092"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2878144" playOrder="142">
+            <ncx:navLabel>
+              <ncx:text>SIMILE/Exhibit</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s03.html"/>
+            <ncx:navPoint id="id2878256" playOrder="143">
+              <ncx:navLabel>
+                <ncx:text>A Simple Exhibit Page</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s03.html#id2878256"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2878548" playOrder="144">
+              <ncx:navLabel>
+                <ncx:text>Searching, Filtering, and Prettier Views</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s03.html#id2878548"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2878929" playOrder="145">
+              <ncx:navLabel>
+                <ncx:text>Linking Up to Sesame</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s03.html#id2878929"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2879128" playOrder="146">
+              <ncx:navLabel>
+                <ncx:text>Timelines</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s03.html#id2879128"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2879444" playOrder="147">
+          <ncx:navLabel>
+            <ncx:text>9. Introspecting Objects from Data</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch09.html"/>
+          <ncx:navPoint id="id2879562" playOrder="148">
+            <ncx:navLabel>
+              <ncx:text>RDFObject Examples</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09.html#I_sect12_d1e11815"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2879987" playOrder="149">
+            <ncx:navLabel>
+              <ncx:text>RDFObject Framework</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s02.html"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2880735" playOrder="150">
+            <ncx:navLabel>
+              <ncx:text>How RDFObject Works</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s03.html"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2880858" playOrder="151">
+          <ncx:navLabel>
+            <ncx:text>10. Tying It All Together</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch10.html"/>
+          <ncx:navPoint id="id2880903" playOrder="152">
+            <ncx:navLabel>
+              <ncx:text>A Job Listing Application</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10.html#I_sect13_d1e12156"/>
+            <ncx:navPoint id="id2880977" playOrder="153">
+              <ncx:navLabel>
+                <ncx:text>Application Requirements</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch10.html#id2880977"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2881034" playOrder="154">
+            <ncx:navLabel>
+              <ncx:text>Job Listing Data</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s02.html"/>
+            <ncx:navPoint id="id2881143" playOrder="155">
+              <ncx:navLabel>
+                <ncx:text>Converting to RDF</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch10s02.html#id2881143"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2881382" playOrder="156">
+              <ncx:navLabel>
+                <ncx:text>Loading the Data into Sesame</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch10s02.html#id2881382"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2881584" playOrder="157">
+            <ncx:navLabel>
+              <ncx:text>Serving the Website</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s03.html"/>
+            <ncx:navPoint id="id2881682" playOrder="158">
+              <ncx:navLabel>
+                <ncx:text>CherryPy</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch10s03.html#id2881682"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2881836" playOrder="159">
+              <ncx:navLabel>
+                <ncx:text>Mako Page Templates</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch10s03.html#id2881836"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2882181" playOrder="160">
+            <ncx:navLabel>
+              <ncx:text>A Generic Viewer</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s04.html"/>
+            <ncx:navPoint id="id2882348" playOrder="161">
+              <ncx:navLabel>
+                <ncx:text>Getting Data from Sesame</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch10s04.html#id2882348"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2882428" playOrder="162">
+              <ncx:navLabel>
+                <ncx:text>The Generic Template</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch10s04.html#id2882428"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2882575" playOrder="163">
+            <ncx:navLabel>
+              <ncx:text>Getting Company Data</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s05.html"/>
+            <ncx:navPoint id="id2882667" playOrder="164">
+              <ncx:navLabel>
+                <ncx:text>Crunchbase</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch10s05.html#id2882667"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2882956" playOrder="165">
+              <ncx:navLabel>
+                <ncx:text>Yahoo! Finance</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch10s05.html#id2882956"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2883151" playOrder="166">
+              <ncx:navLabel>
+                <ncx:text>Reconciling Freebase Connections</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch10s05.html#id2883151"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2883384" playOrder="167">
+            <ncx:navLabel>
+              <ncx:text>Specialized Views</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s06.html"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2883821" playOrder="168">
+            <ncx:navLabel>
+              <ncx:text>Publishing for Others</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s07.html"/>
+            <ncx:navPoint id="id2883916" playOrder="169">
+              <ncx:navLabel>
+                <ncx:text>RDFa</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch10s07.html#id2883916"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2884038" playOrder="170">
+              <ncx:navLabel>
+                <ncx:text>RDF/XML</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch10s07.html#id2884038"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2884258" playOrder="171">
+            <ncx:navLabel>
+              <ncx:text>Expanding the Data</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s08.html"/>
+            <ncx:navPoint id="id2884353" playOrder="172">
+              <ncx:navLabel>
+                <ncx:text>Locations</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch10s08.html#id2884353"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2884486" playOrder="173">
+              <ncx:navLabel>
+                <ncx:text>Geography, Economy, Demography</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch10s08.html#id2884486"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2884640" playOrder="174">
+            <ncx:navLabel>
+              <ncx:text>Sophisticated Queries</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s09.html"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2884954" playOrder="175">
+            <ncx:navLabel>
+              <ncx:text>Visualizing the Job Data</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s10.html"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2885282" playOrder="176">
+            <ncx:navLabel>
+              <ncx:text>Further Expansion</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s11.html"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2885347" playOrder="177">
+        <ncx:navLabel>
+          <ncx:text>IV. Epilogue</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="pt04.html"/>
+        <ncx:navPoint id="id2885353" playOrder="178">
+          <ncx:navLabel>
+            <ncx:text>11. The Giant Global Graph</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch11.html"/>
+          <ncx:navPoint id="id2885444" playOrder="179">
+            <ncx:navLabel>
+              <ncx:text>Vision, Hype, and Reality</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch11.html#I_sect11_d1e13337"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2885742" playOrder="180">
+            <ncx:navLabel>
+              <ncx:text>Participating in the Global Graph Community</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch11s02.html"/>
+            <ncx:navPoint id="id2885848" playOrder="181">
+              <ncx:navLabel>
+                <ncx:text>Releasing Data into the Commons</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch11s02.html#id2885848"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2886021" playOrder="182">
+              <ncx:navLabel>
+                <ncx:text>License Considerations</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch11s02.html#id2886021"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2886274" playOrder="183">
+              <ncx:navLabel>
+                <ncx:text>The Data Cycle</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch11s02.html#id2886274"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2886427" playOrder="184">
+            <ncx:navLabel>
+              <ncx:text>Bracing for Continuous Change</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch11s03.html"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2886607" playOrder="185">
+        <ncx:navLabel>
+          <ncx:text>Index</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ix01.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2886608" playOrder="186">
+        <ncx:navLabel>
+          <ncx:text>Colophon</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="co01.html"/>
+      </ncx:navPoint>
+    </ncx:navPoint>
+  </ncx:navMap>
+</ncx:ncx>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ncx:ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <ncx:head>
+    <ncx:meta name="dtb:uid" content="1"/>
+  </ncx:head>
+  <ncx:docTitle>
+    <ncx:text>Tiny book</ncx:text>
+  </ncx:docTitle>
+  <ncx:navMap>
+    <ncx:navPoint id="id456647" playOrder="1">
+      <ncx:navLabel>
+        <ncx:text>Tiny book</ncx:text>
+      </ncx:navLabel>
+      <ncx:content src="index.html"/>
+    </ncx:navPoint>
+  </ncx:navMap>
+</ncx:ncx>

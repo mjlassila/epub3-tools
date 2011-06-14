@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content=""/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>This Dynamic Earth</text>
+  </docTitle>  
+  <navMap>
+    
+            <navPoint id="np-1" playOrder="1">
+              <navLabel>
+                <text>Cover</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_cover.html"/>
+            </navPoint>
+        
+            <navPoint id="np-2" playOrder="2">
+              <navLabel>
+                <text>Title Page</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_booktitlepage.html"/>
+            </navPoint>
+        
+            <navPoint id="np-3" playOrder="3">
+              <navLabel>
+                <text>Copyright</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_copyright.html"/>
+            </navPoint>
+        
+            <navPoint id="np-4" playOrder="4">
+              <navLabel>
+                <text>Preface</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_preface.html"/>
+            </navPoint>
+        
+            <navPoint id="np-5" playOrder="5">
+              <navLabel>
+                <text>1: Historical Perspective</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_chapter_01.html"/>
+            </navPoint>
+        
+            <navPoint id="np-6" playOrder="6">
+              <navLabel>
+                <text>2: Developing The Theory</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_chapter_02.html"/>
+            </navPoint>
+        
+            <navPoint id="np-7" playOrder="7">
+              <navLabel>
+                <text>3: Understanding Plate Motions</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_chapter_03.html"/>
+            </navPoint>
+        
+            <navPoint id="np-8" playOrder="8">
+              <navLabel>
+                <text>4: &#34;Hotspots&#34;: Mantle Thermal Plumes</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_chapter_04.html"/>
+            </navPoint>
+        
+            <navPoint id="np-9" playOrder="9">
+              <navLabel>
+                <text>5: Some Unaswered Questions</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_chapter_05.html"/>
+            </navPoint>
+        
+            <navPoint id="np-10" playOrder="10">
+              <navLabel>
+                <text>6: Plate Tectonics And People</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_chapter_06.html"/>
+            </navPoint>
+        
+            <navPoint id="np-11" playOrder="11">
+              <navLabel>
+                <text>7: Endnotes</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_chapter_07.html"/>
+            </navPoint>
+        
+            <navPoint id="np-12" playOrder="12">
+              <navLabel>
+                <text>About the Publisher</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_aboutthepublisher.html"/>
+            </navPoint>
+        
+            <navPoint id="np-13" playOrder="13">
+              <navLabel>
+                <text>Images And Illustrations</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_part_01.html"/>
+        
+            <navPoint id="np-14" playOrder="14">
+              <navLabel>
+                <text>Oldoinyo Lengai</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic.html"/>
+            </navPoint>
+        
+            <navPoint id="np-15" playOrder="15">
+              <navLabel>
+                <text>Supercontinent Pangaea</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_02.html"/>
+            </navPoint>
+        
+            <navPoint id="np-16" playOrder="16">
+              <navLabel>
+                <text>Internal Structure Of The Earth</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_03.html"/>
+            </navPoint>
+        
+            <navPoint id="np-17" playOrder="17">
+              <navLabel>
+                <text>Geographer Antonio</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_04.html"/>
+            </navPoint>
+        
+            <navPoint id="np-18" playOrder="18">
+              <navLabel>
+                <text>Rejoined Continents</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_05.html"/>
+            </navPoint>
+        
+            <navPoint id="np-19" playOrder="19">
+              <navLabel>
+                <text>Inside The Earth</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_06.html"/>
+            </navPoint>
+        
+            <navPoint id="np-20" playOrder="20">
+              <navLabel>
+                <text>Shrinking Farallon Plate</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_07.html"/>
+            </navPoint>
+        
+            <navPoint id="np-21" playOrder="21">
+              <navLabel>
+                <text>Alfred Lothar Wegener: Moving Continents</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_08.html"/>
+            </navPoint>
+        
+            <navPoint id="np-22" playOrder="22">
+              <navLabel>
+                <text>Alfred Lothar Wegener: Moving Continents Two</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_09.html"/>
+            </navPoint>
+        
+            <navPoint id="np-23" playOrder="23">
+              <navLabel>
+                <text>Australian Dinosaurs</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_10.html"/>
+            </navPoint>
+        
+            <navPoint id="np-24" playOrder="24">
+              <navLabel>
+                <text>Dinosaur Cove</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_11.html"/>
+            </navPoint>
+        
+            <navPoint id="np-25" playOrder="25">
+              <navLabel>
+                <text>The Mid-Ocean Ridge</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_12.html"/>
+            </navPoint>
+        
+            <navPoint id="np-26" playOrder="26">
+              <navLabel>
+                <text>Computer-Generated Topographic Map Of The Mid-Ocean Ridge</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_13.html"/>
+            </navPoint>
+        
+            <navPoint id="np-27" playOrder="27">
+              <navLabel>
+                <text>Magnetic Striping And Polar Reversals</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_14.html"/>
+            </navPoint>
+        
+            <navPoint id="np-28" playOrder="28">
+              <navLabel>
+                <text>Magnetic Striping In The Pacific Northwest</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_15.html"/>
+            </navPoint>
+        
+            <navPoint id="np-29" playOrder="29">
+              <navLabel>
+                <text>Glomar Challenger And Joides Resolution</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_16.html"/>
+            </navPoint>
+        
+            <navPoint id="np-30" playOrder="30">
+              <navLabel>
+                <text>Earthquake Zones</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_17.html"/>
+            </navPoint>
+        
+            <navPoint id="np-31" playOrder="31">
+              <navLabel>
+                <text>Magnetic Stripes And Isotopic Clocks</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_18.html"/>
+            </navPoint>
+        
+            <navPoint id="np-32" playOrder="32">
+              <navLabel>
+                <text>Harry Hammond Hess:</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_19.html"/>
+            </navPoint>
+        
+            <navPoint id="np-33" playOrder="33">
+              <navLabel>
+                <text>Topic Number: Exploring The Deep Ocean Floor:</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_20.html"/>
+            </navPoint>
+        
+            <navPoint id="np-34" playOrder="34">
+              <navLabel>
+                <text>Bizarre Sea Life</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_21.html"/>
+            </navPoint>
+        
+            <navPoint id="np-35" playOrder="35">
+              <navLabel>
+                <text>Alvin Collects A Giant Clam</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_22.html"/>
+            </navPoint>
+        
+            <navPoint id="np-36" playOrder="36">
+              <navLabel>
+                <text>Giant Clams</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_23.html"/>
+            </navPoint>
+        
+            <navPoint id="np-37" playOrder="37">
+              <navLabel>
+                <text>Usgs Scientist Enters Alvin</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_24.html"/>
+            </navPoint>
+        
+            <navPoint id="np-38" playOrder="38">
+              <navLabel>
+                <text>Alvin Launch</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_25.html"/>
+            </navPoint>
+        
+            <navPoint id="np-39" playOrder="39">
+              <navLabel>
+                <text>Tube Worm Colony</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_26.html"/>
+            </navPoint>
+        
+            <navPoint id="np-40" playOrder="40">
+              <navLabel>
+                <text>Spider Crab</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_27.html"/>
+            </navPoint>
+        
+            <navPoint id="np-41" playOrder="41">
+              <navLabel>
+                <text>Science And Technology Center</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_28.html"/>
+            </navPoint>
+        
+            <navPoint id="np-42" playOrder="42">
+              <navLabel>
+                <text>Illustration Of The Main Types Of Plate Boundaries</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_29.html"/>
+            </navPoint>
+        
+            <navPoint id="np-43" playOrder="43">
+              <navLabel>
+                <text>Mid-Atlantic Ridge</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_30.html"/>
+            </navPoint>
+        
+            <navPoint id="np-44" playOrder="44">
+              <navLabel>
+                <text>Map Showing The Mid-Atlantic</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_31.html"/>
+            </navPoint>
+        
+            <navPoint id="np-45" playOrder="45">
+              <navLabel>
+                <text>Lava Fountains, Krafla Volcano</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_32.html"/>
+            </navPoint>
+        
+            <navPoint id="np-46" playOrder="46">
+              <navLabel>
+                <text>Thingvellir Fissure Zone, Iceland</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_33.html"/>
+            </navPoint>
+        
+            <navPoint id="np-47" playOrder="47">
+              <navLabel>
+                <text>Historically Active Volcanoes, East Africa</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_34.html"/>
+            </navPoint>
+        
+            <navPoint id="np-48" playOrder="48">
+              <navLabel>
+                <text>Summit Crater Of 'Erta 'Ale</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_35.html"/>
+            </navPoint>
+        
+            <navPoint id="np-49" playOrder="49">
+              <navLabel>
+                <text>Oldoinyo Lengai, East African Rift Zone</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_36.html"/>
+            </navPoint>
+        
+            <navPoint id="np-50" playOrder="50">
+              <navLabel>
+                <text>Oceanic-Continental Convergence</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_37.html"/>
+            </navPoint>
+        
+            <navPoint id="np-51" playOrder="51">
+              <navLabel>
+                <text>Convergence Of The Nazca And South American Plates</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_38.html"/>
+            </navPoint>
+        
+            <navPoint id="np-52" playOrder="52">
+              <navLabel>
+                <text>Ring Of Fire</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_39.html"/>
+            </navPoint>
+        
+            <navPoint id="np-53" playOrder="53">
+              <navLabel>
+                <text>Oceanic-Oceanic Convergence</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_40.html"/>
+            </navPoint>
+        
+            <navPoint id="np-54" playOrder="54">
+              <navLabel>
+                <text>Continental-Continental Convergence</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_41.html"/>
+            </navPoint>
+        
+            <navPoint id="np-55" playOrder="55">
+              <navLabel>
+                <text>Continental-Continental Convergence Two</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_42.html"/>
+            </navPoint>
+        
+            <navPoint id="np-56" playOrder="56">
+              <navLabel>
+                <text>Continental-Continental Convergence Three</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_43.html"/>
+            </navPoint>
+        
+            <navPoint id="np-57" playOrder="57">
+              <navLabel>
+                <text>The Himalayas: Two Continents Collide</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_44.html"/>
+            </navPoint>
+        
+            <navPoint id="np-58" playOrder="58">
+              <navLabel>
+                <text>Himalayas: Two</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_45.html"/>
+            </navPoint>
+        
+            <navPoint id="np-59" playOrder="59">
+              <navLabel>
+                <text>Transform Boundaries</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_46.html"/>
+            </navPoint>
+        
+            <navPoint id="np-60" playOrder="60">
+              <navLabel>
+                <text>San Andreas Fault</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_47.html"/>
+            </navPoint>
+        
+            <navPoint id="np-61" playOrder="61">
+              <navLabel>
+                <text>Easter Island Monolith</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_48.html"/>
+            </navPoint>
+        
+            <navPoint id="np-62" playOrder="62">
+              <navLabel>
+                <text>Gps Satellite And Ground Receiver</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_49.html"/>
+            </navPoint>
+        
+            <navPoint id="np-63" playOrder="63">
+              <navLabel>
+                <text>Hawaiian Islands</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_50.html"/>
+            </navPoint>
+        
+            <navPoint id="np-64" playOrder="64">
+              <navLabel>
+                <text>Fixed Hawaiian &#34;Hot Spot,&#34;</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_51.html"/>
+            </navPoint>
+        
+            <navPoint id="np-65" playOrder="65">
+              <navLabel>
+                <text>Artist'S Conception</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_52.html"/>
+            </navPoint>
+        
+            <navPoint id="np-66" playOrder="66">
+              <navLabel>
+                <text>Prominent World Hotspots</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_53.html"/>
+            </navPoint>
+        
+            <navPoint id="np-67" playOrder="67">
+              <navLabel>
+                <text>Manuna Loa Volcano</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_54.html"/>
+            </navPoint>
+        
+            <navPoint id="np-68" playOrder="68">
+              <navLabel>
+                <text>J. Tuzo Wilson: Discovering</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_55.html"/>
+            </navPoint>
+        
+            <navPoint id="np-69" playOrder="69">
+              <navLabel>
+                <text>Topic Number: The Long Trail Of The Hawaiian Hotspot</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_56.html"/>
+            </navPoint>
+        
+            <navPoint id="np-70" playOrder="70">
+              <navLabel>
+                <text>What Went On Before The Break-Up Of Pangaea</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_57.html"/>
+            </navPoint>
+        
+            <navPoint id="np-71" playOrder="71">
+              <navLabel>
+                <text>Conceptual Drawing</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_58.html"/>
+            </navPoint>
+        
+            <navPoint id="np-72" playOrder="72">
+              <navLabel>
+                <text>Convection</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_59.html"/>
+            </navPoint>
+        
+            <navPoint id="np-73" playOrder="73">
+              <navLabel>
+                <text>Aleutian Trench</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_60.html"/>
+            </navPoint>
+        
+            <navPoint id="np-74" playOrder="74">
+              <navLabel>
+                <text>Volcanic Plume</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_61.html"/>
+            </navPoint>
+        
+            <navPoint id="np-75" playOrder="75">
+              <navLabel>
+                <text>Crystal Springs Reservoir</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_62.html"/>
+            </navPoint>
+        
+            <navPoint id="np-76" playOrder="76">
+              <navLabel>
+                <text>Map Of The San Andreas</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_63.html"/>
+            </navPoint>
+        
+            <navPoint id="np-77" playOrder="77">
+              <navLabel>
+                <text>Horses Killed By Falling Debris</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_64.html"/>
+            </navPoint>
+        
+            <navPoint id="np-78" playOrder="78">
+              <navLabel>
+                <text>Creeping Along The Calaveras</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_65.html"/>
+            </navPoint>
+        
+            <navPoint id="np-79" playOrder="79">
+              <navLabel>
+                <text>The Summit Of Mt. Everest</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_66.html"/>
+            </navPoint>
+        
+            <navPoint id="np-80" playOrder="80">
+              <navLabel>
+                <text>Ground-Motion Measurement System</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_67.html"/>
+            </navPoint>
+        
+            <navPoint id="np-81" playOrder="81">
+              <navLabel>
+                <text>Mount Pinatubo Plume</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_68.html"/>
+            </navPoint>
+        
+            <navPoint id="np-82" playOrder="82">
+              <navLabel>
+                <text>Armero, Colombia</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_69.html"/>
+            </navPoint>
+        
+            <navPoint id="np-83" playOrder="83">
+              <navLabel>
+                <text>Wahaula Visitor Center, Hawaii</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_70.html"/>
+            </navPoint>
+        
+            <navPoint id="np-84" playOrder="84">
+              <navLabel>
+                <text>Retouched Photograph Courtesy Of Noaa/Edis</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_71.html"/>
+            </navPoint>
+        
+            <navPoint id="np-85" playOrder="85">
+              <navLabel>
+                <text>Travel Times For Tsunamis</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_72.html"/>
+            </navPoint>
+        
+            <navPoint id="np-86" playOrder="86">
+              <navLabel>
+                <text>Half Dome, Yosemite National Park</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_73.html"/>
+            </navPoint>
+        
+            <navPoint id="np-87" playOrder="87">
+              <navLabel>
+                <text>Geothermal Powerplant, The Geysers</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_74.html"/>
+            </navPoint>
+        
+            <navPoint id="np-88" playOrder="88">
+              <navLabel>
+                <text>Sundoro Volcano</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_75.html"/>
+            </navPoint>
+        
+            <navPoint id="np-89" playOrder="89">
+              <navLabel>
+                <text>Snow-Clad Mt. Rainier</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_76.html"/>
+            </navPoint>
+        
+            <navPoint id="np-90" playOrder="90">
+              <navLabel>
+                <text>W. Jacquelyne Kious</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_77.html"/>
+            </navPoint>
+        
+            <navPoint id="np-91" playOrder="91">
+              <navLabel>
+                <text>Robert I. Tilling</text>
+              </navLabel>
+              <content src="this_dynamic_earth-AAH813_topic_78.html"/>
+            </navPoint>
+        </navPoint>
+  </navMap>
+</ncx>

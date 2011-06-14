@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+nend/__init__.py
+nend.egg-info/PKG-INFO
+nend.egg-info/SOURCES.txt
+nend.egg-info/dependency_links.txt
+nend.egg-info/entry_points.txt
+nend.egg-info/not-zip-safe
+nend.egg-info/top_level.txt

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" xml:lang="en" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="http://audrey.keszek.free.fr2009053100" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Three Men in a Boat</text>
+  </docTitle>
+  <docAuthor>
+    <text>Jerome K. Jerome</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="titlepage" playOrder="1">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="boat000_title.xhtml" />
+    </navPoint>
+    <navPoint id="contents" playOrder="2">
+      <navLabel>
+        <text>Chapters</text>
+      </navLabel>
+      <content src="toc.xhtml" />
+    </navPoint>
+	<navPoint id="publisher_advertisement" playOrder="3">
+      <navLabel>
+        <text>Publisher's Advertisement</text>
+      </navLabel>
+      <content src="boat001_pub_ad.xhtml" />
+    </navPoint>
+   <navPoint id="author_advertisement" playOrder="4">
+      <navLabel>
+        <text>Author's Advertisement</text>
+      </navLabel>
+      <content src="boat002_auth_ad.xhtml" />
+    </navPoint>
+	<navPoint id="preface" playOrder="5">
+      <navLabel>
+        <text>Preface</text>
+      </navLabel>
+      <content src="boat003_preface.xhtml" />
+    </navPoint>	
+    <navPoint id="Chapter-01" playOrder="6">
+      <navLabel>
+        <text>Chapter I</text>
+      </navLabel>
+      <content src="boat004_ch01.xhtml" />
+    </navPoint>
+    <navPoint id="Chapter-02" playOrder="7">
+      <navLabel>
+        <text>Chapter II</text>
+      </navLabel>
+      <content src="boat005_ch02.xhtml" />
+    </navPoint>
+    <navPoint id="Chapter-03" playOrder="8">
+      <navLabel>
+        <text>Chapter III</text>
+      </navLabel>
+      <content src="boat006_ch03.xhtml" />
+    </navPoint>
+    <navPoint id="Chapter-04" playOrder="9">
+      <navLabel>
+        <text>Chapter IV</text>
+      </navLabel>
+      <content src="boat007_ch04.xhtml" />
+    </navPoint>
+    <navPoint id="Chapter-05" playOrder="10">
+      <navLabel>
+        <text>Chapter V</text>
+      </navLabel>
+      <content src="boat008_ch05.xhtml" />
+    </navPoint>
+    <navPoint id="Chapter-06" playOrder="11">
+      <navLabel>
+        <text>Chapter VI</text>
+      </navLabel>
+      <content src="boat009_ch06.xhtml" />
+    </navPoint>
+    <navPoint id="Chapter-07" playOrder="12">
+      <navLabel>
+        <text>Chapter VII</text>
+      </navLabel>
+      <content src="boat010_ch07.xhtml" />
+    </navPoint>
+    <navPoint id="Chapter-08" playOrder="13">
+      <navLabel>
+        <text>Chapter VIII</text>
+      </navLabel>
+      <content src="boat011_ch08.xhtml" />
+    </navPoint>
+    <navPoint id="Chapter-09" playOrder="14">
+      <navLabel>
+        <text>Chapter IX</text>
+      </navLabel>
+      <content src="boat012_ch09.xhtml" />
+    </navPoint>
+    <navPoint id="Chapter-10" playOrder="15">
+      <navLabel>
+        <text>Chapter X</text>
+      </navLabel>
+      <content src="boat013_ch10.xhtml" />
+    </navPoint>
+    <navPoint id="Chapter-11" playOrder="16">
+      <navLabel>
+        <text>Chapter XI</text>
+      </navLabel>
+      <content src="boat014_ch11.xhtml" />
+    </navPoint>
+    <navPoint id="Chapter-12" playOrder="17">
+      <navLabel>
+        <text>Chapter XII</text>
+      </navLabel>
+      <content src="boat015_ch12.xhtml" />
+    </navPoint>
+    <navPoint id="Chapter-13" playOrder="18">
+      <navLabel>
+        <text>Chapter XIII</text>
+      </navLabel>
+      <content src="boat016_ch13.xhtml" />
+    </navPoint>
+    <navPoint id="Chapter-14" playOrder="19">
+      <navLabel>
+        <text>Chapter XIV</text>
+      </navLabel>
+      <content src="boat017_ch14.xhtml" />
+    </navPoint>
+    <navPoint id="Chapter-15" playOrder="20">
+      <navLabel>
+        <text>Chapter XV</text>
+      </navLabel>
+      <content src="boat018_ch15.xhtml" />
+    </navPoint>
+    <navPoint id="Chapter-16" playOrder="21">
+      <navLabel>
+        <text>Chapter XVI</text>
+      </navLabel>
+      <content src="boat019_ch16.xhtml" />
+    </navPoint>
+    <navPoint id="Chapter-17" playOrder="22">
+      <navLabel>
+        <text>Chapter XVII</text>
+      </navLabel>
+      <content src="boat020_ch17.xhtml" />
+    </navPoint>
+    <navPoint id="Chapter-18" playOrder="23">
+      <navLabel>
+        <text>Chapter XVIII</text>
+      </navLabel>
+      <content src="boat021_ch18.xhtml" />
+    </navPoint>
+    <navPoint id="Chapter-19" playOrder="24">
+      <navLabel>
+        <text>Chapter XIX</text>
+      </navLabel>
+      <content src="boat022_ch19.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>

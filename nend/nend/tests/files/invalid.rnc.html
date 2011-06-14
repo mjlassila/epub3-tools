@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" 
+      xmlns:epub="http://www.idpf.org/2007/ops"
+      profile="http://www.idpf.org/epub/30/profile/content/">
+  <head>
+    <title>EPUB Navigation Document Example (Bad)</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+  </head>
+  <body>
+    <section class="frontmatter TableOfContents">
+      <header>
+        <h1>Contents</h1>
+      </header>
+      <nav epub:type="toc" id="toc">
+        <ol>
+          <li class="toc-prelin" id="toc-prelim">
+            <a href="prelims.html">Introduction</a>
+          </li>
+          <li class="toc-ch01" id="toc-ch01">
+            <a href="ch01.html">Chapter 1</a>
+            <!-- This is invalid -->
+            <span>here</span>
+          </li>
+          <li>
+            <a href="copyright.html">Copyright Page</a>
+          </li>
+        </ol>
+      </nav>
+      <nav epub:type="landmarks" id="guide">
+        <h2>Guide</h2>
+        <ol>
+          <li>
+            <a epub:type="toc" href="#toc">Table of Contents</a>
+          </li>
+          <li>
+            <a epub:type="bodymatter" href="chapter_001.xhtml">Begin Reading</a>
+          </li>
+          <li>
+            <a epub:type="copyright-page" href="copyright.xhtml">Copyright Page</a>
+          </li>
+        </ol>
+      </nav>
+    </section>
+  </body>
+</html>

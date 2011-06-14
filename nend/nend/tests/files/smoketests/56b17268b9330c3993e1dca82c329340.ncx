@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE ncx PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="cover" content="cover"/>
+    <meta name="dtb:uid" content="isbn:9780596158767"/>
+    <meta name="dtb:depth" content="-1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>High Performance Web Sites</text>
+  </docTitle>
+  <navMap>
+    <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2253645" playOrder="1">
+      <navLabel>
+        <text>High Performance Web Sites</text>
+      </navLabel>
+      <content src="index.html"/>
+      <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2309961" playOrder="2">
+        <navLabel>
+          <text>Praise for High Performance Web Sites</text>
+        </navLabel>
+        <content src="pr01.html"/>
+      </navPoint>
+      <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2310033" playOrder="3">
+        <navLabel>
+          <text>Foreword</text>
+        </navLabel>
+        <content src="pr02.html"/>
+      </navPoint>
+      <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2310102" playOrder="4">
+        <navLabel>
+          <text>Preface</text>
+        </navLabel>
+        <content src="pr03.html"/>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2310145" playOrder="5">
+          <navLabel>
+            <text>How This Book Is Organized</text>
+          </navLabel>
+          <content src="pr03.html#how_this_book_is_organized"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2310307" playOrder="6">
+          <navLabel>
+            <text>Conventions Used in This Book</text>
+          </navLabel>
+          <content src="pr03s02.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2310372" playOrder="7">
+          <navLabel>
+            <text>Code Examples</text>
+          </navLabel>
+          <content src="pr03s03.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2311064" playOrder="8">
+          <navLabel>
+            <text>Comments and Questions</text>
+          </navLabel>
+          <content src="pr03s04.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2311124" playOrder="9">
+          <navLabel>
+            <text>Safari® Books Online</text>
+          </navLabel>
+          <content src="pr03s05.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2311151" playOrder="10">
+          <navLabel>
+            <text>Acknowledgments</text>
+          </navLabel>
+          <content src="pr03s06.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2311176" playOrder="11">
+        <navLabel>
+          <text>1. The Importance of Frontend Performance</text>
+        </navLabel>
+        <content src="ch01.html"/>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2311210" playOrder="12">
+          <navLabel>
+            <text>Tracking Web Page Performance</text>
+          </navLabel>
+          <content src="ch01.html#tracking_web_page_performance"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2311566" playOrder="13">
+          <navLabel>
+            <text>Where Does the Time Go?</text>
+          </navLabel>
+          <content src="ch01s02.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2311754" playOrder="14">
+          <navLabel>
+            <text>The Performance Golden Rule</text>
+          </navLabel>
+          <content src="ch01s03.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2312453" playOrder="15">
+        <navLabel>
+          <text>2. HTTP Overview</text>
+        </navLabel>
+        <content src="ch02.html"/>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2312532" playOrder="16">
+          <navLabel>
+            <text>Compression</text>
+          </navLabel>
+          <content src="ch02.html#compression"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2312619" playOrder="17">
+          <navLabel>
+            <text>Conditional GET Requests</text>
+          </navLabel>
+          <content src="ch02s02.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2312741" playOrder="18">
+          <navLabel>
+            <text>Expires</text>
+          </navLabel>
+          <content src="ch02s03.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2312862" playOrder="19">
+          <navLabel>
+            <text>Keep-Alive</text>
+          </navLabel>
+          <content src="ch02s04.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2313022" playOrder="20">
+          <navLabel>
+            <text>There's More</text>
+          </navLabel>
+          <content src="ch02s05.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2313061" playOrder="21">
+        <navLabel>
+          <text>3. Rule 1: Make Fewer HTTP Requests</text>
+        </navLabel>
+        <content src="ch03.html"/>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2313128" playOrder="22">
+          <navLabel>
+            <text>Image Maps</text>
+          </navLabel>
+          <content src="ch03.html#image_maps"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2313343" playOrder="23">
+          <navLabel>
+            <text>CSS Sprites</text>
+          </navLabel>
+          <content src="ch03s02.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2313680" playOrder="24">
+          <navLabel>
+            <text>Inline Images</text>
+          </navLabel>
+          <content src="ch03s03.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2314093" playOrder="25">
+          <navLabel>
+            <text>Combined Scripts and Stylesheets</text>
+          </navLabel>
+          <content src="ch03s04.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2314619" playOrder="26">
+          <navLabel>
+            <text>Conclusion</text>
+          </navLabel>
+          <content src="ch03s05.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2314732" playOrder="27">
+        <navLabel>
+          <text>4. Rule 2: Use a Content Delivery Network</text>
+        </navLabel>
+        <content src="ch04.html"/>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2314831" playOrder="28">
+          <navLabel>
+            <text>Content Delivery Networks</text>
+          </navLabel>
+          <content src="ch04.html#content_delivery_networks"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2315417" playOrder="29">
+          <navLabel>
+            <text>The Savings</text>
+          </navLabel>
+          <content src="ch04s02.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2315623" playOrder="30">
+        <navLabel>
+          <text>5. Rule 3: Add an Expires Header</text>
+        </navLabel>
+        <content src="ch05.html"/>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2315688" playOrder="31">
+          <navLabel>
+            <text>Expires Header</text>
+          </navLabel>
+          <content src="ch05.html#expires_header"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2315759" playOrder="32">
+          <navLabel>
+            <text>Max-Age and mod_expires</text>
+          </navLabel>
+          <content src="ch05s02.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2316343" playOrder="33">
+          <navLabel>
+            <text>Empty Cache vs. Primed Cache</text>
+          </navLabel>
+          <content src="ch05s03.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2316567" playOrder="34">
+          <navLabel>
+            <text>More Than Just Images</text>
+          </navLabel>
+          <content src="ch05s04.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2317275" playOrder="35">
+          <navLabel>
+            <text>Revving Filenames</text>
+          </navLabel>
+          <content src="ch05s05.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2317375" playOrder="36">
+          <navLabel>
+            <text>Examples</text>
+          </navLabel>
+          <content src="ch05s06.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2317574" playOrder="37">
+        <navLabel>
+          <text>6. Rule 4: Gzip Components</text>
+        </navLabel>
+        <content src="ch06.html"/>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2317638" playOrder="38">
+          <navLabel>
+            <text>How Compression Works</text>
+          </navLabel>
+          <content src="ch06.html#how_compression_works"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2317735" playOrder="39">
+          <navLabel>
+            <text>What to Compress</text>
+          </navLabel>
+          <content src="ch06s02.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2318239" playOrder="40">
+          <navLabel>
+            <text>The Savings</text>
+          </navLabel>
+          <content src="ch06s03.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2318616" playOrder="41">
+          <navLabel>
+            <text>Configuration</text>
+          </navLabel>
+          <content src="ch06s04.html"/>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2318640" playOrder="42">
+            <navLabel>
+              <text>Apache 1.3: mod_gzip</text>
+            </navLabel>
+            <content src="ch06s04.html#apache_1.3_colon_mod_gzip"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2318808" playOrder="43">
+            <navLabel>
+              <text>Apache 2.x: mod_deflate</text>
+            </navLabel>
+            <content src="ch06s04.html#apache_2.x_colon_mod_deflate"/>
+          </navPoint>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2318867" playOrder="44">
+          <navLabel>
+            <text>Proxy Caching</text>
+          </navLabel>
+          <content src="ch06s05.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2319063" playOrder="45">
+          <navLabel>
+            <text>Edge Cases</text>
+          </navLabel>
+          <content src="ch06s06.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2319462" playOrder="46">
+          <navLabel>
+            <text>Gzip in Action</text>
+          </navLabel>
+          <content src="ch06s07.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2319856" playOrder="47">
+        <navLabel>
+          <text>7. Rule 5: Put Stylesheets at the Top</text>
+        </navLabel>
+        <content src="ch07.html"/>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2319932" playOrder="48">
+          <navLabel>
+            <text>Progressive Rendering</text>
+          </navLabel>
+          <content src="ch07.html#progressive_rendering"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2320039" playOrder="49">
+          <navLabel>
+            <text>sleep.cgi</text>
+          </navLabel>
+          <content src="ch07s02.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2320359" playOrder="50">
+          <navLabel>
+            <text>Blank White Screen</text>
+          </navLabel>
+          <content src="ch07s03.html"/>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2320427" playOrder="51">
+            <navLabel>
+              <text>CSS at the Bottom</text>
+            </navLabel>
+            <content src="ch07s03.html#css_at_the_bottom"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2320568" playOrder="52">
+            <navLabel>
+              <text>CSS at the Top</text>
+            </navLabel>
+            <content src="ch07s03.html#css_at_the_top"/>
+          </navPoint>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2320961" playOrder="53">
+          <navLabel>
+            <text>Flash of Unstyled Content</text>
+          </navLabel>
+          <content src="ch07s04.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2321120" playOrder="54">
+          <navLabel>
+            <text>What's a Frontend Engineer to Do?</text>
+          </navLabel>
+          <content src="ch07s05.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2321278" playOrder="55">
+        <navLabel>
+          <text>8. Rule 6: Put Scripts at the Bottom</text>
+        </navLabel>
+        <content src="ch08.html"/>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2321312" playOrder="56">
+          <navLabel>
+            <text>Problems with Scripts</text>
+          </navLabel>
+          <content src="ch08.html#problems_with_scripts"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2321404" playOrder="57">
+          <navLabel>
+            <text>Parallel Downloads</text>
+          </navLabel>
+          <content src="ch08s02.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2321759" playOrder="58">
+          <navLabel>
+            <text>Scripts Block Downloads</text>
+          </navLabel>
+          <content src="ch08s03.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2321940" playOrder="59">
+          <navLabel>
+            <text>Worst Case: Scripts at the Top</text>
+          </navLabel>
+          <content src="ch08s04.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2322071" playOrder="60">
+          <navLabel>
+            <text>Best Case: Scripts at the Bottom</text>
+          </navLabel>
+          <content src="ch08s05.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2322169" playOrder="61">
+          <navLabel>
+            <text>Putting It in Perspective</text>
+          </navLabel>
+          <content src="ch08s06.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2322325" playOrder="62">
+        <navLabel>
+          <text>9. Rule 7: Avoid CSS Expressions</text>
+        </navLabel>
+        <content src="ch09.html"/>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2322442" playOrder="63">
+          <navLabel>
+            <text>Updating Expressions</text>
+          </navLabel>
+          <content src="ch09.html#updating_expressions"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2322554" playOrder="64">
+          <navLabel>
+            <text>Working Around the Problem</text>
+          </navLabel>
+          <content src="ch09s02.html"/>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2322593" playOrder="65">
+            <navLabel>
+              <text>One-Time Expressions</text>
+            </navLabel>
+            <content src="ch09s02.html#one-time_expressions"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2322674" playOrder="66">
+            <navLabel>
+              <text>Event Handlers</text>
+            </navLabel>
+            <content src="ch09s02.html#event_handlers"/>
+          </navPoint>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2322801" playOrder="67">
+          <navLabel>
+            <text>Conclusion</text>
+          </navLabel>
+          <content src="ch09s03.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2322848" playOrder="68">
+        <navLabel>
+          <text>10. Rule 8: Make JavaScript and CSS External</text>
+        </navLabel>
+        <content src="ch10.html"/>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2322886" playOrder="69">
+          <navLabel>
+            <text>Inline vs. External</text>
+          </navLabel>
+          <content src="ch10.html#inline_vs._external"/>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2322959" playOrder="70">
+            <navLabel>
+              <text>In Raw Terms, Inline Is Faster</text>
+            </navLabel>
+            <content src="ch10.html#in_raw_terms_comma_inline_is_faster"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2323076" playOrder="71">
+            <navLabel>
+              <text>Page Views</text>
+            </navLabel>
+            <content src="ch10.html#page_views"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2323188" playOrder="72">
+            <navLabel>
+              <text>Empty Cache vs. Primed Cache</text>
+            </navLabel>
+            <content src="ch10.html#empty_cache_vs._primed_cache-id1"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2323250" playOrder="73">
+            <navLabel>
+              <text>Component Reuse</text>
+            </navLabel>
+            <content src="ch10.html#component_reuse"/>
+          </navPoint>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2323368" playOrder="74">
+          <navLabel>
+            <text>Typical Results in the Field</text>
+          </navLabel>
+          <content src="ch10s02.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2323469" playOrder="75">
+          <navLabel>
+            <text>Home Pages</text>
+          </navLabel>
+          <content src="ch10s03.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2323574" playOrder="76">
+          <navLabel>
+            <text>The Best of Both Worlds</text>
+          </navLabel>
+          <content src="ch10s04.html"/>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2323596" playOrder="77">
+            <navLabel>
+              <text>Post-Onload Download</text>
+            </navLabel>
+            <content src="ch10s04.html#post-onload_download"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2323760" playOrder="78">
+            <navLabel>
+              <text>Dynamic Inlining</text>
+            </navLabel>
+            <content src="ch10s04.html#dynamic_inlining"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2323927" playOrder="79">
+        <navLabel>
+          <text>11. Rule 9: Reduce DNS Lookups</text>
+        </navLabel>
+        <content src="ch11.html"/>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2324004" playOrder="80">
+          <navLabel>
+            <text>DNS Caching and TTLs</text>
+          </navLabel>
+          <content src="ch11.html#dns_caching_and_ttls"/>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2324096" playOrder="81">
+            <navLabel>
+              <text>Factors Affecting DNS Caching</text>
+            </navLabel>
+            <content src="ch11.html#factors_affecting_dns_caching"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2324148" playOrder="82">
+            <navLabel>
+              <text>TTL Values</text>
+            </navLabel>
+            <content src="ch11.html#ttl_values"/>
+          </navPoint>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2324482" playOrder="83">
+          <navLabel>
+            <text>The Browser's Perspective</text>
+          </navLabel>
+          <content src="ch11s02.html"/>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2324582" playOrder="84">
+            <navLabel>
+              <text>Internet Explorer</text>
+            </navLabel>
+            <content src="ch11s02.html#internet_explorer"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2324757" playOrder="85">
+            <navLabel>
+              <text>Firefox</text>
+            </navLabel>
+            <content src="ch11s02.html#firefox"/>
+          </navPoint>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2324890" playOrder="86">
+          <navLabel>
+            <text>Reducing DNS Lookups</text>
+          </navLabel>
+          <content src="ch11s03.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2325011" playOrder="87">
+        <navLabel>
+          <text>12. Rule 10: Minify JavaScript</text>
+        </navLabel>
+        <content src="ch12.html"/>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2325054" playOrder="88">
+          <navLabel>
+            <text>Minification</text>
+          </navLabel>
+          <content src="ch12.html#minification"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2325359" playOrder="89">
+          <navLabel>
+            <text>Obfuscation</text>
+          </navLabel>
+          <content src="ch12s02.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2325457" playOrder="90">
+          <navLabel>
+            <text>The Savings</text>
+          </navLabel>
+          <content src="ch12s03.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2325944" playOrder="91">
+          <navLabel>
+            <text>Examples</text>
+          </navLabel>
+          <content src="ch12s04.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2326282" playOrder="92">
+          <navLabel>
+            <text>Icing on the Cake</text>
+          </navLabel>
+          <content src="ch12s05.html"/>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2326326" playOrder="93">
+            <navLabel>
+              <text>Inline Scripts</text>
+            </navLabel>
+            <content src="ch12s05.html#inline_scripts"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2326657" playOrder="94">
+            <navLabel>
+              <text>Gzip and Minification</text>
+            </navLabel>
+            <content src="ch12s05.html#gzip_and_minification"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2327085" playOrder="95">
+            <navLabel>
+              <text>Minifying CSS</text>
+            </navLabel>
+            <content src="ch12s05.html#minifying_css"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2327124" playOrder="96">
+        <navLabel>
+          <text>13. Rule 11: Avoid Redirects</text>
+        </navLabel>
+        <content src="ch13.html"/>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2327163" playOrder="97">
+          <navLabel>
+            <text>Types of Redirects</text>
+          </navLabel>
+          <content src="ch13.html#types_of_redirects"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2327388" playOrder="98">
+          <navLabel>
+            <text>How Redirects Hurt Performance</text>
+          </navLabel>
+          <content src="ch13s02.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2327884" playOrder="99">
+          <navLabel>
+            <text>Alternatives to Redirects</text>
+          </navLabel>
+          <content src="ch13s03.html"/>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2327921" playOrder="100">
+            <navLabel>
+              <text>Missing Trailing Slash</text>
+            </navLabel>
+            <content src="ch13s03.html#missing_trailing_slash"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2328183" playOrder="101">
+            <navLabel>
+              <text>Connecting Web Sites</text>
+            </navLabel>
+            <content src="ch13s03.html#connecting_web_sites"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2328372" playOrder="102">
+            <navLabel>
+              <text>Tracking Internal Traffic</text>
+            </navLabel>
+            <content src="ch13s03.html#tracking_internal_traffic"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2328477" playOrder="103">
+            <navLabel>
+              <text>Tracking Outbound Traffic</text>
+            </navLabel>
+            <content src="ch13s03.html#tracking_outbound_traffic"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2328805" playOrder="104">
+            <navLabel>
+              <text>Prettier URLs</text>
+            </navLabel>
+            <content src="ch13s03.html#prettier_urls"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2328935" playOrder="105">
+        <navLabel>
+          <text>14. Rule 12: Remove Duplicate Scripts</text>
+        </navLabel>
+        <content src="ch14.html"/>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2328952" playOrder="106">
+          <navLabel>
+            <text>Duplicate Scripts—They Happen</text>
+          </navLabel>
+          <content src="ch14.html#duplicate_scriptsthey_happen"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2329362" playOrder="107">
+          <navLabel>
+            <text>Duplicate Scripts Hurt Performance</text>
+          </navLabel>
+          <content src="ch14s02.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2329593" playOrder="108">
+          <navLabel>
+            <text>Avoiding Duplicate Scripts</text>
+          </navLabel>
+          <content src="ch14s03.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2329882" playOrder="109">
+        <navLabel>
+          <text>15. Rule 13: Configure ETags</text>
+        </navLabel>
+        <content src="ch15.html"/>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2329911" playOrder="110">
+          <navLabel>
+            <text>What's an ETag?</text>
+          </navLabel>
+          <content src="ch15.html#what_apostrophy_s_an_etag_question_mark"/>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2329967" playOrder="111">
+            <navLabel>
+              <text>Expires Header</text>
+            </navLabel>
+            <content src="ch15.html#expires_header-id1"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2330036" playOrder="112">
+            <navLabel>
+              <text>Conditional GET Requests</text>
+            </navLabel>
+            <content src="ch15.html#conditional_get_requests-id1"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2330149" playOrder="113">
+            <navLabel>
+              <text>Last-Modified Date</text>
+            </navLabel>
+            <content src="ch15.html#last-modified_date"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2330211" playOrder="114">
+            <navLabel>
+              <text>Entity Tags</text>
+            </navLabel>
+            <content src="ch15.html#entity_tags"/>
+          </navPoint>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2330295" playOrder="115">
+          <navLabel>
+            <text>The Problem with ETags</text>
+          </navLabel>
+          <content src="ch15s02.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2330516" playOrder="116">
+          <navLabel>
+            <text>ETags: Use 'Em or Lose 'Em</text>
+          </navLabel>
+          <content src="ch15s03.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2330685" playOrder="117">
+          <navLabel>
+            <text>ETags in the Real World</text>
+          </navLabel>
+          <content src="ch15s04.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2331228" playOrder="118">
+        <navLabel>
+          <text>16. Rule 14: Make Ajax Cacheable</text>
+        </navLabel>
+        <content src="ch16.html"/>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2331259" playOrder="119">
+          <navLabel>
+            <text>Web 2.0, DHTML, and Ajax</text>
+          </navLabel>
+          <content src="ch16.html#web_2.0_comma_dhtml_comma_and_ajax"/>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2331344" playOrder="120">
+            <navLabel>
+              <text>Web 2.0</text>
+            </navLabel>
+            <content src="ch16.html#web_2.0"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2331417" playOrder="121">
+            <navLabel>
+              <text>DHTML</text>
+            </navLabel>
+            <content src="ch16.html#dhtml"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2331437" playOrder="122">
+            <navLabel>
+              <text>Ajax</text>
+            </navLabel>
+            <content src="ch16.html#ajax"/>
+          </navPoint>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2331569" playOrder="123">
+          <navLabel>
+            <text>Asynchronous = Instantaneous?</text>
+          </navLabel>
+          <content src="ch16s02.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2331698" playOrder="124">
+          <navLabel>
+            <text>Optimizing Ajax Requests</text>
+          </navLabel>
+          <content src="ch16s03.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2331803" playOrder="125">
+          <navLabel>
+            <text>Caching Ajax in the Real World</text>
+          </navLabel>
+          <content src="ch16s04.html"/>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2331814" playOrder="126">
+            <navLabel>
+              <text>Yahoo! Mail</text>
+            </navLabel>
+            <content src="ch16s04.html#yahoo_exclamation_mail"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2332020" playOrder="127">
+            <navLabel>
+              <text>Google Spreadsheets</text>
+            </navLabel>
+            <content src="ch16s04.html#google_spreadsheets"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2332217" playOrder="128">
+        <navLabel>
+          <text>17. Deconstructing 10 Top Sites</text>
+        </navLabel>
+        <content src="ch17.html"/>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2332232" playOrder="129">
+          <navLabel>
+            <text>Page Weight, Response Time, YSlow Grade</text>
+          </navLabel>
+          <content src="ch17.html#page_weight_comma_response_time_comma"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2332842" playOrder="130">
+          <navLabel>
+            <text>How the Tests Were Done</text>
+          </navLabel>
+          <content src="ch17s02.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2333059" playOrder="131">
+          <navLabel>
+            <text>Amazon</text>
+          </navLabel>
+          <content src="ch17s03.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2333252" playOrder="132">
+          <navLabel>
+            <text>AOL</text>
+          </navLabel>
+          <content src="ch17s04.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2333666" playOrder="133">
+          <navLabel>
+            <text>CNN</text>
+          </navLabel>
+          <content src="ch17s05.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2333889" playOrder="134">
+          <navLabel>
+            <text>eBay</text>
+          </navLabel>
+          <content src="ch17s06.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2334314" playOrder="135">
+          <navLabel>
+            <text>Google</text>
+          </navLabel>
+          <content src="ch17s07.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2334894" playOrder="136">
+          <navLabel>
+            <text>MSN</text>
+          </navLabel>
+          <content src="ch17s08.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2335370" playOrder="137">
+          <navLabel>
+            <text>MySpace</text>
+          </navLabel>
+          <content src="ch17s09.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2335647" playOrder="138">
+          <navLabel>
+            <text>Wikipedia</text>
+          </navLabel>
+          <content src="ch17s10.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2335853" playOrder="139">
+          <navLabel>
+            <text>Yahoo!</text>
+          </navLabel>
+          <content src="ch17s11.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2336203" playOrder="140">
+          <navLabel>
+            <text>YouTube</text>
+          </navLabel>
+          <content src="ch17s12.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2336436" playOrder="141">
+        <navLabel>
+          <text>Colophon</text>
+        </navLabel>
+        <content src="co01.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

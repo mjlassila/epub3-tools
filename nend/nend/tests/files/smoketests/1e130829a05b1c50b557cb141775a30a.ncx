@@ -1,0 +1,2811 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ncx:ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <ncx:head>
+    <ncx:meta name="cover" content="cover"/>
+    <ncx:meta name="dtb:uid" content="isbn:9780596158354"/>
+    <ncx:meta name="dtb:depth" content="-1"/>
+    <ncx:meta name="dtb:totalPageCount" content="0"/>
+    <ncx:meta name="dtb:maxPageNumber" content="0"/>
+  </ncx:head>
+  <ncx:docTitle>
+    <ncx:text>RESTful Web Services</ncx:text>
+  </ncx:docTitle>
+  <ncx:navMap>
+    <ncx:navPoint id="id2886535" playOrder="1">
+      <ncx:navLabel>
+        <ncx:text>RESTful Web Services</ncx:text>
+      </ncx:navLabel>
+      <ncx:content src="index.html"/>
+      <ncx:navPoint id="id2806916" playOrder="2">
+        <ncx:navLabel>
+          <ncx:text>Foreword</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="pr01.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2806954" playOrder="3">
+        <ncx:navLabel>
+          <ncx:text>Preface</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="pr02.html"/>
+        <ncx:navPoint id="id2807069" playOrder="4">
+          <ncx:navLabel>
+            <ncx:text>The Web Is Simple</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr02.html#I_sect1_tt3"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2807542" playOrder="5">
+          <ncx:navLabel>
+            <ncx:text>Big Web Services Are Not Simple</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr02s02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2807660" playOrder="6">
+          <ncx:navLabel>
+            <ncx:text>The Story of the REST</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr02s03.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2807822" playOrder="7">
+          <ncx:navLabel>
+            <ncx:text>Reuniting the Webs</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr02s04.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2807912" playOrder="8">
+          <ncx:navLabel>
+            <ncx:text>What’s in This Book?</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr02s05.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2819055" playOrder="9">
+          <ncx:navLabel>
+            <ncx:text>Administrative Notes</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr02s06.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2819152" playOrder="10">
+          <ncx:navLabel>
+            <ncx:text>Conventions Used in This Book</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr02s07.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2819221" playOrder="11">
+          <ncx:navLabel>
+            <ncx:text>Using Code Examples</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr02s08.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2819273" playOrder="12">
+          <ncx:navLabel>
+            <ncx:text>Safari® Enabled</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr02s09.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2819312" playOrder="13">
+          <ncx:navLabel>
+            <ncx:text>How to Contact Us</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr02s10.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2819382" playOrder="14">
+          <ncx:navLabel>
+            <ncx:text>Acknowledgments</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr02s11.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2819464" playOrder="15">
+        <ncx:navLabel>
+          <ncx:text>1. The Programmable Web and Its Inhabitants</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch01.html"/>
+        <ncx:navPoint id="id2810292" playOrder="16">
+          <ncx:navLabel>
+            <ncx:text>Kinds of Things on the Programmable Web</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch01.html#I_sect11_tt26"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2810477" playOrder="17">
+          <ncx:navLabel>
+            <ncx:text>HTTP: Documents in Envelopes</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch01s02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2808869" playOrder="18">
+          <ncx:navLabel>
+            <ncx:text>Method Information</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch01s03.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2809459" playOrder="19">
+          <ncx:navLabel>
+            <ncx:text>Scoping Information</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch01s04.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2809693" playOrder="20">
+          <ncx:navLabel>
+            <ncx:text>The Competing Architectures</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch01s05.html"/>
+          <ncx:navPoint id="id2809707" playOrder="21">
+            <ncx:navLabel>
+              <ncx:text>RESTful, Resource-Oriented Architectures</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s05.html#id2809707"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2810924" playOrder="22">
+            <ncx:navLabel>
+              <ncx:text>RPC-Style Architectures</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s05.html#id2810924"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2811247" playOrder="23">
+            <ncx:navLabel>
+              <ncx:text>REST-RPC Hybrid Architectures</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s05.html#id2811247"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2811500" playOrder="24">
+            <ncx:navLabel>
+              <ncx:text>The Human Web Is on the Programmable Web</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s05.html#id2811500"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2811546" playOrder="25">
+          <ncx:navLabel>
+            <ncx:text>Technologies on the Programmable Web</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch01s06.html"/>
+          <ncx:navPoint id="id2811572" playOrder="26">
+            <ncx:navLabel>
+              <ncx:text>HTTP</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s06.html#id2811572"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2811595" playOrder="27">
+            <ncx:navLabel>
+              <ncx:text>URI</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s06.html#id2811595"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2811649" playOrder="28">
+            <ncx:navLabel>
+              <ncx:text>XML-RPC</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s06.html#id2811649"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2811670" playOrder="29">
+            <ncx:navLabel>
+              <ncx:text>SOAP</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s06.html#id2811670"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2811757" playOrder="30">
+            <ncx:navLabel>
+              <ncx:text>WS-*</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s06.html#id2811757"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2811776" playOrder="31">
+            <ncx:navLabel>
+              <ncx:text>WSDL</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s06.html#id2811776"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2811806" playOrder="32">
+            <ncx:navLabel>
+              <ncx:text>WADL</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s06.html#id2811806"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2811863" playOrder="33">
+          <ncx:navLabel>
+            <ncx:text>Leftover Terminology</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch01s07.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2812129" playOrder="34">
+        <ncx:navLabel>
+          <ncx:text>2. Writing Web Service Clients</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch02.html"/>
+        <ncx:navPoint id="id2812135" playOrder="35">
+          <ncx:navLabel>
+            <ncx:text>Web Services Are Web Sites</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02.html#I_sect12_tt98"/>
+          <ncx:navPoint id="id2819671" playOrder="36">
+            <ncx:navLabel>
+              <ncx:text>Wrappers, WADL, and ActiveResource</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02.html#id2819671"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2819850" playOrder="37">
+          <ncx:navLabel>
+            <ncx:text>del.icio.us: The Sample Application</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02s02.html"/>
+          <ncx:navPoint id="id2820184" playOrder="38">
+            <ncx:navLabel>
+              <ncx:text>What the Sample Clients Do</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s02.html#id2820184"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2820412" playOrder="39">
+          <ncx:navLabel>
+            <ncx:text>Making the Request: HTTP Libraries</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02s03.html"/>
+          <ncx:navPoint id="id2820614" playOrder="40">
+            <ncx:navLabel>
+              <ncx:text>Optional Features</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s03.html#id2820614"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2820917" playOrder="41">
+            <ncx:navLabel>
+              <ncx:text>Ruby: rest-open-uri and net/http</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s03.html#id2820917"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2821473" playOrder="42">
+            <ncx:navLabel>
+              <ncx:text>Python: httplib2</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s03.html#id2821473"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2821743" playOrder="43">
+            <ncx:navLabel>
+              <ncx:text>Java: HttpClient</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s03.html#id2821743"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2822080" playOrder="44">
+            <ncx:navLabel>
+              <ncx:text>C#: System.Web.HTTPWebRequest</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s03.html#id2822080"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2822192" playOrder="45">
+            <ncx:navLabel>
+              <ncx:text>PHP: libcurl</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s03.html#id2822192"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2822250" playOrder="46">
+            <ncx:navLabel>
+              <ncx:text>JavaScript: XMLHttpRequest</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s03.html#id2822250"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2822293" playOrder="47">
+            <ncx:navLabel>
+              <ncx:text>The Command Line: curl</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s03.html#id2822293"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2822381" playOrder="48">
+            <ncx:navLabel>
+              <ncx:text>Other Languages</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s03.html#id2822381"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2822676" playOrder="49">
+          <ncx:navLabel>
+            <ncx:text>Processing the Response: XML Parsers</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02s04.html"/>
+          <ncx:navPoint id="id2822996" playOrder="50">
+            <ncx:navLabel>
+              <ncx:text>Ruby: REXML, I Guess</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s04.html#rubyparser"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2823305" playOrder="51">
+            <ncx:navLabel>
+              <ncx:text>Python: ElementTree</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s04.html#pythonparser"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2823457" playOrder="52">
+            <ncx:navLabel>
+              <ncx:text>Java: javax.xml, Xerces, or XMLPull</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s04.html#javaparser"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2823613" playOrder="53">
+            <ncx:navLabel>
+              <ncx:text>C#: System.Xml.XmlReader</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s04.html#id2823613"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2812761" playOrder="54">
+            <ncx:navLabel>
+              <ncx:text>PHP</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s04.html#id2812761"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2812858" playOrder="55">
+            <ncx:navLabel>
+              <ncx:text>JavaScript: responseXML</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s04.html#id2812858"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2812966" playOrder="56">
+            <ncx:navLabel>
+              <ncx:text>Other Languages</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s04.html#otherlangparser"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2813205" playOrder="57">
+          <ncx:navLabel>
+            <ncx:text>JSON Parsers: Handling Serialized Data</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02s05.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2813584" playOrder="58">
+          <ncx:navLabel>
+            <ncx:text>Clients Made Easy with WADL</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02s06.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2813782" playOrder="59">
+        <ncx:navLabel>
+          <ncx:text>3. What Makes RESTful Services Different?</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch03.html"/>
+        <ncx:navPoint id="id2813849" playOrder="60">
+          <ncx:navLabel>
+            <ncx:text>Introducing the Simple Storage Service</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03.html#I_sect13_tt253"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2814036" playOrder="61">
+          <ncx:navLabel>
+            <ncx:text>Object-Oriented Design of S3</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s02.html"/>
+          <ncx:navPoint id="id2814100" playOrder="62">
+            <ncx:navLabel>
+              <ncx:text>A Few Words About Buckets</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s02.html#id2814100"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2814119" playOrder="63">
+            <ncx:navLabel>
+              <ncx:text>A Few Words About Objects</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s02.html#id2814119"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2814210" playOrder="64">
+            <ncx:navLabel>
+              <ncx:text>What If S3 Was a Standalone Library?</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s02.html#id2814210"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2814304" playOrder="65">
+          <ncx:navLabel>
+            <ncx:text>Resources</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s03.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2814774" playOrder="66">
+          <ncx:navLabel>
+            <ncx:text>HTTP Response Codes</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s04.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2815000" playOrder="67">
+          <ncx:navLabel>
+            <ncx:text>An S3 Client</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s05.html"/>
+          <ncx:navPoint id="id2815224" playOrder="68">
+            <ncx:navLabel>
+              <ncx:text>The Bucket List</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s05.html#id2815224"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2815481" playOrder="69">
+            <ncx:navLabel>
+              <ncx:text>The Bucket</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s05.html#id2815481"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2815900" playOrder="70">
+            <ncx:navLabel>
+              <ncx:text>The S3 Object</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s05.html#id2815900"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2816329" playOrder="71">
+          <ncx:navLabel>
+            <ncx:text>Request Signing and Access Control</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s06.html"/>
+          <ncx:navPoint id="id2816878" playOrder="72">
+            <ncx:navLabel>
+              <ncx:text>Signing a URI</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s06.html#id2816878"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2817105" playOrder="73">
+            <ncx:navLabel>
+              <ncx:text>Setting Access Policy</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s06.html#s3accesspolicy"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2817428" playOrder="74">
+          <ncx:navLabel>
+            <ncx:text>Using the S3 Client Library</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s07.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2817572" playOrder="75">
+          <ncx:navLabel>
+            <ncx:text>Clients Made Transparent with ActiveResource</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s08.html"/>
+          <ncx:navPoint id="id2817670" playOrder="76">
+            <ncx:navLabel>
+              <ncx:text>Creating a Simple Service</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s08.html#id2817670"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2817854" playOrder="77">
+            <ncx:navLabel>
+              <ncx:text>An ActiveResource Client</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s08.html#id2817854"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2818272" playOrder="78">
+            <ncx:navLabel>
+              <ncx:text>A Python Client for the Simple Service</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s08.html#id2818272"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2818371" playOrder="79">
+          <ncx:navLabel>
+            <ncx:text>Parting Words</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s09.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2818502" playOrder="80">
+        <ncx:navLabel>
+          <ncx:text>4. The Resource-Oriented Architecture</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch04.html"/>
+        <ncx:navPoint id="id2818607" playOrder="81">
+          <ncx:navLabel>
+            <ncx:text>Resource-Oriented What Now?</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04.html#I_sect14_tt348"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2869001" playOrder="82">
+          <ncx:navLabel>
+            <ncx:text>What’s a Resource?</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2869122" playOrder="83">
+          <ncx:navLabel>
+            <ncx:text>URIs</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s03.html"/>
+          <ncx:navPoint id="id2869331" playOrder="84">
+            <ncx:navLabel>
+              <ncx:text>URIs Should Be Descriptive</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s03.html#id2869331"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2869468" playOrder="85">
+            <ncx:navLabel>
+              <ncx:text>The Relationship Between URIs and Resources</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s03.html#urisandresources"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2869641" playOrder="86">
+          <ncx:navLabel>
+            <ncx:text>Addressability</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s04.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2870038" playOrder="87">
+          <ncx:navLabel>
+            <ncx:text>Statelessness</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s05.html"/>
+          <ncx:navPoint id="id2870518" playOrder="88">
+            <ncx:navLabel>
+              <ncx:text>Application State Versus Resource State</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s05.html#id2870518"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2870782" playOrder="89">
+          <ncx:navLabel>
+            <ncx:text>Representations</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s06.html"/>
+          <ncx:navPoint id="id2870953" playOrder="90">
+            <ncx:navLabel>
+              <ncx:text>Deciding Between Representations</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s06.html#id2870953"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2871235" playOrder="91">
+          <ncx:navLabel>
+            <ncx:text>Links and Connectedness</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s07.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2871658" playOrder="92">
+          <ncx:navLabel>
+            <ncx:text>The Uniform Interface</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s08.html"/>
+          <ncx:navPoint id="id2871725" playOrder="93">
+            <ncx:navLabel>
+              <ncx:text>GET, PUT, and DELETE</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s08.html#id2871725"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2871826" playOrder="94">
+            <ncx:navLabel>
+              <ncx:text>HEAD and OPTIONS</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s08.html#head-and-options"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2872000" playOrder="95">
+            <ncx:navLabel>
+              <ncx:text>POST</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s08.html#httppost"/>
+            <ncx:navPoint id="id2872064" playOrder="96">
+              <ncx:navLabel>
+                <ncx:text>Creating subordinate resources</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s08.html#id2872064"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2872308" playOrder="97">
+              <ncx:navLabel>
+                <ncx:text>Appending to the resource state</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s08.html#id2872308"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2872380" playOrder="98">
+              <ncx:navLabel>
+                <ncx:text>Overloaded POST: The not-so-uniform interface</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s08.html#overloaded-post"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2872552" playOrder="99">
+            <ncx:navLabel>
+              <ncx:text>Safety and Idempotence</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s08.html#id2872552"/>
+            <ncx:navPoint id="id2872636" playOrder="100">
+              <ncx:navLabel>
+                <ncx:text>Safety</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s08.html#id2872636"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2872682" playOrder="101">
+              <ncx:navLabel>
+                <ncx:text>Idempotence</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s08.html#id2872682"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2872806" playOrder="102">
+              <ncx:navLabel>
+                <ncx:text>Why safety and idempotence matter</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s08.html#safety-and-idempotence-matter"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2872964" playOrder="103">
+            <ncx:navLabel>
+              <ncx:text>Why the Uniform Interface Matters</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s08.html#id2872964"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2873116" playOrder="104">
+          <ncx:navLabel>
+            <ncx:text>That’s It!</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s09.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2873188" playOrder="105">
+        <ncx:navLabel>
+          <ncx:text>5. Designing Read-Only Resource-Oriented Services</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch05.html"/>
+        <ncx:navPoint id="id2873413" playOrder="106">
+          <ncx:navLabel>
+            <ncx:text>Resource Design</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05.html#I_sect15_tt421"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2873529" playOrder="107">
+          <ncx:navLabel>
+            <ncx:text>Turning Requirements Into Read-Only Resources</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2873663" playOrder="108">
+          <ncx:navLabel>
+            <ncx:text>Figure Out the Data Set</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s03.html"/>
+          <ncx:navPoint id="id2873924" playOrder="109">
+            <ncx:navLabel>
+              <ncx:text>General Lessons</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s03.html#id2873924"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2873999" playOrder="110">
+          <ncx:navLabel>
+            <ncx:text>Split the Data Set into Resources</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s04.html"/>
+          <ncx:navPoint id="id2874602" playOrder="111">
+            <ncx:navLabel>
+              <ncx:text>General Lessons</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s04.html#id2874602"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2874637" playOrder="112">
+          <ncx:navLabel>
+            <ncx:text>Name the Resources</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s05.html"/>
+          <ncx:navPoint id="id2874763" playOrder="113">
+            <ncx:navLabel>
+              <ncx:text>Encode Hierarchy into Path Variables</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s05.html#id2874763"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2874903" playOrder="114">
+            <ncx:navLabel>
+              <ncx:text>No Hierarchy? Use Commas or Semicolons</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s05.html#id2874903"/>
+            <ncx:navPoint id="id2875158" playOrder="115">
+              <ncx:navLabel>
+                <ncx:text>Map URIs</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch05s05.html#id2875158"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2875208" playOrder="116">
+              <ncx:navLabel>
+                <ncx:text>Scale</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch05s05.html#id2875208"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2875456" playOrder="117">
+            <ncx:navLabel>
+              <ncx:text>Algorithmic Resource? Use Query Variables</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s05.html#id2875456"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2875800" playOrder="118">
+            <ncx:navLabel>
+              <ncx:text>URI Recap</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s05.html#id2875800"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2875919" playOrder="119">
+          <ncx:navLabel>
+            <ncx:text>Design Your Representations</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s06.html"/>
+          <ncx:navPoint id="id2875960" playOrder="120">
+            <ncx:navLabel>
+              <ncx:text>The Representation Talks About the State of the Resource</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s06.html#id2875960"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2875996" playOrder="121">
+            <ncx:navLabel>
+              <ncx:text>The Representation Links to Other States</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s06.html#id2875996"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2876067" playOrder="122">
+            <ncx:navLabel>
+              <ncx:text>Representing the List of Planets</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s06.html#representingthemaplist"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2876303" playOrder="123">
+            <ncx:navLabel>
+              <ncx:text>Representing Maps and Points on Maps</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s06.html#representing-maps"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2876556" playOrder="124">
+            <ncx:navLabel>
+              <ncx:text>Representing the Map Tiles</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s06.html#id2876556"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2876845" playOrder="125">
+            <ncx:navLabel>
+              <ncx:text>Representing Planets and Other Places</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s06.html#places-representation"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2877188" playOrder="126">
+            <ncx:navLabel>
+              <ncx:text>Representing Lists of Search Results</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s06.html#search-results-representation"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2877481" playOrder="127">
+          <ncx:navLabel>
+            <ncx:text>Link the Resources to Each Other</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s07.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2877843" playOrder="128">
+          <ncx:navLabel>
+            <ncx:text>The HTTP Response</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s08.html"/>
+          <ncx:navPoint id="id2877875" playOrder="129">
+            <ncx:navLabel>
+              <ncx:text>What’s Supposed to Happen?</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s08.html#id2877875"/>
+            <ncx:navPoint id="id2878002" playOrder="130">
+              <ncx:navLabel>
+                <ncx:text>Conditional HTTP GET</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch05s08.html#conditional-get-basic-roa"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2878225" playOrder="131">
+            <ncx:navLabel>
+              <ncx:text>What Might Go Wrong?</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s08.html#id2878225"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2878567" playOrder="132">
+          <ncx:navLabel>
+            <ncx:text>Conclusion</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s09.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2878615" playOrder="133">
+        <ncx:navLabel>
+          <ncx:text>6. Designing Read/Write Resource-Oriented Services</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch06.html"/>
+        <ncx:navPoint id="id2878798" playOrder="134">
+          <ncx:navLabel>
+            <ncx:text>User Accounts as Resources</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06.html#user-accounts-as-resources"/>
+          <ncx:navPoint id="id2878925" playOrder="135">
+            <ncx:navLabel>
+              <ncx:text>Why Should User Accounts Be Resources?</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06.html#id2878925"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2879008" playOrder="136">
+            <ncx:navLabel>
+              <ncx:text>Authentication, Authorization, Privacy, and Trust</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06.html#id2879008"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2879415" playOrder="137">
+            <ncx:navLabel>
+              <ncx:text>Turning Requirements into Read/Write Resources</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06.html#turning_reqs"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2879488" playOrder="138">
+            <ncx:navLabel>
+              <ncx:text>Figure Out the Data Set</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06.html#id2879488"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2879553" playOrder="139">
+            <ncx:navLabel>
+              <ncx:text>Split the Data Set into Resources</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06.html#id2879553"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2879588" playOrder="140">
+            <ncx:navLabel>
+              <ncx:text>Name the Resources with URIs</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06.html#id2879588"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2879621" playOrder="141">
+            <ncx:navLabel>
+              <ncx:text>Expose a Subset of the Uniform Interface</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06.html#id2879621"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2879803" playOrder="142">
+            <ncx:navLabel>
+              <ncx:text>Design the Representation(s) Accepted from the Client</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06.html#id2879803"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2880228" playOrder="143">
+            <ncx:navLabel>
+              <ncx:text>Design the Representation(s) to Be Served to the Client</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06.html#id2880228"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2880438" playOrder="144">
+            <ncx:navLabel>
+              <ncx:text>Link This Resource to Existing Resources</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06.html#id2880438"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2880720" playOrder="145">
+            <ncx:navLabel>
+              <ncx:text>What’s Supposed to Happen?</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06.html#id2880720"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2880783" playOrder="146">
+            <ncx:navLabel>
+              <ncx:text>What Might Go Wrong?</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06.html#id2880783"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2881028" playOrder="147">
+          <ncx:navLabel>
+            <ncx:text>Custom Places</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s02.html"/>
+          <ncx:navPoint id="id2881048" playOrder="148">
+            <ncx:navLabel>
+              <ncx:text>Figure Out the Data Set</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s02.html#id2881048"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2881095" playOrder="149">
+            <ncx:navLabel>
+              <ncx:text>Split the Data Set into Resources</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s02.html#id2881095"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2881143" playOrder="150">
+            <ncx:navLabel>
+              <ncx:text>Name the Resources with URIs</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s02.html#id2881143"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2881279" playOrder="151">
+            <ncx:navLabel>
+              <ncx:text>Expose a Subset of the Uniform Interface</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s02.html#id2881279"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2881509" playOrder="152">
+            <ncx:navLabel>
+              <ncx:text>Design the Representation(s) Accepted from the Client</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s02.html#id2881509"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2881736" playOrder="153">
+            <ncx:navLabel>
+              <ncx:text>Design the Representation(s) Served to the Client</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s02.html#id2881736"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2881858" playOrder="154">
+            <ncx:navLabel>
+              <ncx:text>Link This Resource to Existing Resources</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s02.html#id2881858"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2882100" playOrder="155">
+            <ncx:navLabel>
+              <ncx:text>What’s Supposed to Happen?</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s02.html#id2882100"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2882207" playOrder="156">
+            <ncx:navLabel>
+              <ncx:text>What Might Go Wrong?</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s02.html#id2882207"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2882316" playOrder="157">
+          <ncx:navLabel>
+            <ncx:text>A Look Back at the Map Service</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s03.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2882437" playOrder="158">
+        <ncx:navLabel>
+          <ncx:text>7. A Service Implementation</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch07.html"/>
+        <ncx:navPoint id="id2882506" playOrder="159">
+          <ncx:navLabel>
+            <ncx:text>A Social Bookmarking Web Service</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07.html#I_sect17_tt547"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2882734" playOrder="160">
+          <ncx:navLabel>
+            <ncx:text>Figuring Out the Data Set</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07s02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2883033" playOrder="161">
+          <ncx:navLabel>
+            <ncx:text>Resource Design</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07s03.html"/>
+          <ncx:navPoint id="id2883411" playOrder="162">
+            <ncx:navLabel>
+              <ncx:text>REST in Rails</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s03.html#id2883411"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2883681" playOrder="163">
+            <ncx:navLabel>
+              <ncx:text>The User Controller</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s03.html#id2883681"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2884105" playOrder="164">
+            <ncx:navLabel>
+              <ncx:text>The Bookmarks Controller</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s03.html#id2884105"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2884519" playOrder="165">
+            <ncx:navLabel>
+              <ncx:text>The User Tags Controller</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s03.html#id2884519"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2884666" playOrder="166">
+            <ncx:navLabel>
+              <ncx:text>The Calendar Controller</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s03.html#id2884666"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2884725" playOrder="167">
+            <ncx:navLabel>
+              <ncx:text>The URI Controller</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s03.html#id2884725"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2884803" playOrder="168">
+            <ncx:navLabel>
+              <ncx:text>The Recent Bookmarks Controller</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s03.html#id2884803"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2884876" playOrder="169">
+            <ncx:navLabel>
+              <ncx:text>The Bundles Controller</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s03.html#id2884876"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2884972" playOrder="170">
+            <ncx:navLabel>
+              <ncx:text>The Leftovers</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s03.html#id2884972"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2885052" playOrder="171">
+            <ncx:navLabel>
+              <ncx:text>Remodeling the REST Way</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s03.html#id2885052"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2823843" playOrder="172">
+            <ncx:navLabel>
+              <ncx:text>Implementation: The routes.rb File</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s03.html#id2823843"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2824004" playOrder="173">
+          <ncx:navLabel>
+            <ncx:text>Design the Representation(s) Accepted from the Client</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07s04.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2824398" playOrder="174">
+          <ncx:navLabel>
+            <ncx:text>Design the Representation(s) Served to the Client</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07s05.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2824586" playOrder="175">
+          <ncx:navLabel>
+            <ncx:text>Connect Resources to Each Other</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07s06.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2824729" playOrder="176">
+          <ncx:navLabel>
+            <ncx:text>What’s Supposed to Happen?</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07s07.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2824926" playOrder="177">
+          <ncx:navLabel>
+            <ncx:text>What Might Go Wrong?</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07s08.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2825210" playOrder="178">
+          <ncx:navLabel>
+            <ncx:text>Controller Code</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07s09.html"/>
+          <ncx:navPoint id="id2825296" playOrder="179">
+            <ncx:navLabel>
+              <ncx:text>What Rails Doesn’t Do</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s09.html#id2825296"/>
+            <ncx:navPoint id="id2825328" playOrder="180">
+              <ncx:navLabel>
+                <ncx:text>Conditional GET</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s09.html#id2825328"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2825437" playOrder="181">
+              <ncx:navLabel>
+                <ncx:text>param[:id] for things that aren’t IDs</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s09.html#id2825437"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2825556" playOrder="182">
+            <ncx:navLabel>
+              <ncx:text>The ApplicationController</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s09.html#id2825556"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2826251" playOrder="183">
+            <ncx:navLabel>
+              <ncx:text>The UsersController</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s09.html#id2826251"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2826634" playOrder="184">
+            <ncx:navLabel>
+              <ncx:text>The BookmarksController</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s09.html#bookmarks-controller"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2826843" playOrder="185">
+            <ncx:navLabel>
+              <ncx:text>The TagsController</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s09.html#id2826843"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2827049" playOrder="186">
+            <ncx:navLabel>
+              <ncx:text>The Lesser Controllers</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s09.html#id2827049"/>
+            <ncx:navPoint id="id2827071" playOrder="187">
+              <ncx:navLabel>
+                <ncx:text>The CalendarController</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s09.html#id2827071"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2827185" playOrder="188">
+              <ncx:navLabel>
+                <ncx:text>The RecentController</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s09.html#id2827185"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2827240" playOrder="189">
+              <ncx:navLabel>
+                <ncx:text>The UrisController</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s09.html#id2827240"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2827308" playOrder="190">
+          <ncx:navLabel>
+            <ncx:text>Model Code</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07s10.html"/>
+          <ncx:navPoint id="id2827389" playOrder="191">
+            <ncx:navLabel>
+              <ncx:text>The User Model</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s10.html#id2827389"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2827458" playOrder="192">
+            <ncx:navLabel>
+              <ncx:text>The Bookmark Model</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s10.html#bookmark-model"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2827767" playOrder="193">
+          <ncx:navLabel>
+            <ncx:text>What Does the Client Need to Know?</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07s11.html"/>
+          <ncx:navPoint id="id2827864" playOrder="194">
+            <ncx:navLabel>
+              <ncx:text>Natural-Language Service Description</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s11.html#id2827864"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2828040" playOrder="195">
+            <ncx:navLabel>
+              <ncx:text>Description Through Standardization</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s11.html#id2828040"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2828126" playOrder="196">
+            <ncx:navLabel>
+              <ncx:text>Hypermedia Descriptions</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s11.html#id2828126"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2828231" playOrder="197">
+        <ncx:navLabel>
+          <ncx:text>8. REST and ROA Best Practices</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch08.html"/>
+        <ncx:navPoint id="id2828299" playOrder="198">
+          <ncx:navLabel>
+            <ncx:text>Resource-Oriented Basics</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08.html#I_sect18_tt648"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2828387" playOrder="199">
+          <ncx:navLabel>
+            <ncx:text>The Generic ROA Procedure</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08s02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2828484" playOrder="200">
+          <ncx:navLabel>
+            <ncx:text>Addressability</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08s03.html"/>
+          <ncx:navPoint id="id2828534" playOrder="201">
+            <ncx:navLabel>
+              <ncx:text>Representations Should Be Addressable</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s03.html#id2828534"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2828728" playOrder="202">
+          <ncx:navLabel>
+            <ncx:text>State and Statelessness</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08s04.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2828828" playOrder="203">
+          <ncx:navLabel>
+            <ncx:text>Connectedness</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08s05.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2828896" playOrder="204">
+          <ncx:navLabel>
+            <ncx:text>The Uniform Interface</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08s06.html"/>
+          <ncx:navPoint id="id2829065" playOrder="205">
+            <ncx:navLabel>
+              <ncx:text>Safety and Idempotence</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s06.html#safety-bestpractices"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2829160" playOrder="206">
+            <ncx:navLabel>
+              <ncx:text>New Resources: PUT Versus POST</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s06.html#id2829160"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2829233" playOrder="207">
+            <ncx:navLabel>
+              <ncx:text>Overloading POST</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s06.html#overloading_post"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2829480" playOrder="208">
+          <ncx:navLabel>
+            <ncx:text>This Stuff Matters</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08s07.html"/>
+          <ncx:navPoint id="id2829532" playOrder="209">
+            <ncx:navLabel>
+              <ncx:text>Why Addressability Matters</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s07.html#id2829532"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2829585" playOrder="210">
+            <ncx:navLabel>
+              <ncx:text>Why Statelessness Matters</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s07.html#id2829585"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2829674" playOrder="211">
+            <ncx:navLabel>
+              <ncx:text>Why the Uniform Interface Matters</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s07.html#uniform-interface-matters"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2829766" playOrder="212">
+            <ncx:navLabel>
+              <ncx:text>Why Connectedness Matters</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s07.html#why_connectedness"/>
+            <ncx:navPoint id="id2830222" playOrder="213">
+              <ncx:navLabel>
+                <ncx:text>A terrifying example</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s07.html#id2830222"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2830371" playOrder="214">
+          <ncx:navLabel>
+            <ncx:text>Resource Design</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08s08.html"/>
+          <ncx:navPoint id="id2830447" playOrder="215">
+            <ncx:navLabel>
+              <ncx:text>Relationships Between Resources</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s08.html#relationships-between-resources"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2830508" playOrder="216">
+            <ncx:navLabel>
+              <ncx:text>Asynchronous Operations</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s08.html#asynchronous"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2830662" playOrder="217">
+            <ncx:navLabel>
+              <ncx:text>Batch Operations</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s08.html#id2830662"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2830789" playOrder="218">
+            <ncx:navLabel>
+              <ncx:text>Transactions</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s08.html#transactions"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2831021" playOrder="219">
+            <ncx:navLabel>
+              <ncx:text>When In Doubt, Make It a Resource</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s08.html#id2831021"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2831060" playOrder="220">
+          <ncx:navLabel>
+            <ncx:text>URI Design</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08s09.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2831279" playOrder="221">
+          <ncx:navLabel>
+            <ncx:text>Outgoing Representations</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08s10.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2831387" playOrder="222">
+          <ncx:navLabel>
+            <ncx:text>Incoming Representations</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08s11.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2831439" playOrder="223">
+          <ncx:navLabel>
+            <ncx:text>Service Versioning</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08s12.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2831656" playOrder="224">
+          <ncx:navLabel>
+            <ncx:text>Permanent URIs Versus Readable URIs</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08s13.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2831935" playOrder="225">
+          <ncx:navLabel>
+            <ncx:text>Standard Features of HTTP</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08s14.html"/>
+          <ncx:navPoint id="id2831973" playOrder="226">
+            <ncx:navLabel>
+              <ncx:text>Authentication and Authorization</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s14.html#http-auth"/>
+            <ncx:navPoint id="id2832052" playOrder="227">
+              <ncx:navLabel>
+                <ncx:text>Basic authentication</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s14.html#id2832052"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2832315" playOrder="228">
+              <ncx:navLabel>
+                <ncx:text>Digest authentication</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s14.html#id2832315"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2832648" playOrder="229">
+              <ncx:navLabel>
+                <ncx:text>WSSE username token</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s14.html#id2832648"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2832998" playOrder="230">
+            <ncx:navLabel>
+              <ncx:text>Compression</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s14.html#id2832998"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2833176" playOrder="231">
+            <ncx:navLabel>
+              <ncx:text>Conditional GET</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s14.html#conditional-get"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2833768" playOrder="232">
+            <ncx:navLabel>
+              <ncx:text>Caching</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s14.html#http-caching"/>
+            <ncx:navPoint id="id2833889" playOrder="233">
+              <ncx:navLabel>
+                <ncx:text>Please cache</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s14.html#id2833889"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2834023" playOrder="234">
+              <ncx:navLabel>
+                <ncx:text>Thank you for not caching</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s14.html#id2834023"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2834091" playOrder="235">
+              <ncx:navLabel>
+                <ncx:text>Default caching rules</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s14.html#id2834091"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2834306" playOrder="236">
+            <ncx:navLabel>
+              <ncx:text>Look-Before-You-Leap Requests</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s14.html#look-before-you-leap"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2834476" playOrder="237">
+            <ncx:navLabel>
+              <ncx:text>Partial GET</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s14.html#partial-get"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2834624" playOrder="238">
+          <ncx:navLabel>
+            <ncx:text>Faking PUT and DELETE</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08s15.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2834769" playOrder="239">
+          <ncx:navLabel>
+            <ncx:text>The Trouble with Cookies</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08s16.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2834927" playOrder="240">
+          <ncx:navLabel>
+            <ncx:text>Why Should a User Trust the HTTP Client?</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08s17.html"/>
+          <ncx:navPoint id="id2835064" playOrder="241">
+            <ncx:navLabel>
+              <ncx:text>Applications with a Web Interface</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s17.html#id2835064"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2835327" playOrder="242">
+            <ncx:navLabel>
+              <ncx:text>Applications with No Web Interface</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s17.html#id2835327"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2835563" playOrder="243">
+            <ncx:navLabel>
+              <ncx:text>What Problem Does this Solve?</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s17.html#id2835563"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2835711" playOrder="244">
+        <ncx:navLabel>
+          <ncx:text>9. The Building Blocks of Services</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch09.html"/>
+        <ncx:navPoint id="id2835744" playOrder="245">
+          <ncx:navLabel>
+            <ncx:text>Representation Formats</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch09.html#representation-formats"/>
+          <ncx:navPoint id="id2835799" playOrder="246">
+            <ncx:navLabel>
+              <ncx:text>XHTML</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09.html#representation-xhtml"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2836134" playOrder="247">
+            <ncx:navLabel>
+              <ncx:text>XHTML with Microformats</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09.html#microformats"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2836774" playOrder="248">
+            <ncx:navLabel>
+              <ncx:text>Atom</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09.html#id2836774"/>
+            <ncx:navPoint id="id2837032" playOrder="249">
+              <ncx:navLabel>
+                <ncx:text>OpenSearch</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09.html#id2837032"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2837190" playOrder="250">
+            <ncx:navLabel>
+              <ncx:text>SVG</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09.html#id2837190"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2837239" playOrder="251">
+            <ncx:navLabel>
+              <ncx:text>Form-Encoded Key-Value Pairs</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09.html#id2837239"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2837310" playOrder="252">
+            <ncx:navLabel>
+              <ncx:text>JSON</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09.html#id2837310"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2837400" playOrder="253">
+            <ncx:navLabel>
+              <ncx:text>RDF and RDFa</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09.html#id2837400"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2837708" playOrder="254">
+            <ncx:navLabel>
+              <ncx:text>Framework-Specific Serialization Formats</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09.html#id2837708"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2837808" playOrder="255">
+            <ncx:navLabel>
+              <ncx:text>Ad Hoc XHTML</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09.html#ad-hoc-xhtml"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2838107" playOrder="256">
+            <ncx:navLabel>
+              <ncx:text>Other XML Standards and Ad Hoc Vocabularies</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09.html#id2838107"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2838225" playOrder="257">
+            <ncx:navLabel>
+              <ncx:text>Encoding Issues</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09.html#id2838225"/>
+            <ncx:navPoint id="id2838452" playOrder="258">
+              <ncx:navLabel>
+                <ncx:text>XML and HTTP: Battle of the encodings</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09.html#id2838452"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2838664" playOrder="259">
+              <ncx:navLabel>
+                <ncx:text>The character encoding of a JSON document</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09.html#json-encoding"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2838727" playOrder="260">
+          <ncx:navLabel>
+            <ncx:text>Prepackaged Control Flows</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch09s02.html"/>
+          <ncx:navPoint id="id2838802" playOrder="261">
+            <ncx:navLabel>
+              <ncx:text>General Rules</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s02.html#id2838802"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2838858" playOrder="262">
+            <ncx:navLabel>
+              <ncx:text>Database-Backed Control Flow</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s02.html#database-control-flow"/>
+            <ncx:navPoint id="id2838989" playOrder="263">
+              <ncx:navLabel>
+                <ncx:text>GET</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s02.html#id2838989"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2839009" playOrder="264">
+              <ncx:navLabel>
+                <ncx:text>PUT</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s02.html#id2839009"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2839247" playOrder="265">
+              <ncx:navLabel>
+                <ncx:text>POST for creating a new resource</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s02.html#id2839247"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2839291" playOrder="266">
+              <ncx:navLabel>
+                <ncx:text>POST for appending to a resource</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s02.html#id2839291"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2839306" playOrder="267">
+              <ncx:navLabel>
+                <ncx:text>DELETE</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s02.html#id2839306"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2839323" playOrder="268">
+            <ncx:navLabel>
+              <ncx:text>The Atom Publishing Protocol</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s02.html#app"/>
+            <ncx:navPoint id="id2839404" playOrder="269">
+              <ncx:navLabel>
+                <ncx:text>Collections</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s02.html#id2839404"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2839471" playOrder="270">
+              <ncx:navLabel>
+                <ncx:text>Members</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s02.html#app-members"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2839580" playOrder="271">
+              <ncx:navLabel>
+                <ncx:text>Service document</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s02.html#app-service-document"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2839828" playOrder="272">
+              <ncx:navLabel>
+                <ncx:text>Category documents</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s02.html#id2839828"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2839966" playOrder="273">
+              <ncx:navLabel>
+                <ncx:text>Binary documents as APP members</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s02.html#binary-app"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2840219" playOrder="274">
+              <ncx:navLabel>
+                <ncx:text>Summary</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s02.html#id2840219"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2840374" playOrder="275">
+            <ncx:navLabel>
+              <ncx:text>GData</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s02.html#gdata"/>
+            <ncx:navPoint id="id2840430" playOrder="276">
+              <ncx:navLabel>
+                <ncx:text>Querying collections</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s02.html#id2840430"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2840527" playOrder="277">
+              <ncx:navLabel>
+                <ncx:text>Data extensions</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s02.html#id2840527"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2840588" playOrder="278">
+            <ncx:navLabel>
+              <ncx:text>POST Once Exactly</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s02.html#post-once-exactly"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2840850" playOrder="279">
+          <ncx:navLabel>
+            <ncx:text>Hypermedia Technologies</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch09s03.html"/>
+          <ncx:navPoint id="id2841018" playOrder="280">
+            <ncx:navLabel>
+              <ncx:text>URI Templates</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s03.html#uri-templating"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2841122" playOrder="281">
+            <ncx:navLabel>
+              <ncx:text>XHTML 4</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s03.html#id2841122"/>
+            <ncx:navPoint id="id2841152" playOrder="282">
+              <ncx:navLabel>
+                <ncx:text>XHTML 4 links</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s03.html#id2841152"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2841471" playOrder="283">
+              <ncx:navLabel>
+                <ncx:text>XHTML 4 forms</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s03.html#id2841471"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2841640" playOrder="284">
+              <ncx:navLabel>
+                <ncx:text>Shortcomings of XHTML 4</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s03.html#id2841640"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2841871" playOrder="285">
+            <ncx:navLabel>
+              <ncx:text>XHTML 5</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s03.html#id2841871"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2842066" playOrder="286">
+            <ncx:navLabel>
+              <ncx:text>WADL</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s03.html#servicedescription"/>
+            <ncx:navPoint id="id2842243" playOrder="287">
+              <ncx:navLabel>
+                <ncx:text>Describing a del.icio.us resource</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s03.html#id2842243"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2842890" playOrder="288">
+              <ncx:navLabel>
+                <ncx:text>Describing an APP collection</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s03.html#id2842890"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2843236" playOrder="289">
+              <ncx:navLabel>
+                <ncx:text>Is WADL evil?</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s03.html#id2843236"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2843363" playOrder="290">
+        <ncx:navLabel>
+          <ncx:text>10. The Resource-Oriented Architecture Versus Big Web Services</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch10.html"/>
+        <ncx:navPoint id="id2843476" playOrder="291">
+          <ncx:navLabel>
+            <ncx:text>What Problems Are Big Web Services Trying to Solve?</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch10.html#grains"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2843592" playOrder="292">
+          <ncx:navLabel>
+            <ncx:text>SOAP</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch10s02.html"/>
+          <ncx:navPoint id="id2843982" playOrder="293">
+            <ncx:navLabel>
+              <ncx:text>The Resource-Oriented Alternative</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s02.html#id2843982"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2844175" playOrder="294">
+          <ncx:navLabel>
+            <ncx:text>WSDL</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch10s03.html"/>
+          <ncx:navPoint id="id2844679" playOrder="295">
+            <ncx:navLabel>
+              <ncx:text>The Resource-Oriented Alternative</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s03.html#id2844679"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2844777" playOrder="296">
+          <ncx:navLabel>
+            <ncx:text>UDDI</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch10s04.html"/>
+          <ncx:navPoint id="id2844857" playOrder="297">
+            <ncx:navLabel>
+              <ncx:text>The Resource-Oriented Alternative</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s04.html#id2844857"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2844911" playOrder="298">
+          <ncx:navLabel>
+            <ncx:text>Security</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch10s05.html"/>
+          <ncx:navPoint id="id2845116" playOrder="299">
+            <ncx:navLabel>
+              <ncx:text>The Resource-Oriented Alternative</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s05.html#id2845116"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2845201" playOrder="300">
+          <ncx:navLabel>
+            <ncx:text>Reliable Messaging</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch10s06.html"/>
+          <ncx:navPoint id="id2845232" playOrder="301">
+            <ncx:navLabel>
+              <ncx:text>The Resource-Oriented Alternative</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s06.html#id2845232"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2845292" playOrder="302">
+          <ncx:navLabel>
+            <ncx:text>Transactions</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch10s07.html"/>
+          <ncx:navPoint id="id2845365" playOrder="303">
+            <ncx:navLabel>
+              <ncx:text>The Resource-Oriented Alternative</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s07.html#id2845365"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2845435" playOrder="304">
+          <ncx:navLabel>
+            <ncx:text>BPEL, ESB, and SOA</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch10s08.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2845586" playOrder="305">
+          <ncx:navLabel>
+            <ncx:text>Conclusion</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch10s09.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2845667" playOrder="306">
+        <ncx:navLabel>
+          <ncx:text>11. Ajax Applications as REST Clients</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch11.html"/>
+        <ncx:navPoint id="id2845806" playOrder="307">
+          <ncx:navLabel>
+            <ncx:text>From AJAX to Ajax</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch11.html#I_sect111_tt975"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2845932" playOrder="308">
+          <ncx:navLabel>
+            <ncx:text>The Ajax Architecture</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch11s02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2846054" playOrder="309">
+          <ncx:navLabel>
+            <ncx:text>A del.icio.us Example</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch11s03.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2846432" playOrder="310">
+          <ncx:navLabel>
+            <ncx:text>The Advantages of Ajax</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch11s04.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2846568" playOrder="311">
+          <ncx:navLabel>
+            <ncx:text>The Disadvantages of Ajax</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch11s05.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2846725" playOrder="312">
+          <ncx:navLabel>
+            <ncx:text>REST Goes Better</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch11s06.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2846866" playOrder="313">
+          <ncx:navLabel>
+            <ncx:text>Making the Request</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch11s07.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2847145" playOrder="314">
+          <ncx:navLabel>
+            <ncx:text>Handling the Response</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch11s08.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2847350" playOrder="315">
+          <ncx:navLabel>
+            <ncx:text>JSON</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch11s09.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2847485" playOrder="316">
+          <ncx:navLabel>
+            <ncx:text>Don’t Bogart the Benefits of REST</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch11s10.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2847680" playOrder="317">
+          <ncx:navLabel>
+            <ncx:text>Cross-Browser Issues and Ajax Libraries</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch11s11.html"/>
+          <ncx:navPoint id="id2847897" playOrder="318">
+            <ncx:navLabel>
+              <ncx:text>Prototype</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch11s11.html#id2847897"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2848107" playOrder="319">
+            <ncx:navLabel>
+              <ncx:text>Dojo</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch11s11.html#id2848107"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2848265" playOrder="320">
+          <ncx:navLabel>
+            <ncx:text>Subverting the Browser Security Model</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch11s12.html"/>
+          <ncx:navPoint id="id2848428" playOrder="321">
+            <ncx:navLabel>
+              <ncx:text>Request Proxying</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch11s12.html#id2848428"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2848801" playOrder="322">
+            <ncx:navLabel>
+              <ncx:text>JavaScript on Demand</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch11s12.html#id2848801"/>
+            <ncx:navPoint id="id2849088" playOrder="323">
+              <ncx:navLabel>
+                <ncx:text>Dynamically writing the script tag</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch11s12.html#id2849088"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2849299" playOrder="324">
+              <ncx:navLabel>
+                <ncx:text>Library support</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch11s12.html#id2849299"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2849509" playOrder="325">
+        <ncx:navLabel>
+          <ncx:text>12. Frameworks for RESTful Services</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch12.html"/>
+        <ncx:navPoint id="id2849593" playOrder="326">
+          <ncx:navLabel>
+            <ncx:text>Ruby on Rails</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch12.html#I_sect112_tt1026"/>
+          <ncx:navPoint id="id2849665" playOrder="327">
+            <ncx:navLabel>
+              <ncx:text>Routing</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12.html#id2849665"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2849857" playOrder="328">
+            <ncx:navLabel>
+              <ncx:text>Resources, Controllers, and Views</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12.html#id2849857"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2850127" playOrder="329">
+            <ncx:navLabel>
+              <ncx:text>Outgoing Representations</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12.html#id2850127"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2850252" playOrder="330">
+            <ncx:navLabel>
+              <ncx:text>Incoming Representations</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12.html#id2850252"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2850306" playOrder="331">
+            <ncx:navLabel>
+              <ncx:text>Web Applications as Web Services</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12.html#id2850306"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2850431" playOrder="332">
+            <ncx:navLabel>
+              <ncx:text>The Rails/ROA Design Procedure</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12.html#id2850431"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2850540" playOrder="333">
+          <ncx:navLabel>
+            <ncx:text>Restlet</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch12s02.html"/>
+          <ncx:navPoint id="id2850752" playOrder="334">
+            <ncx:navLabel>
+              <ncx:text>Basic Concepts</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12s02.html#id2850752"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2851100" playOrder="335">
+            <ncx:navLabel>
+              <ncx:text>Writing Restlet Clients</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12s02.html#restlet-clients"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2851484" playOrder="336">
+            <ncx:navLabel>
+              <ncx:text>Writing Restlet Services</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12s02.html#restlet-services"/>
+            <ncx:navPoint id="id2851627" playOrder="337">
+              <ncx:navLabel>
+                <ncx:text>Resource and URI design</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12s02.html#id2851627"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2851790" playOrder="338">
+              <ncx:navLabel>
+                <ncx:text>Request handling and representations</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12s02.html#id2851790"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2852120" playOrder="339">
+              <ncx:navLabel>
+                <ncx:text>Compiling, running, and testing</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12s02.html#id2852120"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2852275" playOrder="340">
+            <ncx:navLabel>
+              <ncx:text>Conclusion</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12s02.html#id2852275"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2852331" playOrder="341">
+          <ncx:navLabel>
+            <ncx:text>Django</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch12s03.html"/>
+          <ncx:navPoint id="id2852405" playOrder="342">
+            <ncx:navLabel>
+              <ncx:text>Create the Data Model</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12s03.html#id2852405"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2852588" playOrder="343">
+            <ncx:navLabel>
+              <ncx:text>Define Resources and Give Them URIs</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12s03.html#id2852588"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2852892" playOrder="344">
+            <ncx:navLabel>
+              <ncx:text>Implement Resources as Django Views</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12s03.html#id2852892"/>
+            <ncx:navPoint id="id2852962" playOrder="345">
+              <ncx:navLabel>
+                <ncx:text>The bookmark list view</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12s03.html#id2852962"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2853261" playOrder="346">
+              <ncx:navLabel>
+                <ncx:text>The bookmark detail view</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12s03.html#id2853261"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2853711" playOrder="347">
+              <ncx:navLabel>
+                <ncx:text>Further directions</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12s03.html#id2853711"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2853758" playOrder="348">
+            <ncx:navLabel>
+              <ncx:text>Conclusion</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12s03.html#id2853758"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2853812" playOrder="349">
+        <ncx:navLabel>
+          <ncx:text>A. Some Resources for REST and Some RESTful Resources</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="apa.html"/>
+        <ncx:navPoint id="id2853832" playOrder="350">
+          <ncx:navLabel>
+            <ncx:text>Standards and Guides</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apa.html#I_sect1_tt1079"/>
+          <ncx:navPoint id="id2853842" playOrder="351">
+            <ncx:navLabel>
+              <ncx:text>HTTP and URI</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apa.html#id2853842"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2853898" playOrder="352">
+            <ncx:navLabel>
+              <ncx:text>RESTful Architectures</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apa.html#id2853898"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2854003" playOrder="353">
+            <ncx:navLabel>
+              <ncx:text>Hypermedia Formats</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apa.html#id2854003"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2854086" playOrder="354">
+            <ncx:navLabel>
+              <ncx:text>Frameworks for RESTful Development</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apa.html#id2854086"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2854161" playOrder="355">
+            <ncx:navLabel>
+              <ncx:text>Weblogs on REST</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apa.html#id2854161"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2854222" playOrder="356">
+          <ncx:navLabel>
+            <ncx:text>Services You Can Use</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apas02.html"/>
+          <ncx:navPoint id="id2854272" playOrder="357">
+            <ncx:navLabel>
+              <ncx:text>Service Directories</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apas02.html#id2854272"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2854335" playOrder="358">
+            <ncx:navLabel>
+              <ncx:text>Read-Only Services</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apas02.html#id2854335"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2854391" playOrder="359">
+            <ncx:navLabel>
+              <ncx:text>Read/Write Services</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apas02.html#id2854391"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2854739" playOrder="360">
+        <ncx:navLabel>
+          <ncx:text>B. The HTTP Response Code Top 42</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="apb.html"/>
+        <ncx:navPoint id="id2854874" playOrder="361">
+          <ncx:navLabel>
+            <ncx:text>Three to Seven Status Codes: The Bare Minimum</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apb.html#I_sect1_tt1082"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2855109" playOrder="362">
+          <ncx:navLabel>
+            <ncx:text>1xx: Meta</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apbs02.html"/>
+          <ncx:navPoint id="id2855118" playOrder="363">
+            <ncx:navLabel>
+              <ncx:text>100 (“Continue”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs02.html#id2855118"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2855183" playOrder="364">
+            <ncx:navLabel>
+              <ncx:text>101 (“Switching Protocols”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs02.html#id2855183"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2855287" playOrder="365">
+          <ncx:navLabel>
+            <ncx:text>2xx: Success</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apbs03.html"/>
+          <ncx:navPoint id="id2855296" playOrder="366">
+            <ncx:navLabel>
+              <ncx:text>200 (“OK”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs03.html#id2855296"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2855342" playOrder="367">
+            <ncx:navLabel>
+              <ncx:text>201 (“Created”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs03.html#id2855342"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2855410" playOrder="368">
+            <ncx:navLabel>
+              <ncx:text>202 (“Accepted”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs03.html#id2855410"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2855492" playOrder="369">
+            <ncx:navLabel>
+              <ncx:text>203 (“Non-Authoritative Information”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs03.html#id2855492"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2855542" playOrder="370">
+            <ncx:navLabel>
+              <ncx:text>204 (“No Content”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs03.html#id2855542"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2855597" playOrder="371">
+            <ncx:navLabel>
+              <ncx:text>205 (“Reset Content”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs03.html#id2855597"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2855640" playOrder="372">
+            <ncx:navLabel>
+              <ncx:text>206 (“Partial Content”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs03.html#id2855640"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2855752" playOrder="373">
+            <ncx:navLabel>
+              <ncx:text>207 (“Multi-Status”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs03.html#id2855752"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2855824" playOrder="374">
+          <ncx:navLabel>
+            <ncx:text>3xx: Redirection</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apbs04.html"/>
+          <ncx:navPoint id="id2855894" playOrder="375">
+            <ncx:navLabel>
+              <ncx:text>300 (“Multiple Choices”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs04.html#id2855894"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2855980" playOrder="376">
+            <ncx:navLabel>
+              <ncx:text>301 (“Moved Permanently”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs04.html#id2855980"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2856045" playOrder="377">
+            <ncx:navLabel>
+              <ncx:text>302 (“Found”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs04.html#id2856045"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2856135" playOrder="378">
+            <ncx:navLabel>
+              <ncx:text>303 (“See Other”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs04.html#id2856135"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2856240" playOrder="379">
+            <ncx:navLabel>
+              <ncx:text>304 (“Not Modified”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs04.html#id2856240"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2856371" playOrder="380">
+            <ncx:navLabel>
+              <ncx:text>305 (“Use Proxy”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs04.html#id2856371"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2856476" playOrder="381">
+            <ncx:navLabel>
+              <ncx:text>306: Unused</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs04.html#id2856476"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2856517" playOrder="382">
+            <ncx:navLabel>
+              <ncx:text>307 (“Temporary Redirect”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs04.html#id2856517"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2856638" playOrder="383">
+          <ncx:navLabel>
+            <ncx:text>4xx: Client-Side Error</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apbs05.html"/>
+          <ncx:navPoint id="id2856681" playOrder="384">
+            <ncx:navLabel>
+              <ncx:text>400 (“Bad Request”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs05.html#id2856681"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2856733" playOrder="385">
+            <ncx:navLabel>
+              <ncx:text>401 (“Unauthorized”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs05.html#id2856733"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2856835" playOrder="386">
+            <ncx:navLabel>
+              <ncx:text>402 (“Payment Required”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs05.html#id2856835"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2856889" playOrder="387">
+            <ncx:navLabel>
+              <ncx:text>403 (“Forbidden”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs05.html#id2856889"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2856960" playOrder="388">
+            <ncx:navLabel>
+              <ncx:text>404 (“Not Found”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs05.html#id2856960"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2857012" playOrder="389">
+            <ncx:navLabel>
+              <ncx:text>405 (“Method Not Allowed”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs05.html#id2857012"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2857075" playOrder="390">
+            <ncx:navLabel>
+              <ncx:text>406 (“Not Acceptable”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs05.html#id2857075"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2857132" playOrder="391">
+            <ncx:navLabel>
+              <ncx:text>407 (“Proxy Authentication Required”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs05.html#id2857132"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2857238" playOrder="392">
+            <ncx:navLabel>
+              <ncx:text>408 (“Request Timeout”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs05.html#id2857238"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2857275" playOrder="393">
+            <ncx:navLabel>
+              <ncx:text>409 (“Conflict”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs05.html#id2857275"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2857339" playOrder="394">
+            <ncx:navLabel>
+              <ncx:text>410 (“Gone”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs05.html#id2857339"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2857408" playOrder="395">
+            <ncx:navLabel>
+              <ncx:text>411 (“Length Required”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs05.html#id2857408"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2857491" playOrder="396">
+            <ncx:navLabel>
+              <ncx:text>412 (“Precondition Failed”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs05.html#id2857491"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2857617" playOrder="397">
+            <ncx:navLabel>
+              <ncx:text>413 (“Request Entity Too Large”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs05.html#id2857617"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2857691" playOrder="398">
+            <ncx:navLabel>
+              <ncx:text>414 (“Request-URI Too Long”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs05.html#id2857691"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2857741" playOrder="399">
+            <ncx:navLabel>
+              <ncx:text>415 (“Unsupported Media Type”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs05.html#id2857741"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2857788" playOrder="400">
+            <ncx:navLabel>
+              <ncx:text>416 (“Requested Range Not Satisfiable”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs05.html#id2857788"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2857863" playOrder="401">
+            <ncx:navLabel>
+              <ncx:text>417 (“Expectation Failed”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs05.html#id2857863"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2857927" playOrder="402">
+          <ncx:navLabel>
+            <ncx:text>5xx: Server-Side Error</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apbs06.html"/>
+          <ncx:navPoint id="id2857978" playOrder="403">
+            <ncx:navLabel>
+              <ncx:text>500 (“Internal Server Error”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs06.html#id2857978"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2858014" playOrder="404">
+            <ncx:navLabel>
+              <ncx:text>501 (“Not Implemented”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs06.html#id2858014"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2858061" playOrder="405">
+            <ncx:navLabel>
+              <ncx:text>502 (“Bad Gateway”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs06.html#id2858061"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2858104" playOrder="406">
+            <ncx:navLabel>
+              <ncx:text>503 (“Service Unavailable”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs06.html#id2858104"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2858172" playOrder="407">
+            <ncx:navLabel>
+              <ncx:text>504 (“Gateway Timeout”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs06.html#id2858172"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2858210" playOrder="408">
+            <ncx:navLabel>
+              <ncx:text>505 (“HTTP Version Not Supported”)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs06.html#id2858210"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2858269" playOrder="409">
+        <ncx:navLabel>
+          <ncx:text>C. The HTTP Header Top Infinity</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="apc.html"/>
+        <ncx:navPoint id="id2858416" playOrder="410">
+          <ncx:navLabel>
+            <ncx:text>Standard Headers</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apc.html#I_sect1_tt1187"/>
+          <ncx:navPoint id="id2858439" playOrder="411">
+            <ncx:navLabel>
+              <ncx:text>Accept</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2858439"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2858505" playOrder="412">
+            <ncx:navLabel>
+              <ncx:text>Accept-Charset</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2858505"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2858551" playOrder="413">
+            <ncx:navLabel>
+              <ncx:text>Accept-Encoding</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2858551"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2858609" playOrder="414">
+            <ncx:navLabel>
+              <ncx:text>Accept-Language</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2858609"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2858659" playOrder="415">
+            <ncx:navLabel>
+              <ncx:text>Accept-Ranges</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2858659"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2858699" playOrder="416">
+            <ncx:navLabel>
+              <ncx:text>Age</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2858699"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2858732" playOrder="417">
+            <ncx:navLabel>
+              <ncx:text>Allow</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2858732"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2858775" playOrder="418">
+            <ncx:navLabel>
+              <ncx:text>Authorization</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2858775"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2858843" playOrder="419">
+            <ncx:navLabel>
+              <ncx:text>Cache-Control</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2858843"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2858883" playOrder="420">
+            <ncx:navLabel>
+              <ncx:text>Connection</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2858883"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2858996" playOrder="421">
+            <ncx:navLabel>
+              <ncx:text>Content-Encoding</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2858996"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2859031" playOrder="422">
+            <ncx:navLabel>
+              <ncx:text>Content-Language</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2859031"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2859095" playOrder="423">
+            <ncx:navLabel>
+              <ncx:text>Content-Length</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2859095"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2859140" playOrder="424">
+            <ncx:navLabel>
+              <ncx:text>Content-Location</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2859140"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2859206" playOrder="425">
+            <ncx:navLabel>
+              <ncx:text>Content-MD5</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2859206"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2859244" playOrder="426">
+            <ncx:navLabel>
+              <ncx:text>Content-Range</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2859244"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2859277" playOrder="427">
+            <ncx:navLabel>
+              <ncx:text>Content-Type</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2859277"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2859309" playOrder="428">
+            <ncx:navLabel>
+              <ncx:text>Date</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2859309"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2859347" playOrder="429">
+            <ncx:navLabel>
+              <ncx:text>ETag</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2859347"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2859444" playOrder="430">
+            <ncx:navLabel>
+              <ncx:text>Expect</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2859444"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2859481" playOrder="431">
+            <ncx:navLabel>
+              <ncx:text>Expires</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2859481"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2859533" playOrder="432">
+            <ncx:navLabel>
+              <ncx:text>From</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2859533"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2859575" playOrder="433">
+            <ncx:navLabel>
+              <ncx:text>Host</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2859575"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2859644" playOrder="434">
+            <ncx:navLabel>
+              <ncx:text>If-Match</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2859644"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2859723" playOrder="435">
+            <ncx:navLabel>
+              <ncx:text>If-Modified-Since</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2859723"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2859822" playOrder="436">
+            <ncx:navLabel>
+              <ncx:text>If-None-Match</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2859822"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2859867" playOrder="437">
+            <ncx:navLabel>
+              <ncx:text>If-Range</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2859867"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2859934" playOrder="438">
+            <ncx:navLabel>
+              <ncx:text>If-Unmodified-Since</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2859934"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2860023" playOrder="439">
+            <ncx:navLabel>
+              <ncx:text>Last-Modified</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2860023"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2860080" playOrder="440">
+            <ncx:navLabel>
+              <ncx:text>Location</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2860080"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2860170" playOrder="441">
+            <ncx:navLabel>
+              <ncx:text>Max-Forwards</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2860170"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2860210" playOrder="442">
+            <ncx:navLabel>
+              <ncx:text>Pragma</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2860210"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2860269" playOrder="443">
+            <ncx:navLabel>
+              <ncx:text>Proxy-Authenticate</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2860269"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2860365" playOrder="444">
+            <ncx:navLabel>
+              <ncx:text>Proxy-Authorization</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2860365"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2860416" playOrder="445">
+            <ncx:navLabel>
+              <ncx:text>Range</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2860416"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2860464" playOrder="446">
+            <ncx:navLabel>
+              <ncx:text>Referer</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2860464"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2860510" playOrder="447">
+            <ncx:navLabel>
+              <ncx:text>Retry-After</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2860510"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2860571" playOrder="448">
+            <ncx:navLabel>
+              <ncx:text>TE</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2860571"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2860624" playOrder="449">
+            <ncx:navLabel>
+              <ncx:text>Trailer</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2860624"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2860690" playOrder="450">
+            <ncx:navLabel>
+              <ncx:text>Transfer-Encoding</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2860690"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2860762" playOrder="451">
+            <ncx:navLabel>
+              <ncx:text>Upgrade</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2860762"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2860820" playOrder="452">
+            <ncx:navLabel>
+              <ncx:text>User-Agent</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2860820"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2860949" playOrder="453">
+            <ncx:navLabel>
+              <ncx:text>Vary</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2860949"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2861031" playOrder="454">
+            <ncx:navLabel>
+              <ncx:text>Via</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2861031"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2861078" playOrder="455">
+            <ncx:navLabel>
+              <ncx:text>Warning</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2861078"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2861149" playOrder="456">
+            <ncx:navLabel>
+              <ncx:text>WWW-Authenticate</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#id2861149"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2861198" playOrder="457">
+          <ncx:navLabel>
+            <ncx:text>Nonstandard Headers</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apcs02.html"/>
+          <ncx:navPoint id="id2861232" playOrder="458">
+            <ncx:navLabel>
+              <ncx:text>Cookie</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apcs02.html#id2861232"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2861320" playOrder="459">
+            <ncx:navLabel>
+              <ncx:text>POE</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apcs02.html#id2861320"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2861355" playOrder="460">
+            <ncx:navLabel>
+              <ncx:text>POE-Links</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apcs02.html#id2861355"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2861393" playOrder="461">
+            <ncx:navLabel>
+              <ncx:text>Set-Cookie</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apcs02.html#id2861393"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2861444" playOrder="462">
+            <ncx:navLabel>
+              <ncx:text>Slug</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apcs02.html#id2861444"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2861487" playOrder="463">
+            <ncx:navLabel>
+              <ncx:text>X-HTTP-Method-Override</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apcs02.html#id2861487"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2861536" playOrder="464">
+            <ncx:navLabel>
+              <ncx:text>X-WSSE</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apcs02.html#id2861536"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2861653" playOrder="465">
+        <ncx:navLabel>
+          <ncx:text>Index</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ix01.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2861656" playOrder="466">
+        <ncx:navLabel>
+          <ncx:text>Colophon</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="co01.html"/>
+      </ncx:navPoint>
+    </ncx:navPoint>
+  </ncx:navMap>
+</ncx:ncx>

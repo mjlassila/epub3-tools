@@ -1,0 +1,1255 @@
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+   <head>
+      <meta name="dtb:uid" content="xxx"/>
+      <meta name="dtb:depth" content="-1"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+   <docTitle>
+      <text>XSL Transformations (XSLT) Version 2.0</text>
+   </docTitle>
+   <navMap>
+      <navPoint id="cover" playOrder="1">
+         <navLabel>
+            <text>XSL Transformations (XSLT) Version 2.0</text>
+         </navLabel>
+         <content src="cover.html"/>
+      </navPoint>
+      <navPoint id="d74e1160" playOrder="2" class="div1">
+         <navLabel>
+            <text>1 Introduction</text>
+         </navLabel>
+         <content src="d73e1160.html"/>
+         <navPoint id="d74e1166" playOrder="3" class="div2">
+            <navLabel>
+               <text>1.1 What is XSLT?</text>
+            </navLabel>
+            <content src="d73e1160.html#what-is-xslt"/>
+         </navPoint>
+         <navPoint id="d74e1274" playOrder="4" class="div2">
+            <navLabel>
+               <text>1.2 What's New in XSLT 2.0?</text>
+            </navLabel>
+            <content src="d73e1274.html"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="d74e1292" playOrder="5" class="div1">
+         <navLabel>
+            <text>2 Concepts</text>
+         </navLabel>
+         <content src="d73e1292.html"/>
+         <navPoint id="d74e1298" playOrder="6" class="div2">
+            <navLabel>
+               <text>2.1 Terminology</text>
+            </navLabel>
+            <content src="d73e1292.html#terminology"/>
+         </navPoint>
+         <navPoint id="d74e1720" playOrder="7" class="div2">
+            <navLabel>
+               <text>2.2 Notation</text>
+            </navLabel>
+            <content src="d73e1720.html"/>
+         </navPoint>
+         <navPoint id="d74e2077" playOrder="8" class="div2">
+            <navLabel>
+               <text>2.3 Initiating a Transformation</text>
+            </navLabel>
+            <content src="d73e2077.html"/>
+         </navPoint>
+         <navPoint id="d74e2500" playOrder="9" class="div2">
+            <navLabel>
+               <text>2.4 Executing a Transformation</text>
+            </navLabel>
+            <content src="d73e2500.html"/>
+         </navPoint>
+         <navPoint id="d74e2849" playOrder="10" class="div2">
+            <navLabel>
+               <text>2.5 The Evaluation Context</text>
+            </navLabel>
+            <content src="d73e2849.html"/>
+         </navPoint>
+         <navPoint id="d74e2900" playOrder="11" class="div2">
+            <navLabel>
+               <text>2.6 Parsing and Serialization</text>
+            </navLabel>
+            <content src="d73e2900.html"/>
+         </navPoint>
+         <navPoint id="d74e3032" playOrder="12" class="div2">
+            <navLabel>
+               <text>2.7 Extensibility</text>
+            </navLabel>
+            <content src="d73e3032.html"/>
+         </navPoint>
+         <navPoint id="d74e3108" playOrder="13" class="div2">
+            <navLabel>
+               <text>2.8 Stylesheets and XML Schemas</text>
+            </navLabel>
+            <content src="d73e3108.html"/>
+         </navPoint>
+         <navPoint id="d74e3532" playOrder="14" class="div2">
+            <navLabel>
+               <text>2.9 Error Handling</text>
+            </navLabel>
+            <content src="d73e3532.html"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="d74e3993" playOrder="15" class="div1">
+         <navLabel>
+            <text>3 Stylesheet Structure</text>
+         </navLabel>
+         <content src="d73e3993.html"/>
+         <navPoint id="d74e4161" playOrder="16" class="div2">
+            <navLabel>
+               <text>3.1 XSLT Namespace</text>
+            </navLabel>
+            <content src="d73e3993.html#xslt-namespace"/>
+         </navPoint>
+         <navPoint id="d74e4287" playOrder="17" class="div2">
+            <navLabel>
+               <text>3.2 Reserved Namespaces</text>
+            </navLabel>
+            <content src="d73e4287.html"/>
+         </navPoint>
+         <navPoint id="d74e4503" playOrder="18" class="div2">
+            <navLabel>
+               <text>3.3 Extension Attributes</text>
+            </navLabel>
+            <content src="d73e4503.html"/>
+         </navPoint>
+         <navPoint id="d74e4692" playOrder="19" class="div2">
+            <navLabel>
+               <text>3.4 XSLT Media Type</text>
+            </navLabel>
+            <content src="d73e4692.html"/>
+         </navPoint>
+         <navPoint id="d74e4733" playOrder="20" class="div2">
+            <navLabel>
+               <text>3.5 Standard Attributes</text>
+            </navLabel>
+            <content src="d73e4733.html"/>
+         </navPoint>
+         <navPoint id="d74e4996" playOrder="21" class="div2">
+            <navLabel>
+               <text>3.6 Stylesheet Element</text>
+            </navLabel>
+            <content src="d73e4996.html"/>
+            <navPoint id="d74e5575" playOrder="22" class="div3">
+               <navLabel>
+                  <text>3.6.1 The default-collation attribute</text>
+               </navLabel>
+               <content src="d73e4996.html#default-collation-attribute"/>
+            </navPoint>
+            <navPoint id="d74e5655" playOrder="23" class="div3">
+               <navLabel>
+                  <text>3.6.2 User-defined Data Elements</text>
+               </navLabel>
+               <content src="d73e4996.html#user-defined-top-level"/>
+            </navPoint>
+         </navPoint>
+         <navPoint id="d74e5819" playOrder="24" class="div2">
+            <navLabel>
+               <text>3.7 Simplified Stylesheet Modules</text>
+            </navLabel>
+            <content src="d73e5819.html"/>
+         </navPoint>
+         <navPoint id="d74e6027" playOrder="25" class="div2">
+            <navLabel>
+               <text>3.8 Backwards-Compatible Processing</text>
+            </navLabel>
+            <content src="d73e6027.html"/>
+         </navPoint>
+         <navPoint id="d74e6219" playOrder="26" class="div2">
+            <navLabel>
+               <text>3.9 Forwards-Compatible Processing</text>
+            </navLabel>
+            <content src="d73e6219.html"/>
+         </navPoint>
+         <navPoint id="d74e6438" playOrder="27" class="div2">
+            <navLabel>
+               <text>3.10 Combining Stylesheet Modules</text>
+            </navLabel>
+            <content src="d73e6438.html"/>
+            <navPoint id="d74e6465" playOrder="28" class="div3">
+               <navLabel>
+                  <text>3.10.1 Locating Stylesheet Modules</text>
+               </navLabel>
+               <content src="d73e6438.html#locating-modules"/>
+            </navPoint>
+            <navPoint id="d74e6564" playOrder="29" class="div3">
+               <navLabel>
+                  <text>3.10.2 Stylesheet Inclusion</text>
+               </navLabel>
+               <content src="d73e6438.html#include"/>
+            </navPoint>
+            <navPoint id="d74e6788" playOrder="30" class="div3">
+               <navLabel>
+                  <text>3.10.3 Stylesheet Import</text>
+               </navLabel>
+               <content src="d73e6438.html#import"/>
+            </navPoint>
+         </navPoint>
+         <navPoint id="d74e7073" playOrder="31" class="div2">
+            <navLabel>
+               <text>3.11 Embedded Stylesheet Modules</text>
+            </navLabel>
+            <content src="d73e7073.html"/>
+         </navPoint>
+         <navPoint id="d74e7260" playOrder="32" class="div2">
+            <navLabel>
+               <text>3.12 Conditional Element Inclusion</text>
+            </navLabel>
+            <content src="d73e7260.html"/>
+         </navPoint>
+         <navPoint id="d74e7671" playOrder="33" class="div2">
+            <navLabel>
+               <text>3.13 Built-in Types</text>
+            </navLabel>
+            <content src="d73e7671.html"/>
+         </navPoint>
+         <navPoint id="d74e7921" playOrder="34" class="div2">
+            <navLabel>
+               <text>3.14 Importing Schema Components</text>
+            </navLabel>
+            <content src="d73e7921.html"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="d74e8313" playOrder="35" class="div1">
+         <navLabel>
+            <text>4 Data Model</text>
+         </navLabel>
+         <content src="d73e8313.html"/>
+         <navPoint id="d74e8370" playOrder="36" class="div2">
+            <navLabel>
+               <text>4.1 XML Versions</text>
+            </navLabel>
+            <content src="d73e8313.html#xml-versions"/>
+         </navPoint>
+         <navPoint id="d74e8491" playOrder="37" class="div2">
+            <navLabel>
+               <text>4.2 Stripping Whitespace from the Stylesheet</text>
+            </navLabel>
+            <content src="d73e8491.html"/>
+         </navPoint>
+         <navPoint id="d74e8692" playOrder="38" class="div2">
+            <navLabel>
+               <text>4.3 Stripping Type Annotations from a Source Tree</text>
+            </navLabel>
+            <content src="d73e8692.html"/>
+         </navPoint>
+         <navPoint id="d74e8883" playOrder="39" class="div2">
+            <navLabel>
+               <text>4.4 Stripping Whitespace from a Source Tree</text>
+            </navLabel>
+            <content src="d73e8883.html"/>
+         </navPoint>
+         <navPoint id="d74e9229" playOrder="40" class="div2">
+            <navLabel>
+               <text>4.5 Attribute Types and DTD Validation</text>
+            </navLabel>
+            <content src="d73e9229.html"/>
+         </navPoint>
+         <navPoint id="d74e9302" playOrder="41" class="div2">
+            <navLabel>
+               <text>4.6 Limits</text>
+            </navLabel>
+            <content src="d73e9302.html"/>
+         </navPoint>
+         <navPoint id="d74e9421" playOrder="42" class="div2">
+            <navLabel>
+               <text>4.7 Disable Output Escaping</text>
+            </navLabel>
+            <content src="d73e9421.html"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="d74e9509" playOrder="43" class="div1">
+         <navLabel>
+            <text>5 Features of the XSLT Language</text>
+         </navLabel>
+         <content src="d73e9509.html"/>
+         <navPoint id="d74e9515" playOrder="44" class="div2">
+            <navLabel>
+               <text>5.1 Qualified Names</text>
+            </navLabel>
+            <content src="d73e9509.html#qname"/>
+         </navPoint>
+         <navPoint id="d74e9812" playOrder="45" class="div2">
+            <navLabel>
+               <text>5.2 Unprefixed QNames in Expressions and Patterns</text>
+            </navLabel>
+            <content src="d73e9812.html"/>
+         </navPoint>
+         <navPoint id="d74e9978" playOrder="46" class="div2">
+            <navLabel>
+               <text>5.3 Expressions</text>
+            </navLabel>
+            <content src="d73e9978.html"/>
+         </navPoint>
+         <navPoint id="d74e10209" playOrder="47" class="div2">
+            <navLabel>
+               <text>5.4 The Static and Dynamic Context</text>
+            </navLabel>
+            <content src="d73e10209.html"/>
+            <navPoint id="d74e10284" playOrder="48" class="div3">
+               <navLabel>
+                  <text>5.4.1 Initializing the Static Context</text>
+               </navLabel>
+               <content src="d73e10209.html#static-context"/>
+            </navPoint>
+            <navPoint id="d74e10584" playOrder="49" class="div3">
+               <navLabel>
+                  <text>5.4.2 Additional Static Context Components used by XSLT</text>
+               </navLabel>
+               <content src="d73e10209.html#additional-static-context"/>
+            </navPoint>
+            <navPoint id="d74e10658" playOrder="50" class="div3">
+               <navLabel>
+                  <text>5.4.3 Initializing the Dynamic Context</text>
+               </navLabel>
+               <content src="d73e10209.html#xpath-dynamic-context"/>
+               <navPoint id="d74e10779" playOrder="51" class="div4">
+                  <navLabel>
+                     <text>5.4.3.1 Maintaining Position: the Focus</text>
+                  </navLabel>
+                  <content src="d73e10209.html#focus"/>
+               </navPoint>
+               <navPoint id="d74e11058" playOrder="52" class="div4">
+                  <navLabel>
+                     <text>5.4.3.2 Other components of the XPath Dynamic Context</text>
+                  </navLabel>
+                  <content src="d73e10209.html#evaluation-context"/>
+               </navPoint>
+            </navPoint>
+            <navPoint id="d74e11213" playOrder="53" class="div3">
+               <navLabel>
+                  <text>5.4.4 Additional Dynamic Context Components used by XSLT</text>
+               </navLabel>
+               <content src="d73e10209.html#additional-dynamic-context"/>
+            </navPoint>
+         </navPoint>
+         <navPoint id="d74e11531" playOrder="54" class="div2">
+            <navLabel>
+               <text>5.5 Patterns</text>
+            </navLabel>
+            <content src="d73e11531.html"/>
+            <navPoint id="d74e11576" playOrder="55" class="div3">
+               <navLabel>
+                  <text>5.5.1 Examples of Patterns</text>
+               </navLabel>
+               <content src="d73e11531.html#pattern-examples"/>
+            </navPoint>
+            <navPoint id="d74e11814" playOrder="56" class="div3">
+               <navLabel>
+                  <text>5.5.2 Syntax of Patterns</text>
+               </navLabel>
+               <content src="d73e11531.html#pattern-syntax"/>
+            </navPoint>
+            <navPoint id="d74e12194" playOrder="57" class="div3">
+               <navLabel>
+                  <text>5.5.3 The Meaning of a Pattern</text>
+               </navLabel>
+               <content src="d73e11531.html#pattern-semantics"/>
+            </navPoint>
+            <navPoint id="d74e12504" playOrder="58" class="div3">
+               <navLabel>
+                  <text>5.5.4 Errors in Patterns</text>
+               </navLabel>
+               <content src="d73e11531.html#pattern-errors"/>
+            </navPoint>
+         </navPoint>
+         <navPoint id="d74e12578" playOrder="59" class="div2">
+            <navLabel>
+               <text>5.6 Attribute Value Templates</text>
+            </navLabel>
+            <content src="d73e12578.html"/>
+         </navPoint>
+         <navPoint id="d74e12895" playOrder="60" class="div2">
+            <navLabel>
+               <text>5.7 Sequence Constructors</text>
+            </navLabel>
+            <content src="d73e12895.html"/>
+            <navPoint id="d74e13249" playOrder="61" class="div3">
+               <navLabel>
+                  <text>5.7.1 Constructing Complex Content</text>
+               </navLabel>
+               <content src="d73e12895.html#constructing-complex-content"/>
+            </navPoint>
+            <navPoint id="d74e13585" playOrder="62" class="div3">
+               <navLabel>
+                  <text>5.7.2 Constructing Simple Content</text>
+               </navLabel>
+               <content src="d73e12895.html#constructing-simple-content"/>
+            </navPoint>
+            <navPoint id="d74e13822" playOrder="63" class="div3">
+               <navLabel>
+                  <text>5.7.3 Namespace Fixup</text>
+               </navLabel>
+               <content src="d73e12895.html#namespace-fixup"/>
+            </navPoint>
+         </navPoint>
+         <navPoint id="d74e14152" playOrder="64" class="div2">
+            <navLabel>
+               <text>5.8 URI References</text>
+            </navLabel>
+            <content src="d73e14152.html"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="d74e14263" playOrder="65" class="div1">
+         <navLabel>
+            <text>6 Template Rules</text>
+         </navLabel>
+         <content src="d73e14263.html"/>
+         <navPoint id="d74e14275" playOrder="66" class="div2">
+            <navLabel>
+               <text>6.1 Defining Templates</text>
+            </navLabel>
+            <content src="d73e14263.html#defining-templates"/>
+         </navPoint>
+         <navPoint id="d74e14465" playOrder="67" class="div2">
+            <navLabel>
+               <text>6.2 Defining Template Rules</text>
+            </navLabel>
+            <content src="d73e14465.html"/>
+         </navPoint>
+         <navPoint id="d74e14580" playOrder="68" class="div2">
+            <navLabel>
+               <text>6.3 Applying Template Rules</text>
+            </navLabel>
+            <content src="d73e14580.html"/>
+         </navPoint>
+         <navPoint id="d74e15078" playOrder="69" class="div2">
+            <navLabel>
+               <text>6.4 Conflict Resolution for Template Rules</text>
+            </navLabel>
+            <content src="d73e15078.html"/>
+         </navPoint>
+         <navPoint id="d74e15575" playOrder="70" class="div2">
+            <navLabel>
+               <text>6.5 Modes</text>
+            </navLabel>
+            <content src="d73e15575.html"/>
+         </navPoint>
+         <navPoint id="d74e15825" playOrder="71" class="div2">
+            <navLabel>
+               <text>6.6 Built-in Template Rules</text>
+            </navLabel>
+            <content src="d73e15825.html"/>
+         </navPoint>
+         <navPoint id="d74e15954" playOrder="72" class="div2">
+            <navLabel>
+               <text>6.7 Overriding Template Rules</text>
+            </navLabel>
+            <content src="d73e15954.html"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="d74e16390" playOrder="73" class="div1">
+         <navLabel>
+            <text>7 Repetition</text>
+         </navLabel>
+         <content src="d73e16390.html"/>
+      </navPoint>
+      <navPoint id="d74e16583" playOrder="74" class="div1">
+         <navLabel>
+            <text>8 Conditional Processing</text>
+         </navLabel>
+         <content src="d73e16583.html"/>
+         <navPoint id="d74e16608" playOrder="75" class="div2">
+            <navLabel>
+               <text>8.1 Conditional Processing with xsl:if</text>
+            </navLabel>
+            <content src="d73e16583.html#xsl-if"/>
+         </navPoint>
+         <navPoint id="d74e16726" playOrder="76" class="div2">
+            <navLabel>
+               <text>8.2 Conditional Processing with xsl:choose</text>
+            </navLabel>
+            <content src="d73e16726.html"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="d74e16956" playOrder="77" class="div1">
+         <navLabel>
+            <text>9 Variables and Parameters</text>
+         </navLabel>
+         <content src="d73e16956.html"/>
+         <navPoint id="d74e17047" playOrder="78" class="div2">
+            <navLabel>
+               <text>9.1 Variables</text>
+            </navLabel>
+            <content src="d73e16956.html#variables"/>
+         </navPoint>
+         <navPoint id="d74e17210" playOrder="79" class="div2">
+            <navLabel>
+               <text>9.2 Parameters</text>
+            </navLabel>
+            <content src="d73e17210.html"/>
+         </navPoint>
+         <navPoint id="d74e17600" playOrder="80" class="div2">
+            <navLabel>
+               <text>9.3 Values of Variables and Parameters</text>
+            </navLabel>
+            <content src="d73e17600.html"/>
+         </navPoint>
+         <navPoint id="d74e18007" playOrder="81" class="div2">
+            <navLabel>
+               <text>9.4 Creating implicit document nodes</text>
+            </navLabel>
+            <content src="d73e18007.html"/>
+         </navPoint>
+         <navPoint id="d74e18201" playOrder="82" class="div2">
+            <navLabel>
+               <text>9.5 Global Variables and Parameters</text>
+            </navLabel>
+            <content src="d73e18201.html"/>
+         </navPoint>
+         <navPoint id="d74e18384" playOrder="83" class="div2">
+            <navLabel>
+               <text>9.6 Local Variables and Parameters</text>
+            </navLabel>
+            <content src="d73e18384.html"/>
+         </navPoint>
+         <navPoint id="d74e18503" playOrder="84" class="div2">
+            <navLabel>
+               <text>9.7 Scope of Variables</text>
+            </navLabel>
+            <content src="d73e18503.html"/>
+         </navPoint>
+         <navPoint id="d74e18687" playOrder="85" class="div2">
+            <navLabel>
+               <text>9.8 Circular Definitions</text>
+            </navLabel>
+            <content src="d73e18687.html"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="d74e18928" playOrder="86" class="div1">
+         <navLabel>
+            <text>10 Callable Components</text>
+         </navLabel>
+         <content src="d73e18928.html"/>
+         <navPoint id="d74e18952" playOrder="87" class="div2">
+            <navLabel>
+               <text>10.1 Named Templates</text>
+            </navLabel>
+            <content src="d73e18928.html#named-templates"/>
+            <navPoint id="d74e19178" playOrder="88" class="div3">
+               <navLabel>
+                  <text>10.1.1 Passing Parameters to Templates</text>
+               </navLabel>
+               <content src="d73e18928.html#with-param"/>
+            </navPoint>
+            <navPoint id="d74e19574" playOrder="89" class="div3">
+               <navLabel>
+                  <text>10.1.2 Tunnel Parameters</text>
+               </navLabel>
+               <content src="d73e18928.html#tunnel-params"/>
+            </navPoint>
+         </navPoint>
+         <navPoint id="d74e19799" playOrder="90" class="div2">
+            <navLabel>
+               <text>10.2 Named Attribute Sets</text>
+            </navLabel>
+            <content src="d73e19799.html"/>
+         </navPoint>
+         <navPoint id="d74e20286" playOrder="91" class="div2">
+            <navLabel>
+               <text>10.3 Stylesheet Functions</text>
+            </navLabel>
+            <content src="d73e20286.html"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="d74e20885" playOrder="92" class="div1">
+         <navLabel>
+            <text>11 Creating Nodes and Sequences</text>
+         </navLabel>
+         <content src="d73e20885.html"/>
+         <navPoint id="d74e20894" playOrder="93" class="div2">
+            <navLabel>
+               <text>11.1 Literal Result Elements</text>
+            </navLabel>
+            <content src="d73e20885.html#literal-result-element"/>
+            <navPoint id="d74e20962" playOrder="94" class="div3">
+               <navLabel>
+                  <text>11.1.1 Setting the Type Annotation for Literal Result Elements</text>
+               </navLabel>
+               <content src="d73e20885.html#setting-annotation-for-lre"/>
+            </navPoint>
+            <navPoint id="d74e21020" playOrder="95" class="div3">
+               <navLabel>
+                  <text>11.1.2 Attribute Nodes for Literal Result Elements</text>
+               </navLabel>
+               <content src="d73e20885.html#attributes-for-lres"/>
+            </navPoint>
+            <navPoint id="d74e21388" playOrder="96" class="div3">
+               <navLabel>
+                  <text>11.1.3 Namespace Nodes for Literal Result Elements</text>
+               </navLabel>
+               <content src="d73e20885.html#lre-namespaces"/>
+            </navPoint>
+            <navPoint id="d74e21708" playOrder="97" class="div3">
+               <navLabel>
+                  <text>11.1.4 Namespace Aliasing</text>
+               </navLabel>
+               <content src="d73e20885.html#namespace-aliasing"/>
+            </navPoint>
+         </navPoint>
+         <navPoint id="d74e22175" playOrder="98" class="div2">
+            <navLabel>
+               <text>11.2 Creating Element Nodes Using xsl:element</text>
+            </navLabel>
+            <content src="d73e22175.html"/>
+            <navPoint id="d74e22526" playOrder="99" class="div3">
+               <navLabel>
+                  <text>11.2.1 Setting the Type Annotation for a Constructed Element Node</text>
+               </navLabel>
+               <content src="d73e22175.html#annotation-for-constructed-element"/>
+            </navPoint>
+         </navPoint>
+         <navPoint id="d74e22577" playOrder="100" class="div2">
+            <navLabel>
+               <text>11.3 Creating Attribute Nodes Using xsl:attribute</text>
+            </navLabel>
+            <content src="d73e22577.html"/>
+            <navPoint id="d74e23062" playOrder="101" class="div3">
+               <navLabel>
+                  <text>11.3.1 Setting the Type Annotation for a Constructed Attribute Node</text>
+               </navLabel>
+               <content src="d73e22577.html#annotation-for-constructed-attribute"/>
+            </navPoint>
+         </navPoint>
+         <navPoint id="d74e23117" playOrder="102" class="div2">
+            <navLabel>
+               <text>11.4 Creating Text Nodes</text>
+            </navLabel>
+            <content src="d73e23117.html"/>
+            <navPoint id="d74e23230" playOrder="103" class="div3">
+               <navLabel>
+                  <text>11.4.1 Literal Text Nodes</text>
+               </navLabel>
+               <content src="d73e23117.html#literal-text-nodes"/>
+            </navPoint>
+            <navPoint id="d74e23286" playOrder="104" class="div3">
+               <navLabel>
+                  <text>11.4.2 Creating Text Nodes Using xsl:text</text>
+               </navLabel>
+               <content src="d73e23117.html#xsl-text"/>
+            </navPoint>
+            <navPoint id="d74e23395" playOrder="105" class="div3">
+               <navLabel>
+                  <text>11.4.3 Generating Text with xsl:value-of</text>
+               </navLabel>
+               <content src="d73e23117.html#value-of"/>
+            </navPoint>
+         </navPoint>
+         <navPoint id="d74e23603" playOrder="106" class="div2">
+            <navLabel>
+               <text>11.5 Creating Document Nodes</text>
+            </navLabel>
+            <content src="d73e23603.html"/>
+         </navPoint>
+         <navPoint id="d74e23744" playOrder="107" class="div2">
+            <navLabel>
+               <text>11.6 Creating Processing Instructions</text>
+            </navLabel>
+            <content src="d73e23744.html"/>
+         </navPoint>
+         <navPoint id="d74e23976" playOrder="108" class="div2">
+            <navLabel>
+               <text>11.7 Creating Namespace Nodes</text>
+            </navLabel>
+            <content src="d73e23976.html"/>
+         </navPoint>
+         <navPoint id="d74e24365" playOrder="109" class="div2">
+            <navLabel>
+               <text>11.8 Creating Comments</text>
+            </navLabel>
+            <content src="d73e24365.html"/>
+         </navPoint>
+         <navPoint id="d74e24475" playOrder="110" class="div2">
+            <navLabel>
+               <text>11.9 Copying Nodes</text>
+            </navLabel>
+            <content src="d73e24475.html"/>
+            <navPoint id="d74e24481" playOrder="111" class="div3">
+               <navLabel>
+                  <text>11.9.1 Shallow Copy</text>
+               </navLabel>
+               <content src="d73e24475.html#shallow-copy"/>
+            </navPoint>
+            <navPoint id="d74e24937" playOrder="112" class="div3">
+               <navLabel>
+                  <text>11.9.2 Deep Copy</text>
+               </navLabel>
+               <content src="d73e24475.html#copy-of"/>
+            </navPoint>
+         </navPoint>
+         <navPoint id="d74e25162" playOrder="113" class="div2">
+            <navLabel>
+               <text>11.10 Constructing Sequences</text>
+            </navLabel>
+            <content src="d73e25162.html"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="d74e25339" playOrder="114" class="div1">
+         <navLabel>
+            <text>12 Numbering</text>
+         </navLabel>
+         <content src="d73e25339.html"/>
+         <navPoint id="d74e25487" playOrder="115" class="div2">
+            <navLabel>
+               <text>12.1 Formatting a Supplied Number</text>
+            </navLabel>
+            <content src="d73e25339.html#formatting-supplied-number"/>
+         </navPoint>
+         <navPoint id="d74e25628" playOrder="116" class="div2">
+            <navLabel>
+               <text>12.2 Numbering based on Position in a Document</text>
+            </navLabel>
+            <content src="d73e25628.html"/>
+         </navPoint>
+         <navPoint id="d74e26185" playOrder="117" class="div2">
+            <navLabel>
+               <text>12.3 Number to String Conversion Attributes</text>
+            </navLabel>
+            <content src="d73e26185.html"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="d74e26751" playOrder="118" class="div1">
+         <navLabel>
+            <text>13 Sorting</text>
+         </navLabel>
+         <content src="d73e26751.html"/>
+         <navPoint id="d74e26846" playOrder="119" class="div2">
+            <navLabel>
+               <text>13.1 The xsl:sort Element</text>
+            </navLabel>
+            <content src="d73e26751.html#xsl-sort"/>
+            <navPoint id="d74e27046" playOrder="120" class="div3">
+               <navLabel>
+                  <text>13.1.1 The Sorting Process</text>
+               </navLabel>
+               <content src="d73e26751.html#sorting-process"/>
+            </navPoint>
+            <navPoint id="d74e27345" playOrder="121" class="div3">
+               <navLabel>
+                  <text>13.1.2 Comparing Sort Key Values</text>
+               </navLabel>
+               <content src="d73e26751.html#comparing-sort-keys"/>
+            </navPoint>
+            <navPoint id="d74e27539" playOrder="122" class="div3">
+               <navLabel>
+                  <text>13.1.3 Sorting Using Collations</text>
+               </navLabel>
+               <content src="d73e26751.html#collating-sequences"/>
+            </navPoint>
+         </navPoint>
+         <navPoint id="d74e27802" playOrder="123" class="div2">
+            <navLabel>
+               <text>13.2 Creating a Sorted Sequence</text>
+            </navLabel>
+            <content src="d73e27802.html"/>
+         </navPoint>
+         <navPoint id="d74e27935" playOrder="124" class="div2">
+            <navLabel>
+               <text>13.3 Processing a Sequence in Sorted Order</text>
+            </navLabel>
+            <content src="d73e27935.html"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="d74e28001" playOrder="125" class="div1">
+         <navLabel>
+            <text>14 Grouping</text>
+         </navLabel>
+         <content src="d73e28001.html"/>
+         <navPoint id="d74e28053" playOrder="126" class="div2">
+            <navLabel>
+               <text>14.1 The Current Group</text>
+            </navLabel>
+            <content src="d73e28001.html#current-group"/>
+         </navPoint>
+         <navPoint id="d74e28131" playOrder="127" class="div2">
+            <navLabel>
+               <text>14.2 The Current Grouping Key</text>
+            </navLabel>
+            <content src="d73e28131.html"/>
+         </navPoint>
+         <navPoint id="d74e28248" playOrder="128" class="div2">
+            <navLabel>
+               <text>14.3 The xsl:for-each-group Element</text>
+            </navLabel>
+            <content src="d73e28248.html"/>
+         </navPoint>
+         <navPoint id="d74e29050" playOrder="129" class="div2">
+            <navLabel>
+               <text>14.4 Examples of Grouping</text>
+            </navLabel>
+            <content src="d73e29050.html"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="d74e29378" playOrder="130" class="div1">
+         <navLabel>
+            <text>15 Regular Expressions</text>
+         </navLabel>
+         <content src="d73e29378.html"/>
+         <navPoint id="d74e29457" playOrder="131" class="div2">
+            <navLabel>
+               <text>15.1 The xsl:analyze-string instruction</text>
+            </navLabel>
+            <content src="d73e29378.html#analyze-string"/>
+         </navPoint>
+         <navPoint id="d74e29880" playOrder="132" class="div2">
+            <navLabel>
+               <text>15.2 Captured Substrings</text>
+            </navLabel>
+            <content src="d73e29880.html"/>
+         </navPoint>
+         <navPoint id="d74e30013" playOrder="133" class="div2">
+            <navLabel>
+               <text>15.3 Examples of Regular Expression Matching</text>
+            </navLabel>
+            <content src="d73e30013.html"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="d74e30127" playOrder="134" class="div1">
+         <navLabel>
+            <text>16 Additional Functions</text>
+         </navLabel>
+         <content src="d73e30127.html"/>
+         <navPoint id="d74e30142" playOrder="135" class="div2">
+            <navLabel>
+               <text>16.1 Multiple Source Documents</text>
+            </navLabel>
+            <content src="d73e30127.html#document"/>
+         </navPoint>
+         <navPoint id="d74e30394" playOrder="136" class="div2">
+            <navLabel>
+               <text>16.2 Reading Text Files</text>
+            </navLabel>
+            <content src="d73e30394.html"/>
+         </navPoint>
+         <navPoint id="d74e30888" playOrder="137" class="div2">
+            <navLabel>
+               <text>16.3 Keys</text>
+            </navLabel>
+            <content src="d73e30888.html"/>
+            <navPoint id="d74e30897" playOrder="138" class="div3">
+               <navLabel>
+                  <text>16.3.1 The xsl:key Declaration</text>
+               </navLabel>
+               <content src="d73e30888.html#xsl-key"/>
+            </navPoint>
+            <navPoint id="d74e31266" playOrder="139" class="div3">
+               <navLabel>
+                  <text>16.3.2 The key Function</text>
+               </navLabel>
+               <content src="d73e30888.html#keys"/>
+            </navPoint>
+         </navPoint>
+         <navPoint id="d74e31731" playOrder="140" class="div2">
+            <navLabel>
+               <text>16.4 Number Formatting</text>
+            </navLabel>
+            <content src="d73e31731.html"/>
+            <navPoint id="d74e31921" playOrder="141" class="div3">
+               <navLabel>
+                  <text>16.4.1 Defining a Decimal Format</text>
+               </navLabel>
+               <content src="d73e31731.html#defining-decimal-format"/>
+            </navPoint>
+            <navPoint id="d74e32343" playOrder="142" class="div3">
+               <navLabel>
+                  <text>16.4.2 Processing the Picture String</text>
+               </navLabel>
+               <content src="d73e31731.html#processing-picture-string"/>
+            </navPoint>
+            <navPoint id="d74e32545" playOrder="143" class="div3">
+               <navLabel>
+                  <text>16.4.3 Analysing the Picture String</text>
+               </navLabel>
+               <content src="d73e31731.html#analysing-picture-string"/>
+            </navPoint>
+            <navPoint id="d74e32742" playOrder="144" class="div3">
+               <navLabel>
+                  <text>16.4.4 Formatting the Number</text>
+               </navLabel>
+               <content src="d73e31731.html#formatting-the-number"/>
+            </navPoint>
+         </navPoint>
+         <navPoint id="d74e33013" playOrder="145" class="div2">
+            <navLabel>
+               <text>16.5 Formatting Dates and Times</text>
+            </navLabel>
+            <content src="d73e33013.html"/>
+            <navPoint id="d74e33403" playOrder="146" class="div3">
+               <navLabel>
+                  <text>16.5.1 The Picture String</text>
+               </navLabel>
+               <content src="d73e33013.html#date-picture-string"/>
+            </navPoint>
+            <navPoint id="d74e33844" playOrder="147" class="div3">
+               <navLabel>
+                  <text>16.5.2 The Language, Calendar, and Country Arguments</text>
+               </navLabel>
+               <content src="d73e33013.html#lang-cal-country"/>
+            </navPoint>
+            <navPoint id="d74e34317" playOrder="148" class="div3">
+               <navLabel>
+                  <text>16.5.3 Examples of Date and Time Formatting</text>
+               </navLabel>
+               <content src="d73e33013.html#date-time-examples"/>
+            </navPoint>
+         </navPoint>
+         <navPoint id="d74e34571" playOrder="149" class="div2">
+            <navLabel>
+               <text>16.6 Miscellaneous Additional Functions</text>
+            </navLabel>
+            <content src="d73e34571.html"/>
+            <navPoint id="d74e34577" playOrder="150" class="div3">
+               <navLabel>
+                  <text>16.6.1 current</text>
+               </navLabel>
+               <content src="d73e34571.html#current-function"/>
+            </navPoint>
+            <navPoint id="d74e34723" playOrder="151" class="div3">
+               <navLabel>
+                  <text>16.6.2 unparsed-entity-uri</text>
+               </navLabel>
+               <content src="d73e34571.html#unparsed-entity-uri"/>
+            </navPoint>
+            <navPoint id="d74e34790" playOrder="152" class="div3">
+               <navLabel>
+                  <text>16.6.3 unparsed-entity-public-id</text>
+               </navLabel>
+               <content src="d73e34571.html#unparsed-entity-public-id"/>
+            </navPoint>
+            <navPoint id="d74e34856" playOrder="153" class="div3">
+               <navLabel>
+                  <text>16.6.4 generate-id</text>
+               </navLabel>
+               <content src="d73e34571.html#generate-id"/>
+            </navPoint>
+            <navPoint id="d74e34913" playOrder="154" class="div3">
+               <navLabel>
+                  <text>16.6.5 system-property</text>
+               </navLabel>
+               <content src="d73e34571.html#system-property"/>
+            </navPoint>
+         </navPoint>
+      </navPoint>
+      <navPoint id="d74e35164" playOrder="155" class="div1">
+         <navLabel>
+            <text>17 Messages</text>
+         </navLabel>
+         <content src="d73e35164.html"/>
+      </navPoint>
+      <navPoint id="d74e35409" playOrder="156" class="div1">
+         <navLabel>
+            <text>18 Extensibility and Fallback</text>
+         </navLabel>
+         <content src="d73e35409.html"/>
+         <navPoint id="d74e35486" playOrder="157" class="div2">
+            <navLabel>
+               <text>18.1 Extension Functions</text>
+            </navLabel>
+            <content src="d73e35409.html#extension-functions"/>
+            <navPoint id="d74e35511" playOrder="158" class="div3">
+               <navLabel>
+                  <text>18.1.1 Testing Availability of Functions</text>
+               </navLabel>
+               <content src="d73e35409.html#testing-function-availability"/>
+            </navPoint>
+            <navPoint id="d74e35793" playOrder="159" class="div3">
+               <navLabel>
+                  <text>18.1.2 Calling Extension Functions</text>
+               </navLabel>
+               <content src="d73e35409.html#calling-extension-functions"/>
+            </navPoint>
+            <navPoint id="d74e35923" playOrder="160" class="div3">
+               <navLabel>
+                  <text>18.1.3 External Objects</text>
+               </navLabel>
+               <content src="d73e35409.html#external-objects"/>
+            </navPoint>
+            <navPoint id="d74e35964" playOrder="161" class="div3">
+               <navLabel>
+                  <text>18.1.4 Testing Availability of Types</text>
+               </navLabel>
+               <content src="d73e35409.html#testing-type-availability"/>
+            </navPoint>
+         </navPoint>
+         <navPoint id="d74e36068" playOrder="162" class="div2">
+            <navLabel>
+               <text>18.2 Extension Instructions</text>
+            </navLabel>
+            <content src="d73e36068.html"/>
+            <navPoint id="d74e36125" playOrder="163" class="div3">
+               <navLabel>
+                  <text>18.2.1 Designating an Extension Namespace</text>
+               </navLabel>
+               <content src="d73e36068.html#designating-extension-namespace"/>
+            </navPoint>
+            <navPoint id="d74e36181" playOrder="164" class="div3">
+               <navLabel>
+                  <text>18.2.2 Testing Availability of Instructions</text>
+               </navLabel>
+               <content src="d73e36068.html#testing-instruction-available"/>
+            </navPoint>
+            <navPoint id="d74e36362" playOrder="165" class="div3">
+               <navLabel>
+                  <text>18.2.3 Fallback</text>
+               </navLabel>
+               <content src="d73e36068.html#fallback"/>
+            </navPoint>
+         </navPoint>
+      </navPoint>
+      <navPoint id="d74e36496" playOrder="166" class="div1">
+         <navLabel>
+            <text>19 Final Result Trees</text>
+         </navLabel>
+         <content src="d73e36496.html"/>
+         <navPoint id="d74e36554" playOrder="167" class="div2">
+            <navLabel>
+               <text>19.1 Creating Final Result Trees</text>
+            </navLabel>
+            <content src="d73e36496.html#creating-result-trees"/>
+         </navPoint>
+         <navPoint id="d74e37394" playOrder="168" class="div2">
+            <navLabel>
+               <text>19.2 Validation</text>
+            </navLabel>
+            <content src="d73e37394.html"/>
+            <navPoint id="d74e37539" playOrder="169" class="div3">
+               <navLabel>
+                  <text>19.2.1 Validating Constructed Elements and Attributes</text>
+               </navLabel>
+               <content src="d73e37394.html#validating-constructed-nodes"/>
+               <navPoint id="d74e37545" playOrder="170" class="div4">
+                  <navLabel>
+                     <text>19.2.1.1 Validation using the [xsl:]validation Attribute</text>
+                  </navLabel>
+                  <content src="d73e37394.html#validating-using-validation-attribute"/>
+               </navPoint>
+               <navPoint id="d74e38094" playOrder="171" class="div4">
+                  <navLabel>
+                     <text>19.2.1.2 Validation using the [xsl:]type Attribute</text>
+                  </navLabel>
+                  <content src="d73e37394.html#validation-xsl-type"/>
+               </navPoint>
+               <navPoint id="d74e38269" playOrder="172" class="div4">
+                  <navLabel>
+                     <text>19.2.1.3 The Validation Process</text>
+                  </navLabel>
+                  <content src="d73e37394.html#validation-process"/>
+               </navPoint>
+            </navPoint>
+            <navPoint id="d74e38442" playOrder="173" class="div3">
+               <navLabel>
+                  <text>19.2.2 Validating Document Nodes</text>
+               </navLabel>
+               <content src="d73e37394.html#validating-document-nodes"/>
+            </navPoint>
+         </navPoint>
+      </navPoint>
+      <navPoint id="d74e38678" playOrder="174" class="div1">
+         <navLabel>
+            <text>20 Serialization</text>
+         </navLabel>
+         <content src="d73e38678.html"/>
+         <navPoint id="d74e39549" playOrder="175" class="div2">
+            <navLabel>
+               <text>20.1 Character Maps</text>
+            </navLabel>
+            <content src="d73e38678.html#character-maps"/>
+         </navPoint>
+         <navPoint id="d74e39902" playOrder="176" class="div2">
+            <navLabel>
+               <text>20.2 Disabling Output Escaping</text>
+            </navLabel>
+            <content src="d73e39902.html"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="d74e40179" playOrder="177" class="div1">
+         <navLabel>
+            <text>21 Conformance</text>
+         </navLabel>
+         <content src="d73e40179.html"/>
+         <navPoint id="d74e40344" playOrder="178" class="div2">
+            <navLabel>
+               <text>21.1 Basic XSLT Processor</text>
+            </navLabel>
+            <content src="d73e40179.html#basic-conformance"/>
+         </navPoint>
+         <navPoint id="d74e40612" playOrder="179" class="div2">
+            <navLabel>
+               <text>21.2 Schema-Aware XSLT Processor</text>
+            </navLabel>
+            <content src="d73e40612.html"/>
+         </navPoint>
+         <navPoint id="d74e40643" playOrder="180" class="div2">
+            <navLabel>
+               <text>21.3 Serialization Feature</text>
+            </navLabel>
+            <content src="d73e40643.html"/>
+         </navPoint>
+         <navPoint id="d74e40764" playOrder="181" class="div2">
+            <navLabel>
+               <text>21.4 Backwards Compatibility Feature</text>
+            </navLabel>
+            <content src="d73e40764.html"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="d74e40838" playOrder="182" class="div1">
+         <navLabel>
+            <text>A References</text>
+         </navLabel>
+         <content src="d73e40838.html"/>
+         <navPoint id="d74e40844" playOrder="183" class="div2">
+            <navLabel>
+               <text>A.1 Normative References</text>
+            </navLabel>
+            <content src="d73e40838.html#normative-references"/>
+         </navPoint>
+         <navPoint id="d74e41102" playOrder="184" class="div2">
+            <navLabel>
+               <text>A.2 Other References</text>
+            </navLabel>
+            <content src="d73e41102.html"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="d74e41365" playOrder="185" class="div1">
+         <navLabel>
+            <text>B The XSLT Media Type</text>
+         </navLabel>
+         <content src="d73e41365.html"/>
+         <navPoint id="d74e41380" playOrder="186" class="div2">
+            <navLabel>
+               <text>B.1 Registration of MIME Media Type application/xslt+xml</text>
+            </navLabel>
+            <content src="d73e41365.html#media-type-registration"/>
+         </navPoint>
+         <navPoint id="d74e41567" playOrder="187" class="div2">
+            <navLabel>
+               <text>B.2 Fragment Identifiers</text>
+            </navLabel>
+            <content src="d73e41567.html"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="d74e41584" playOrder="188" class="div1">
+         <navLabel>
+            <text>C Glossary (Non-Normative)</text>
+         </navLabel>
+         <content src="d73e41584.html"/>
+      </navPoint>
+      <navPoint id="d74e44472" playOrder="189" class="div1">
+         <navLabel>
+            <text>D Element Syntax Summary (Non-Normative)</text>
+         </navLabel>
+         <content src="d73e44472.html"/>
+      </navPoint>
+      <navPoint id="d74e47443" playOrder="190" class="div1">
+         <navLabel>
+            <text>E Summary of Error Conditions (Non-Normative)</text>
+         </navLabel>
+         <content src="d73e47443.html"/>
+      </navPoint>
+      <navPoint id="d74e51526" playOrder="191" class="div1">
+         <navLabel>
+            <text>F Checklist of Implementation-Defined Features (Non-Normative)</text>
+         </navLabel>
+         <content src="d73e51526.html"/>
+      </navPoint>
+      <navPoint id="d74e52001" playOrder="192" class="div1">
+         <navLabel>
+            <text>G Schema for XSLT Stylesheets (Non-Normative)</text>
+         </navLabel>
+         <content src="d73e52001.html"/>
+      </navPoint>
+      <navPoint id="d74e52027" playOrder="193" class="div1">
+         <navLabel>
+            <text>H Acknowledgements (Non-Normative)</text>
+         </navLabel>
+         <content src="d73e52027.html"/>
+      </navPoint>
+      <navPoint id="d74e52163" playOrder="194" class="div1">
+         <navLabel>
+            <text>I Checklist of Requirements (Non-Normative)</text>
+         </navLabel>
+         <content src="d73e52163.html"/>
+      </navPoint>
+      <navPoint id="d74e53030" playOrder="195" class="div1">
+         <navLabel>
+            <text>J Changes from XSLT 1.0 (Non-Normative)</text>
+         </navLabel>
+         <content src="d73e53030.html"/>
+         <navPoint id="d74e53036" playOrder="196" class="div2">
+            <navLabel>
+               <text>J.1 Incompatible Changes</text>
+            </navLabel>
+            <content src="d73e53030.html#incompatibilities"/>
+            <navPoint id="d74e53048" playOrder="197" class="div3">
+               <navLabel>
+                  <text>J.1.1 Tree construction: whitespace stripping</text>
+               </navLabel>
+               <content src="d73e53030.html#incompatibility-stripping"/>
+            </navPoint>
+            <navPoint id="d74e53098" playOrder="198" class="div3">
+               <navLabel>
+                  <text>J.1.2 Changes in Serialization Behavior</text>
+               </navLabel>
+               <content src="d73e53030.html#incompatibility-serialization"/>
+            </navPoint>
+            <navPoint id="d74e53135" playOrder="199" class="div3">
+               <navLabel>
+                  <text>J.1.3 Backwards Compatibility Behavior</text>
+               </navLabel>
+               <content src="d73e53030.html#backwards-compatibility-behavior"/>
+            </navPoint>
+            <navPoint id="d74e53288" playOrder="200" class="div3">
+               <navLabel>
+                  <text>J.1.4 Incompatibility in the Absence of a Schema</text>
+               </navLabel>
+               <content src="d73e53030.html#incompatibility-without-schema"/>
+            </navPoint>
+            <navPoint id="d74e53618" playOrder="201" class="div3">
+               <navLabel>
+                  <text>J.1.5 Compatibility in the Presence of a Schema</text>
+               </navLabel>
+               <content src="d73e53030.html#compatibility-with-schema"/>
+            </navPoint>
+            <navPoint id="d74e53694" playOrder="202" class="div3">
+               <navLabel>
+                  <text>J.1.6 XPath 2.0 Backwards Compatibility</text>
+               </navLabel>
+               <content src="d73e53030.html#xpath-compatibility"/>
+            </navPoint>
+         </navPoint>
+         <navPoint id="d74e53715" playOrder="203" class="div2">
+            <navLabel>
+               <text>J.2 New Functionality</text>
+            </navLabel>
+            <content src="d73e53715.html"/>
+            <navPoint id="d74e53740" playOrder="204" class="div3">
+               <navLabel>
+                  <text>J.2.1 Pervasive changes</text>
+               </navLabel>
+               <content src="d73e53715.html#pervasive-changes"/>
+            </navPoint>
+            <navPoint id="d74e53839" playOrder="205" class="div3">
+               <navLabel>
+                  <text>J.2.2 Major Features</text>
+               </navLabel>
+               <content src="d73e53715.html#major-features"/>
+            </navPoint>
+            <navPoint id="d74e54054" playOrder="206" class="div3">
+               <navLabel>
+                  <text>J.2.3 Minor Changes</text>
+               </navLabel>
+               <content src="d73e53715.html#minor-changes"/>
+            </navPoint>
+            <navPoint id="d74e54251" playOrder="207" class="div3">
+               <navLabel>
+                  <text>J.2.4 Changes since Proposed Recommendation</text>
+               </navLabel>
+               <content src="d73e53715.html#changes-2007-01"/>
+            </navPoint>
+         </navPoint>
+      </navPoint>
+   </navMap>
+</ncx>

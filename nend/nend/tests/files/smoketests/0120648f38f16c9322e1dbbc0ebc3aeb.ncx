@@ -1,0 +1,2901 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ncx:ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <ncx:head>
+    <ncx:meta name="cover" content="cover"/>
+    <ncx:meta name="dtb:uid" content="isbn:9780596805692"/>
+    <ncx:meta name="dtb:depth" content="-1"/>
+    <ncx:meta name="dtb:totalPageCount" content="0"/>
+    <ncx:meta name="dtb:maxPageNumber" content="0"/>
+  </ncx:head>
+  <ncx:docTitle>
+    <ncx:text>CSS: The Missing Manual</ncx:text>
+  </ncx:docTitle>
+  <ncx:navMap>
+    <ncx:navPoint id="id2649650" playOrder="1">
+      <ncx:navLabel>
+        <ncx:text>CSS: The Missing Manual</ncx:text>
+      </ncx:navLabel>
+      <ncx:content src="index.html"/>
+      <ncx:navPoint id="id2520722" playOrder="2">
+        <ncx:navLabel>
+          <ncx:text>The Missing Credits</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="pr01.html"/>
+        <ncx:navPoint id="id2520727" playOrder="3">
+          <ncx:navLabel>
+            <ncx:text>About the Author</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr01.html#about_the_author"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2502420" playOrder="4">
+          <ncx:navLabel>
+            <ncx:text>About the Creative Team</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr01s02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2487455" playOrder="5">
+          <ncx:navLabel>
+            <ncx:text>Acknowledgements</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr01s03.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2487496" playOrder="6">
+          <ncx:navLabel>
+            <ncx:text>The Missing Manual Series</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr01s04.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2480699" playOrder="7">
+        <ncx:navLabel>
+          <ncx:text>Introduction</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="pr02.html"/>
+        <ncx:navPoint id="id2480732" playOrder="8">
+          <ncx:navLabel>
+            <ncx:text>How CSS Works</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr02.html#how_css_works"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2480793" playOrder="9">
+          <ncx:navLabel>
+            <ncx:text>The Benefits of CSS</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr02s02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2499931" playOrder="10">
+          <ncx:navLabel>
+            <ncx:text>What You Need to Know</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr02s03.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2499984" playOrder="11">
+          <ncx:navLabel>
+            <ncx:text>HTML: The Barebones Structure</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr02s04.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2500027" playOrder="12">
+          <ncx:navLabel>
+            <ncx:text>How HTML Tags Work</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr02s05.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2500247" playOrder="13">
+          <ncx:navLabel>
+            <ncx:text>XHTML: HTML for the New Era?</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr02s06.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2521382" playOrder="14">
+          <ncx:navLabel>
+            <ncx:text>HTML 5: The Wheel Turns Again</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr02s07.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2521436" playOrder="15">
+          <ncx:navLabel>
+            <ncx:text>Software for CSS</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr02s08.html"/>
+          <ncx:navPoint id="id2521462" playOrder="16">
+            <ncx:navLabel>
+              <ncx:text>Free Programs</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="pr02s08.html#free_programs"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2521546" playOrder="17">
+            <ncx:navLabel>
+              <ncx:text>Commercial Software</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="pr02s08.html#commercial_software"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2521659" playOrder="18">
+          <ncx:navLabel>
+            <ncx:text>About This Book</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr02s09.html"/>
+          <ncx:navPoint id="id2501664" playOrder="19">
+            <ncx:navLabel>
+              <ncx:text>About the Outline</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="pr02s09.html#about_the_outline"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2501748" playOrder="20">
+            <ncx:navLabel>
+              <ncx:text>Living Examples</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="pr02s09.html#living_examples"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2501793" playOrder="21">
+            <ncx:navLabel>
+              <ncx:text>About MissingManuals.com</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="pr02s09.html#about_missingmanualscom"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2501853" playOrder="22">
+          <ncx:navLabel>
+            <ncx:text>The Very Basics</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr02s10.html"/>
+          <ncx:navPoint id="id2501988" playOrder="23">
+            <ncx:navLabel>
+              <ncx:text>About → These → Arrows</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="pr02s10.html#about_rightarrow_these_rightarrow_arrows"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2502069" playOrder="24">
+            <ncx:navLabel>
+              <ncx:text>Safari® Books Online</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="pr02s10.html#safarireg_books_online"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2502097" playOrder="25">
+        <ncx:navLabel>
+          <ncx:text>I. CSS Basics</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="pt01.html"/>
+        <ncx:navPoint id="id2502130" playOrder="26">
+          <ncx:navLabel>
+            <ncx:text>1. Rethinking HTML for CSS</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch01.html"/>
+          <ncx:navPoint id="id2502162" playOrder="27">
+            <ncx:navLabel>
+              <ncx:text>HTML: Past and Present</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01.html#html_past_and_present"/>
+            <ncx:navPoint id="id2521833" playOrder="28">
+              <ncx:navLabel>
+                <ncx:text>HTML Past: Whatever Looked Good</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch01.html#html_past_whatever_looked_good"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2521988" playOrder="29">
+              <ncx:navLabel>
+                <ncx:text>HTML Present: Scaffolding for CSS</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch01.html#html_present_scaffolding_for_css"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2522064" playOrder="30">
+            <ncx:navLabel>
+              <ncx:text>Writing HTML for CSS</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s02.html"/>
+            <ncx:navPoint id="id2522118" playOrder="31">
+              <ncx:navLabel>
+                <ncx:text>Think Structure</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch01s02.html#think_structure"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2522354" playOrder="32">
+              <ncx:navLabel>
+                <ncx:text>Two New HTML Tags to Learn</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch01s02.html#two_new_html_tags_to_learn"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2478547" playOrder="33">
+              <ncx:navLabel>
+                <ncx:text>HTML to Forget</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch01s02.html#html_to_forget"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2478927" playOrder="34">
+              <ncx:navLabel>
+                <ncx:text>Tips to Guide Your Way</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch01s02.html#tips_to_guide_your_way"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2580704" playOrder="35">
+            <ncx:navLabel>
+              <ncx:text>The Importance of the Doctype</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s03.html"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2581085" playOrder="36">
+            <ncx:navLabel>
+              <ncx:text>Getting the Most out of Internet Explorer 8</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s04.html"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2581338" playOrder="37">
+          <ncx:navLabel>
+            <ncx:text>2. Creating Styles and Style Sheets</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02.html"/>
+          <ncx:navPoint id="id2581387" playOrder="38">
+            <ncx:navLabel>
+              <ncx:text>Anatomy of a Style</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02.html#anatomy_of_a_style"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2581894" playOrder="39">
+            <ncx:navLabel>
+              <ncx:text>Understanding Style Sheets</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s02.html"/>
+            <ncx:navPoint id="id2581948" playOrder="40">
+              <ncx:navLabel>
+                <ncx:text>Internal or External—How to Choose</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s02.html#internal_or_externalmdashhow_to_choose"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2582116" playOrder="41">
+            <ncx:navLabel>
+              <ncx:text>Internal Style Sheets</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s03.html"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2517678" playOrder="42">
+            <ncx:navLabel>
+              <ncx:text>External Style Sheets</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s04.html"/>
+            <ncx:navPoint id="id2517894" playOrder="43">
+              <ncx:navLabel>
+                <ncx:text>Linking a Style Sheet Using HTML</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#linking_a_style_sheet_using_html"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2518023" playOrder="44">
+              <ncx:navLabel>
+                <ncx:text>Linking a Style Sheet Using CSS</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#linking_a_style_sheet_using_css"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2518262" playOrder="45">
+            <ncx:navLabel>
+              <ncx:text>Tutorial: Creating Your First Styles</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s05.html"/>
+            <ncx:navPoint id="id2518350" playOrder="46">
+              <ncx:navLabel>
+                <ncx:text>Creating an Inline Style</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s05.html#creating_an_inline_style"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2518634" playOrder="47">
+              <ncx:navLabel>
+                <ncx:text>Creating an Internal Style Sheet</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s05.html#creating_an_internal_style_sheet"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2519134" playOrder="48">
+              <ncx:navLabel>
+                <ncx:text>Creating an External Style Sheet</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s05.html#creating_an_external_style_sheet"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2503590" playOrder="49">
+          <ncx:navLabel>
+            <ncx:text>3. Selectors: Identifying What to Style</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03.html"/>
+          <ncx:navPoint id="id2503683" playOrder="50">
+            <ncx:navLabel>
+              <ncx:text>Tag Selectors: Page-Wide Styling</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03.html#tag_selectors_page-wide_styling"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2503896" playOrder="51">
+            <ncx:navLabel>
+              <ncx:text>Class Selectors: Pinpoint Control</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s02.html"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2504237" playOrder="52">
+            <ncx:navLabel>
+              <ncx:text>ID Selectors: Specific Page Elements</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s03.html"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2504708" playOrder="53">
+            <ncx:navLabel>
+              <ncx:text>Styling Groups of Tags</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s04.html"/>
+            <ncx:navPoint id="id2504738" playOrder="54">
+              <ncx:navLabel>
+                <ncx:text>Constructing Group Selectors</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03s04.html#constructing_group_selectors"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2504827" playOrder="55">
+              <ncx:navLabel>
+                <ncx:text>The Universal Selector (Asterisk)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03s04.html#the_universal_selector_asterisk"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2504903" playOrder="56">
+            <ncx:navLabel>
+              <ncx:text>Styling Tags Within Tags</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s05.html"/>
+            <ncx:navPoint id="id2505016" playOrder="57">
+              <ncx:navLabel>
+                <ncx:text>The HTML Family Tree</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03s05.html#the_html_family_tree"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2505341" playOrder="58">
+              <ncx:navLabel>
+                <ncx:text>Building Descendent Selectors</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03s05.html#building_descendent_selectors"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2505723" playOrder="59">
+            <ncx:navLabel>
+              <ncx:text>Pseudo-Classes and Pseudo-Elements</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s06.html"/>
+            <ncx:navPoint id="id2505766" playOrder="60">
+              <ncx:navLabel>
+                <ncx:text>Styles for Links</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03s06.html#styles_for_links"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2505989" playOrder="61">
+              <ncx:navLabel>
+                <ncx:text>Styling Paragraph Parts</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03s06.html#styling_paragraph_parts"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2506098" playOrder="62">
+              <ncx:navLabel>
+                <ncx:text>More Pseudo-Classes and -Elements</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03s06.html#more_pseudo-classes_and_-elements"/>
+              <ncx:navPoint id="id2506134" playOrder="63">
+                <ncx:navLabel>
+                  <ncx:text>:before</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="ch03s06.html#before"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id2506426" playOrder="64">
+                <ncx:navLabel>
+                  <ncx:text>:after</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="ch03s06.html#after"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id2584025" playOrder="65">
+                <ncx:navLabel>
+                  <ncx:text>:first-child</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="ch03s06.html#first-child"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id2584162" playOrder="66">
+                <ncx:navLabel>
+                  <ncx:text>:focus</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="ch03s06.html#focus"/>
+              </ncx:navPoint>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2584301" playOrder="67">
+            <ncx:navLabel>
+              <ncx:text>Advanced Selectors</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s07.html"/>
+            <ncx:navPoint id="id2584341" playOrder="68">
+              <ncx:navLabel>
+                <ncx:text>Child Selectors</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03s07.html#child_selectors"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2584480" playOrder="69">
+              <ncx:navLabel>
+                <ncx:text>Adjacent Siblings</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03s07.html#adjacent_siblings"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2584706" playOrder="70">
+              <ncx:navLabel>
+                <ncx:text>Attribute Selectors</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03s07.html#attribute_selectors"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2585185" playOrder="71">
+            <ncx:navLabel>
+              <ncx:text>Tutorial: Selector Sampler</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s08.html"/>
+            <ncx:navPoint id="id2585614" playOrder="72">
+              <ncx:navLabel>
+                <ncx:text>Creating a Group Selector</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03s08.html#creating_a_group_selector"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2585777" playOrder="73">
+              <ncx:navLabel>
+                <ncx:text>Creating and Applying a Class Selector</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03s08.html#creating_and_applying_a_class_selector"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2586179" playOrder="74">
+              <ncx:navLabel>
+                <ncx:text>Creating a Descendent Selector</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03s08.html#creating_a_descendent_selector"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2586388" playOrder="75">
+              <ncx:navLabel>
+                <ncx:text>Creating and Applying an ID Selector</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03s08.html#creating_and_applying_an_id_selector"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2586682" playOrder="76">
+              <ncx:navLabel>
+                <ncx:text>Finishing Touches</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03s08.html#finishing_touches"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2586919" playOrder="77">
+          <ncx:navLabel>
+            <ncx:text>4. Saving Time with Style Inheritance</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04.html"/>
+          <ncx:navPoint id="id2586947" playOrder="78">
+            <ncx:navLabel>
+              <ncx:text>What Is Inheritance?</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04.html#what_is_inheritance"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2587175" playOrder="79">
+            <ncx:navLabel>
+              <ncx:text>How Inheritance Streamlines Style Sheets</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s02.html"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2587268" playOrder="80">
+            <ncx:navLabel>
+              <ncx:text>The Limits of Inheritance</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s03.html"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2587451" playOrder="81">
+            <ncx:navLabel>
+              <ncx:text>Tutorial: Inheritance</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s04.html"/>
+            <ncx:navPoint id="id2587516" playOrder="82">
+              <ncx:navLabel>
+                <ncx:text>A Basic Example: One Level of Inheritance</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s04.html#a_basic_example_one_level_of_inheritance"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2587794" playOrder="83">
+              <ncx:navLabel>
+                <ncx:text>Using Inheritance to Restyle an Entire Page</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s04.html#using_inheritance_to_restyle_an_entire_p"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2588170" playOrder="84">
+              <ncx:navLabel>
+                <ncx:text>Inheritance Inaction</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s04.html#inheritance_inaction"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2506789" playOrder="85">
+          <ncx:navLabel>
+            <ncx:text>5. Managing Multiple Styles: The Cascade</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05.html"/>
+          <ncx:navPoint id="id2506919" playOrder="86">
+            <ncx:navLabel>
+              <ncx:text>How Styles Cascade</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05.html#how_styles_cascade"/>
+            <ncx:navPoint id="id2506953" playOrder="87">
+              <ncx:navLabel>
+                <ncx:text>Inherited Styles Accumulate</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch05.html#inherited_styles_accumulate"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2507083" playOrder="88">
+              <ncx:navLabel>
+                <ncx:text>Nearest Ancestor Wins</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch05.html#nearest_ancestor_wins"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2507157" playOrder="89">
+              <ncx:navLabel>
+                <ncx:text>The Directly Applied Style Wins</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch05.html#the_directly_applied_style_wins"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2507278" playOrder="90">
+              <ncx:navLabel>
+                <ncx:text>One Tag, Many Styles</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch05.html#one_tag_many_styles"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2507616" playOrder="91">
+            <ncx:navLabel>
+              <ncx:text>Specificity: Which Style Wins</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s02.html"/>
+            <ncx:navPoint id="id2507981" playOrder="92">
+              <ncx:navLabel>
+                <ncx:text>The Tiebreaker: Last Style Wins</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch05s02.html#the_tiebreaker_last_style_wins"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2508410" playOrder="93">
+            <ncx:navLabel>
+              <ncx:text>Controlling the Cascade</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s03.html"/>
+            <ncx:navPoint id="id2508459" playOrder="94">
+              <ncx:navLabel>
+                <ncx:text>Changing the Specificity</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch05s03.html#changing_the_specificity"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2508544" playOrder="95">
+              <ncx:navLabel>
+                <ncx:text>Selective Overriding</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch05s03.html#selective_overriding"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2508776" playOrder="96">
+              <ncx:navLabel>
+                <ncx:text>Starting with a Clean Slate</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch05s03.html#starting_with_a_clean_slate"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2508982" playOrder="97">
+            <ncx:navLabel>
+              <ncx:text>Tutorial: The Cascade in Action</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s04.html"/>
+            <ncx:navPoint id="id2509029" playOrder="98">
+              <ncx:navLabel>
+                <ncx:text>Resetting CSS and Styling from Scratch</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch05s04.html#resetting_css_and_styling_from_scratch"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2509358" playOrder="99">
+              <ncx:navLabel>
+                <ncx:text>Creating a Hybrid Style</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch05s04.html#creating_a_hybrid_style"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2509563" playOrder="100">
+              <ncx:navLabel>
+                <ncx:text>Overcoming Conflicts</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch05s04.html#overcoming_conflicts"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2509911" playOrder="101">
+        <ncx:navLabel>
+          <ncx:text>II. Applied CSS</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="pt02.html"/>
+        <ncx:navPoint id="id2509943" playOrder="102">
+          <ncx:navLabel>
+            <ncx:text>6. Formatting Text</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06.html"/>
+          <ncx:navPoint id="id2509992" playOrder="103">
+            <ncx:navLabel>
+              <ncx:text>Formatting Text</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06.html#formatting_text-id001"/>
+            <ncx:navPoint id="id2510093" playOrder="104">
+              <ncx:navLabel>
+                <ncx:text>Choosing a Font</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06.html#choosing_a_font"/>
+              <ncx:navPoint id="id2510241" playOrder="105">
+                <ncx:navLabel>
+                  <ncx:text>Serif fonts</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="ch06.html#serif_fonts"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id2510356" playOrder="106">
+                <ncx:navLabel>
+                  <ncx:text>Sans-serif fonts</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="ch06.html#sans-serif_fonts"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id2510464" playOrder="107">
+                <ncx:navLabel>
+                  <ncx:text>Monospaced and fun fonts</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="ch06.html#monospaced_and_fun_fonts"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id2510519" playOrder="108">
+                <ncx:navLabel>
+                  <ncx:text>Additional fonts to consider</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="ch06.html#additional_fonts_to_consider"/>
+              </ncx:navPoint>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2510691" playOrder="109">
+              <ncx:navLabel>
+                <ncx:text>Adding Color to Text</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06.html#adding_color_to_text"/>
+              <ncx:navPoint id="id2510774" playOrder="110">
+                <ncx:navLabel>
+                  <ncx:text>Hexadecimal color notation</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="ch06.html#hexadecimal_color_notation"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id2510847" playOrder="111">
+                <ncx:navLabel>
+                  <ncx:text>RGB</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="ch06.html#rgb"/>
+              </ncx:navPoint>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2510908" playOrder="112">
+            <ncx:navLabel>
+              <ncx:text>Changing Font Size</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s02.html"/>
+            <ncx:navPoint id="id2511022" playOrder="113">
+              <ncx:navLabel>
+                <ncx:text>Using Pixels</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s02.html#using_pixels"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2511199" playOrder="114">
+              <ncx:navLabel>
+                <ncx:text>Using Keywords, Percentages, and Ems</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s02.html#using_keywords_percentages_and_ems"/>
+              <ncx:navPoint id="id2511260" playOrder="115">
+                <ncx:navLabel>
+                  <ncx:text>Keywords</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="ch06s02.html#keywords"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id2511351" playOrder="116">
+                <ncx:navLabel>
+                  <ncx:text>Percentages</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="ch06s02.html#percentages"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id2511502" playOrder="117">
+                <ncx:navLabel>
+                  <ncx:text>Ems</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="ch06s02.html#ems"/>
+              </ncx:navPoint>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2511731" playOrder="118">
+            <ncx:navLabel>
+              <ncx:text>Formatting Words and Letters</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s03.html"/>
+            <ncx:navPoint id="id2511764" playOrder="119">
+              <ncx:navLabel>
+                <ncx:text>Italicizing and Bolding</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#italicizing_and_bolding"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2511955" playOrder="120">
+              <ncx:navLabel>
+                <ncx:text>Capitalizing</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#capitalizing"/>
+              <ncx:navPoint id="id2512073" playOrder="121">
+                <ncx:navLabel>
+                  <ncx:text>Small caps</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="ch06s03.html#small_caps"/>
+              </ncx:navPoint>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2512115" playOrder="122">
+              <ncx:navLabel>
+                <ncx:text>Decorating</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#decorating"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2574456" playOrder="123">
+              <ncx:navLabel>
+                <ncx:text>Letter and Word Spacing</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#letter_and_word_spacing"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2574597" playOrder="124">
+            <ncx:navLabel>
+              <ncx:text>Formatting Entire Paragraphs</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s04.html"/>
+            <ncx:navPoint id="id2574608" playOrder="125">
+              <ncx:navLabel>
+                <ncx:text>Adjusting the Space Between Lines</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s04.html#adjusting_the_space_between_lines"/>
+              <ncx:navPoint id="id2574672" playOrder="126">
+                <ncx:navLabel>
+                  <ncx:text>Line spacing by pixel, em, or percentage</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="ch06s04.html#line_spacing_by_pixel_em_or_percentage"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id2574781" playOrder="127">
+                <ncx:navLabel>
+                  <ncx:text>Line spacing by number</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="ch06s04.html#line_spacing_by_number"/>
+              </ncx:navPoint>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2574859" playOrder="128">
+              <ncx:navLabel>
+                <ncx:text>Aligning Text</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s04.html#aligning_text"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2574977" playOrder="129">
+              <ncx:navLabel>
+                <ncx:text>Indenting the First Line and Removing Margins</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s04.html#indenting_the_first_line_and_removing_ma"/>
+              <ncx:navPoint id="id2575025" playOrder="130">
+                <ncx:navLabel>
+                  <ncx:text>First-line indents</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="ch06s04.html#first-line_indents"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id2575289" playOrder="131">
+                <ncx:navLabel>
+                  <ncx:text>Controlling margins between paragraphs</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="ch06s04.html#controlling_margins_between_paragraphs"/>
+              </ncx:navPoint>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2575430" playOrder="132">
+              <ncx:navLabel>
+                <ncx:text>Formatting the First Letter or First Line of a Paragraph</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s04.html#formatting_the_first_letter_or_first_lin"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2575646" playOrder="133">
+            <ncx:navLabel>
+              <ncx:text>Styling Lists</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s05.html"/>
+            <ncx:navPoint id="id2575679" playOrder="134">
+              <ncx:navLabel>
+                <ncx:text>Types of Lists</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s05.html#types_of_lists"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2575917" playOrder="135">
+              <ncx:navLabel>
+                <ncx:text>Positioning Bullets and Numbers</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s05.html#positioning_bullets_and_numbers"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2576162" playOrder="136">
+              <ncx:navLabel>
+                <ncx:text>Graphic Bullets</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s05.html#graphic_bullets"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2576540" playOrder="137">
+            <ncx:navLabel>
+              <ncx:text>Tutorial: Text Formatting in Action</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s06.html"/>
+            <ncx:navPoint id="id2576592" playOrder="138">
+              <ncx:navLabel>
+                <ncx:text>Setting Up the Page</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s06.html#setting_up_the_page"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2576927" playOrder="139">
+              <ncx:navLabel>
+                <ncx:text>Formatting the Headings and Paragraphs</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s06.html#formatting_the_headings_and_paragraphs"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2577425" playOrder="140">
+              <ncx:navLabel>
+                <ncx:text>Formatting Lists</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s06.html#formatting_lists"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2577641" playOrder="141">
+              <ncx:navLabel>
+                <ncx:text>Fine-Tuning with Classes</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s06.html#fine-tuning_with_classes"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2577884" playOrder="142">
+              <ncx:navLabel>
+                <ncx:text>Adding the Finishing Touches</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s06.html#adding_the_finishing_touches"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2578319" playOrder="143">
+          <ncx:navLabel>
+            <ncx:text>7. Margins, Padding, and Borders</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07.html"/>
+          <ncx:navPoint id="id2578388" playOrder="144">
+            <ncx:navLabel>
+              <ncx:text>Understanding the Box Model</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07.html#understanding_the_box_model"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2578577" playOrder="145">
+            <ncx:navLabel>
+              <ncx:text>Control Space with Margins and Padding</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s02.html"/>
+            <ncx:navPoint id="id2578897" playOrder="146">
+              <ncx:navLabel>
+                <ncx:text>Margin and Padding Shorthand</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s02.html#margin_and_padding_shorthand"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2579055" playOrder="147">
+              <ncx:navLabel>
+                <ncx:text>Colliding Margins</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s02.html#colliding_margins"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2579245" playOrder="148">
+              <ncx:navLabel>
+                <ncx:text>Removing Space with Negative Margins</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s02.html#removing_space_with_negative_margins"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2579462" playOrder="149">
+              <ncx:navLabel>
+                <ncx:text>Displaying Inline and Block-Level Boxes</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s02.html#displaying_inline_and_block-level_boxes"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2579850" playOrder="150">
+            <ncx:navLabel>
+              <ncx:text>Adding Borders</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s03.html"/>
+            <ncx:navPoint id="id2580046" playOrder="151">
+              <ncx:navLabel>
+                <ncx:text>Border Property Shorthand</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s03.html#border_property_shorthand"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2580128" playOrder="152">
+              <ncx:navLabel>
+                <ncx:text>Formatting Individual Borders</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s03.html#formatting_individual_borders"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2487716" playOrder="153">
+            <ncx:navLabel>
+              <ncx:text>Coloring the Background</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s04.html"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2487850" playOrder="154">
+            <ncx:navLabel>
+              <ncx:text>Determining Height and Width</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s05.html"/>
+            <ncx:navPoint id="id2488090" playOrder="155">
+              <ncx:navLabel>
+                <ncx:text>Calculating a Box's Actual Width and Height</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s05.html#calculating_a_boxs_actual_width_and_heig"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2487343" playOrder="156">
+              <ncx:navLabel>
+                <ncx:text>Controlling the Tap with the Overflow Property</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s05.html#controlling_the_tap_with_the_overflow_pr"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2488896" playOrder="157">
+            <ncx:navLabel>
+              <ncx:text>Wrap Content with Floating Elements</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s06.html"/>
+            <ncx:navPoint id="id2489237" playOrder="158">
+              <ncx:navLabel>
+                <ncx:text>Backgrounds, Borders, and Floats</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s06.html#backgrounds_borders_and_floats"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2489381" playOrder="159">
+              <ncx:navLabel>
+                <ncx:text>Stopping the Float</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s06.html#stopping_the_float"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2489713" playOrder="160">
+            <ncx:navLabel>
+              <ncx:text>Tutorial: Margins, Backgrounds, and Borders</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s07.html"/>
+            <ncx:navPoint id="id2489756" playOrder="161">
+              <ncx:navLabel>
+                <ncx:text>Controlling Page Margins and Backgrounds</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s07.html#controlling_page_margins_and_backgrounds"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2490287" playOrder="162">
+              <ncx:navLabel>
+                <ncx:text>Adjusting the Space Around Tags</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s07.html#adjusting_the_space_around_tags"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2490660" playOrder="163">
+              <ncx:navLabel>
+                <ncx:text>Building a Sidebar</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s07.html#building_a_sidebar"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2491166" playOrder="164">
+              <ncx:navLabel>
+                <ncx:text>Fixing the Browser Bugs</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s07.html#fixing_the_browser_bugs"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2491441" playOrder="165">
+              <ncx:navLabel>
+                <ncx:text>Going Further</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch07s07.html#going_further"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2491488" playOrder="166">
+          <ncx:navLabel>
+            <ncx:text>8. Adding Graphics to Web Pages</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08.html"/>
+          <ncx:navPoint id="id2491544" playOrder="167">
+            <ncx:navLabel>
+              <ncx:text>CSS and the &lt;img&gt; Tag</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08.html#css_and_the_img_tag"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2491825" playOrder="168">
+            <ncx:navLabel>
+              <ncx:text>Background Images</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s02.html"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2492564" playOrder="169">
+            <ncx:navLabel>
+              <ncx:text>Controlling Repetition</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s03.html"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2492747" playOrder="170">
+            <ncx:navLabel>
+              <ncx:text>Positioning a Background Image</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s04.html"/>
+            <ncx:navPoint id="id2492819" playOrder="171">
+              <ncx:navLabel>
+                <ncx:text>Keywords</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s04.html#keywords-id001"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2493105" playOrder="172">
+              <ncx:navLabel>
+                <ncx:text>Precise Values</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s04.html#precise_values"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2493212" playOrder="173">
+              <ncx:navLabel>
+                <ncx:text>Percentage Values</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s04.html#percentage_values"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2493434" playOrder="174">
+              <ncx:navLabel>
+                <ncx:text>Fixing an Image in Place</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s04.html#fixing_an_image_in_place"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2493539" playOrder="175">
+            <ncx:navLabel>
+              <ncx:text>Using Background Property Shorthand</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s05.html"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2493906" playOrder="176">
+            <ncx:navLabel>
+              <ncx:text>Tutorial: Enhancing Images</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s06.html"/>
+            <ncx:navPoint id="id2588367" playOrder="177">
+              <ncx:navLabel>
+                <ncx:text>Framing an Image</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s06.html#framing_an_image"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2588734" playOrder="178">
+              <ncx:navLabel>
+                <ncx:text>Adding a Caption</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s06.html#adding_a_caption"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2589349" playOrder="179">
+            <ncx:navLabel>
+              <ncx:text>Tutorial: Creating a Photo Gallery</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s07.html"/>
+            <ncx:navPoint id="id2590034" playOrder="180">
+              <ncx:navLabel>
+                <ncx:text>Adding Drop Shadows</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s07.html#adding_drop_shadows"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2590484" playOrder="181">
+            <ncx:navLabel>
+              <ncx:text>Tutorial: Using Background Images</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s08.html"/>
+            <ncx:navPoint id="id2590540" playOrder="182">
+              <ncx:navLabel>
+                <ncx:text>Adding an Image to the Page Background</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s08.html#adding_an_image_to_the_page_background"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2590907" playOrder="183">
+              <ncx:navLabel>
+                <ncx:text>Replacing Borders with Graphics</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s08.html#replacing_borders_with_graphics"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2591203" playOrder="184">
+              <ncx:navLabel>
+                <ncx:text>Using Graphics for Bulleted Lists</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s08.html#using_graphics_for_bulleted_lists"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2591617" playOrder="185">
+              <ncx:navLabel>
+                <ncx:text>Giving the Sidebar Personality</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s08.html#giving_the_sidebar_personality"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2592271" playOrder="186">
+              <ncx:navLabel>
+                <ncx:text>Going Further</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s08.html#going_further-id001"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2592376" playOrder="187">
+          <ncx:navLabel>
+            <ncx:text>9. Sprucing Up Your Site's Navigation</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch09.html"/>
+          <ncx:navPoint id="id2592414" playOrder="188">
+            <ncx:navLabel>
+              <ncx:text>Selecting Which Links to Style</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09.html#selecting_which_links_to_style"/>
+            <ncx:navPoint id="id2592450" playOrder="189">
+              <ncx:navLabel>
+                <ncx:text>Understanding Link States</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09.html#understanding_link_states"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2592799" playOrder="190">
+              <ncx:navLabel>
+                <ncx:text>Targeting Particular Links</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09.html#targeting_particular_links"/>
+              <ncx:navPoint id="id2592899" playOrder="191">
+                <ncx:navLabel>
+                  <ncx:text>Grouping links with descendent selectors</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="ch09.html#grouping_links_with_descendent_selectors"/>
+              </ncx:navPoint>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2592986" playOrder="192">
+            <ncx:navLabel>
+              <ncx:text>Styling Links</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s02.html"/>
+            <ncx:navPoint id="id2593063" playOrder="193">
+              <ncx:navLabel>
+                <ncx:text>Underlining Links</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s02.html#underlining_links"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2593374" playOrder="194">
+              <ncx:navLabel>
+                <ncx:text>Creating a Button</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s02.html#creating_a_button"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2593643" playOrder="195">
+              <ncx:navLabel>
+                <ncx:text>Using Graphics</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s02.html#using_graphics"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2593975" playOrder="196">
+            <ncx:navLabel>
+              <ncx:text>Building Navigation Bars</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s03.html"/>
+            <ncx:navPoint id="id2594014" playOrder="197">
+              <ncx:navLabel>
+                <ncx:text>Using Unordered Lists</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s03.html#using_unordered_lists"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2594267" playOrder="198">
+              <ncx:navLabel>
+                <ncx:text>Vertical Navigation Bars</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s03.html#vertical_navigation_bars"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2594610" playOrder="199">
+              <ncx:navLabel>
+                <ncx:text>Horizontal Navigation Bars</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s03.html#horizontal_navigation_bars"/>
+              <ncx:navPoint id="id2594801" playOrder="200">
+                <ncx:navLabel>
+                  <ncx:text>Using display: inline</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="ch09s03.html#using_display_inline"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id2595085" playOrder="201">
+                <ncx:navLabel>
+                  <ncx:text>Using floats for horizontal navigation</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="ch09s03.html#using_floats_for_horizontal_navigation"/>
+              </ncx:navPoint>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2595710" playOrder="202">
+            <ncx:navLabel>
+              <ncx:text>Advanced Link Techniques</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s04.html"/>
+            <ncx:navPoint id="id2595726" playOrder="203">
+              <ncx:navLabel>
+                <ncx:text>Big Clickable Buttons</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s04.html#big_clickable_buttons"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2595934" playOrder="204">
+              <ncx:navLabel>
+                <ncx:text>CSS-Style Preloading Rollovers</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s04.html#css-style_preloading_rollovers"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2596271" playOrder="205">
+              <ncx:navLabel>
+                <ncx:text>Sliding Doors</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s04.html#sliding_doors"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2596602" playOrder="206">
+              <ncx:navLabel>
+                <ncx:text>Styling Particular Types of Links</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s04.html#styling_particular_types_of_links"/>
+              <ncx:navPoint id="id2524433" playOrder="207">
+                <ncx:navLabel>
+                  <ncx:text>Links to other websites</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="ch09s04.html#links_to_other_websites"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id2524627" playOrder="208">
+                <ncx:navLabel>
+                  <ncx:text>Email links</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="ch09s04.html#email_links"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id2524682" playOrder="209">
+                <ncx:navLabel>
+                  <ncx:text>Links to specific types of files</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="ch09s04.html#links_to_specific_types_of_files"/>
+              </ncx:navPoint>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2524811" playOrder="210">
+            <ncx:navLabel>
+              <ncx:text>Tutorial: Styling Links</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s05.html"/>
+            <ncx:navPoint id="id2524848" playOrder="211">
+              <ncx:navLabel>
+                <ncx:text>Basic Link Formatting</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s05.html#basic_link_formatting"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2525278" playOrder="212">
+              <ncx:navLabel>
+                <ncx:text>Adding a Background Image to a Link</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s05.html#adding_a_background_image_to_a_link"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2525500" playOrder="213">
+              <ncx:navLabel>
+                <ncx:text>Highlighting Different Links</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s05.html#highlighting_different_links"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2525834" playOrder="214">
+            <ncx:navLabel>
+              <ncx:text>Tutorial: Creating a Navigation Bar</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s06.html"/>
+            <ncx:navPoint id="id2526457" playOrder="215">
+              <ncx:navLabel>
+                <ncx:text>Adding Rollovers and Creating "You Are Here" Links</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s06.html#adding_rollovers_and_creating_you_are_he"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2527010" playOrder="216">
+              <ncx:navLabel>
+                <ncx:text>Fixing the IE Bugs</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s06.html#fixing_the_ie_bugs"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2527200" playOrder="217">
+              <ncx:navLabel>
+                <ncx:text>From Vertical to Horizontal</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s06.html#from_vertical_to_horizontal"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2527810" playOrder="218">
+          <ncx:navLabel>
+            <ncx:text>10. Formatting Tables and Forms</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch10.html"/>
+          <ncx:navPoint id="id2527840" playOrder="219">
+            <ncx:navLabel>
+              <ncx:text>Using Tables the Right Way</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10.html#using_tables_the_right_way"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2528133" playOrder="220">
+            <ncx:navLabel>
+              <ncx:text>Styling Tables</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s02.html"/>
+            <ncx:navPoint id="id2528225" playOrder="221">
+              <ncx:navLabel>
+                <ncx:text>Adding Padding</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch10s02.html#adding_padding"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2528376" playOrder="222">
+              <ncx:navLabel>
+                <ncx:text>Adjusting Vertical and Horizontal Alignment</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch10s02.html#adjusting_vertical_and_horizontal_alignm"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2528677" playOrder="223">
+              <ncx:navLabel>
+                <ncx:text>Creating Borders</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch10s02.html#creating_borders"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2528922" playOrder="224">
+              <ncx:navLabel>
+                <ncx:text>Styling Rows and Columns</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch10s02.html#styling_rows_and_columns"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2529325" playOrder="225">
+            <ncx:navLabel>
+              <ncx:text>Styling Forms</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s03.html"/>
+            <ncx:navPoint id="id2529460" playOrder="226">
+              <ncx:navLabel>
+                <ncx:text>HTML Form Elements</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch10s03.html#html_form_elements"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2530082" playOrder="227">
+              <ncx:navLabel>
+                <ncx:text>Laying Out Forms Using CSS</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch10s03.html#laying_out_forms_using_css"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2530438" playOrder="228">
+            <ncx:navLabel>
+              <ncx:text>Tutorial: Styling a Table</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s04.html"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2531354" playOrder="229">
+            <ncx:navLabel>
+              <ncx:text>Tutorial: Styling a Form</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s05.html"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2532183" playOrder="230">
+        <ncx:navLabel>
+          <ncx:text>III. CSS Page Layout</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="pt03.html"/>
+        <ncx:navPoint id="id2532206" playOrder="231">
+          <ncx:navLabel>
+            <ncx:text>11. Introducing CSS Layout</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch11.html"/>
+          <ncx:navPoint id="id2532230" playOrder="232">
+            <ncx:navLabel>
+              <ncx:text>Types of Web Page Layouts</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch11.html#types_of_web_page_layouts"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2532537" playOrder="233">
+            <ncx:navLabel>
+              <ncx:text>How CSS Layout Works</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch11s02.html"/>
+            <ncx:navPoint id="id2532706" playOrder="234">
+              <ncx:navLabel>
+                <ncx:text>The Mighty &lt;div&gt; Tag</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch11s02.html#the_mighty_div_tag"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2532968" playOrder="235">
+              <ncx:navLabel>
+                <ncx:text>Techniques for CSS Layout</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch11s02.html#techniques_for_css_layout"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2533080" playOrder="236">
+            <ncx:navLabel>
+              <ncx:text>Layout Strategies</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch11s03.html"/>
+            <ncx:navPoint id="id2533169" playOrder="237">
+              <ncx:navLabel>
+                <ncx:text>Start with Your Content</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch11s03.html#start_with_your_content"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2533229" playOrder="238">
+              <ncx:navLabel>
+                <ncx:text>Mock Up Your Design</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch11s03.html#mock_up_your_design"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2533293" playOrder="239">
+              <ncx:navLabel>
+                <ncx:text>Identify the Boxes</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch11s03.html#identify_the_boxes"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2533412" playOrder="240">
+              <ncx:navLabel>
+                <ncx:text>Go with the Flow</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch11s03.html#go_with_the_flow"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2533461" playOrder="241">
+              <ncx:navLabel>
+                <ncx:text>Remember Background Images</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch11s03.html#remember_background_images"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2533602" playOrder="242">
+              <ncx:navLabel>
+                <ncx:text>Pieces of a Puzzle</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch11s03.html#pieces_of_a_puzzle"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2533688" playOrder="243">
+              <ncx:navLabel>
+                <ncx:text>Layering Elements</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch11s03.html#layering_elements"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2533747" playOrder="244">
+              <ncx:navLabel>
+                <ncx:text>Don't Forget Margins and Padding</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch11s03.html#dont_forget_margins_and_padding"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2533808" playOrder="245">
+          <ncx:navLabel>
+            <ncx:text>12. Building Float-Based Layouts</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch12.html"/>
+          <ncx:navPoint id="id2534262" playOrder="246">
+            <ncx:navLabel>
+              <ncx:text>Applying Floats to Your Layouts</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12.html#applying_floats_to_your_layouts"/>
+            <ncx:navPoint id="id2534392" playOrder="247">
+              <ncx:navLabel>
+                <ncx:text>Floating All Columns</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12.html#floating_all_columns"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2534708" playOrder="248">
+              <ncx:navLabel>
+                <ncx:text>Floats Within Floats</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12.html#floats_within_floats"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2534820" playOrder="249">
+              <ncx:navLabel>
+                <ncx:text>Using Negative Margins to Position Elements</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12.html#using_negative_margins_to_position_eleme"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2535621" playOrder="250">
+            <ncx:navLabel>
+              <ncx:text>Overcoming Float Problems</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12s02.html"/>
+            <ncx:navPoint id="id2535663" playOrder="251">
+              <ncx:navLabel>
+                <ncx:text>Clearing and Containing Floats</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12s02.html#clearing_and_containing_floats"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2536266" playOrder="252">
+              <ncx:navLabel>
+                <ncx:text>Creating Full-Height Columns</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12s02.html#creating_full-height_columns"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2536600" playOrder="253">
+              <ncx:navLabel>
+                <ncx:text>Preventing Float Drops</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12s02.html#preventing_float_drops"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2537007" playOrder="254">
+            <ncx:navLabel>
+              <ncx:text>Handling Internet Explorer 6 Bugs</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12s03.html"/>
+            <ncx:navPoint id="id2537039" playOrder="255">
+              <ncx:navLabel>
+                <ncx:text>Double-Margin Bug</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12s03.html#double-margin_bug"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2537291" playOrder="256">
+              <ncx:navLabel>
+                <ncx:text>3-Pixel Gaps</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12s03.html#three-pixel_gaps"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2537626" playOrder="257">
+              <ncx:navLabel>
+                <ncx:text>Other IE Problems</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12s03.html#other_ie_problems"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2537907" playOrder="258">
+            <ncx:navLabel>
+              <ncx:text>Tutorial: Multiple-Column Layouts</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12s04.html"/>
+            <ncx:navPoint id="id2537972" playOrder="259">
+              <ncx:navLabel>
+                <ncx:text>Structuring the HTML</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12s04.html#structuring_the_html"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2538152" playOrder="260">
+              <ncx:navLabel>
+                <ncx:text>Creating the Layout Styles</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12s04.html#creating_the_layout_styles"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2538323" playOrder="261">
+              <ncx:navLabel>
+                <ncx:text>Adding Another Column</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12s04.html#adding_another_column"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2538587" playOrder="262">
+              <ncx:navLabel>
+                <ncx:text>Adding a "Faux Column"</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12s04.html#adding_a_faux_column"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2538873" playOrder="263">
+              <ncx:navLabel>
+                <ncx:text>Fixing the Width</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12s04.html#fixing_the_width"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2539112" playOrder="264">
+            <ncx:navLabel>
+              <ncx:text>Tutorial: Negative Margin Layout</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12s05.html"/>
+            <ncx:navPoint id="id2539145" playOrder="265">
+              <ncx:navLabel>
+                <ncx:text>Centering a Layout</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12s05.html#centering_a_layout"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2539598" playOrder="266">
+              <ncx:navLabel>
+                <ncx:text>Floating the Columns</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12s05.html#floating_the_columns"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2540151" playOrder="267">
+              <ncx:navLabel>
+                <ncx:text>Final Adjustments</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12s05.html#final_adjustments"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2540380" playOrder="268">
+          <ncx:navLabel>
+            <ncx:text>13. Positioning Elements on a Web Page</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch13.html"/>
+          <ncx:navPoint id="id2540436" playOrder="269">
+            <ncx:navLabel>
+              <ncx:text>How Positioning Properties Work</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch13.html#how_positioning_properties_work"/>
+            <ncx:navPoint id="id2540815" playOrder="270">
+              <ncx:navLabel>
+                <ncx:text>Setting Positioning Values</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch13.html#setting_positioning_values"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2541287" playOrder="271">
+              <ncx:navLabel>
+                <ncx:text>When Absolute Positioning Is Relative</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch13.html#when_absolute_positioning_is_relative"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2541545" playOrder="272">
+              <ncx:navLabel>
+                <ncx:text>When (and Where) to Use Relative Positioning</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch13.html#when_and_where_to_use_relative_positioni"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2541980" playOrder="273">
+              <ncx:navLabel>
+                <ncx:text>Stacking Elements</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch13.html#stacking_elements"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2542150" playOrder="274">
+              <ncx:navLabel>
+                <ncx:text>Hiding Parts of a Page</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch13.html#hiding_parts_of_a_page"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2542297" playOrder="275">
+            <ncx:navLabel>
+              <ncx:text>Powerful Positioning Strategies</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch13s02.html"/>
+            <ncx:navPoint id="id2542368" playOrder="276">
+              <ncx:navLabel>
+                <ncx:text>Positioning Within an Element</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch13s02.html#positioning_within_an_element"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2542584" playOrder="277">
+              <ncx:navLabel>
+                <ncx:text>Breaking an Element Out of the Box</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch13s02.html#breaking_an_element_out_of_the_box"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2542767" playOrder="278">
+              <ncx:navLabel>
+                <ncx:text>Using CSS Positioning for Page Layout</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch13s02.html#using_css_positioning_for_page_layout"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2543425" playOrder="279">
+              <ncx:navLabel>
+                <ncx:text>Creating CSS-Style Frames Using Fixed Positioning</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch13s02.html#creating_css-style_frames_using_fixed_po"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2543957" playOrder="280">
+            <ncx:navLabel>
+              <ncx:text>Tutorial: Positioning Page Elements</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch13s03.html"/>
+            <ncx:navPoint id="id2544000" playOrder="281">
+              <ncx:navLabel>
+                <ncx:text>Enhancing a Page Banner</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch13s03.html#enhancing_a_page_banner"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2544668" playOrder="282">
+              <ncx:navLabel>
+                <ncx:text>Adding a Caption to a Photo</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch13s03.html#adding_a_caption_to_a_photo"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2545184" playOrder="283">
+              <ncx:navLabel>
+                <ncx:text>Laying Out the Page</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch13s03.html#laying_out_the_page"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2545900" playOrder="284">
+        <ncx:navLabel>
+          <ncx:text>IV. Advanced CSS</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="pt04.html"/>
+        <ncx:navPoint id="id2545924" playOrder="285">
+          <ncx:navLabel>
+            <ncx:text>14. CSS for the Printed Page</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch14.html"/>
+          <ncx:navPoint id="id2545977" playOrder="286">
+            <ncx:navLabel>
+              <ncx:text>How Media Style Sheets Work</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14.html#how_media_style_sheets_work"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2546213" playOrder="287">
+            <ncx:navLabel>
+              <ncx:text>How to Add Media Style Sheets</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14s02.html"/>
+            <ncx:navPoint id="id2546243" playOrder="288">
+              <ncx:navLabel>
+                <ncx:text>Specifying the Media Type for an External Style Sheet</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch14s02.html#specifying_the_media_type_for_an_externa"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2546375" playOrder="289">
+              <ncx:navLabel>
+                <ncx:text>Specifying the Media Type Within a Style Sheet</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch14s02.html#specifying_the_media_type_within_a_style"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2546484" playOrder="290">
+            <ncx:navLabel>
+              <ncx:text>Creating Print Style Sheets</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14s03.html"/>
+            <ncx:navPoint id="id2546595" playOrder="291">
+              <ncx:navLabel>
+                <ncx:text>Using !important to Override Onscreen Styling</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch14s03.html#using_important_to_override_onscreen_sty"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2546776" playOrder="292">
+              <ncx:navLabel>
+                <ncx:text>Reworking Text Styles</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch14s03.html#reworking_text_styles"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2546993" playOrder="293">
+              <ncx:navLabel>
+                <ncx:text>Styling Backgrounds for Print</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch14s03.html#styling_backgrounds_for_print"/>
+              <ncx:navPoint id="id2547061" playOrder="294">
+                <ncx:navLabel>
+                  <ncx:text>Removing background elements</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="ch14s03.html#removing_background_elements"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id2547178" playOrder="295">
+                <ncx:navLabel>
+                  <ncx:text>Leaving background elements in</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="ch14s03.html#leaving_background_elements_in"/>
+              </ncx:navPoint>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2547354" playOrder="296">
+              <ncx:navLabel>
+                <ncx:text>Hiding Unwanted Page Areas</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch14s03.html#hiding_unwanted_page_areas"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2547657" playOrder="297">
+              <ncx:navLabel>
+                <ncx:text>Adding Page Breaks for Printing</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch14s03.html#adding_page_breaks_for_printing"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2547842" playOrder="298">
+            <ncx:navLabel>
+              <ncx:text>Tutorial: Building a Print Style Sheet</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14s04.html"/>
+            <ncx:navPoint id="id2547892" playOrder="299">
+              <ncx:navLabel>
+                <ncx:text>Remove Unneeded Page Elements</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch14s04.html#remove_unneeded_page_elements"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2548321" playOrder="300">
+              <ncx:navLabel>
+                <ncx:text>Adjusting the Layout</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch14s04.html#adjusting_the_layout"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2548743" playOrder="301">
+              <ncx:navLabel>
+                <ncx:text>Reformatting the Text</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch14s04.html#reformatting_the_text"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2548992" playOrder="302">
+              <ncx:navLabel>
+                <ncx:text>Displaying URLs</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch14s04.html#displaying_urls"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2549154" playOrder="303">
+          <ncx:navLabel>
+            <ncx:text>15. Improving Your CSS Habits</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch15.html"/>
+          <ncx:navPoint id="id2549189" playOrder="304">
+            <ncx:navLabel>
+              <ncx:text>Adding Comments</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch15.html#adding_comments"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2549298" playOrder="305">
+            <ncx:navLabel>
+              <ncx:text>Organizing Styles and Style Sheets</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch15s02.html"/>
+            <ncx:navPoint id="id2549316" playOrder="306">
+              <ncx:navLabel>
+                <ncx:text>Name Styles Clearly</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch15s02.html#name_styles_clearly"/>
+              <ncx:navPoint id="id2549346" playOrder="307">
+                <ncx:navLabel>
+                  <ncx:text>Name styles by purpose not appearance</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="ch15s02.html#name_styles_by_purpose_not_appearance"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id2549388" playOrder="308">
+                <ncx:navLabel>
+                  <ncx:text>Don't use names based on position</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="ch15s02.html#dont_use_names_based_on_position"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id2549481" playOrder="309">
+                <ncx:navLabel>
+                  <ncx:text>Avoid cryptic names</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="ch15s02.html#avoid_cryptic_names"/>
+              </ncx:navPoint>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2549544" playOrder="310">
+              <ncx:navLabel>
+                <ncx:text>Use Multiple Classes to Save Time</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch15s02.html#use_multiple_classes_to_save_time"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2549794" playOrder="311">
+              <ncx:navLabel>
+                <ncx:text>Organize Styles by Grouping</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch15s02.html#organize_styles_by_grouping"/>
+              <ncx:navPoint id="id2549847" playOrder="312">
+                <ncx:navLabel>
+                  <ncx:text>Using comments to separate style groups</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="ch15s02.html#using_comments_to_separate_style_groups"/>
+              </ncx:navPoint>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2549963" playOrder="313">
+              <ncx:navLabel>
+                <ncx:text>Using Multiple Style Sheets</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch15s02.html#using_multiple_style_sheets"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2550541" playOrder="314">
+            <ncx:navLabel>
+              <ncx:text>Eliminating Browser Style Interference</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch15s03.html"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2551176" playOrder="315">
+            <ncx:navLabel>
+              <ncx:text>Using Descendent Selectors</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch15s04.html"/>
+            <ncx:navPoint id="id2551298" playOrder="316">
+              <ncx:navLabel>
+                <ncx:text>Compartmentalize Your Pages</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch15s04.html#compartmentalize_your_pages"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2551496" playOrder="317">
+              <ncx:navLabel>
+                <ncx:text>Identify the Body</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch15s04.html#identify_the_body"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2551855" playOrder="318">
+            <ncx:navLabel>
+              <ncx:text>Managing Internet Explorer Hacks</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch15s05.html"/>
+            <ncx:navPoint id="id2551939" playOrder="319">
+              <ncx:navLabel>
+                <ncx:text>Design for Contemporary Browsers First</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch15s05.html#design_for_contemporary_browsers_first"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2552014" playOrder="320">
+              <ncx:navLabel>
+                <ncx:text>Isolate CSS for IE with Conditional Comments</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch15s05.html#isolate_css_for_ie_with_conditional_comm"/>
+              <ncx:navPoint id="id2552199" playOrder="321">
+                <ncx:navLabel>
+                  <ncx:text>Conditional comments and IE 8</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="ch15s05.html#conditional_comments_and_ie_8"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id2552274" playOrder="322">
+                <ncx:navLabel>
+                  <ncx:text>Conditional comments and the cascade</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="ch15s05.html#conditional_comments_and_the_cascade"/>
+              </ncx:navPoint>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2552373" playOrder="323">
+          <ncx:navLabel>
+            <ncx:text>16. CSS 3: CSS on the Edge</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch16.html"/>
+          <ncx:navPoint id="id2552487" playOrder="324">
+            <ncx:navLabel>
+              <ncx:text>An Overview of CSS 3</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16.html#an_overview_of_css_3"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2552595" playOrder="325">
+            <ncx:navLabel>
+              <ncx:text>CSS 3 Selectors</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s02.html"/>
+            <ncx:navPoint id="id2552698" playOrder="326">
+              <ncx:navLabel>
+                <ncx:text>Child Selectors</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch16s02.html#child_selectors-id001"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2553094" playOrder="327">
+              <ncx:navLabel>
+                <ncx:text>Type Selectors</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch16s02.html#type_selectors"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2553556" playOrder="328">
+            <ncx:navLabel>
+              <ncx:text>Opacity</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s03.html"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2553741" playOrder="329">
+            <ncx:navLabel>
+              <ncx:text>RGBA Color</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s04.html"/>
+            <ncx:navPoint id="id2553952" playOrder="330">
+              <ncx:navLabel>
+                <ncx:text>Simulating RGBA in Internet Explorer</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch16s04.html#simulating_rgba_in_internet_explorer"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2554254" playOrder="331">
+            <ncx:navLabel>
+              <ncx:text>Text Shadow</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s05.html"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2554590" playOrder="332">
+            <ncx:navLabel>
+              <ncx:text>Font Freedom</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s06.html"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2554958" playOrder="333">
+            <ncx:navLabel>
+              <ncx:text>Generated Content</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s07.html"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2555436" playOrder="334">
+        <ncx:navLabel>
+          <ncx:text>V. Appendixes</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="pt05.html"/>
+        <ncx:navPoint id="id2555458" playOrder="335">
+          <ncx:navLabel>
+            <ncx:text>A. CSS Property Reference</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apa.html"/>
+          <ncx:navPoint id="id2555524" playOrder="336">
+            <ncx:navLabel>
+              <ncx:text>CSS Values</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apa.html#css_values"/>
+            <ncx:navPoint id="id2555555" playOrder="337">
+              <ncx:navLabel>
+                <ncx:text>Colors</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apa.html#colors"/>
+              <ncx:navPoint id="id2555565" playOrder="338">
+                <ncx:navLabel>
+                  <ncx:text>Keywords</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="apa.html#keywords-id002"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id2555631" playOrder="339">
+                <ncx:navLabel>
+                  <ncx:text>RGB values</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="apa.html#rgb_values"/>
+              </ncx:navPoint>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2555792" playOrder="340">
+              <ncx:navLabel>
+                <ncx:text>Lengths and Sizes</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apa.html#lengths_and_sizes"/>
+              <ncx:navPoint id="id2555843" playOrder="341">
+                <ncx:navLabel>
+                  <ncx:text>Pixels</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="apa.html#pixels"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id2555887" playOrder="342">
+                <ncx:navLabel>
+                  <ncx:text>Ems</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="apa.html#ems-id001"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id2555924" playOrder="343">
+                <ncx:navLabel>
+                  <ncx:text>Percentages</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="apa.html#percentages-id001"/>
+              </ncx:navPoint>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2555951" playOrder="344">
+              <ncx:navLabel>
+                <ncx:text>Keywords</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apa.html#keywords-id003"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2556102" playOrder="345">
+              <ncx:navLabel>
+                <ncx:text>URLs</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apa.html#urls"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2556208" playOrder="346">
+            <ncx:navLabel>
+              <ncx:text>Text Properties</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apas02.html"/>
+            <ncx:navPoint id="id2556244" playOrder="347">
+              <ncx:navLabel>
+                <ncx:text>color (inherited)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas02.html#color_inherited"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2556328" playOrder="348">
+              <ncx:navLabel>
+                <ncx:text>font (inherited)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas02.html#font_inherited"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2556411" playOrder="349">
+              <ncx:navLabel>
+                <ncx:text>font-family (inherited)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas02.html#font-family_inherited"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2556483" playOrder="350">
+              <ncx:navLabel>
+                <ncx:text>font-size (inherited)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas02.html#font-size_inherited"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2556626" playOrder="351">
+              <ncx:navLabel>
+                <ncx:text>font-style (inherited)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas02.html#font-style_inherited"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2556702" playOrder="352">
+              <ncx:navLabel>
+                <ncx:text>font-variant (inherited)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas02.html#font-variant_inherited"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2556757" playOrder="353">
+              <ncx:navLabel>
+                <ncx:text>font-weight (inherited)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas02.html#font-weight_inherited"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2556829" playOrder="354">
+              <ncx:navLabel>
+                <ncx:text>letter-spacing (inherited)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas02.html#letter-spacing_inherited"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2556899" playOrder="355">
+              <ncx:navLabel>
+                <ncx:text>line-height (inherited)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas02.html#line-height_inherited"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2556963" playOrder="356">
+              <ncx:navLabel>
+                <ncx:text>text-align (inherited)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas02.html#text-align_inherited"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2557009" playOrder="357">
+              <ncx:navLabel>
+                <ncx:text>text-decoration</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas02.html#text-decoration"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2557098" playOrder="358">
+              <ncx:navLabel>
+                <ncx:text>text-indent (inherited)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas02.html#text-indent_inherited"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2557215" playOrder="359">
+              <ncx:navLabel>
+                <ncx:text>text-transform (inherited)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas02.html#text-transform_inherited"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2557302" playOrder="360">
+              <ncx:navLabel>
+                <ncx:text>vertical-align</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas02.html#vertical-align"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2557380" playOrder="361">
+              <ncx:navLabel>
+                <ncx:text>white-space</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas02.html#white-space"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2557490" playOrder="362">
+              <ncx:navLabel>
+                <ncx:text>word-spacing (inherited)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas02.html#word-spacing_inherited"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2557571" playOrder="363">
+            <ncx:navLabel>
+              <ncx:text>List Properties</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apas03.html"/>
+            <ncx:navPoint id="id2557597" playOrder="364">
+              <ncx:navLabel>
+                <ncx:text>list-style (inherited)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas03.html#list-style_inherited"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2557691" playOrder="365">
+              <ncx:navLabel>
+                <ncx:text>list-style-image (inherited)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas03.html#list-style-image_inherited"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2557812" playOrder="366">
+              <ncx:navLabel>
+                <ncx:text>list-style-position (inherited)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas03.html#list-style-position_inherited"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2557872" playOrder="367">
+              <ncx:navLabel>
+                <ncx:text>list-style-type (inherited)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas03.html#list-style-type_inherited"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2557928" playOrder="368">
+            <ncx:navLabel>
+              <ncx:text>Padding, Borders, and Margins</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apas04.html"/>
+            <ncx:navPoint id="id2557967" playOrder="369">
+              <ncx:navLabel>
+                <ncx:text>border</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas04.html#border"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2558045" playOrder="370">
+              <ncx:navLabel>
+                <ncx:text>border-top, border-right, border-bottom, border-left</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas04.html#border-top_border-right_border-bottom_bo"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2558135" playOrder="371">
+              <ncx:navLabel>
+                <ncx:text>border-color</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas04.html#border-color"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2558218" playOrder="372">
+              <ncx:navLabel>
+                <ncx:text>border-top-color, border-right-color, border-bottom-color, border-left-color</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas04.html#border-top-color_border-right-color_bord"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2558302" playOrder="373">
+              <ncx:navLabel>
+                <ncx:text>border-style</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas04.html#border-style"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2558395" playOrder="374">
+              <ncx:navLabel>
+                <ncx:text>border-top-style, border-right-style, border-bottom-style, border-left-style</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas04.html#border-top-style_border-right-style_bord"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2558466" playOrder="375">
+              <ncx:navLabel>
+                <ncx:text>border-width</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas04.html#border-width"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2558546" playOrder="376">
+              <ncx:navLabel>
+                <ncx:text>border-top-width, border-right-width, border-bottom-width, border-left-width</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas04.html#border-top-width_border-right-width_bord"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2558617" playOrder="377">
+              <ncx:navLabel>
+                <ncx:text>outline</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas04.html#outline"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2558699" playOrder="378">
+              <ncx:navLabel>
+                <ncx:text>outline-color</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas04.html#outline-color"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2558765" playOrder="379">
+              <ncx:navLabel>
+                <ncx:text>outline-style</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas04.html#outline-style"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2558812" playOrder="380">
+              <ncx:navLabel>
+                <ncx:text>outline-width</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas04.html#outline-width"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2558854" playOrder="381">
+              <ncx:navLabel>
+                <ncx:text>padding</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas04.html#padding"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2558926" playOrder="382">
+              <ncx:navLabel>
+                <ncx:text>padding-top</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas04.html#padding-top"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2558951" playOrder="383">
+              <ncx:navLabel>
+                <ncx:text>padding-right</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas04.html#padding-right"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2558994" playOrder="384">
+              <ncx:navLabel>
+                <ncx:text>padding-bottom</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas04.html#padding-bottom"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2559028" playOrder="385">
+              <ncx:navLabel>
+                <ncx:text>padding-left</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas04.html#padding-left"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2559061" playOrder="386">
+              <ncx:navLabel>
+                <ncx:text>margin</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas04.html#margin"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2559164" playOrder="387">
+              <ncx:navLabel>
+                <ncx:text>margin-top</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas04.html#margin-top"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2559198" playOrder="388">
+              <ncx:navLabel>
+                <ncx:text>margin-right</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas04.html#margin-right"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2559224" playOrder="389">
+              <ncx:navLabel>
+                <ncx:text>margin-bottom</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas04.html#margin-bottom"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2559266" playOrder="390">
+              <ncx:navLabel>
+                <ncx:text>margin-left</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas04.html#margin-left"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2559299" playOrder="391">
+            <ncx:navLabel>
+              <ncx:text>Backgrounds</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apas05.html"/>
+            <ncx:navPoint id="id2559319" playOrder="392">
+              <ncx:navLabel>
+                <ncx:text>background</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas05.html#background"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2559370" playOrder="393">
+              <ncx:navLabel>
+                <ncx:text>background-attachment</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas05.html#background-attachment"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2559455" playOrder="394">
+              <ncx:navLabel>
+                <ncx:text>background-color</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas05.html#background-color"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2559528" playOrder="395">
+              <ncx:navLabel>
+                <ncx:text>background-image</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas05.html#background-image"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2559576" playOrder="396">
+              <ncx:navLabel>
+                <ncx:text>background-position</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas05.html#background-position"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2559698" playOrder="397">
+              <ncx:navLabel>
+                <ncx:text>background-repeat</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas05.html#background-repeat"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2559775" playOrder="398">
+            <ncx:navLabel>
+              <ncx:text>Page Layout Properties</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apas06.html"/>
+            <ncx:navPoint id="id2559795" playOrder="399">
+              <ncx:navLabel>
+                <ncx:text>bottom</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas06.html#bottom"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2559868" playOrder="400">
+              <ncx:navLabel>
+                <ncx:text>clear</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas06.html#clear"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2559952" playOrder="401">
+              <ncx:navLabel>
+                <ncx:text>clip</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas06.html#clip"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2560049" playOrder="402">
+              <ncx:navLabel>
+                <ncx:text>display</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas06.html#display"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2560173" playOrder="403">
+              <ncx:navLabel>
+                <ncx:text>float</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas06.html#float"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2560243" playOrder="404">
+              <ncx:navLabel>
+                <ncx:text>height</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas06.html#height"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2560340" playOrder="405">
+              <ncx:navLabel>
+                <ncx:text>left</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas06.html#left"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2560390" playOrder="406">
+              <ncx:navLabel>
+                <ncx:text>max-height</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas06.html#max-height"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2560458" playOrder="407">
+              <ncx:navLabel>
+                <ncx:text>max-width</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas06.html#max-width"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2560528" playOrder="408">
+              <ncx:navLabel>
+                <ncx:text>min-height</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas06.html#min-height"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2560591" playOrder="409">
+              <ncx:navLabel>
+                <ncx:text>min-width</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas06.html#min-width"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2560698" playOrder="410">
+              <ncx:navLabel>
+                <ncx:text>overflow</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas06.html#overflow"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2560786" playOrder="411">
+              <ncx:navLabel>
+                <ncx:text>position</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas06.html#position"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2560922" playOrder="412">
+              <ncx:navLabel>
+                <ncx:text>right</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas06.html#right"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2560988" playOrder="413">
+              <ncx:navLabel>
+                <ncx:text>top</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas06.html#top"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2561034" playOrder="414">
+              <ncx:navLabel>
+                <ncx:text>visibility</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas06.html#visibility"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2561143" playOrder="415">
+              <ncx:navLabel>
+                <ncx:text>width</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas06.html#width"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2561202" playOrder="416">
+              <ncx:navLabel>
+                <ncx:text>z-index</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas06.html#z-index"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2561344" playOrder="417">
+            <ncx:navLabel>
+              <ncx:text>Table Properties</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apas07.html"/>
+            <ncx:navPoint id="id2561379" playOrder="418">
+              <ncx:navLabel>
+                <ncx:text>border-collapse</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas07.html#border-collapse"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2561468" playOrder="419">
+              <ncx:navLabel>
+                <ncx:text>border-spacing</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas07.html#border-spacing"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2561552" playOrder="420">
+              <ncx:navLabel>
+                <ncx:text>caption-side</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas07.html#caption-side"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2561635" playOrder="421">
+              <ncx:navLabel>
+                <ncx:text>empty-cells</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas07.html#empty-cells"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2561713" playOrder="422">
+              <ncx:navLabel>
+                <ncx:text>table-layout</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas07.html#table-layout"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2561803" playOrder="423">
+            <ncx:navLabel>
+              <ncx:text>Miscellaneous Properties</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apas08.html"/>
+            <ncx:navPoint id="id2561837" playOrder="424">
+              <ncx:navLabel>
+                <ncx:text>content</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas08.html#content"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2561943" playOrder="425">
+              <ncx:navLabel>
+                <ncx:text>cursor</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas08.html#cursor"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2562026" playOrder="426">
+              <ncx:navLabel>
+                <ncx:text>orphans</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas08.html#orphans"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2562089" playOrder="427">
+              <ncx:navLabel>
+                <ncx:text>page-break-after</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas08.html#page-break-after"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2562179" playOrder="428">
+              <ncx:navLabel>
+                <ncx:text>page-break-before</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas08.html#page-break-before"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2562219" playOrder="429">
+              <ncx:navLabel>
+                <ncx:text>page-break-inside</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas08.html#page-break-inside"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2562262" playOrder="430">
+              <ncx:navLabel>
+                <ncx:text>widows</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apas08.html#widows"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2562314" playOrder="431">
+          <ncx:navLabel>
+            <ncx:text>B. CSS in Dreamweaver CS4</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apb.html"/>
+          <ncx:navPoint id="id2562365" playOrder="432">
+            <ncx:navLabel>
+              <ncx:text>Creating Styles</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apb.html#creating_styles"/>
+            <ncx:navPoint id="id2562505" playOrder="433">
+              <ncx:navLabel>
+                <ncx:text>Phase 1: Set Up the CSS Type</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apb.html#phase_1_set_up_the_css_type"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2562848" playOrder="434">
+              <ncx:navLabel>
+                <ncx:text>Phase 2: Defining the Style</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apb.html#phase_2_defining_the_style"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2562928" playOrder="435">
+            <ncx:navLabel>
+              <ncx:text>Adding Styles to Web Pages</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs02.html"/>
+            <ncx:navPoint id="id2562979" playOrder="436">
+              <ncx:navLabel>
+                <ncx:text>Linking to an External Style Sheet</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apbs02.html#linking_to_an_external_style_sheet"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2563253" playOrder="437">
+              <ncx:navLabel>
+                <ncx:text>Applying a Class Style</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apbs02.html#applying_a_class_style"/>
+              <ncx:navPoint id="id2563281" playOrder="438">
+                <ncx:navLabel>
+                  <ncx:text>Applying a class style to text</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="apbs02.html#applying_a_class_style_to_text"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id2563419" playOrder="439">
+                <ncx:navLabel>
+                  <ncx:text>Applying a class style to objects</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="apbs02.html#applying_a_class_style_to_objects"/>
+              </ncx:navPoint>
+              <ncx:navPoint id="id2563475" playOrder="440">
+                <ncx:navLabel>
+                  <ncx:text>Other class styling options</ncx:text>
+                </ncx:navLabel>
+                <ncx:content src="apbs02.html#other_class_styling_options"/>
+              </ncx:navPoint>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2563550" playOrder="441">
+              <ncx:navLabel>
+                <ncx:text>Removing a Class Style</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apbs02.html#removing_a_class_style"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2563652" playOrder="442">
+              <ncx:navLabel>
+                <ncx:text>Applying IDs to a Tag</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apbs02.html#applying_ids_to_a_tag"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2563739" playOrder="443">
+            <ncx:navLabel>
+              <ncx:text>Editing Styles</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs03.html"/>
+            <ncx:navPoint id="id2564094" playOrder="444">
+              <ncx:navLabel>
+                <ncx:text>Editing in the Properties Pane</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apbs03.html#editing_in_the_properties_pane"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2564280" playOrder="445">
+            <ncx:navLabel>
+              <ncx:text>Managing Styles</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs04.html"/>
+            <ncx:navPoint id="id2564371" playOrder="446">
+              <ncx:navLabel>
+                <ncx:text>Deleting a Style</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apbs04.html#deleting_a_style"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2564557" playOrder="447">
+              <ncx:navLabel>
+                <ncx:text>Renaming a Class Style</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apbs04.html#renaming_a_class_style"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2564773" playOrder="448">
+              <ncx:navLabel>
+                <ncx:text>Duplicating a Style</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apbs04.html#duplicating_a_style"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2564844" playOrder="449">
+              <ncx:navLabel>
+                <ncx:text>Moving and Managing Styles</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apbs04.html#moving_and_managing_styles"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2565319" playOrder="450">
+            <ncx:navLabel>
+              <ncx:text>Examining Your CSS in the Styles Panel</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs05.html"/>
+            <ncx:navPoint id="id2565414" playOrder="451">
+              <ncx:navLabel>
+                <ncx:text>Current Selection Mode</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apbs05.html#current_selection_mode"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2565638" playOrder="452">
+              <ncx:navLabel>
+                <ncx:text>Deciphering the Cascade</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apbs05.html#deciphering_the_cascade"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2565963" playOrder="453">
+            <ncx:navLabel>
+              <ncx:text>Using the Code Navigator</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs06.html"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2566232" playOrder="454">
+          <ncx:navLabel>
+            <ncx:text>C. CSS Resources</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apc.html"/>
+          <ncx:navPoint id="id2566252" playOrder="455">
+            <ncx:navLabel>
+              <ncx:text>References</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apc.html#references"/>
+            <ncx:navPoint id="id2566276" playOrder="456">
+              <ncx:navLabel>
+                <ncx:text>World Wide Web Consortium (W3C)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apc.html#world_wide_web_consortium_w3c"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2566382" playOrder="457">
+              <ncx:navLabel>
+                <ncx:text>Books and PDFs</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apc.html#books_and_pdfs"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2566440" playOrder="458">
+              <ncx:navLabel>
+                <ncx:text>Other Online References</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apc.html#other_online_references"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2566556" playOrder="459">
+            <ncx:navLabel>
+              <ncx:text>CSS Help</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apcs02.html"/>
+            <ncx:navPoint id="id2566568" playOrder="460">
+              <ncx:navLabel>
+                <ncx:text>Email List</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apcs02.html#email_list"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2566627" playOrder="461">
+              <ncx:navLabel>
+                <ncx:text>Discussion Boards</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apcs02.html#discussion_boards"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2566731" playOrder="462">
+            <ncx:navLabel>
+              <ncx:text>CSS Tips, Tricks, and Advice</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apcs03.html"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2566840" playOrder="463">
+            <ncx:navLabel>
+              <ncx:text>CSS Navigation</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apcs04.html"/>
+            <ncx:navPoint id="id2566858" playOrder="464">
+              <ncx:navLabel>
+                <ncx:text>Tutorials</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apcs04.html#tutorials"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2566977" playOrder="465">
+              <ncx:navLabel>
+                <ncx:text>Online Examples</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apcs04.html#online_examples"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2567138" playOrder="466">
+            <ncx:navLabel>
+              <ncx:text>CSS and Graphics</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apcs05.html"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2567264" playOrder="467">
+            <ncx:navLabel>
+              <ncx:text>CSS Layout</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apcs06.html"/>
+            <ncx:navPoint id="id2567277" playOrder="468">
+              <ncx:navLabel>
+                <ncx:text>Box Model Information</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apcs06.html#box_model_information"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2567335" playOrder="469">
+              <ncx:navLabel>
+                <ncx:text>Float Layouts</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apcs06.html#float_layouts"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2567420" playOrder="470">
+              <ncx:navLabel>
+                <ncx:text>Absolute Position Layouts</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apcs06.html#absolute_position_layouts"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2567507" playOrder="471">
+              <ncx:navLabel>
+                <ncx:text>Layout Examples</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apcs06.html#layout_examples"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2567673" playOrder="472">
+              <ncx:navLabel>
+                <ncx:text>Miscellaneous Layout Resources</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apcs06.html#miscellaneous_layout_resources"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2567777" playOrder="473">
+            <ncx:navLabel>
+              <ncx:text>Browser Bugs</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apcs07.html"/>
+            <ncx:navPoint id="id2567820" playOrder="474">
+              <ncx:navLabel>
+                <ncx:text>Windows Internet Explorer</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apcs07.html#windows_internet_explorer"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2567920" playOrder="475">
+            <ncx:navLabel>
+              <ncx:text>Showcase Sites</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apcs08.html"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2568049" playOrder="476">
+            <ncx:navLabel>
+              <ncx:text>CSS Books</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apcs09.html"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2568181" playOrder="477">
+            <ncx:navLabel>
+              <ncx:text>CSS Software</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apcs10.html"/>
+            <ncx:navPoint id="id2568210" playOrder="478">
+              <ncx:navLabel>
+                <ncx:text>Windows and Mac</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apcs10.html#windows_and_mac"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2568252" playOrder="479">
+              <ncx:navLabel>
+                <ncx:text>Windows Only</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apcs10.html#windows_only"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2568300" playOrder="480">
+              <ncx:navLabel>
+                <ncx:text>Mac Only</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="apcs10.html#mac_only"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2568334" playOrder="481">
+        <ncx:navLabel>
+          <ncx:text>Colophon</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="co01.html"/>
+      </ncx:navPoint>
+    </ncx:navPoint>
+  </ncx:navMap>
+</ncx:ncx>

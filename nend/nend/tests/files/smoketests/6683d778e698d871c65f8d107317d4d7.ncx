@@ -1,0 +1,3957 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ncx:ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <ncx:head>
+    <ncx:meta name="cover" content="cover"/>
+    <ncx:meta name="dtb:uid" content="isbn:9780596156435"/>
+    <ncx:meta name="dtb:depth" content="-1"/>
+    <ncx:meta name="dtb:totalPageCount" content="0"/>
+    <ncx:meta name="dtb:maxPageNumber" content="0"/>
+  </ncx:head>
+  <ncx:docTitle>
+    <ncx:text>Programming ASP.NET 3.5, Fourth Edition</ncx:text>
+  </ncx:docTitle>
+  <ncx:navMap>
+    <ncx:navPoint id="id2631829" playOrder="1">
+      <ncx:navLabel>
+        <ncx:text>Programming ASP.NET 3.5, Fourth Edition</ncx:text>
+      </ncx:navLabel>
+      <ncx:content src="index.html"/>
+      <ncx:navPoint id="id2660892" playOrder="2">
+        <ncx:navLabel>
+          <ncx:text>Preface</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="pr01.html"/>
+        <ncx:navPoint id="id2635592" playOrder="3">
+          <ncx:navLabel>
+            <ncx:text>Learning or Programming?</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr01.html#learning_or_programming"/>
+          <ncx:navPoint id="id2635635" playOrder="4">
+            <ncx:navLabel>
+              <ncx:text>Visual Basic Versus C#</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="pr01.html#visual_basic_versus_csharp"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2635679" playOrder="5">
+          <ncx:navLabel>
+            <ncx:text>How This Book Is Organized</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr01s02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2650164" playOrder="6">
+          <ncx:navLabel>
+            <ncx:text>What You Need to Use This Book</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr01s03.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2650225" playOrder="7">
+          <ncx:navLabel>
+            <ncx:text>Conventions Used in This Book</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr01s04.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2650297" playOrder="8">
+          <ncx:navLabel>
+            <ncx:text>Using Code Examples</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr01s05.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2650341" playOrder="9">
+          <ncx:navLabel>
+            <ncx:text>We'd Like to Hear from You</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr01s06.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2640956" playOrder="10">
+          <ncx:navLabel>
+            <ncx:text>Safari® Books Online</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr01s07.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2640982" playOrder="11">
+          <ncx:navLabel>
+            <ncx:text>Acknowledgments</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="pr01s08.html"/>
+          <ncx:navPoint id="id2640988" playOrder="12">
+            <ncx:navLabel>
+              <ncx:text>From Jesse Liberty</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="pr01s08.html#from_jesse_liberty"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2641002" playOrder="13">
+            <ncx:navLabel>
+              <ncx:text>From Dan Hurwitz</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="pr01s08.html#from_dan_hurwitz"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2641016" playOrder="14">
+            <ncx:navLabel>
+              <ncx:text>From Dan Maharry</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="pr01s08.html#from_dan_maharry"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2641047" playOrder="15">
+        <ncx:navLabel>
+          <ncx:text>1. Web Development in 2008</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch01.html"/>
+        <ncx:navPoint id="id2641070" playOrder="16">
+          <ncx:navLabel>
+            <ncx:text>AJAX</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch01.html#ajax"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2641230" playOrder="17">
+          <ncx:navLabel>
+            <ncx:text>.NET Framework 3.0 and 3.5</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch01s02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2639626" playOrder="18">
+          <ncx:navLabel>
+            <ncx:text>Visual Studio 2008</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch01s03.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2660636" playOrder="19">
+          <ncx:navLabel>
+            <ncx:text>Internet Information Services 7.0</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch01s04.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2660676" playOrder="20">
+          <ncx:navLabel>
+            <ncx:text>Beyond 2008</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch01s05.html"/>
+          <ncx:navPoint id="id2660108" playOrder="21">
+            <ncx:navLabel>
+              <ncx:text>The Silverlight Stack</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s05.html#the_silverlight_stack"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2660172" playOrder="22">
+            <ncx:navLabel>
+              <ncx:text>The Dynamic Languages Stack</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s05.html#the_dynamic_languages_stack"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2660215" playOrder="23">
+            <ncx:navLabel>
+              <ncx:text>The Data Futures Stack</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch01s05.html#the_data_futures_stack"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2660324" playOrder="24">
+          <ncx:navLabel>
+            <ncx:text>On to VS2008</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch01s06.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2660342" playOrder="25">
+        <ncx:navLabel>
+          <ncx:text>2. Visual Studio 2008</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch02.html"/>
+        <ncx:navPoint id="id2656554" playOrder="26">
+          <ncx:navLabel>
+            <ncx:text>First Sight: The Start Page</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02.html#first_sight_the_start_page"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2656709" playOrder="27">
+          <ncx:navLabel>
+            <ncx:text>Creating Your First Web Page</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02s02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2627372" playOrder="28">
+          <ncx:navLabel>
+            <ncx:text>Projects and Solutions</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02s03.html"/>
+          <ncx:navPoint id="id2627640" playOrder="29">
+            <ncx:navLabel>
+              <ncx:text>Solutions</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s03.html#solutions"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2627850" playOrder="30">
+            <ncx:navLabel>
+              <ncx:text>Projects and Files</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s03.html#projects_and_files"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2656135" playOrder="31">
+            <ncx:navLabel>
+              <ncx:text>Templates</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s03.html#templates"/>
+            <ncx:navPoint id="id2656280" playOrder="32">
+              <ncx:navLabel>
+                <ncx:text>Project names</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s03.html#project_names"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2612550" playOrder="33">
+          <ncx:navLabel>
+            <ncx:text>The Integrated Development Environment</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02s04.html"/>
+          <ncx:navPoint id="id2612598" playOrder="34">
+            <ncx:navLabel>
+              <ncx:text>Layout</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s04.html#layout"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2613221" playOrder="35">
+            <ncx:navLabel>
+              <ncx:text>Building and Running</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s04.html#building_and_running"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2613259" playOrder="36">
+            <ncx:navLabel>
+              <ncx:text>Menus and Toolbars</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s04.html#menus_and_toolbars"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2613364" playOrder="37">
+            <ncx:navLabel>
+              <ncx:text>File Menu</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s04.html#file_menu"/>
+            <ncx:navPoint id="id2613396" playOrder="38">
+              <ncx:navLabel>
+                <ncx:text>New</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#new"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2638511" playOrder="39">
+              <ncx:navLabel>
+                <ncx:text>Open</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#open"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2638693" playOrder="40">
+              <ncx:navLabel>
+                <ncx:text>Add</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#add"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2638703" playOrder="41">
+              <ncx:navLabel>
+                <ncx:text>Advanced Save Options</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#advanced_save_options"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2638762" playOrder="42">
+              <ncx:navLabel>
+                <ncx:text>Export Template</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#export_template"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2638807" playOrder="43">
+              <ncx:navLabel>
+                <ncx:text>Source Control</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#source_control"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2638830" playOrder="44">
+            <ncx:navLabel>
+              <ncx:text>Edit Menu</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s04.html#edit_menu"/>
+            <ncx:navPoint id="id2638851" playOrder="45">
+              <ncx:navLabel>
+                <ncx:text>Cycle Clipboard Ring (Ctrl-Shift-V)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#cycle_clipboard_ring_ctrl-shift-v"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2638889" playOrder="46">
+              <ncx:navLabel>
+                <ncx:text>Finding and replacing</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#finding_and_replacing"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2614033" playOrder="47">
+              <ncx:navLabel>
+                <ncx:text>Go To (Ctrl-G)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#go_to_ctrl-g"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2614092" playOrder="48">
+              <ncx:navLabel>
+                <ncx:text>Insert File As Text</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#insert_file_as_text"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2614120" playOrder="49">
+              <ncx:navLabel>
+                <ncx:text>Advanced</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#advanced"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2614284" playOrder="50">
+              <ncx:navLabel>
+                <ncx:text>Incremental search (Ctrl-I)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#incremental_search_ctrl-i"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2614403" playOrder="51">
+              <ncx:navLabel>
+                <ncx:text>Bookmarks</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#bookmarks"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2614740" playOrder="52">
+              <ncx:navLabel>
+                <ncx:text>Outlining</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#outlining"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2615063" playOrder="53">
+              <ncx:navLabel>
+                <ncx:text>IntelliSense</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#intellisense"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2641353" playOrder="54">
+            <ncx:navLabel>
+              <ncx:text>View Menu</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s04.html#view_menu"/>
+            <ncx:navPoint id="id2641459" playOrder="55">
+              <ncx:navLabel>
+                <ncx:text>Solution Explorer (Ctrl-Alt-L)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#solution_explorer_ctrl-alt-l"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2642198" playOrder="56">
+              <ncx:navLabel>
+                <ncx:text>Server Explorer (Ctrl-Alt-S)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#server_explorer_ctrl-alt-s"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2642326" playOrder="57">
+              <ncx:navLabel>
+                <ncx:text>Properties window (F4)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#properties_window_f4"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2642517" playOrder="58">
+              <ncx:navLabel>
+                <ncx:text>Visible Aids</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#visible_aids"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2642551" playOrder="59">
+              <ncx:navLabel>
+                <ncx:text>Formatting Marks</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#formatting_marks"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2642572" playOrder="60">
+              <ncx:navLabel>
+                <ncx:text>Object Browser (Ctrl-W, J)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#object_browser_ctrl-w_j"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2642630" playOrder="61">
+              <ncx:navLabel>
+                <ncx:text>Error List (Ctrl-W, E)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#error_list_ctrl-w_e"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2642654" playOrder="62">
+              <ncx:navLabel>
+                <ncx:text>Task List (Ctrl-W, T)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#task_list_ctrl-w_t"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2642718" playOrder="63">
+              <ncx:navLabel>
+                <ncx:text>Toolbox (Ctrl-W, X)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#toolbox_ctrl-w_x"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2642766" playOrder="64">
+              <ncx:navLabel>
+                <ncx:text>Class View (Ctrl-W, C)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#class_view_ctrl-w_c"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2642913" playOrder="65">
+              <ncx:navLabel>
+                <ncx:text>Output (Ctrl-W, O)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#output_ctrl-w_o"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2642951" playOrder="66">
+              <ncx:navLabel>
+                <ncx:text>Other windows</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#other_windows"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2643176" playOrder="67">
+            <ncx:navLabel>
+              <ncx:text>Refactor Menu</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s04.html#refactor_menu"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2643553" playOrder="68">
+            <ncx:navLabel>
+              <ncx:text>Website Menu</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s04.html#website_menu"/>
+            <ncx:navPoint id="id2643645" playOrder="69">
+              <ncx:navLabel>
+                <ncx:text>Start Options</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#start_options"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2643705" playOrder="70">
+              <ncx:navLabel>
+                <ncx:text>Copy Web Site</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#copy_web_site"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2643807" playOrder="71">
+              <ncx:navLabel>
+                <ncx:text>ASP.NET Configuration</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#aspnet_configuration"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2643846" playOrder="72">
+            <ncx:navLabel>
+              <ncx:text>Project Menu</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s04.html#project_menu"/>
+            <ncx:navPoint id="id2643928" playOrder="73">
+              <ncx:navLabel>
+                <ncx:text>Add New Item (Ctrl-Shift-A)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#add_new_item_ctrl-shift-a"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2643958" playOrder="74">
+              <ncx:navLabel>
+                <ncx:text>Add Existing Item (Shift-Alt-A)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#add_existing_item_shift-alt-a"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2643983" playOrder="75">
+              <ncx:navLabel>
+                <ncx:text>Add New Solution Folder</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#add_new_solution_folder"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2644024" playOrder="76">
+              <ncx:navLabel>
+                <ncx:text>Set StartUp Projects</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#set_startup_projects"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2644057" playOrder="77">
+              <ncx:navLabel>
+                <ncx:text>Project Dependencies and Project Build Order</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#project_dependencies_and_project_build_o"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2644123" playOrder="78">
+            <ncx:navLabel>
+              <ncx:text>Build Menu</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s04.html#build_menu"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2644163" playOrder="79">
+            <ncx:navLabel>
+              <ncx:text>Debug Menu</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s04.html#debug_menu"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2644216" playOrder="80">
+            <ncx:navLabel>
+              <ncx:text>Data Menu</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s04.html#data_menu"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2644248" playOrder="81">
+            <ncx:navLabel>
+              <ncx:text>Format Menu</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s04.html#format_menu"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2644382" playOrder="82">
+            <ncx:navLabel>
+              <ncx:text>Tools Menu</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s04.html#tools_menu"/>
+            <ncx:navPoint id="id2644415" playOrder="83">
+              <ncx:navLabel>
+                <ncx:text>Connect to Device</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#connect_to_device"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2644436" playOrder="84">
+              <ncx:navLabel>
+                <ncx:text>Connect to Database</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#connect_to_database"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2644461" playOrder="85">
+              <ncx:navLabel>
+                <ncx:text>Code Snippets Manager (Ctrl-K, B)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#code_snippets_manager_ctrl-k_b"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2644486" playOrder="86">
+              <ncx:navLabel>
+                <ncx:text>Choose Toolbox Items</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#choose_toolbox_items"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2644637" playOrder="87">
+              <ncx:navLabel>
+                <ncx:text>Macros</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#macros"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2644970" playOrder="88">
+              <ncx:navLabel>
+                <ncx:text>External Tools</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#external_tools"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2645026" playOrder="89">
+              <ncx:navLabel>
+                <ncx:text>Import and Export Settings</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#import_and_export_settings"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2645060" playOrder="90">
+              <ncx:navLabel>
+                <ncx:text>Customize</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#customize"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2645231" playOrder="91">
+              <ncx:navLabel>
+                <ncx:text>Options</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#options"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2645255" playOrder="92">
+            <ncx:navLabel>
+              <ncx:text>Window Menu</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s04.html#window_menu"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2645534" playOrder="93">
+            <ncx:navLabel>
+              <ncx:text>Help Menu</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s04.html#help_menu"/>
+            <ncx:navPoint id="id2645567" playOrder="94">
+              <ncx:navLabel>
+                <ncx:text>Dynamic Help (Ctrl-F1, D)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#dynamic_help_ctrl-f1_d"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2645603" playOrder="95">
+              <ncx:navLabel>
+                <ncx:text>Contents (Ctrl-F1, I), Index (Ctrl-F1, I), and Search (Ctrl-F1, S)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#contents_ctrl-f1_i_index_ctrl-f1_i_and_"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2645670" playOrder="96">
+              <ncx:navLabel>
+                <ncx:text>Index Results (Ctrl-F1, T)</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#index_results_ctrl-f1_t"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2645685" playOrder="97">
+              <ncx:navLabel>
+                <ncx:text>Check for Updates</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#check_for_updates"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2645712" playOrder="98">
+        <ncx:navLabel>
+          <ncx:text>3. Controls: Fundamental Concepts</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch03.html"/>
+        <ncx:navPoint id="id2646324" playOrder="99">
+          <ncx:navLabel>
+            <ncx:text>Events</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03.html#events"/>
+          <ncx:navPoint id="id2646504" playOrder="100">
+            <ncx:navLabel>
+              <ncx:text>ASP.NET Events</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03.html#aspnet_events"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2646654" playOrder="101">
+            <ncx:navLabel>
+              <ncx:text>Event Arguments</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03.html#event_arguments"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2646781" playOrder="102">
+            <ncx:navLabel>
+              <ncx:text>Application and Session Events</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03.html#application_and_session_events"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2646904" playOrder="103">
+            <ncx:navLabel>
+              <ncx:text>Page and Control Events</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03.html#page_and_control_events"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2647153" playOrder="104">
+            <ncx:navLabel>
+              <ncx:text>Postback Versus Nonpostback Events</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03.html#postback_versus_nonpostback_events"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2661164" playOrder="105">
+            <ncx:navLabel>
+              <ncx:text>Types of Postback</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03.html#types_of_postback"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2661442" playOrder="106">
+            <ncx:navLabel>
+              <ncx:text>IsPostBack</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03.html#ispostback"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2661501" playOrder="107">
+            <ncx:navLabel>
+              <ncx:text>Events in Visual Studio 2008</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03.html#events_in_visual_studio_2008"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2662391" playOrder="108">
+            <ncx:navLabel>
+              <ncx:text>Multiple Controls to One Event Handler</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03.html#multiple_controls_to_one_event_handler"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2662471" playOrder="109">
+          <ncx:navLabel>
+            <ncx:text>ASP.NET Server Controls</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s02.html"/>
+          <ncx:navPoint id="id2662867" playOrder="110">
+            <ncx:navLabel>
+              <ncx:text>A Simple Demonstration</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s02.html#a_simple_demonstration"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2664143" playOrder="111">
+            <ncx:navLabel>
+              <ncx:text>ASP.NET and Browsers</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s02.html#aspnet_and_browsers"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2664502" playOrder="112">
+            <ncx:navLabel>
+              <ncx:text>ASP.NET Server Control Class Hierarchy</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s02.html#aspnet_server_control_class_hierarchy"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2665488" playOrder="113">
+            <ncx:navLabel>
+              <ncx:text>CSS Styles</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s02.html#css_styles"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2665868" playOrder="114">
+          <ncx:navLabel>
+            <ncx:text>AJAX Server Controls</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s03.html"/>
+          <ncx:navPoint id="id2665984" playOrder="115">
+            <ncx:navLabel>
+              <ncx:text>Extending the Simple Demonstration</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s03.html#extending_the_simple_demonstration"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2666474" playOrder="116">
+            <ncx:navLabel>
+              <ncx:text>AJAX Server Control Class Hierarchy</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s03.html#ajax_server_control_class_hierarchy"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2666552" playOrder="117">
+            <ncx:navLabel>
+              <ncx:text>The ScriptManager Control</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s03.html#the_scriptmanager_control"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2666644" playOrder="118">
+          <ncx:navLabel>
+            <ncx:text>HTML Server Controls</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s04.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2667899" playOrder="119">
+          <ncx:navLabel>
+            <ncx:text>Client-Side Processing</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s05.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2668542" playOrder="120">
+        <ncx:navLabel>
+          <ncx:text>4. Basic Controls</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch04.html"/>
+        <ncx:navPoint id="id2668668" playOrder="121">
+          <ncx:navLabel>
+            <ncx:text>Visual Studio Is Not Mandatory</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04.html#visual_studio_is_not_mandatory"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2669804" playOrder="122">
+          <ncx:navLabel>
+            <ncx:text>Web Forms: Plain or AJAX?</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2669914" playOrder="123">
+          <ncx:navLabel>
+            <ncx:text>Label Controls and Literal Controls</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s03.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2670337" playOrder="124">
+          <ncx:navLabel>
+            <ncx:text>TextBox Control</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s04.html"/>
+          <ncx:navPoint id="id2671040" playOrder="125">
+            <ncx:navLabel>
+              <ncx:text>TextBox Behavior</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s04.html#textbox_behavior"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2671417" playOrder="126">
+            <ncx:navLabel>
+              <ncx:text>TextBox Extenders</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s04.html#textbox_extenders"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2673576" playOrder="127">
+          <ncx:navLabel>
+            <ncx:text>HiddenField Control</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s05.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2674245" playOrder="128">
+          <ncx:navLabel>
+            <ncx:text>Button Controls</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s06.html"/>
+          <ncx:navPoint id="id2674696" playOrder="129">
+            <ncx:navLabel>
+              <ncx:text>Button Behavior</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s06.html#button_behavior"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2675412" playOrder="130">
+            <ncx:navLabel>
+              <ncx:text>Button Control Extenders</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s06.html#button_control_extenders"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2675829" playOrder="131">
+          <ncx:navLabel>
+            <ncx:text>HyperLink Control</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s07.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2676530" playOrder="132">
+          <ncx:navLabel>
+            <ncx:text>Images</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s08.html"/>
+          <ncx:navPoint id="id2676558" playOrder="133">
+            <ncx:navLabel>
+              <ncx:text>Image Control</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s08.html#image_control"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2677485" playOrder="134">
+            <ncx:navLabel>
+              <ncx:text>ImageMap Control</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s08.html#imagemap_control"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2678702" playOrder="135">
+          <ncx:navLabel>
+            <ncx:text>Selecting Values</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s09.html"/>
+          <ncx:navPoint id="id2678906" playOrder="136">
+            <ncx:navLabel>
+              <ncx:text>CheckBox Control</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s09.html#checkbox_control"/>
+            <ncx:navPoint id="id2678978" playOrder="137">
+              <ncx:navLabel>
+                <ncx:text>CheckBox behavior</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s09.html#checkbox_behavior"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2679757" playOrder="138">
+              <ncx:navLabel>
+                <ncx:text>CheckBox extenders</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s09.html#checkbox_extenders"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2680634" playOrder="139">
+            <ncx:navLabel>
+              <ncx:text>RadioButton Control</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s09.html#radiobutton_control"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2681086" playOrder="140">
+            <ncx:navLabel>
+              <ncx:text>Selecting from a List</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s09.html#selecting_from_a_list"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2681635" playOrder="141">
+            <ncx:navLabel>
+              <ncx:text>ListItem Object</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s09.html#listitem_object"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2681955" playOrder="142">
+            <ncx:navLabel>
+              <ncx:text>CheckBoxList Control</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s09.html#checkboxlist_control"/>
+            <ncx:navPoint id="id2682066" playOrder="143">
+              <ncx:navLabel>
+                <ncx:text>Adding items declaratively</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s09.html#adding_items_declaratively"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2682767" playOrder="144">
+              <ncx:navLabel>
+                <ncx:text>Adding items programmatically from an array or collection</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s09.html#adding_items_programmatically_from_an_ar"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2683538" playOrder="145">
+              <ncx:navLabel>
+                <ncx:text>Adding items from a data source</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s09.html#adding_items_from_a_data_source"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2683786" playOrder="146">
+              <ncx:navLabel>
+                <ncx:text>Responding to user selections</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s09.html#responding_to_user_selections"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2684231" playOrder="147">
+            <ncx:navLabel>
+              <ncx:text>RadioButtonList Control</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s09.html#radiobuttonlist_control"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2684906" playOrder="148">
+            <ncx:navLabel>
+              <ncx:text>DropDownList Control</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s09.html#dropdownlist_control"/>
+            <ncx:navPoint id="id2684940" playOrder="149">
+              <ncx:navLabel>
+                <ncx:text>DropDownList behavior</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s09.html#dropdownlist_behavior"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2685322" playOrder="150">
+              <ncx:navLabel>
+                <ncx:text>DropDownList extenders</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s09.html#dropdownlist_extenders"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2685869" playOrder="151">
+            <ncx:navLabel>
+              <ncx:text>ListBox Control</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s09.html#listbox_control"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2686740" playOrder="152">
+            <ncx:navLabel>
+              <ncx:text>BulletedList Control</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s09.html#bulletedlist_control"/>
+            <ncx:navPoint id="id2687104" playOrder="153">
+              <ncx:navLabel>
+                <ncx:text>BulletedList behavior</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s09.html#bulletedlist_behavior"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2687983" playOrder="154">
+              <ncx:navLabel>
+                <ncx:text>BulletedList extenders</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s09.html#bulletedlist_extenders"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2688532" playOrder="155">
+            <ncx:navLabel>
+              <ncx:text>Sliders and Ratings</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s09.html#sliders_and_ratings"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2689830" playOrder="156">
+        <ncx:navLabel>
+          <ncx:text>5. More Controls</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch05.html"/>
+        <ncx:navPoint id="id2689897" playOrder="157">
+          <ncx:navLabel>
+            <ncx:text>Panel Controls</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05.html#panel_controls"/>
+          <ncx:navPoint id="id2691611" playOrder="158">
+            <ncx:navLabel>
+              <ncx:text>The Panel Control and AJAX</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05.html#the_panel_control_and_ajax"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2691875" playOrder="159">
+            <ncx:navLabel>
+              <ncx:text>Panel Extenders</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05.html#panel_extenders"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2692671" playOrder="160">
+            <ncx:navLabel>
+              <ncx:text>Collapsible Panels and Accordions</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05.html#collapsible_panels_and_accordions"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2695050" playOrder="161">
+            <ncx:navLabel>
+              <ncx:text>From Columns to Stacks</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05.html#from_columns_to_stacks"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2696479" playOrder="162">
+          <ncx:navLabel>
+            <ncx:text>The UpdatePanel Control</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s02.html"/>
+          <ncx:navPoint id="id2697147" playOrder="163">
+            <ncx:navLabel>
+              <ncx:text>Multiple Update Panels on One Page</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s02.html#multiple_update_panels_on_one_page"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2698327" playOrder="164">
+            <ncx:navLabel>
+              <ncx:text>Using the UpdateProgress Control</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s02.html#using_the_updateprogress_control"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2698960" playOrder="165">
+          <ncx:navLabel>
+            <ncx:text>MultiView and View Controls</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s03.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2701130" playOrder="166">
+          <ncx:navLabel>
+            <ncx:text>The Wizard Control</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s04.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2704969" playOrder="167">
+          <ncx:navLabel>
+            <ncx:text>The FileUpload Control</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s05.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2706467" playOrder="168">
+          <ncx:navLabel>
+            <ncx:text>The AdRotator Control</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s06.html"/>
+          <ncx:navPoint id="id2706932" playOrder="169">
+            <ncx:navLabel>
+              <ncx:text>The Advertisement File</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s06.html#the_advertisement_file"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2707507" playOrder="170">
+            <ncx:navLabel>
+              <ncx:text>Using AdRotator</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s06.html#using_adrotator"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2707965" playOrder="171">
+          <ncx:navLabel>
+            <ncx:text>The Calendar Control</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s07.html"/>
+          <ncx:navPoint id="id2708974" playOrder="172">
+            <ncx:navLabel>
+              <ncx:text>Selecting Dates in the Calendar</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s07.html#selecting_dates_in_the_calendar"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2709455" playOrder="173">
+            <ncx:navLabel>
+              <ncx:text>Controlling the Calendar's Appearance</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s07.html#controlling_the_calendars_appearance"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2710217" playOrder="174">
+            <ncx:navLabel>
+              <ncx:text>Programming the Calendar Control</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s07.html#programming_the_calendar_control"/>
+            <ncx:navPoint id="id2710287" playOrder="175">
+              <ncx:navLabel>
+                <ncx:text>SelectionChanged event</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch05s07.html#selectionchanged_event"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2712572" playOrder="176">
+              <ncx:navLabel>
+                <ncx:text>DayRender event</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch05s07.html#dayrender_event"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2713426" playOrder="177">
+              <ncx:navLabel>
+                <ncx:text>VisibleMonthChanged event</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch05s07.html#visiblemonthchanged_event"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2713772" playOrder="178">
+        <ncx:navLabel>
+          <ncx:text>6. Website Fundamentals</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch06.html"/>
+        <ncx:navPoint id="id2713822" playOrder="179">
+          <ncx:navLabel>
+            <ncx:text>The Page Class</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06.html#the_page_class"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2714478" playOrder="180">
+          <ncx:navLabel>
+            <ncx:text>The Code-Behind File</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2715500" playOrder="181">
+          <ncx:navLabel>
+            <ncx:text>Moving to Another Page</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s03.html"/>
+          <ncx:navPoint id="id2715561" playOrder="182">
+            <ncx:navLabel>
+              <ncx:text>HyperLink</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s03.html#hyperlink"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2715587" playOrder="183">
+            <ncx:navLabel>
+              <ncx:text>Server.Transfer</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s03.html#servertransfer"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2715726" playOrder="184">
+            <ncx:navLabel>
+              <ncx:text>Response.Redirect</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s03.html#responseredirect"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2715807" playOrder="185">
+            <ncx:navLabel>
+              <ncx:text>Cross-Page Posting</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s03.html#cross-page_posting"/>
+            <ncx:navPoint id="id2716363" playOrder="186">
+              <ncx:navLabel>
+                <ncx:text>Retrieving data from the previous page</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#retrieving_data_from_the_previous_page"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2717704" playOrder="187">
+              <ncx:navLabel>
+                <ncx:text>How did I get here?</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s03.html#how_did_i_get_here"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2718537" playOrder="188">
+          <ncx:navLabel>
+            <ncx:text>State</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s04.html"/>
+          <ncx:navPoint id="id2718795" playOrder="189">
+            <ncx:navLabel>
+              <ncx:text>Session State</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s04.html#session_state"/>
+            <ncx:navPoint id="id2719572" playOrder="190">
+              <ncx:navLabel>
+                <ncx:text>Session state configuration</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s04.html#session_state_configuration"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2720690" playOrder="191">
+              <ncx:navLabel>
+                <ncx:text>Session-scoped application objects</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch06s04.html#session-scoped_application_objects"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2720741" playOrder="192">
+            <ncx:navLabel>
+              <ncx:text>View State</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s04.html#view_state"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2721016" playOrder="193">
+            <ncx:navLabel>
+              <ncx:text>State Bag</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s04.html#state_bag"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2721607" playOrder="194">
+            <ncx:navLabel>
+              <ncx:text>Application State</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s04.html#application_state"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2723112" playOrder="195">
+          <ncx:navLabel>
+            <ncx:text>Life Cycle</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s05.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2723618" playOrder="196">
+          <ncx:navLabel>
+            <ncx:text>Directives</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s06.html"/>
+          <ncx:navPoint id="id2723698" playOrder="197">
+            <ncx:navLabel>
+              <ncx:text>Application Directive</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s06.html#application_directive"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2723854" playOrder="198">
+            <ncx:navLabel>
+              <ncx:text>Assembly Directive</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s06.html#assembly_directive"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2724092" playOrder="199">
+            <ncx:navLabel>
+              <ncx:text>Control Directive</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s06.html#control_directive"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2724392" playOrder="200">
+            <ncx:navLabel>
+              <ncx:text>Implements Directive</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s06.html#implements_directive"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2724474" playOrder="201">
+            <ncx:navLabel>
+              <ncx:text>Import Directive</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s06.html#import_directive"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2724793" playOrder="202">
+            <ncx:navLabel>
+              <ncx:text>Master Directive</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s06.html#master_directive"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2724831" playOrder="203">
+            <ncx:navLabel>
+              <ncx:text>MasterType Directive</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s06.html#mastertype_directive"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2724870" playOrder="204">
+            <ncx:navLabel>
+              <ncx:text>OutputCache Directive</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s06.html#outputcache_directive"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2724915" playOrder="205">
+            <ncx:navLabel>
+              <ncx:text>Page Directive</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s06.html#page_directive"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2725497" playOrder="206">
+            <ncx:navLabel>
+              <ncx:text>PreviousPageType Directive</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s06.html#previouspagetype_directive"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2725514" playOrder="207">
+            <ncx:navLabel>
+              <ncx:text>Reference Directive</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s06.html#reference_directive"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2725564" playOrder="208">
+            <ncx:navLabel>
+              <ncx:text>Register Directive</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s06.html#register_directive"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2725598" playOrder="209">
+        <ncx:navLabel>
+          <ncx:text>7. Data Source Controls and Connections</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch07.html"/>
+        <ncx:navPoint id="id2725631" playOrder="210">
+          <ncx:navLabel>
+            <ncx:text>Sources of Data and DataSource Controls</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07.html#sources_of_data_and_datasource_controls"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2726645" playOrder="211">
+          <ncx:navLabel>
+            <ncx:text>Using the ObjectDataSource Control</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07s02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2727265" playOrder="212">
+          <ncx:navLabel>
+            <ncx:text>Using the XmlDataSource Control</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07s03.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2727975" playOrder="213">
+          <ncx:navLabel>
+            <ncx:text>Using the SqlDataSource Control</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07s04.html"/>
+          <ncx:navPoint id="id2728082" playOrder="214">
+            <ncx:navLabel>
+              <ncx:text>The AdventureWorksLT Database</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s04.html#the_adventureworkslt_database"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2728197" playOrder="215">
+            <ncx:navLabel>
+              <ncx:text>Using the Server Explorer</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s04.html#using_the_server_explorer"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2728565" playOrder="216">
+            <ncx:navLabel>
+              <ncx:text>Configuring the SqlDataSource</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s04.html#configuring_the_sqldatasource"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2729769" playOrder="217">
+            <ncx:navLabel>
+              <ncx:text>Storing Connection Strings</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s04.html#storing_connection_strings"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2730358" playOrder="218">
+            <ncx:navLabel>
+              <ncx:text>Passing Parameters to the Select Query</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s04.html#passing_parameters_to_the_select_query"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2731207" playOrder="219">
+            <ncx:navLabel>
+              <ncx:text>Writing Data to a Database</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s04.html#writing_data_to_a_database"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2731927" playOrder="220">
+            <ncx:navLabel>
+              <ncx:text>Multiuser Updates</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s04.html#multiuser_updates"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2732559" playOrder="221">
+          <ncx:navLabel>
+            <ncx:text>Tracking the Data Source with Events</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07s05.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2733125" playOrder="222">
+        <ncx:navLabel>
+          <ncx:text>8. Using Data-Aware Controls</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch08.html"/>
+        <ncx:navPoint id="id2733327" playOrder="223">
+          <ncx:navLabel>
+            <ncx:text>Hierarchical Data Controls</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08.html#hierarchical_data_controls"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2733447" playOrder="224">
+          <ncx:navLabel>
+            <ncx:text>Tabular Data Controls</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08s02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2734115" playOrder="225">
+          <ncx:navLabel>
+            <ncx:text>Lists of Data</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08s03.html"/>
+          <ncx:navPoint id="id2734260" playOrder="226">
+            <ncx:navLabel>
+              <ncx:text>Binding Data to a List</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s03.html#binding_data_to_a_list"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2734850" playOrder="227">
+            <ncx:navLabel>
+              <ncx:text>Retrieving the Selected Value from a List</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s03.html#retrieving_the_selected_value_from_a_lis"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2735108" playOrder="228">
+            <ncx:navLabel>
+              <ncx:text>Adding Static Values to a Data-Bound List</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s03.html#adding_static_values_to_a_data-bound_lis"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2735282" playOrder="229">
+          <ncx:navLabel>
+            <ncx:text>One Record at a Time: DetailsView</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08s04.html"/>
+          <ncx:navPoint id="id2735583" playOrder="230">
+            <ncx:navLabel>
+              <ncx:text>Paging Through Records</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s04.html#paging_through_records"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2736458" playOrder="231">
+            <ncx:navLabel>
+              <ncx:text>Improving Presentation and Accessibility</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s04.html#improving_presentation_and_accessibility"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2737114" playOrder="232">
+            <ncx:navLabel>
+              <ncx:text>Retrieving Values from the Current Record</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s04.html#retrieving_values_from_the_current_recor"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2737708" playOrder="233">
+            <ncx:navLabel>
+              <ncx:text>Adding, Updating, and Deleting Records</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s04.html#adding_updating_and_deleting_records"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2738319" playOrder="234">
+            <ncx:navLabel>
+              <ncx:text>Manually Setting the Contents of the Control</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s04.html#manually_setting_the_contents_of_the_con"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2740356" playOrder="235">
+          <ncx:navLabel>
+            <ncx:text>Many Records at a Time: GridView</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08s05.html"/>
+          <ncx:navPoint id="id2740884" playOrder="236">
+            <ncx:navLabel>
+              <ncx:text>Sorting and Paging</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s05.html#sorting_and_paging"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2741241" playOrder="237">
+            <ncx:navLabel>
+              <ncx:text>Improving Presentation and Accessibility</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s05.html#improving_presentation_and_accessi-id001"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2741958" playOrder="238">
+            <ncx:navLabel>
+              <ncx:text>Retrieving Values from the Selected Record</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s05.html#retrieving_values_from_the_selected_reco"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2742862" playOrder="239">
+            <ncx:navLabel>
+              <ncx:text>Updating and Deleting Records</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s05.html#updating_and_deleting_records"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2744234" playOrder="240">
+          <ncx:navLabel>
+            <ncx:text>Templated Controls</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08s06.html"/>
+          <ncx:navPoint id="id2744828" playOrder="241">
+            <ncx:navLabel>
+              <ncx:text>DataList Control</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s06.html#datalist_control"/>
+            <ncx:navPoint id="id2745626" playOrder="242">
+              <ncx:navLabel>
+                <ncx:text>Presentation and accessibility</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s06.html#presentation_and_accessibility"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2746546" playOrder="243">
+              <ncx:navLabel>
+                <ncx:text>Selecting, updating, and deleting records</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s06.html#selecting_updating_and_deleting_records"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2748129" playOrder="244">
+            <ncx:navLabel>
+              <ncx:text>FormView Control</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s06.html#formview_control"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2748583" playOrder="245">
+            <ncx:navLabel>
+              <ncx:text>Repeater Control</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s06.html#repeater_control"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2749253" playOrder="246">
+            <ncx:navLabel>
+              <ncx:text>ListView Control</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s06.html#listview_control"/>
+            <ncx:navPoint id="id2750547" playOrder="247">
+              <ncx:navLabel>
+                <ncx:text>Sorting and paging</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s06.html#sorting_and_paging-id001"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2751798" playOrder="248">
+              <ncx:navLabel>
+                <ncx:text>Selecting, adding, updating, and deleting data in a ListView</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch08s06.html#selecting_adding_updating_and_deleting_d"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2752908" playOrder="249">
+        <ncx:navLabel>
+          <ncx:text>9. ADO.NET</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch09.html"/>
+        <ncx:navPoint id="id2752984" playOrder="250">
+          <ncx:navLabel>
+            <ncx:text>The ADO.NET Object Model</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch09.html#the_adonet_object_model"/>
+          <ncx:navPoint id="id2753040" playOrder="251">
+            <ncx:navLabel>
+              <ncx:text>The DataSet Class</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09.html#the_dataset_class"/>
+            <ncx:navPoint id="id2753993" playOrder="252">
+              <ncx:navLabel>
+                <ncx:text>The DataTable class</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09.html#the_datatable_class"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2754764" playOrder="253">
+              <ncx:navLabel>
+                <ncx:text>The DataRow class</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09.html#the_datarow_class"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2755222" playOrder="254">
+            <ncx:navLabel>
+              <ncx:text>DbCommand and DbConnection</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09.html#dbcommand_and_dbconnection"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2755326" playOrder="255">
+            <ncx:navLabel>
+              <ncx:text>The DataAdapter Object</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09.html#the_dataadapter_object"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2755612" playOrder="256">
+            <ncx:navLabel>
+              <ncx:text>The DataReader Object</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09.html#the_datareader_object"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2755922" playOrder="257">
+          <ncx:navLabel>
+            <ncx:text>Getting Started with ADO.NET</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch09s02.html"/>
+          <ncx:navPoint id="id2756328" playOrder="258">
+            <ncx:navLabel>
+              <ncx:text>Using a DataReader</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s02.html#using_a_datareader"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2756797" playOrder="259">
+            <ncx:navLabel>
+              <ncx:text>Creating Data Relationships Within DataSets</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s02.html#creating_data_relationships_within_datas"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2758133" playOrder="260">
+          <ncx:navLabel>
+            <ncx:text>Creating Data Objects by Hand</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch09s03.html"/>
+          <ncx:navPoint id="id2758206" playOrder="261">
+            <ncx:navLabel>
+              <ncx:text>A Simple Database Design</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s03.html#a_simple_database_design"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2758489" playOrder="262">
+            <ncx:navLabel>
+              <ncx:text>Creating a DataSet by Hand</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s03.html#creating_a_dataset_by_hand"/>
+            <ncx:navPoint id="id2758734" playOrder="263">
+              <ncx:navLabel>
+                <ncx:text>Creating a DataTable</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s03.html#creating_a_datatable"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2758784" playOrder="264">
+              <ncx:navLabel>
+                <ncx:text>Adding DataColumns to the DataTable</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s03.html#adding_datacolumns_to_the_datatable"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2758948" playOrder="265">
+              <ncx:navLabel>
+                <ncx:text>Adding primary key columns</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s03.html#adding_primary_key_columns"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2759198" playOrder="266">
+              <ncx:navLabel>
+                <ncx:text>Adding data to the table</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s03.html#adding_data_to_the_table"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2759545" playOrder="267">
+              <ncx:navLabel>
+                <ncx:text>Creating foreign keys and data relationships</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s03.html#creating_foreign_keys_and_data_relations"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2759910" playOrder="268">
+          <ncx:navLabel>
+            <ncx:text>Stored Procedures</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch09s04.html"/>
+          <ncx:navPoint id="id2759944" playOrder="269">
+            <ncx:navLabel>
+              <ncx:text>Creating a Simple Stored Procedure</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s04.html#creating_a_simple_stored_procedure"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2760262" playOrder="270">
+            <ncx:navLabel>
+              <ncx:text>Creating a Stored Procedure with Parameters</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s04.html#creating_a_stored_procedure_with_paramet"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2761028" playOrder="271">
+          <ncx:navLabel>
+            <ncx:text>Updating with SQL and ADO.NET</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch09s05.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2762003" playOrder="272">
+          <ncx:navLabel>
+            <ncx:text>Updating Data with Transactions</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch09s06.html"/>
+          <ncx:navPoint id="id2762047" playOrder="273">
+            <ncx:navLabel>
+              <ncx:text>The ACID Test</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s06.html#the_acid_test"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2762200" playOrder="274">
+            <ncx:navLabel>
+              <ncx:text>Implementing Transactions</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s06.html#implementing_transactions"/>
+            <ncx:navPoint id="id2763292" playOrder="275">
+              <ncx:navLabel>
+                <ncx:text>Using database transactions</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s06.html#using_database_transactions"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2763448" playOrder="276">
+              <ncx:navLabel>
+                <ncx:text>Using connection transactions</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch09s06.html#using_connection_transactions"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2764016" playOrder="277">
+          <ncx:navLabel>
+            <ncx:text>Binding to Business Objects</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch09s07.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2764848" playOrder="278">
+        <ncx:navLabel>
+          <ncx:text>10. Presenting LINQ</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch10.html"/>
+        <ncx:navPoint id="id2765036" playOrder="279">
+          <ncx:navLabel>
+            <ncx:text>Deconstructing LINQ</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch10.html#deconstructing_linq"/>
+          <ncx:navPoint id="id2766021" playOrder="280">
+            <ncx:navLabel>
+              <ncx:text>LINQ Syntax</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10.html#linq_syntax"/>
+            <ncx:navPoint id="id2766263" playOrder="281">
+              <ncx:navLabel>
+                <ncx:text>The from clause</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch10.html#the_from_clause"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2766431" playOrder="282">
+              <ncx:navLabel>
+                <ncx:text>The join clause</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch10.html#the_join_clause"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2766538" playOrder="283">
+              <ncx:navLabel>
+                <ncx:text>The let clause</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch10.html#the_let_clause"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2766650" playOrder="284">
+              <ncx:navLabel>
+                <ncx:text>The where clause</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch10.html#the_where_clause"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2766767" playOrder="285">
+              <ncx:navLabel>
+                <ncx:text>The orderby and orderbydescending clauses</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch10.html#the_orderby_and_orderbydescending_clause"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2766837" playOrder="286">
+              <ncx:navLabel>
+                <ncx:text>The select clause</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch10.html#the_select_clause"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2767033" playOrder="287">
+              <ncx:navLabel>
+                <ncx:text>The groupby clause</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch10.html#the_groupby_clause"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2767438" playOrder="288">
+              <ncx:navLabel>
+                <ncx:text>Other LINQ query operators</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch10.html#other_linq_query_operators"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2768394" playOrder="289">
+            <ncx:navLabel>
+              <ncx:text>Behind the Scenes of a LINQ Query: C# 3.0 at Work</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10.html#behind_the_scenes_of_a_linq_query_csharp"/>
+            <ncx:navPoint id="id2768472" playOrder="290">
+              <ncx:navLabel>
+                <ncx:text>Anonymous types and object initializers</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch10.html#anonymous_types_and_object_initializers"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2768630" playOrder="291">
+              <ncx:navLabel>
+                <ncx:text>Implicitly typed local variables</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch10.html#implicitly_typed_local_variables"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2768984" playOrder="292">
+              <ncx:navLabel>
+                <ncx:text>Extension methods</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch10.html#extension_methods"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2769143" playOrder="293">
+              <ncx:navLabel>
+                <ncx:text>Creating your own extension</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch10.html#creating_your_own_extension"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2769332" playOrder="294">
+              <ncx:navLabel>
+                <ncx:text>Lambda expressions</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch10.html#lambda_expressions"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2769419" playOrder="295">
+            <ncx:navLabel>
+              <ncx:text>IEnumerable Good, IQueryable Better</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10.html#ienumerable_good_iqueryable_better"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2769674" playOrder="296">
+          <ncx:navLabel>
+            <ncx:text>LINQ Providers</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch10s02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2769938" playOrder="297">
+          <ncx:navLabel>
+            <ncx:text>LINQ to XML</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch10s03.html"/>
+          <ncx:navPoint id="id2770862" playOrder="298">
+            <ncx:navLabel>
+              <ncx:text>Joining XML to a Different Type of Data</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s03.html#joining_xml_to_a_different_type_of_data"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2771335" playOrder="299">
+            <ncx:navLabel>
+              <ncx:text>Writing XML with LINQ</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s03.html#writing_xml_with_linq"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2771940" playOrder="300">
+          <ncx:navLabel>
+            <ncx:text>LINQ to SQL</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch10s04.html"/>
+          <ncx:navPoint id="id2772013" playOrder="301">
+            <ncx:navLabel>
+              <ncx:text>From Relations to Objects</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s04.html#from_relations_to_objects"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2772249" playOrder="302">
+            <ncx:navLabel>
+              <ncx:text>Using the Object Relational Designer</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s04.html#using_the_object_relational_designer"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2772729" playOrder="303">
+            <ncx:navLabel>
+              <ncx:text>Querying DataContext Objects Manually</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s04.html#querying_datacontext_objects_manually"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2772866" playOrder="304">
+            <ncx:navLabel>
+              <ncx:text>Joining DataContexts to a Different Type of Data</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s04.html#joining_datacontexts_to_a_different_type"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2773155" playOrder="305">
+            <ncx:navLabel>
+              <ncx:text>Writing to the Database with LINQ</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s04.html#writing_to_the_database_with_linq"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2773467" playOrder="306">
+            <ncx:navLabel>
+              <ncx:text>Introducing the LinqDataSource Object</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s04.html#introducing_the_linqdatasource_object"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2774559" playOrder="307">
+        <ncx:navLabel>
+          <ncx:text>11. Validation</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch11.html"/>
+        <ncx:navPoint id="id2774978" playOrder="308">
+          <ncx:navLabel>
+            <ncx:text>The RequiredFieldValidator</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch11.html#the_requiredfieldvalidator"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2775756" playOrder="309">
+          <ncx:navLabel>
+            <ncx:text>The Summary Control</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch11s02.html"/>
+          <ncx:navPoint id="id2776228" playOrder="310">
+            <ncx:navLabel>
+              <ncx:text>Identifying the User's Errors</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch11s02.html#identifying_the_users_errors"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2776511" playOrder="311">
+          <ncx:navLabel>
+            <ncx:text>The Compare Validator</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch11s03.html"/>
+          <ncx:navPoint id="id2776899" playOrder="312">
+            <ncx:navLabel>
+              <ncx:text>Checking the Input Type</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch11s03.html#checking_the_input_type"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2777000" playOrder="313">
+            <ncx:navLabel>
+              <ncx:text>Comparing to Another Control</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch11s03.html#comparing_to_another_control"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2777248" playOrder="314">
+            <ncx:navLabel>
+              <ncx:text>Checking Password Strength</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch11s03.html#checking_password_strength"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2777930" playOrder="315">
+          <ncx:navLabel>
+            <ncx:text>Range Checking</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch11s04.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2778197" playOrder="316">
+          <ncx:navLabel>
+            <ncx:text>Regular Expressions</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch11s05.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2778647" playOrder="317">
+          <ncx:navLabel>
+            <ncx:text>Custom Validation</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch11s06.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2779106" playOrder="318">
+          <ncx:navLabel>
+            <ncx:text>Validation Groups</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch11s07.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2779407" playOrder="319">
+        <ncx:navLabel>
+          <ncx:text>12. Forms-Based Security</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch12.html"/>
+        <ncx:navPoint id="id2779708" playOrder="320">
+          <ncx:navLabel>
+            <ncx:text>Authentication</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch12.html#authentication"/>
+          <ncx:navPoint id="id2780004" playOrder="321">
+            <ncx:navLabel>
+              <ncx:text>Anonymous Access</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12.html#anonymous_access"/>
+            <ncx:navPoint id="id2780301" playOrder="322">
+              <ncx:navLabel>
+                <ncx:text>The IUSR account</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12.html#the_iusr_account"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2780484" playOrder="323">
+              <ncx:navLabel>
+                <ncx:text>The IIS 5/6 Directory Security panel</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12.html#the_iis_56_directory_security_panel"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2780654" playOrder="324">
+            <ncx:navLabel>
+              <ncx:text>Windows Authentication</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12.html#windows_authentication"/>
+            <ncx:navPoint id="id2780825" playOrder="325">
+              <ncx:navLabel>
+                <ncx:text>Enabling authentication in IIS 7</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12.html#enabling_authentication_in_iis_7"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2781056" playOrder="326">
+              <ncx:navLabel>
+                <ncx:text>Basic authentication</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12.html#basic_authentication"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2781131" playOrder="327">
+              <ncx:navLabel>
+                <ncx:text>Digest authentication</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12.html#digest_authentication"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2781248" playOrder="328">
+              <ncx:navLabel>
+                <ncx:text>Integrated Windows authentication</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12.html#integrated_windows_authentication"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2781380" playOrder="329">
+              <ncx:navLabel>
+                <ncx:text>Role-based security</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12.html#role-based_security"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2781515" playOrder="330">
+              <ncx:navLabel>
+                <ncx:text>Client certificate mapping</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12.html#client_certificate_mapping"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2781943" playOrder="331">
+            <ncx:navLabel>
+              <ncx:text>Passport Authentication</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12.html#passport_authentication"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2782256" playOrder="332">
+            <ncx:navLabel>
+              <ncx:text>Forms Authentication</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12.html#forms_authentication"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2782363" playOrder="333">
+          <ncx:navLabel>
+            <ncx:text>Setting Up Forms-Based Authentication</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch12s02.html"/>
+          <ncx:navPoint id="id2782430" playOrder="334">
+            <ncx:navLabel>
+              <ncx:text>Creating the Database</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12s02.html#creating_the_database"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2782770" playOrder="335">
+            <ncx:navLabel>
+              <ncx:text>Creating and Configuring the Website</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12s02.html#creating_and_configuring_the_website"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2783789" playOrder="336">
+            <ncx:navLabel>
+              <ncx:text>Creating Users</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12s02.html#creating_users"/>
+            <ncx:navPoint id="id2783848" playOrder="337">
+              <ncx:navLabel>
+                <ncx:text>Using the Web Site Administration Tool</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12s02.html#using_the_web_site_administration_tool"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2784058" playOrder="338">
+              <ncx:navLabel>
+                <ncx:text>Using a Create User web page</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12s02.html#using_a_create_user_web_page"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2784361" playOrder="339">
+            <ncx:navLabel>
+              <ncx:text>Creating User-Aware Pages</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12s02.html#creating_user-aware_pages"/>
+            <ncx:navPoint id="id2784442" playOrder="340">
+              <ncx:navLabel>
+                <ncx:text>The Welcome page</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12s02.html#the_welcome_page"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2784756" playOrder="341">
+              <ncx:navLabel>
+                <ncx:text>The Login page</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12s02.html#the_login_page"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2785103" playOrder="342">
+              <ncx:navLabel>
+                <ncx:text>The Password Recovery page</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12s02.html#the_password_recovery_page"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2785511" playOrder="343">
+              <ncx:navLabel>
+                <ncx:text>The Change Password page</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12s02.html#the_change_password_page"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2785714" playOrder="344">
+            <ncx:navLabel>
+              <ncx:text>Restricting Access to Users</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12s02.html#restricting_access_to_users"/>
+            <ncx:navPoint id="id2785823" playOrder="345">
+              <ncx:navLabel>
+                <ncx:text>In the code-behind page</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12s02.html#in_the_code-behind_page"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2786014" playOrder="346">
+              <ncx:navLabel>
+                <ncx:text>In web.config</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12s02.html#in_webconfig"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2786258" playOrder="347">
+            <ncx:navLabel>
+              <ncx:text>Enabling Roles</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12s02.html#enabling_roles"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2786922" playOrder="348">
+            <ncx:navLabel>
+              <ncx:text>Creating Roles</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12s02.html#creating_roles"/>
+            <ncx:navPoint id="id2787033" playOrder="349">
+              <ncx:navLabel>
+                <ncx:text>Using the Web Site Administration Tool</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12s02.html#using_the_web_site_administration_-id001"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2787326" playOrder="350">
+              <ncx:navLabel>
+                <ncx:text>Using a Create Roles web page</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12s02.html#using_a_create_roles_web_page"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2788576" playOrder="351">
+            <ncx:navLabel>
+              <ncx:text>Restricting Access to User Roles</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12s02.html#restricting_access_to_user_roles"/>
+            <ncx:navPoint id="id2788613" playOrder="352">
+              <ncx:navLabel>
+                <ncx:text>In the code-behind page</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12s02.html#in_the_code-behind_page-id001"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2788775" playOrder="353">
+              <ncx:navLabel>
+                <ncx:text>In web.config</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch12s02.html#in_webconfig-id001"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2788909" playOrder="354">
+        <ncx:navLabel>
+          <ncx:text>13. Master Pages and Navigation</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch13.html"/>
+        <ncx:navPoint id="id2788946" playOrder="355">
+          <ncx:navLabel>
+            <ncx:text>Master Pages</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch13.html#master_pages"/>
+          <ncx:navPoint id="id2789592" playOrder="356">
+            <ncx:navLabel>
+              <ncx:text>Adding Content Pages</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch13.html#adding_content_pages"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2790101" playOrder="357">
+            <ncx:navLabel>
+              <ncx:text>Using Nested Master Pages</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch13.html#using_nested_master_pages"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2790694" playOrder="358">
+            <ncx:navLabel>
+              <ncx:text>Dynamically Modifying Master Page Contents from Content Pages</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch13.html#dynamically_modifying_master_page_conten"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2791084" playOrder="359">
+          <ncx:navLabel>
+            <ncx:text>Navigation</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch13s02.html"/>
+          <ncx:navPoint id="id2791118" playOrder="360">
+            <ncx:navLabel>
+              <ncx:text>Customizing Browser History</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch13s02.html#customizing_browser_history"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2792101" playOrder="361">
+            <ncx:navLabel>
+              <ncx:text>Getting Started with Site Navigation</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch13s02.html#getting_started_with_site_navigation"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2792556" playOrder="362">
+            <ncx:navLabel>
+              <ncx:text>Setting Up the Pages</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch13s02.html#setting_up_the_pages"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2793168" playOrder="363">
+            <ncx:navLabel>
+              <ncx:text>Customizing the Look and Feel</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch13s02.html#customizing_the_look_and_feel"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2794386" playOrder="364">
+            <ncx:navLabel>
+              <ncx:text>Populating on Demand</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch13s02.html#populating_on_demand"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2794608" playOrder="365">
+            <ncx:navLabel>
+              <ncx:text>Using a Menu for Navigation</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch13s02.html#using_a_menu_for_navigation"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2794699" playOrder="366">
+            <ncx:navLabel>
+              <ncx:text>Enumerating the Site Map Programmatically</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch13s02.html#enumerating_the_site_map_programmaticall"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2795132" playOrder="367">
+          <ncx:navLabel>
+            <ncx:text>Filtering Based on Security</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch13s03.html"/>
+          <ncx:navPoint id="id2795435" playOrder="368">
+            <ncx:navLabel>
+              <ncx:text>Creating Access Rules</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch13s03.html#creating_access_rules"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2795595" playOrder="369">
+            <ncx:navLabel>
+              <ncx:text>Creating a Permission-Driven Site Map</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch13s03.html#creating_a_permission-driven_site_map"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2795728" playOrder="370">
+            <ncx:navLabel>
+              <ncx:text>Enabling Security Trimming</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch13s03.html#enabling_security_trimming"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2796018" playOrder="371">
+        <ncx:navLabel>
+          <ncx:text>14. Personalization</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch14.html"/>
+        <ncx:navPoint id="id2796051" playOrder="372">
+          <ncx:navLabel>
+            <ncx:text>Creating Personalized Websites</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch14.html#creating_personalized_websites"/>
+          <ncx:navPoint id="id2796166" playOrder="373">
+            <ncx:navLabel>
+              <ncx:text>Configuring the Site for Profiles</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14.html#configuring_the_site_for_profiles"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2796893" playOrder="374">
+            <ncx:navLabel>
+              <ncx:text>Working with Profile Data</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14.html#working_with_profile_data"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2797531" playOrder="375">
+            <ncx:navLabel>
+              <ncx:text>Exploring the Profile Tables</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14.html#exploring_the_profile_tables"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2797912" playOrder="376">
+            <ncx:navLabel>
+              <ncx:text>Personalizing with Complex Types</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14.html#personalizing_with_complex_types"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2798531" playOrder="377">
+            <ncx:navLabel>
+              <ncx:text>Anonymous Personalization</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14.html#anonymous_personalization"/>
+            <ncx:navPoint id="id2798617" playOrder="378">
+              <ncx:navLabel>
+                <ncx:text>A little more configuration</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch14.html#a_little_more_configuration"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2798716" playOrder="379">
+              <ncx:navLabel>
+                <ncx:text>A little more code</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch14.html#a_little_more_code"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2799605" playOrder="380">
+            <ncx:navLabel>
+              <ncx:text>Inheriting Profile Properties</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14.html#inheriting_profile_properties"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2799885" playOrder="381">
+            <ncx:navLabel>
+              <ncx:text>Saving Profile Properties</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14.html#saving_profile_properties"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2799994" playOrder="382">
+          <ncx:navLabel>
+            <ncx:text>Themes and Skins</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch14s02.html"/>
+          <ncx:navPoint id="id2800370" playOrder="383">
+            <ncx:navLabel>
+              <ncx:text>Creating the Test Site</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14s02.html#creating_the_test_site"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2800477" playOrder="384">
+            <ncx:navLabel>
+              <ncx:text>Organizing Site Themes and Skins</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14s02.html#organizing_site_themes_and_skins"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2800685" playOrder="385">
+            <ncx:navLabel>
+              <ncx:text>Enabling Themes and Skins</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14s02.html#enabling_themes_and_skins"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2800750" playOrder="386">
+            <ncx:navLabel>
+              <ncx:text>Specifying Themes for Your Page</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14s02.html#specifying_themes_for_your_page"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2800832" playOrder="387">
+            <ncx:navLabel>
+              <ncx:text>Setting Stylesheet Themes</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14s02.html#setting_stylesheet_themes"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2801024" playOrder="388">
+            <ncx:navLabel>
+              <ncx:text>Setting Customization Themes</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14s02.html#setting_customization_themes"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2801206" playOrder="389">
+            <ncx:navLabel>
+              <ncx:text>Using Named Skins</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14s02.html#using_named_skins"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2801397" playOrder="390">
+          <ncx:navLabel>
+            <ncx:text>Web Parts</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch14s03.html"/>
+          <ncx:navPoint id="id2801420" playOrder="391">
+            <ncx:navLabel>
+              <ncx:text>Web Parts Architecture</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14s03.html#web_parts_architecture"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2801785" playOrder="392">
+            <ncx:navLabel>
+              <ncx:text>Creating Zones</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14s03.html#creating_zones"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2801928" playOrder="393">
+            <ncx:navLabel>
+              <ncx:text>Adding Controls to Zones</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14s03.html#adding_controls_to_zones"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2802236" playOrder="394">
+            <ncx:navLabel>
+              <ncx:text>Minimizing and Restoring</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14s03.html#minimizing_and_restoring"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2802359" playOrder="395">
+            <ncx:navLabel>
+              <ncx:text>Enabling Editing and Layout Changes</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14s03.html#enabling_editing_and_layout_changes"/>
+            <ncx:navPoint id="id2802398" playOrder="396">
+              <ncx:navLabel>
+                <ncx:text>Creating a user control to enable changing page layout</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch14s03.html#creating_a_user_control_to_enable_changi"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2802910" playOrder="397">
+              <ncx:navLabel>
+                <ncx:text>Moving a part</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch14s03.html#moving_a_part"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2803049" playOrder="398">
+            <ncx:navLabel>
+              <ncx:text>Adding Parts from a Catalog</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14s03.html#adding_parts_from_a_catalog"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2803567" playOrder="399">
+        <ncx:navLabel>
+          <ncx:text>15. Custom and User Controls</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch15.html"/>
+        <ncx:navPoint id="id2803685" playOrder="400">
+          <ncx:navLabel>
+            <ncx:text>User Controls</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch15.html#user_controls"/>
+          <ncx:navPoint id="id2804321" playOrder="401">
+            <ncx:navLabel>
+              <ncx:text>User Controls with Code</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch15.html#user_controls_with_code"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2804663" playOrder="402">
+            <ncx:navLabel>
+              <ncx:text>The @Control Directive</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch15.html#the_atcontrol_directive"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2805180" playOrder="403">
+            <ncx:navLabel>
+              <ncx:text>Properties</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch15.html#properties"/>
+            <ncx:navPoint id="id2805471" playOrder="404">
+              <ncx:navLabel>
+                <ncx:text>Creating a property</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch15.html#creating_a_property"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2805524" playOrder="405">
+              <ncx:navLabel>
+                <ncx:text>Providing an underlying value for the property</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch15.html#providing_an_underlying_value_for_the_pr"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2805579" playOrder="406">
+              <ncx:navLabel>
+                <ncx:text>Integrating the property into your code</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch15.html#integrating_the_property_into_your_code"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2805669" playOrder="407">
+              <ncx:navLabel>
+                <ncx:text>Setting the property from the client</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch15.html#setting_the_property_from_the_client"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2805999" playOrder="408">
+            <ncx:navLabel>
+              <ncx:text>Handling Events</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch15.html#handling_events"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2806871" playOrder="409">
+          <ncx:navLabel>
+            <ncx:text>Custom Controls</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch15s02.html"/>
+          <ncx:navPoint id="id2807822" playOrder="410">
+            <ncx:navLabel>
+              <ncx:text>Properties</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch15s02.html#properties-id001"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2807954" playOrder="411">
+            <ncx:navLabel>
+              <ncx:text>The Render Method</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch15s02.html#the_render_method"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2808109" playOrder="412">
+            <ncx:navLabel>
+              <ncx:text>Updating the Control</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch15s02.html#updating_the_control"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2808244" playOrder="413">
+            <ncx:navLabel>
+              <ncx:text>Maintaining State</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch15s02.html#maintaining_state"/>
+            <ncx:navPoint id="id2808299" playOrder="414">
+              <ncx:navLabel>
+                <ncx:text>Maintaining view state</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch15s02.html#maintaining_view_state"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2808824" playOrder="415">
+              <ncx:navLabel>
+                <ncx:text>Maintaining control state</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch15s02.html#maintaining_control_state"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2809439" playOrder="416">
+          <ncx:navLabel>
+            <ncx:text>Derived Controls</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch15s03.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2809866" playOrder="417">
+          <ncx:navLabel>
+            <ncx:text>Composite Controls</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch15s04.html"/>
+          <ncx:navPoint id="id2810288" playOrder="418">
+            <ncx:navLabel>
+              <ncx:text>Modifying the CountedButton Derived Control</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch15s04.html#modifying_the_countedbutton_derived_cont"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2810592" playOrder="419">
+            <ncx:navLabel>
+              <ncx:text>Creating the BookCounter Composite Control</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch15s04.html#creating_the_bookcounter_composite_contr"/>
+            <ncx:navPoint id="id2810706" playOrder="420">
+              <ncx:navLabel>
+                <ncx:text>INamingContainer</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch15s04.html#inamingcontainer"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2810746" playOrder="421">
+              <ncx:navLabel>
+                <ncx:text>Containing CountedButton2</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch15s04.html#containing_countedbutton2"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2810954" playOrder="422">
+            <ncx:navLabel>
+              <ncx:text>Creating the BookInquiryList Composite Control</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch15s04.html#creating_the_bookinquirylist_composite_c"/>
+            <ncx:navPoint id="id2811097" playOrder="423">
+              <ncx:navLabel>
+                <ncx:text>ControlBuilder and ParseChildren attributes</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch15s04.html#controlbuilder_and_parsechildren_attribu"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2811332" playOrder="424">
+              <ncx:navLabel>
+                <ncx:text>Render method</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch15s04.html#render_method"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2811465" playOrder="425">
+              <ncx:navLabel>
+                <ncx:text>Rendering the output</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch15s04.html#rendering_the_output"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2811838" playOrder="426">
+              <ncx:navLabel>
+                <ncx:text>Rendering the summary</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch15s04.html#rendering_the_summary"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2811892" playOrder="427">
+        <ncx:navLabel>
+          <ncx:text>16. Web Services</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch16.html"/>
+        <ncx:navPoint id="id2811971" playOrder="428">
+          <ncx:navLabel>
+            <ncx:text>Introducing Web Services</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch16.html#introducing_web_services"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2812127" playOrder="429">
+          <ncx:navLabel>
+            <ncx:text>Understanding Web Service Protocols and Standards</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch16s02.html"/>
+          <ncx:navPoint id="id2812167" playOrder="430">
+            <ncx:navLabel>
+              <ncx:text>HTTP</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s02.html#http"/>
+            <ncx:navPoint id="id2812244" playOrder="431">
+              <ncx:navLabel>
+                <ncx:text>HTTP-GET</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch16s02.html#http-get"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2812393" playOrder="432">
+              <ncx:navLabel>
+                <ncx:text>HTTP-POST</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch16s02.html#http-post"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2812459" playOrder="433">
+            <ncx:navLabel>
+              <ncx:text>XML</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s02.html#xml"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2812612" playOrder="434">
+            <ncx:navLabel>
+              <ncx:text>SOAP</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s02.html#soap"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2812731" playOrder="435">
+          <ncx:navLabel>
+            <ncx:text>Using SOAP Web Services</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch16s03.html"/>
+          <ncx:navPoint id="id2813090" playOrder="436">
+            <ncx:navLabel>
+              <ncx:text>Creating a Proxy</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s03.html#creating_a_proxy"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2813203" playOrder="437">
+            <ncx:navLabel>
+              <ncx:text>Creating a Consumer</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s03.html#creating_a_consumer"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2813252" playOrder="438">
+          <ncx:navLabel>
+            <ncx:text>Developing an ASP.NET SOAP Web Service</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch16s04.html"/>
+          <ncx:navPoint id="id2813414" playOrder="439">
+            <ncx:navLabel>
+              <ncx:text>Creating a Web Service</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s04.html#creating_a_web_service"/>
+            <ncx:navPoint id="id2813726" playOrder="440">
+              <ncx:navLabel>
+                <ncx:text>Inline with a text editor</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch16s04.html#inline_with_a_text_editor"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2814025" playOrder="441">
+            <ncx:navLabel>
+              <ncx:text>Creating an ASP.NET Web Service with VS2008</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s04.html#creating_an_aspnet_web_service_with_vs20"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2814743" playOrder="442">
+            <ncx:navLabel>
+              <ncx:text>The WebService Directive</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s04.html#the_webservice_directive"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2815055" playOrder="443">
+            <ncx:navLabel>
+              <ncx:text>Deriving from the WebService Class</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s04.html#deriving_from_the_webservice_class"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2815250" playOrder="444">
+          <ncx:navLabel>
+            <ncx:text>Calling the Web Service</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch16s05.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2816084" playOrder="445">
+          <ncx:navLabel>
+            <ncx:text>Developing a WCF Web Service</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch16s06.html"/>
+          <ncx:navPoint id="id2816127" playOrder="446">
+            <ncx:navLabel>
+              <ncx:text>Creating a WCF Service</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s06.html#creating_a_wcf_service"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2816918" playOrder="447">
+            <ncx:navLabel>
+              <ncx:text>Consuming a WCF Service</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s06.html#consuming_a_wcf_service"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2817799" playOrder="448">
+            <ncx:navLabel>
+              <ncx:text>Using WCF to Call a Public Service</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s06.html#using_wcf_to_call_a_public_service"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2818354" playOrder="449">
+          <ncx:navLabel>
+            <ncx:text>Creating and Consuming AJAX-Enabled Web Services</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch16s07.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2819129" playOrder="450">
+          <ncx:navLabel>
+            <ncx:text>Introducing REST and JSON</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch16s08.html"/>
+          <ncx:navPoint id="id2819170" playOrder="451">
+            <ncx:navLabel>
+              <ncx:text>REST</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s08.html#rest"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2819286" playOrder="452">
+            <ncx:navLabel>
+              <ncx:text>JSON</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s08.html#json"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2819726" playOrder="453">
+            <ncx:navLabel>
+              <ncx:text>Consuming a RESTful Web Service</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s08.html#consuming_a_restful_web_service"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2820890" playOrder="454">
+          <ncx:navLabel>
+            <ncx:text>Learning More About Web Services</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch16s09.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2821009" playOrder="455">
+        <ncx:navLabel>
+          <ncx:text>17. Caching and Performance</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch17.html"/>
+        <ncx:navPoint id="id2821106" playOrder="456">
+          <ncx:navLabel>
+            <ncx:text>Types of Caching</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch17.html#types_of_caching"/>
+          <ncx:navPoint id="id2821158" playOrder="457">
+            <ncx:navLabel>
+              <ncx:text>Class Caching</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch17.html#class_caching"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2821206" playOrder="458">
+            <ncx:navLabel>
+              <ncx:text>Configuration Caching</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch17.html#configuration_caching"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2821251" playOrder="459">
+            <ncx:navLabel>
+              <ncx:text>Data Caching</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch17.html#data_caching"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2821291" playOrder="460">
+            <ncx:navLabel>
+              <ncx:text>Output Caching</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch17.html#output_caching"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2821327" playOrder="461">
+            <ncx:navLabel>
+              <ncx:text>Object Caching</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch17.html#object_caching"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2821356" playOrder="462">
+          <ncx:navLabel>
+            <ncx:text>Data Caching</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch17s02.html"/>
+          <ncx:navPoint id="id2821398" playOrder="463">
+            <ncx:navLabel>
+              <ncx:text>DataSourceControl Caching</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch17s02.html#datasourcecontrol_caching"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2822021" playOrder="464">
+            <ncx:navLabel>
+              <ncx:text>SQL Cache Dependency</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch17s02.html#sql_cache_dependency"/>
+            <ncx:navPoint id="id2822081" playOrder="465">
+              <ncx:navLabel>
+                <ncx:text>Polling-based cache invalidation</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch17s02.html#polling-based_cache_invalidation"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2823137" playOrder="466">
+              <ncx:navLabel>
+                <ncx:text>Notification-based cache invalidation</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch17s02.html#notification-based_cache_invalidation"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2823334" playOrder="467">
+          <ncx:navLabel>
+            <ncx:text>Output Caching</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch17s03.html"/>
+          <ncx:navPoint id="id2823382" playOrder="468">
+            <ncx:navLabel>
+              <ncx:text>The OutputCache Directive</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch17s03.html#the_outputcache_directive"/>
+            <ncx:navPoint id="id2823497" playOrder="469">
+              <ncx:navLabel>
+                <ncx:text>Duration</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch17s03.html#duration"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2823688" playOrder="470">
+              <ncx:navLabel>
+                <ncx:text>VaryByParam</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch17s03.html#varybyparam"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2824149" playOrder="471">
+              <ncx:navLabel>
+                <ncx:text>CacheProfile</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch17s03.html#cacheprofile"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2824290" playOrder="472">
+              <ncx:navLabel>
+                <ncx:text>DiskCacheable</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch17s03.html#diskcacheable"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2824363" playOrder="473">
+              <ncx:navLabel>
+                <ncx:text>Location</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch17s03.html#location"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2824574" playOrder="474">
+              <ncx:navLabel>
+                <ncx:text>SqlDependency</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch17s03.html#sqldependency"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2824733" playOrder="475">
+              <ncx:navLabel>
+                <ncx:text>VaryByControl</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch17s03.html#varybycontrol"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2824793" playOrder="476">
+              <ncx:navLabel>
+                <ncx:text>VaryByCustom</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch17s03.html#varybycustom"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2824826" playOrder="477">
+              <ncx:navLabel>
+                <ncx:text>VaryByHeader</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch17s03.html#varybyheader"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2824866" playOrder="478">
+          <ncx:navLabel>
+            <ncx:text>Fragment Caching: Caching Part of a Page</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch17s04.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2825620" playOrder="479">
+          <ncx:navLabel>
+            <ncx:text>Object Caching</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch17s05.html"/>
+          <ncx:navPoint id="id2826400" playOrder="480">
+            <ncx:navLabel>
+              <ncx:text>Cache Class Functionality</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch17s05.html#cache_class_functionality"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2826686" playOrder="481">
+            <ncx:navLabel>
+              <ncx:text>Dependencies</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch17s05.html#dependencies"/>
+            <ncx:navPoint id="id2826771" playOrder="482">
+              <ncx:navLabel>
+                <ncx:text>File change dependency</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch17s05.html#file_change_dependency"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2827500" playOrder="483">
+              <ncx:navLabel>
+                <ncx:text>Cached item dependency</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch17s05.html#cached_item_dependency"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2827901" playOrder="484">
+              <ncx:navLabel>
+                <ncx:text>Time dependency</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch17s05.html#time_dependency"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2828210" playOrder="485">
+            <ncx:navLabel>
+              <ncx:text>Scavenging</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch17s05.html#scavenging"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2828572" playOrder="486">
+            <ncx:navLabel>
+              <ncx:text>Callback Support</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch17s05.html#callback_support"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2829176" playOrder="487">
+          <ncx:navLabel>
+            <ncx:text>The HttpCachePolicy Class</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch17s06.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2829832" playOrder="488">
+          <ncx:navLabel>
+            <ncx:text>Performance</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch17s07.html"/>
+          <ncx:navPoint id="id2829880" playOrder="489">
+            <ncx:navLabel>
+              <ncx:text>ASP.NET-Specific Issues</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch17s07.html#aspnet-specific_issues"/>
+            <ncx:navPoint id="id2829904" playOrder="490">
+              <ncx:navLabel>
+                <ncx:text>Session state</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch17s07.html#session_state-id001"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2830068" playOrder="491">
+              <ncx:navLabel>
+                <ncx:text>View state</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch17s07.html#view_state-id001"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2830213" playOrder="492">
+              <ncx:navLabel>
+                <ncx:text>Caching</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch17s07.html#caching"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2830251" playOrder="493">
+              <ncx:navLabel>
+                <ncx:text>Server controls</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch17s07.html#server_controls"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2830319" playOrder="494">
+              <ncx:navLabel>
+                <ncx:text>Web gardening and web farming</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch17s07.html#web_gardening_and_web_farming"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2830396" playOrder="495">
+              <ncx:navLabel>
+                <ncx:text>Round trips</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch17s07.html#round_trips"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2830480" playOrder="496">
+            <ncx:navLabel>
+              <ncx:text>General .NET Issues</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch17s07.html#general_net_issues"/>
+            <ncx:navPoint id="id2830525" playOrder="497">
+              <ncx:navLabel>
+                <ncx:text>String concatenation</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch17s07.html#string_concatenation"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2830726" playOrder="498">
+              <ncx:navLabel>
+                <ncx:text>Minimizing exceptions</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch17s07.html#minimizing_exceptions"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2830795" playOrder="499">
+              <ncx:navLabel>
+                <ncx:text>Using early binding</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch17s07.html#using_early_binding"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2830846" playOrder="500">
+              <ncx:navLabel>
+                <ncx:text>Disabling debug mode</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch17s07.html#disabling_debug_mode"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2830890" playOrder="501">
+            <ncx:navLabel>
+              <ncx:text>Database Issues</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch17s07.html#database_issues"/>
+            <ncx:navPoint id="id2830913" playOrder="502">
+              <ncx:navLabel>
+                <ncx:text>Using a DataReader class</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch17s07.html#using_a_datareader_class"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2830961" playOrder="503">
+              <ncx:navLabel>
+                <ncx:text>Using SQL or Oracle classes rather than OleDB classes</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch17s07.html#using_sql_or_oracle_classes_rather_than_"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2831013" playOrder="504">
+          <ncx:navLabel>
+            <ncx:text>Benchmarking and Profiling</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch17s08.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2831145" playOrder="505">
+        <ncx:navLabel>
+          <ncx:text>18. Application Logic and Configuration</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch18.html"/>
+        <ncx:navPoint id="id2831236" playOrder="506">
+          <ncx:navLabel>
+            <ncx:text>Introducing IIS 7.0</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch18.html#introducing_iis_70"/>
+          <ncx:navPoint id="id2831470" playOrder="507">
+            <ncx:navLabel>
+              <ncx:text>The Default Website</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch18.html#the_default_website"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2831629" playOrder="508">
+            <ncx:navLabel>
+              <ncx:text>Virtual Directories</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch18.html#virtual_directories"/>
+            <ncx:navPoint id="id2831774" playOrder="509">
+              <ncx:navLabel>
+                <ncx:text>Creating the virtual directory</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch18.html#creating_the_virtual_directory"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2831901" playOrder="510">
+              <ncx:navLabel>
+                <ncx:text>Virtual directory security and zones</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch18.html#virtual_directory_security_and_zones"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2831988" playOrder="511">
+            <ncx:navLabel>
+              <ncx:text>Web Applications</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch18.html#web_applications"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2832183" playOrder="512">
+            <ncx:navLabel>
+              <ncx:text>Application Pools and Domains</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch18.html#application_pools_and_domains"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2832366" playOrder="513">
+          <ncx:navLabel>
+            <ncx:text>Application-Wide Logic</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch18s02.html"/>
+          <ncx:navPoint id="id2832455" playOrder="514">
+            <ncx:navLabel>
+              <ncx:text>The HttpApplication Object</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch18s02.html#the_httpapplication_object"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2832578" playOrder="515">
+            <ncx:navLabel>
+              <ncx:text>The Global.asax File</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch18s02.html#the_globalasax_file"/>
+            <ncx:navPoint id="id2833120" playOrder="516">
+              <ncx:navLabel>
+                <ncx:text>Directives</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch18s02.html#directives-id001"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2833776" playOrder="517">
+              <ncx:navLabel>
+                <ncx:text>Script blocks</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch18s02.html#script_blocks"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2833835" playOrder="518">
+              <ncx:navLabel>
+                <ncx:text>Events</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch18s02.html#events-id001"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2835390" playOrder="519">
+              <ncx:navLabel>
+                <ncx:text>Server-side includes</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch18s02.html#server-side_includes"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2835664" playOrder="520">
+              <ncx:navLabel>
+                <ncx:text>Object declarations</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch18s02.html#object_declarations"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2835828" playOrder="521">
+            <ncx:navLabel>
+              <ncx:text>Global Members</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch18s02.html#global_members"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2836389" playOrder="522">
+            <ncx:navLabel>
+              <ncx:text>HTTP Handlers and Modules</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch18s02.html#http_handlers_and_modules"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2837462" playOrder="523">
+          <ncx:navLabel>
+            <ncx:text>Configuring the Application</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch18s03.html"/>
+          <ncx:navPoint id="id2837638" playOrder="524">
+            <ncx:navLabel>
+              <ncx:text>Hierarchical Configuration</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch18s03.html#hierarchical_configuration"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2837993" playOrder="525">
+            <ncx:navLabel>
+              <ncx:text>Format</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch18s03.html#format"/>
+            <ncx:navPoint id="id2838320" playOrder="526">
+              <ncx:navLabel>
+                <ncx:text>Configuration section handler declarations</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch18s03.html#configuration_section_handler_declaratio"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2838753" playOrder="527">
+              <ncx:navLabel>
+                <ncx:text>Configuration sections</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch18s03.html#configuration_sections"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2838869" playOrder="528">
+            <ncx:navLabel>
+              <ncx:text>Web.config v2.0 and v3.5</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch18s03.html#webconfig_v20_and_v35"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2839510" playOrder="529">
+          <ncx:navLabel>
+            <ncx:text>Modifying web.config with IIS 7.0</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch18s04.html"/>
+          <ncx:navPoint id="id2839653" playOrder="530">
+            <ncx:navLabel>
+              <ncx:text>Application Development</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch18s04.html#application_development"/>
+            <ncx:navPoint id="id2839679" playOrder="531">
+              <ncx:navLabel>
+                <ncx:text>.NET Compilation</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch18s04.html#net_compilation"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2840258" playOrder="532">
+              <ncx:navLabel>
+                <ncx:text>.NET Globalization</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch18s04.html#net_globalization"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2840562" playOrder="533">
+              <ncx:navLabel>
+                <ncx:text>.NET Profile</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch18s04.html#net_profile"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2840688" playOrder="534">
+              <ncx:navLabel>
+                <ncx:text>Application Settings</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch18s04.html#application_settings"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2840874" playOrder="535">
+              <ncx:navLabel>
+                <ncx:text>Connection Strings</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch18s04.html#connection_strings"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2841039" playOrder="536">
+              <ncx:navLabel>
+                <ncx:text>Machine Key</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch18s04.html#machine_key"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2841333" playOrder="537">
+              <ncx:navLabel>
+                <ncx:text>Pages and Controls</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch18s04.html#pages_and_controls"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2842189" playOrder="538">
+              <ncx:navLabel>
+                <ncx:text>Providers</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch18s04.html#providers"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2842252" playOrder="539">
+              <ncx:navLabel>
+                <ncx:text>Session State</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch18s04.html#session_state-id002"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2842571" playOrder="540">
+              <ncx:navLabel>
+                <ncx:text>SMTP E-mail</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch18s04.html#smtp_e-mail"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2842730" playOrder="541">
+            <ncx:navLabel>
+              <ncx:text>Health and Diagnostics</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch18s04.html#health_and_diagnostics"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2842780" playOrder="542">
+            <ncx:navLabel>
+              <ncx:text>HTTP Features</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch18s04.html#http_features"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2843095" playOrder="543">
+            <ncx:navLabel>
+              <ncx:text>Performance</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch18s04.html#performance-id001"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2843208" playOrder="544">
+            <ncx:navLabel>
+              <ncx:text>Security</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch18s04.html#security"/>
+            <ncx:navPoint id="id2843238" playOrder="545">
+              <ncx:navLabel>
+                <ncx:text>.NET Roles</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch18s04.html#net_roles"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2843273" playOrder="546">
+              <ncx:navLabel>
+                <ncx:text>.NET Trust Levels</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch18s04.html#net_trust_levels"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2843561" playOrder="547">
+              <ncx:navLabel>
+                <ncx:text>.NET Users</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch18s04.html#net_users"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2843673" playOrder="548">
+              <ncx:navLabel>
+                <ncx:text>Authentication</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch18s04.html#authentication-id001"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2844517" playOrder="549">
+              <ncx:navLabel>
+                <ncx:text>Authorization rules</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch18s04.html#authorization_rules"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2844773" playOrder="550">
+              <ncx:navLabel>
+                <ncx:text>IPv4 Address and Domain Restrictions</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch18s04.html#ipv4_address_and_domain_restrictions"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2844795" playOrder="551">
+              <ncx:navLabel>
+                <ncx:text>SSL Settings</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch18s04.html#ssl_settings"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2844820" playOrder="552">
+            <ncx:navLabel>
+              <ncx:text>Server Components</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch18s04.html#server_components"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2844859" playOrder="553">
+          <ncx:navLabel>
+            <ncx:text>Web Site Administration Tool</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch18s05.html"/>
+          <ncx:navPoint id="id2845015" playOrder="554">
+            <ncx:navLabel>
+              <ncx:text>Security</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch18s05.html#security-id001"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2845063" playOrder="555">
+            <ncx:navLabel>
+              <ncx:text>Application</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch18s05.html#application"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2845663" playOrder="556">
+            <ncx:navLabel>
+              <ncx:text>Provider</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch18s05.html#provider"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2845721" playOrder="557">
+          <ncx:navLabel>
+            <ncx:text>Custom Configuration Sections</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch18s06.html"/>
+          <ncx:navPoint id="id2845764" playOrder="558">
+            <ncx:navLabel>
+              <ncx:text>Name/Value Pairs</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch18s06.html#namevalue_pairs"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2846286" playOrder="559">
+            <ncx:navLabel>
+              <ncx:text>Objects</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch18s06.html#objects"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2847003" playOrder="560">
+        <ncx:navLabel>
+          <ncx:text>19. Tracing, Debugging, and Error Handling</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch19.html"/>
+        <ncx:navPoint id="id2847080" playOrder="561">
+          <ncx:navLabel>
+            <ncx:text>Creating the Sample Application</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch19.html#creating_the_sample_application"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2847457" playOrder="562">
+          <ncx:navLabel>
+            <ncx:text>Tracing</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch19s02.html"/>
+          <ncx:navPoint id="id2847497" playOrder="563">
+            <ncx:navLabel>
+              <ncx:text>Page-Level Tracing</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch19s02.html#page-level_tracing"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2847859" playOrder="564">
+            <ncx:navLabel>
+              <ncx:text>Inserting into the Trace Log</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch19s02.html#inserting_into_the_trace_log"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2848339" playOrder="565">
+            <ncx:navLabel>
+              <ncx:text>Application-Level Tracing</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch19s02.html#application-level_tracing"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2848797" playOrder="566">
+            <ncx:navLabel>
+              <ncx:text>Trace Viewer</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch19s02.html#trace_viewer"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2848894" playOrder="567">
+          <ncx:navLabel>
+            <ncx:text>Debugging</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch19s03.html"/>
+          <ncx:navPoint id="id2849163" playOrder="568">
+            <ncx:navLabel>
+              <ncx:text>The Debug Toolbar</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch19s03.html#the_debug_toolbar"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2849788" playOrder="569">
+            <ncx:navLabel>
+              <ncx:text>Breakpoints</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch19s03.html#breakpoints"/>
+            <ncx:navPoint id="id2849838" playOrder="570">
+              <ncx:navLabel>
+                <ncx:text>Setting a breakpoint</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch19s03.html#setting_a_breakpoint"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2849896" playOrder="571">
+              <ncx:navLabel>
+                <ncx:text>Breakpoints window</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch19s03.html#breakpoints_window"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2849999" playOrder="572">
+              <ncx:navLabel>
+                <ncx:text>Breakpoint properties</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch19s03.html#breakpoint_properties"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2850487" playOrder="573">
+              <ncx:navLabel>
+                <ncx:text>Breakpoint icons</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch19s03.html#breakpoint_icons"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2850772" playOrder="574">
+            <ncx:navLabel>
+              <ncx:text>Stepping Through Code</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch19s03.html#stepping_through_code"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2851033" playOrder="575">
+            <ncx:navLabel>
+              <ncx:text>Examining Variables and Objects</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch19s03.html#examining_variables_and_objects"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2851067" playOrder="576">
+            <ncx:navLabel>
+              <ncx:text>Debug Windows</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch19s03.html#debug_windows"/>
+            <ncx:navPoint id="id2851437" playOrder="577">
+              <ncx:navLabel>
+                <ncx:text>Immediate window</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch19s03.html#immediate_window"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2851529" playOrder="578">
+              <ncx:navLabel>
+                <ncx:text>Autos window</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch19s03.html#autos_window"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2851668" playOrder="579">
+              <ncx:navLabel>
+                <ncx:text>Locals window</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch19s03.html#locals_window"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2851734" playOrder="580">
+              <ncx:navLabel>
+                <ncx:text>Watch window</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch19s03.html#watch_window"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2851811" playOrder="581">
+              <ncx:navLabel>
+                <ncx:text>Call Stack window</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch19s03.html#call_stack_window"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2851844" playOrder="582">
+              <ncx:navLabel>
+                <ncx:text>Threads window</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch19s03.html#threads_window"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2851886" playOrder="583">
+              <ncx:navLabel>
+                <ncx:text>Modules window</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch19s03.html#modules_window"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2851976" playOrder="584">
+              <ncx:navLabel>
+                <ncx:text>Disassembly window</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch19s03.html#disassembly_window"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2852068" playOrder="585">
+              <ncx:navLabel>
+                <ncx:text>Registers window</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch19s03.html#registers_window"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2852103" playOrder="586">
+              <ncx:navLabel>
+                <ncx:text>Memory windows</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch19s03.html#memory_windows"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2852134" playOrder="587">
+            <ncx:navLabel>
+              <ncx:text>Debugging ASP.NET Source Code</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch19s03.html#debugging_aspnet_source_code"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2852587" playOrder="588">
+          <ncx:navLabel>
+            <ncx:text>Error Handling</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch19s04.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2852698" playOrder="589">
+          <ncx:navLabel>
+            <ncx:text>Custom Error Pages</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch19s05.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2853318" playOrder="590">
+        <ncx:navLabel>
+          <ncx:text>20. Deployment</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch20.html"/>
+        <ncx:navPoint id="id2853514" playOrder="591">
+          <ncx:navLabel>
+            <ncx:text>Assemblies</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch20.html#assemblies"/>
+          <ncx:navPoint id="id2854121" playOrder="592">
+            <ncx:navLabel>
+              <ncx:text>Microsoft Intermediate Language (MSIL)</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch20.html#microsoft_intermediate_language_msil"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2854219" playOrder="593">
+            <ncx:navLabel>
+              <ncx:text>ILDASM</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch20.html#ildasm"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2854962" playOrder="594">
+            <ncx:navLabel>
+              <ncx:text>Manifests</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch20.html#manifests"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2855128" playOrder="595">
+            <ncx:navLabel>
+              <ncx:text>Versioning</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch20.html#versioning"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2855462" playOrder="596">
+            <ncx:navLabel>
+              <ncx:text>Private Versus Shared Assemblies</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch20.html#private_versus_shared_assemblies"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2855852" playOrder="597">
+            <ncx:navLabel>
+              <ncx:text>Strong Names</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch20.html#strong_names"/>
+            <ncx:navPoint id="id2856117" playOrder="598">
+              <ncx:navLabel>
+                <ncx:text>Creating a strong name</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch20.html#creating_a_strong_name"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2856247" playOrder="599">
+              <ncx:navLabel>
+                <ncx:text>Delayed signing</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch20.html#delayed_signing"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2856358" playOrder="600">
+          <ncx:navLabel>
+            <ncx:text>Local Deployment</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch20s02.html"/>
+          <ncx:navPoint id="id2856569" playOrder="601">
+            <ncx:navLabel>
+              <ncx:text>Full Runtime Compilation</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch20s02.html#full_runtime_compilation"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2856706" playOrder="602">
+            <ncx:navLabel>
+              <ncx:text>Manual Compilation of Assemblies</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch20s02.html#manual_compilation_of_assemblies"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2857019" playOrder="603">
+            <ncx:navLabel>
+              <ncx:text>Full Precompilation</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch20s02.html#full_precompilation"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2857203" playOrder="604">
+            <ncx:navLabel>
+              <ncx:text>Precompilation of Code Only</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch20s02.html#precompilation_of_code_only"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2857271" playOrder="605">
+          <ncx:navLabel>
+            <ncx:text>Global Deployment</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch20s03.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2858111" playOrder="606">
+          <ncx:navLabel>
+            <ncx:text>Windows Installer</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch20s04.html"/>
+          <ncx:navPoint id="id2858571" playOrder="607">
+            <ncx:navLabel>
+              <ncx:text>Build Configurations</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch20s04.html#build_configurations"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2858730" playOrder="608">
+            <ncx:navLabel>
+              <ncx:text>Adding a Setup Project with the Setup Wizard</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch20s04.html#adding_a_setup_project_with_the_setup_wi"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2859076" playOrder="609">
+            <ncx:navLabel>
+              <ncx:text>Adding a Setup Project Manually</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch20s04.html#adding_a_setup_project_manually"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2859268" playOrder="610">
+            <ncx:navLabel>
+              <ncx:text>Further Customizations</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch20s04.html#further_customizations"/>
+            <ncx:navPoint id="id2859367" playOrder="611">
+              <ncx:navLabel>
+                <ncx:text>File System editor</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch20s04.html#file_system_editor"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2859512" playOrder="612">
+              <ncx:navLabel>
+                <ncx:text>Registry editor</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch20s04.html#registry_editor"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2859644" playOrder="613">
+              <ncx:navLabel>
+                <ncx:text>File Types editor</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch20s04.html#file_types_editor"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2859756" playOrder="614">
+              <ncx:navLabel>
+                <ncx:text>User Interface editor</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch20s04.html#user_interface_editor"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2859860" playOrder="615">
+              <ncx:navLabel>
+                <ncx:text>Custom Actions editor</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch20s04.html#custom_actions_editor"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2859892" playOrder="616">
+              <ncx:navLabel>
+                <ncx:text>Launch Conditions editor</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch20s04.html#launch_conditions_editor"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2859954" playOrder="617">
+            <ncx:navLabel>
+              <ncx:text>Deploying the Website</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch20s04.html#deploying_the_website"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2860064" playOrder="618">
+          <ncx:navLabel>
+            <ncx:text>Web Deployment Projects</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch20s05.html"/>
+          <ncx:navPoint id="id2860498" playOrder="619">
+            <ncx:navLabel>
+              <ncx:text>Compilation</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch20s05.html#compilation"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2860634" playOrder="620">
+            <ncx:navLabel>
+              <ncx:text>Output Assemblies</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch20s05.html#output_assemblies"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2860809" playOrder="621">
+            <ncx:navLabel>
+              <ncx:text>Signing</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch20s05.html#signing"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2860886" playOrder="622">
+            <ncx:navLabel>
+              <ncx:text>Deployment</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch20s05.html#deployment-id001"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2861129" playOrder="623">
+        <ncx:navLabel>
+          <ncx:text>21. Epilogue: From Now to vNext</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch21.html"/>
+        <ncx:navPoint id="id2861181" playOrder="624">
+          <ncx:navLabel>
+            <ncx:text>(Some of) The Winnowing Process</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch21.html#some_of_the_winnowing_process"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2861448" playOrder="625">
+          <ncx:navLabel>
+            <ncx:text>On the Stove</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch21s02.html"/>
+          <ncx:navPoint id="id2861476" playOrder="626">
+            <ncx:navLabel>
+              <ncx:text>Richer Community Experiences</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch21s02.html#richer_community_experiences"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2861649" playOrder="627">
+            <ncx:navLabel>
+              <ncx:text>Rich Media Experiences with Silverlight</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch21s02.html#rich_media_experiences_with_silverlight"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2861838" playOrder="628">
+            <ncx:navLabel>
+              <ncx:text>Rich Data Experiences</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch21s02.html#rich_data_experiences"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2862181" playOrder="629">
+            <ncx:navLabel>
+              <ncx:text>An Alternative Web Framework</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch21s02.html#an_alternative_web_framework"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2862416" playOrder="630">
+          <ncx:navLabel>
+            <ncx:text>On the Far Horizon</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch21s03.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2862531" playOrder="631">
+        <ncx:navLabel>
+          <ncx:text>A. Installing the AJAX Control Toolkit</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="apa.html"/>
+        <ncx:navPoint id="id2862555" playOrder="632">
+          <ncx:navLabel>
+            <ncx:text>Downloading the Code</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apa.html#downloading_the_code"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2862660" playOrder="633">
+          <ncx:navLabel>
+            <ncx:text>Building the Code and Looking Around</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apas02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2862883" playOrder="634">
+          <ncx:navLabel>
+            <ncx:text>Integrating the Toolkit with VS2008</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apas03.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2863169" playOrder="635">
+        <ncx:navLabel>
+          <ncx:text>B. Relational Database Technology: A Crash Course</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="apb.html"/>
+        <ncx:navPoint id="id2863252" playOrder="636">
+          <ncx:navLabel>
+            <ncx:text>Tables, Records, and Columns</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apb.html#tables_records_and_columns"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2863525" playOrder="637">
+          <ncx:navLabel>
+            <ncx:text>Table Design</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apbs02.html"/>
+          <ncx:navPoint id="id2863735" playOrder="638">
+            <ncx:navLabel>
+              <ncx:text>Normalization</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs02.html#normalization"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2863887" playOrder="639">
+            <ncx:navLabel>
+              <ncx:text>Declarative Referential Integrity</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs02.html#declarative_referential_integrity"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2863956" playOrder="640">
+          <ncx:navLabel>
+            <ncx:text>SQL</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apbs03.html"/>
+          <ncx:navPoint id="id2864103" playOrder="641">
+            <ncx:navLabel>
+              <ncx:text>Joining Tables</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs03.html#joining_tables"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2864511" playOrder="642">
+            <ncx:navLabel>
+              <ncx:text>Using SQL to Manipulate the Database</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apbs03.html#using_sql_to_manipulate_the_database"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2864576" playOrder="643">
+          <ncx:navLabel>
+            <ncx:text>Further Reference</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apbs04.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2864703" playOrder="644">
+        <ncx:navLabel>
+          <ncx:text>C. Keyboard Shortcuts</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="apc.html"/>
+        <ncx:navPoint id="id2864771" playOrder="645">
+          <ncx:navLabel>
+            <ncx:text>General Actions</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apc.html#general_actions"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2865093" playOrder="646">
+          <ncx:navLabel>
+            <ncx:text>Text Generation and Refactoring</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apcs02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2865372" playOrder="647">
+          <ncx:navLabel>
+            <ncx:text>Text Navigation</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apcs03.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2865802" playOrder="648">
+          <ncx:navLabel>
+            <ncx:text>Text Editing and Selection</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apcs04.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2866369" playOrder="649">
+          <ncx:navLabel>
+            <ncx:text>Main Window Shortcut Keys</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apcs05.html"/>
+          <ncx:navPoint id="id2866535" playOrder="650">
+            <ncx:navLabel>
+              <ncx:text>Design View Shortcut Keys</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apcs05.html#design_view_shortcut_keys"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2866867" playOrder="651">
+            <ncx:navLabel>
+              <ncx:text>Class Diagram Shortcut Keys</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apcs05.html#class_diagram_shortcut_keys"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2866971" playOrder="652">
+            <ncx:navLabel>
+              <ncx:text>SQL Editor Shortcut Keys</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="apcs05.html#sql_editor_shortcut_keys"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2867106" playOrder="653">
+          <ncx:navLabel>
+            <ncx:text>Tool Window Shortcut Keys</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apcs06.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2867432" playOrder="654">
+          <ncx:navLabel>
+            <ncx:text>Find-and-Replace Shortcut Keys</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apcs07.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2867672" playOrder="655">
+          <ncx:navLabel>
+            <ncx:text>Macro Shortcut Keys</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apcs08.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2867775" playOrder="656">
+          <ncx:navLabel>
+            <ncx:text>Debugging Shortcut Keys</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="apcs09.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2868525" playOrder="657">
+        <ncx:navLabel>
+          <ncx:text>Colophon</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="co01.html"/>
+      </ncx:navPoint>
+    </ncx:navPoint>
+  </ncx:navMap>
+</ncx:ncx>

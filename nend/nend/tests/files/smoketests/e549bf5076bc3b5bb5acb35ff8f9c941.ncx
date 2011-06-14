@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx
+  PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <meta name="dtb:uid" content="6884c287-62bb-6b53-d75f-b94a268efb5f"/>
+      <meta name="dtb:depth" content="1"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+   <docTitle>
+      <text>The New Yorker - 100329</text>
+   </docTitle>
+  <navMap>
+      <navPoint id="a100329co_cover" playOrder="1">
+         <navLabel>
+            <text>COVER | “Homage”</text>
+         </navLabel>
+         <content src="100329co_cover.xml"/>
+      </navPoint>
+      <navPoint id="maintoc" playOrder="2">
+         <navLabel>
+            <text>TABLE OF CONTENTS | Table of Contents</text>
+         </navLabel>
+         <content src="maintoc.xml"/>
+      </navPoint>
+      <navPoint id="tny100329taco_talk_remnick" playOrder="3">
+         <navLabel>
+            <text>COMMENT | Special Relationships</text>
+         </navLabel>
+         <content src="100329taco_talk_remnick.xml"/>
+      </navPoint>
+      <navPoint id="tny100329ta_talk_kolbert" playOrder="4">
+         <navLabel>
+            <text>POSTCARD FROM VERMONT | Batless</text>
+         </navLabel>
+         <content src="100329ta_talk_kolbert.xml"/>
+      </navPoint>
+      <navPoint id="tny100329ta_talk_windolf" playOrder="5">
+         <navLabel>
+            <text>THE MUSICAL LIFE | Onward</text>
+         </navLabel>
+         <content src="100329ta_talk_windolf.xml"/>
+      </navPoint>
+      <navPoint id="tny100329ta_talk_collins" playOrder="6">
+         <navLabel>
+            <text>SPINOFFS DEPT. | The Real Brighton Beach</text>
+         </navLabel>
+         <content src="100329ta_talk_collins.xml"/>
+      </navPoint>
+      <navPoint id="tny100329ta_talk_surowiecki" playOrder="7">
+         <navLabel>
+            <text>THE FINANCIAL PAGE | Soft in the Middle</text>
+         </navLabel>
+         <content src="100329ta_talk_surowiecki.xml"/>
+      </navPoint>
+      <navPoint id="tny100329fa_fact_marx" playOrder="8">
+         <navLabel>
+            <text>ON AND OFF THE AVENUE | Four Eyes</text>
+         </navLabel>
+         <content src="100329fa_fact_marx.xml"/>
+      </navPoint>
+      <navPoint id="tny100329fa_fact_jacobs" playOrder="9">
+         <navLabel>
+            <text>ANNALS OF STYLE | Fashion Democracy</text>
+         </navLabel>
+         <content src="100329fa_fact_jacobs.xml"/>
+      </navPoint>
+      <navPoint id="tny100329fa_fact_thurman" playOrder="10">
+         <navLabel>
+            <text>OUR LOCAL CORRESPONDENTS | Face It</text>
+         </navLabel>
+         <content src="100329fa_fact_thurman.xml"/>
+      </navPoint>
+      <navPoint id="tny100329fa_fact_tomkins" playOrder="11">
+         <navLabel>
+            <text>THE ART WORLD | Big Art, Big Money</text>
+         </navLabel>
+         <content src="100329fa_fact_tomkins.xml"/>
+      </navPoint>
+      <navPoint id="tny100329fa_fact_platon" playOrder="12">
+         <navLabel>
+            <text>POSTSCRIPT | </text>
+         </navLabel>
+         <content src="100329fa_fact_platon.xml"/>
+      </navPoint>
+      <navPoint id="tny100329fa_fact_mead" playOrder="13">
+         <navLabel>
+            <text>LETTER FROM UMBRIA | The Prince of Solomeo</text>
+         </navLabel>
+         <content src="100329fa_fact_mead.xml"/>
+      </navPoint>
+      <navPoint id="tny100329fi_fiction_oates" playOrder="14">
+         <navLabel>
+            <text>FICTION | I.D.</text>
+         </navLabel>
+         <content src="100329fi_fiction_oates.xml"/>
+      </navPoint>
+      <navPoint id="tny100329crmu_music_ross" playOrder="15">
+         <navLabel>
+            <text>MUSICAL EVENTS | House of Style</text>
+         </navLabel>
+         <content src="100329crmu_music_ross.xml"/>
+      </navPoint>
+      <navPoint id="tny100329crat_atlarge_lepore" playOrder="16">
+         <navLabel>
+            <text>A CRITIC AT LARGE | Fixed</text>
+         </navLabel>
+         <content src="100329crat_atlarge_lepore.xml"/>
+      </navPoint>
+      <navPoint id="tny100329crbo_books_mayer" playOrder="17">
+         <navLabel>
+            <text>BOOKS | Counterfactual</text>
+         </navLabel>
+         <content src="100329crbo_books_mayer.xml"/>
+      </navPoint>
+      <navPoint id="tny100329crbn_brieflynoted1" playOrder="18">
+         <navLabel>
+            <text>BRIEFLY NOTED | The Sabbath World</text>
+         </navLabel>
+         <content src="100329crbn_brieflynoted1.xml"/>
+      </navPoint>
+      <navPoint id="tny100329crbn_brieflynoted2" playOrder="19">
+         <navLabel>
+            <text>BRIEFLY NOTED | An Infinity of Things</text>
+         </navLabel>
+         <content src="100329crbn_brieflynoted2.xml"/>
+      </navPoint>
+      <navPoint id="tny100329crbn_brieflynoted3" playOrder="20">
+         <navLabel>
+            <text>BRIEFLY NOTED | So Much for That</text>
+         </navLabel>
+         <content src="100329crbn_brieflynoted3.xml"/>
+      </navPoint>
+      <navPoint id="tny100329crbn_brieflynoted4" playOrder="21">
+         <navLabel>
+            <text>BRIEFLY NOTED | The Changeling</text>
+         </navLabel>
+         <content src="100329crbn_brieflynoted4.xml"/>
+      </navPoint>
+      <navPoint id="tny100329crth_theatre_als" playOrder="22">
+         <navLabel>
+            <text>THE THEATRE | Grace Under Pressure</text>
+         </navLabel>
+         <content src="100329crth_theatre_als.xml"/>
+      </navPoint>
+      <navPoint id="tny100329crci_cinema_lane" playOrder="23">
+         <navLabel>
+            <text>THE CURRENT CINEMA | Mystery Women</text>
+         </navLabel>
+         <content src="100329crci_cinema_lane.xml"/>
+      </navPoint>
+      <navPoint id="tny100329po_poem_chiasson" playOrder="24">
+         <navLabel>
+            <text>POETRY | Titian vs. Roadrunner</text>
+         </navLabel>
+         <content src="100329po_poem_chiasson.xml"/>
+      </navPoint>
+      <navPoint id="tny100329gore_GOAT_recordings_greenman" playOrder="25">
+         <navLabel>
+            <text>POP NOTES | Gotta Go to Mose</text>
+         </navLabel>
+         <content src="100329gore_GOAT_recordings_greenman.xml"/>
+      </navPoint>
+      <navPoint id="tny100329gota_GOAT_tables_collins" playOrder="26">
+         <navLabel>
+            <text>TABLES FOR TWO | A Voce Columbus</text>
+         </navLabel>
+         <content src="100329gota_GOAT_tables_collins.xml"/>
+      </navPoint>
+      <navPoint id="tny100329gomo_GOAT_movies_brody" playOrder="27">
+         <navLabel>
+            <text>DVD NOTES | Lisbon Calling</text>
+         </navLabel>
+         <content src="100329gomo_GOAT_movies_brody.xml"/>
+      </navPoint>
+      <navPoint id="tny100329gofr_GOAT_front" playOrder="28">
+         <navLabel>
+            <text>GOINGS ON ABOUT TOWN | This Week</text>
+         </navLabel>
+         <content src="100329gofr_GOAT_front.xml"/>
+      </navPoint>
+      <navPoint id="tny100329goth_GOAT_theatre" playOrder="29">
+         <navLabel>
+            <text>GOINGS ON ABOUT TOWN | The Theatre</text>
+         </navLabel>
+         <content src="100329goth_GOAT_theatre.xml"/>
+      </navPoint>
+      <navPoint id="tny100329goth_GOAT_theatre_preview" playOrder="30">
+         <navLabel>
+            <text>SPRING PREVIEW | The Theatre</text>
+         </navLabel>
+         <content src="100329goth_GOAT_theatre_preview.xml"/>
+      </navPoint>
+      <navPoint id="tny100329goni_GOAT_nightlife" playOrder="31">
+         <navLabel>
+            <text>GOINGS ON ABOUT TOWN | Night Life</text>
+         </navLabel>
+         <content src="100329goni_GOAT_nightlife.xml"/>
+      </navPoint>
+      <navPoint id="tny100329goni_GOAT_nightlife_preview" playOrder="32">
+         <navLabel>
+            <text>SPRING PREVIEW | Night Life</text>
+         </navLabel>
+         <content src="100329goni_GOAT_nightlife_preview.xml"/>
+      </navPoint>
+      <navPoint id="tny100329goar_GOAT_art" playOrder="33">
+         <navLabel>
+            <text>GOINGS ON ABOUT TOWN | Art</text>
+         </navLabel>
+         <content src="100329goar_GOAT_art.xml"/>
+      </navPoint>
+      <navPoint id="tny100329goar_GOAT_art_preview" playOrder="34">
+         <navLabel>
+            <text>SPRING PREVIEW | Art</text>
+         </navLabel>
+         <content src="100329goar_GOAT_art_preview.xml"/>
+      </navPoint>
+      <navPoint id="tny100329goda_GOAT_dance" playOrder="35">
+         <navLabel>
+            <text>GOINGS ON ABOUT TOWN | Dance</text>
+         </navLabel>
+         <content src="100329goda_GOAT_dance.xml"/>
+      </navPoint>
+      <navPoint id="tny100329goda_GOAT_dance_preview" playOrder="36">
+         <navLabel>
+            <text>SPRING PREVIEW | Dance</text>
+         </navLabel>
+         <content src="100329goda_GOAT_dance_preview.xml"/>
+      </navPoint>
+      <navPoint id="tny100329gocl_GOAT_classical" playOrder="37">
+         <navLabel>
+            <text>GOINGS ON ABOUT TOWN | Classical Music</text>
+         </navLabel>
+         <content src="100329gocl_GOAT_classical.xml"/>
+      </navPoint>
+      <navPoint id="tny100329gocl_GOAT_classical_preview" playOrder="38">
+         <navLabel>
+            <text>SPRING PREVIEW | Classical Music</text>
+         </navLabel>
+         <content src="100329gocl_GOAT_classical_preview.xml"/>
+      </navPoint>
+      <navPoint id="tny100329gomo_GOAT_movies" playOrder="39">
+         <navLabel>
+            <text>GOINGS ON ABOUT TOWN | Movies</text>
+         </navLabel>
+         <content src="100329gomo_GOAT_movies.xml"/>
+      </navPoint>
+      <navPoint id="tny100329gomo_GOAT_movies_preview" playOrder="40">
+         <navLabel>
+            <text>SPRING PREVIEW | Movies</text>
+         </navLabel>
+         <content src="100329gomo_GOAT_movies_preview.xml"/>
+      </navPoint>
+      <navPoint id="tny100329goab_GOAT_above1" playOrder="41">
+         <navLabel>
+            <text>GOINGS ON ABOUT TOWN | Readings and Talks</text>
+         </navLabel>
+         <content src="100329goab_GOAT_above1.xml"/>
+      </navPoint>
+      <navPoint id="tny100329goab_GOAT_above" playOrder="42">
+         <navLabel>
+            <text>GOINGS ON ABOUT TOWN | Above and Beyond</text>
+         </navLabel>
+         <content src="100329goab_GOAT_above.xml"/>
+      </navPoint>
+      <navPoint id="tny100329maco_contribs" playOrder="43">
+         <navLabel>
+            <text>CONTRIBUTORS | </text>
+         </navLabel>
+         <content src="100329maco_contribs.xml"/>
+      </navPoint>
+      <navPoint id="tny100329mama_mail1" playOrder="44">
+         <navLabel>
+            <text>THE MAIL | Political Speech</text>
+         </navLabel>
+         <content src="100329mama_mail1.xml"/>
+      </navPoint>
+      <navPoint id="tny100329mama_mail2" playOrder="45">
+         <navLabel>
+            <text>THE MAIL | The Columnist</text>
+         </navLabel>
+         <content src="100329mama_mail2.xml"/>
+      </navPoint>
+      <navPoint id="tny100329mama_mail3" playOrder="46">
+         <navLabel>
+            <text>THE MAIL | The Columnist</text>
+         </navLabel>
+         <content src="100329mama_mail3.xml"/>
+      </navPoint>
+      <navPoint id="tny100329mama_mail4" playOrder="47">
+         <navLabel>
+            <text>THE MAIL | Cinematic Changes</text>
+         </navLabel>
+         <content src="100329mama_mail4.xml"/>
+      </navPoint>
+      <navPoint id="tny100329_cartoon_0_a14601_p600" playOrder="48">
+         <navLabel>
+            <text>CARTOONS | Paul Noth</text>
+         </navLabel>
+         <content src="100329_cartoon_0_a14601_p600.xml"/>
+      </navPoint>
+      <navPoint id="tny100329_cartoon_1_a14903_p600" playOrder="49">
+         <navLabel>
+            <text>CARTOONS | David Sipress</text>
+         </navLabel>
+         <content src="100329_cartoon_1_a14903_p600.xml"/>
+      </navPoint>
+      <navPoint id="tny100329_cartoon_2_a14861_p600" playOrder="50">
+         <navLabel>
+            <text>CARTOONS | P.C. Vey</text>
+         </navLabel>
+         <content src="100329_cartoon_2_a14861_p600.xml"/>
+      </navPoint>
+      <navPoint id="tny100329_cartoon_3_a14499_p600" playOrder="51">
+         <navLabel>
+            <text>CARTOONS | Marisa Acocella Marchetto</text>
+         </navLabel>
+         <content src="100329_cartoon_3_a14499_p600.xml"/>
+      </navPoint>
+      <navPoint id="tny100329_cartoon_4_a14854_p600" playOrder="52">
+         <navLabel>
+            <text>CARTOONS | Charles Barsotti</text>
+         </navLabel>
+         <content src="100329_cartoon_4_a14854_p600.xml"/>
+      </navPoint>
+      <navPoint id="tny100329_cartoon_5_a14805_p600" playOrder="53">
+         <navLabel>
+            <text>CARTOONS | Tom Cheney</text>
+         </navLabel>
+         <content src="100329_cartoon_5_a14805_p600.xml"/>
+      </navPoint>
+      <navPoint id="tny100329_cartoon_6_a14844_p600" playOrder="54">
+         <navLabel>
+            <text>CARTOONS | Edward Koren</text>
+         </navLabel>
+         <content src="100329_cartoon_6_a14844_p600.xml"/>
+      </navPoint>
+      <navPoint id="tny100329_cartoon_7_a14848_p600" playOrder="55">
+         <navLabel>
+            <text>CARTOONS | Harry Bliss</text>
+         </navLabel>
+         <content src="100329_cartoon_7_a14848_p600.xml"/>
+      </navPoint>
+      <navPoint id="tny100329_cartoon_8_a14486_p600" playOrder="56">
+         <navLabel>
+            <text>CARTOONS | Jack Ziegler</text>
+         </navLabel>
+         <content src="100329_cartoon_8_a14486_p600.xml"/>
+      </navPoint>
+      <navPoint id="tny100329_cartoon_a_a14842_p600" playOrder="57">
+         <navLabel>
+            <text>CARTOONS | John OÕBrien</text>
+         </navLabel>
+         <content src="100329_cartoon_a_a14842_p600.xml"/>
+      </navPoint>
+      <navPoint id="tny100329_cartoon_b_a14874_p600" playOrder="58">
+         <navLabel>
+            <text>CARTOONS | Barbara Smaller</text>
+         </navLabel>
+         <content src="100329_cartoon_b_a14874_p600.xml"/>
+      </navPoint>
+  </navMap>
+</ncx>

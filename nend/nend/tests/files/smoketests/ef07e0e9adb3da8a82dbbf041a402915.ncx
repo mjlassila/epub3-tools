@@ -1,0 +1,194 @@
+<?xml version='1.0'?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ns:ncx xmlns:ns='http://www.daisy.org/z3986/2005/ncx/' version='2005-1'>
+<ns:head>
+<ns:meta name='dtb:uid' content='COEpAAAAYAAJ'/>
+<ns:meta name='dtb:depth' content='1'/>
+<ns:meta name='dtb:totalPageCount' content='0'/>
+<ns:meta name='dtb:maxPageNumber' content='0'/>
+</ns:head>
+<ns:docTitle><ns:text>Bird-life</ns:text></ns:docTitle>
+<ns:docAuthor><ns:text>Not needed for epub</ns:text></ns:docAuthor>
+<ns:navMap id='toc'>
+<ns:navPoint id='Content-003.xml' playOrder='1'><ns:navLabel>
+<ns:text xmlns:ns='http://www.daisy.org/z3986/2005/ncx/'>Plate Page I &#8212;Barn, Cliff, Bank, And Tree Swallows Frontispiece</ns:text>
+</ns:navLabel>
+<ns:content src='Content-003.xml' />
+</ns:navPoint>
+<ns:navPoint id='Content-004.xml' playOrder='2'><ns:navLabel>
+<ns:text xmlns:ns='http://www.daisy.org/z3986/2005/ncx/'>&#8212;Pied-Billed Grebe</ns:text>
+</ns:navLabel>
+<ns:content src='Content-004.xml' />
+</ns:navPoint>
+<ns:navPoint id='Content-005.xml' playOrder='3'><ns:navLabel>
+<ns:text xmlns:ns='http://www.daisy.org/z3986/2005/ncx/'>Chap Page</ns:text>
+</ns:navLabel>
+<ns:content src='Content-005.xml' />
+</ns:navPoint>
+<ns:navPoint id='Content-006.xml' playOrder='4'><ns:navLabel>
+<ns:text xmlns:ns='http://www.daisy.org/z3986/2005/ncx/'>&#8212;Loon</ns:text>
+</ns:navLabel>
+<ns:content src='Content-006.xml' />
+</ns:navPoint>
+<ns:navPoint id='Content-007.xml' playOrder='5'><ns:navLabel>
+<ns:text xmlns:ns='http://www.daisy.org/z3986/2005/ncx/'>&#8212;Herring Gull ; Petrels</ns:text>
+</ns:navLabel>
+<ns:content src='Content-007.xml' />
+</ns:navPoint>
+<ns:navPoint id='Content-008.xml' playOrder='6'><ns:navLabel>
+<ns:text xmlns:ns='http://www.daisy.org/z3986/2005/ncx/'>&#8212;The Living Bird</ns:text>
+</ns:navLabel>
+<ns:content src='Content-008.xml' />
+</ns:navPoint>
+<ns:navPoint id='Content-009.xml' playOrder='7'><ns:navLabel>
+<ns:text xmlns:ns='http://www.daisy.org/z3986/2005/ncx/'>&#8212;Wood Duck ; Pintails ; Mallards : Green-Winged Teal ; Blue-Winged Teal ; Canada Geese</ns:text>
+</ns:navLabel>
+<ns:content src='Content-009.xml' />
+</ns:navPoint>
+<ns:navPoint id='Content-010.xml' playOrder='8'><ns:navLabel>
+<ns:text xmlns:ns='http://www.daisy.org/z3986/2005/ncx/'>&#8212;Little Green Heron ; Black-Erowned Night Heron ; Great Blue Heron</ns:text>
+</ns:navLabel>
+<ns:content src='Content-010.xml' />
+</ns:navPoint>
+<ns:navPoint id='Content-011.xml' playOrder='9'><ns:navLabel>
+<ns:text xmlns:ns='http://www.daisy.org/z3986/2005/ncx/'>&#8212;American Bittern ; Sora</ns:text>
+</ns:navLabel>
+<ns:content src='Content-011.xml' />
+</ns:navPoint>
+<ns:navPoint id='Content-012.xml' playOrder='10'><ns:navLabel>
+<ns:text xmlns:ns='http://www.daisy.org/z3986/2005/ncx/'>&#8212;American Coot; Clapper Rail</ns:text>
+</ns:navLabel>
+<ns:content src='Content-012.xml' />
+</ns:navPoint>
+<ns:navPoint id='Content-013.xml' playOrder='11'><ns:navLabel>
+<ns:text xmlns:ns='http://www.daisy.org/z3986/2005/ncx/'>&#8212;Wilson&#39;s Snipe</ns:text>
+</ns:navLabel>
+<ns:content src='Content-013.xml' />
+</ns:navPoint>
+<ns:navPoint id='Content-014.xml' playOrder='12'><ns:navLabel>
+<ns:text xmlns:ns='http://www.daisy.org/z3986/2005/ncx/'>&#8212;Common Tern; Semipalmated Sandpiper; Semipal- Mated Plover</ns:text>
+</ns:navLabel>
+<ns:content src='Content-014.xml' />
+</ns:navPoint>
+<ns:navPoint id='Content-015.xml' playOrder='13'><ns:navLabel>
+<ns:text xmlns:ns='http://www.daisy.org/z3986/2005/ncx/'>Ht &#8212;Colors Of Birds</ns:text>
+</ns:navLabel>
+<ns:content src='Content-015.xml' />
+</ns:navPoint>
+<ns:navPoint id='Content-016.xml' playOrder='14'><ns:navLabel>
+<ns:text xmlns:ns='http://www.daisy.org/z3986/2005/ncx/'>&#8212;Spotted Sandpiper ; Killdeer</ns:text>
+</ns:navLabel>
+<ns:content src='Content-016.xml' />
+</ns:navPoint>
+<ns:navPoint id='Content-017.xml' playOrder='15'><ns:navLabel>
+<ns:text xmlns:ns='http://www.daisy.org/z3986/2005/ncx/'>&#8212;Ruffed Grouse</ns:text>
+</ns:navLabel>
+<ns:content src='Content-017.xml' />
+</ns:navPoint>
+<ns:navPoint id='Content-018.xml' playOrder='16'><ns:navLabel>
+<ns:text xmlns:ns='http://www.daisy.org/z3986/2005/ncx/'>&#8212;The Migration Of Birds</ns:text>
+</ns:navLabel>
+<ns:content src='Content-018.xml' />
+</ns:navPoint>
+<ns:navPoint id='Content-019.xml' playOrder='17'><ns:navLabel>
+<ns:text xmlns:ns='http://www.daisy.org/z3986/2005/ncx/'>&#8212;Mourning Dove</ns:text>
+</ns:navLabel>
+<ns:content src='Content-019.xml' />
+</ns:navPoint>
+<ns:navPoint id='Content-020.xml' playOrder='18'><ns:navLabel>
+<ns:text xmlns:ns='http://www.daisy.org/z3986/2005/ncx/'>&#8212;Red-Shouldered Hawk</ns:text>
+</ns:navLabel>
+<ns:content src='Content-020.xml' />
+</ns:navPoint>
+<ns:navPoint id='Content-021.xml' playOrder='19'><ns:navLabel>
+<ns:text xmlns:ns='http://www.daisy.org/z3986/2005/ncx/'>&#8212;Marsh Hawk</ns:text>
+</ns:navLabel>
+<ns:content src='Content-021.xml' />
+</ns:navPoint>
+<ns:navPoint id='Content-022.xml' playOrder='20'><ns:navLabel>
+<ns:text xmlns:ns='http://www.daisy.org/z3986/2005/ncx/'>&#8212;Sparrow Hawk</ns:text>
+</ns:navLabel>
+<ns:content src='Content-022.xml' />
+</ns:navPoint>
+<ns:navPoint id='Content-023.xml' playOrder='21'><ns:navLabel>
+<ns:text xmlns:ns='http://www.daisy.org/z3986/2005/ncx/'>&#8212;Sharp-Shinned Hawk</ns:text>
+</ns:navLabel>
+<ns:content src='Content-023.xml' />
+</ns:navPoint>
+<ns:navPoint id='Content-024.xml' playOrder='22'><ns:navLabel>
+<ns:text xmlns:ns='http://www.daisy.org/z3986/2005/ncx/'>&#8212;American Osprey</ns:text>
+</ns:navLabel>
+<ns:content src='Content-024.xml' />
+</ns:navPoint>
+<ns:navPoint id='Content-025.xml' playOrder='23'><ns:navLabel>
+<ns:text xmlns:ns='http://www.daisy.org/z3986/2005/ncx/'>&#8212;Short-Eared Owl</ns:text>
+</ns:navLabel>
+<ns:content src='Content-025.xml' />
+</ns:navPoint>
+<ns:navPoint id='Content-026.xml' playOrder='24'><ns:navLabel>
+<ns:text xmlns:ns='http://www.daisy.org/z3986/2005/ncx/'>&#8212;The Voice Of Birds</ns:text>
+</ns:navLabel>
+<ns:content src='Content-026.xml' />
+</ns:navPoint>
+<ns:navPoint id='Content-027.xml' playOrder='25'><ns:navLabel>
+<ns:text xmlns:ns='http://www.daisy.org/z3986/2005/ncx/'>&#8212;Sereech Owl</ns:text>
+</ns:navLabel>
+<ns:content src='Content-027.xml' />
+</ns:navPoint>
+<ns:navPoint id='Content-028.xml' playOrder='26'><ns:navLabel>
+<ns:text xmlns:ns='http://www.daisy.org/z3986/2005/ncx/'>&#8212;Barred Owl</ns:text>
+</ns:navLabel>
+<ns:content src='Content-028.xml' />
+</ns:navPoint>
+<ns:navPoint id='Content-029.xml' playOrder='27'><ns:navLabel>
+<ns:text xmlns:ns='http://www.daisy.org/z3986/2005/ncx/'>&#8212;Yellow-Billed Cuckoo</ns:text>
+</ns:navLabel>
+<ns:content src='Content-029.xml' />
+</ns:navPoint>
+<ns:navPoint id='Content-030.xml' playOrder='28'><ns:navLabel>
+<ns:text xmlns:ns='http://www.daisy.org/z3986/2005/ncx/'>&#8212;Belted Kingfisher</ns:text>
+</ns:navLabel>
+<ns:content src='Content-030.xml' />
+</ns:navPoint>
+<ns:navPoint id='Content-031.xml' playOrder='29'><ns:navLabel>
+<ns:text xmlns:ns='http://www.daisy.org/z3986/2005/ncx/'>&#8212;Downy Woodpecker</ns:text>
+</ns:navLabel>
+<ns:content src='Content-031.xml' />
+</ns:navPoint>
+<ns:navPoint id='Content-032.xml' playOrder='30'><ns:navLabel>
+<ns:text xmlns:ns='http://www.daisy.org/z3986/2005/ncx/'>&#8212;How To Identify Birds</ns:text>
+</ns:navLabel>
+<ns:content src='Content-032.xml' />
+</ns:navPoint>
+<ns:navPoint id='Content-033.xml' playOrder='31'><ns:navLabel>
+<ns:text xmlns:ns='http://www.daisy.org/z3986/2005/ncx/'>The Water Birds</ns:text>
+</ns:navLabel>
+<ns:content src='Content-033.xml' />
+</ns:navPoint>
+<ns:navPoint id='Content-034.xml' playOrder='32'><ns:navLabel>
+<ns:text xmlns:ns='http://www.daisy.org/z3986/2005/ncx/'>&#8212;Red-Headed Woodpecker</ns:text>
+</ns:navLabel>
+<ns:content src='Content-034.xml' />
+</ns:navPoint>
+<ns:navPoint id='Content-035.xml' playOrder='33'><ns:navLabel>
+<ns:text xmlns:ns='http://www.daisy.org/z3986/2005/ncx/'>&#8212;Flicker</ns:text>
+</ns:navLabel>
+<ns:content src='Content-035.xml' />
+</ns:navPoint>
+<ns:navPoint id='Content-036.xml' playOrder='34'><ns:navLabel>
+<ns:text xmlns:ns='http://www.daisy.org/z3986/2005/ncx/'>&#8212;Nighthawk ; Whip-Poor-Will</ns:text>
+</ns:navLabel>
+<ns:content src='Content-036.xml' />
+</ns:navPoint>
+<ns:navPoint id='Content-037.xml' playOrder='35'><ns:navLabel>
+<ns:text xmlns:ns='http://www.daisy.org/z3986/2005/ncx/'>The Land Birds</ns:text>
+</ns:navLabel>
+<ns:content src='Content-037.xml' />
+</ns:navPoint>
+<ns:navPoint id='Content-040.xml' playOrder='36'><ns:navLabel>
+<ns:text xmlns:ns='http://www.daisy.org/z3986/2005/ncx/'>About this Book - From Google</ns:text>
+</ns:navLabel>
+<ns:content src='Content-040.xml' />
+</ns:navPoint>
+</ns:navMap>
+</ns:ncx>

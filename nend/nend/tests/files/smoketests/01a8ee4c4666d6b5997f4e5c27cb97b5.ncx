@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcx="http://purl.org/dc/elements/1.0/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:opfx="http://openebook.org/namespaces/oeb-package/1.0/" version="2005-1" xml:lang="en-US">
+  <head>
+    <meta name="dtb:uid" content="a9781401395964" />
+    <meta name="dtb:depth" content="2" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>The Secret Diary of Ashley Juergens</text>
+  </docTitle>
+  <docAuthor>
+    <text>Ashley Juergens</text>
+  </docAuthor>
+  <navMap>
+    <navPoint playOrder="1" class="cover" id="cover_01">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="cover.html" />
+    </navPoint>
+    <navPoint playOrder="2" class="title" id="title_01">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="titlepage.html" />
+    </navPoint>
+    <!-- <navPoint playOrder="3" class="contents" id="play_1">
+      <navLabel>
+        <text>Contents</text>
+      </navLabel>
+      <content src="contents.html" />
+    </navPoint> -->
+    <navPoint playOrder="3" class="chapter" id="play_2">
+      <navLabel>
+        <text>Sept. 1st</text>
+      </navLabel>
+      <content src="chapter01.html" />
+    </navPoint>
+    <navPoint playOrder="4" class="chapter" id="play_3">
+      <navLabel>
+        <text>Sept. 2nd</text>
+      </navLabel>
+      <content src="chapter02.html" />
+    </navPoint>
+    <navPoint playOrder="5" class="chapter" id="play_4">
+      <navLabel>
+        <text>Sept. 5th</text>
+      </navLabel>
+      <content src="chapter02.html#com_apple_itunes_epub_end0000" />
+    </navPoint>
+    <navPoint playOrder="6" class="chapter" id="play_5">
+      <navLabel>
+        <text>Sept. 8th</text>
+      </navLabel>
+      <content src="chapter02.html#com_apple_itunes_epub_end0001" />
+    </navPoint>
+    <navPoint playOrder="7" class="chapter" id="play_6">
+      <navLabel>
+        <text>Sept. 13th</text>
+      </navLabel>
+      <content src="chapter02.html#com_apple_itunes_epub_end0002" />
+    </navPoint>
+    <navPoint playOrder="8" class="chapter" id="play_7">
+      <navLabel>
+        <text>Sept. 16th</text>
+      </navLabel>
+      <content src="chapter02.html#com_apple_itunes_epub_end0003" />
+    </navPoint>
+    <navPoint playOrder="9" class="chapter" id="play_8">
+      <navLabel>
+        <text>Sept. 18th</text>
+      </navLabel>
+      <content src="chapter02.html#com_apple_itunes_epub_end0004" />
+    </navPoint>
+    <navPoint playOrder="10" class="chapter" id="play_9">
+      <navLabel>
+        <text>Sept. 19th</text>
+      </navLabel>
+      <content src="chapter02.html#com_apple_itunes_epub_end0005" />
+      <navPoint playOrder="11" class="chapter" id="play_9a">
+        <navLabel>
+          <text>Video: Are You?</text>
+        </navLabel>
+        <content src="chapter02.html#com_apple_itunes_epub_end0006" />
+      </navPoint>
+    </navPoint>
+    <navPoint playOrder="12" class="chapter" id="play_10">
+      <navLabel>
+        <text>Sept. 20th</text>
+      </navLabel>
+      <content src="chapter02.html#com_apple_itunes_epub_end0007" />
+      <navPoint playOrder="13" class="chapter" id="play_10a">
+        <navLabel>
+          <text>Video: Ashley’s New Look</text>
+        </navLabel>
+        <content src="chapter02.html#com_apple_itunes_epub_end0008" />
+      </navPoint>
+      <navPoint playOrder="14" class="chapter" id="play_10b">
+        <navLabel>
+          <text>Video: This Just In</text>
+        </navLabel>
+        <content src="chapter02.html#com_apple_itunes_epub_end0009" />
+      </navPoint>
+    </navPoint>
+    <navPoint playOrder="15" class="chapter" id="play_11">
+      <navLabel>
+        <text>Sept. 22nd</text>
+      </navLabel>
+      <content src="chapter02.html#com_apple_itunes_epub_end0010" />
+    </navPoint>
+    <navPoint playOrder="16" class="chapter" id="play_12">
+      <navLabel>
+        <text>Sept. 23rd</text>
+      </navLabel>
+      <content src="chapter02.html#com_apple_itunes_epub_end0011" />
+    </navPoint>
+    <navPoint playOrder="17" class="chapter" id="play_13">
+      <navLabel>
+        <text>Sept. 25th</text>
+      </navLabel>
+      <content src="chapter02.html#com_apple_itunes_epub_end0012" />
+    </navPoint>
+    <navPoint playOrder="18" class="chapter" id="play_14">
+      <navLabel>
+        <text>Sept. 27th</text>
+      </navLabel>
+      <content src="chapter02.html#com_apple_itunes_epub_end0013" />
+    </navPoint>
+    <navPoint playOrder="19" class="chapter" id="play_15">
+      <navLabel>
+        <text>Sept. 28th</text>
+      </navLabel>
+      <content src="chapter02.html#com_apple_itunes_epub_end0014" />
+    </navPoint>
+    <navPoint playOrder="20" class="chapter" id="play_16">
+      <navLabel>
+        <text>Sept. 30th</text>
+      </navLabel>
+      <content src="chapter02.html#com_apple_itunes_epub_end0015" />
+    </navPoint>
+    <navPoint playOrder="21" class="chapter" id="play_17">
+      <navLabel>
+        <text>Oct. 1st</text>
+      </navLabel>
+      <content src="chapter02.html#com_apple_itunes_epub_end0016" />
+    </navPoint>
+    <navPoint playOrder="22" class="chapter" id="play_18">
+      <navLabel>
+        <text>Oct. 4th</text>
+      </navLabel>
+      <content src="chapter02.html#com_apple_itunes_epub_end0017" />
+    </navPoint>
+    <navPoint playOrder="23" class="chapter" id="play_19">
+      <navLabel>
+        <text>Oct. 10th</text>
+      </navLabel>
+      <content src="chapter02.html#com_apple_itunes_epub_end0018" />
+      <navPoint playOrder="24" class="chapter" id="play_19a">
+        <navLabel>
+          <text>Video: For Better or Worse</text>
+        </navLabel>
+        <content src="chapter02.html#com_apple_itunes_epub_end0019" />
+      </navPoint>
+    </navPoint>
+    <navPoint playOrder="25" class="chapter" id="play_20">
+      <navLabel>
+        <text>Oct. 11th</text>
+      </navLabel>
+      <content src="chapter02.html#com_apple_itunes_epub_end0020" />
+    </navPoint>
+    <navPoint playOrder="26" class="chapter" id="play_21">
+      <navLabel>
+        <text>Oct. 15th</text>
+      </navLabel>
+      <content src="chapter02.html#com_apple_itunes_epub_end0021" />
+    </navPoint>
+    <navPoint playOrder="27" class="chapter" id="play_22">
+      <navLabel>
+        <text>Oct. 20th</text>
+      </navLabel>
+      <content src="chapter02.html#com_apple_itunes_epub_end0022" />
+    </navPoint>
+    <navPoint playOrder="28" class="chapter" id="play_23">
+      <navLabel>
+        <text>Nov. 2nd</text>
+      </navLabel>
+      <content src="chapter02.html#com_apple_itunes_epub_end0023" />
+      <navPoint playOrder="29" class="chapter" id="play_23a">
+        <navLabel>
+          <text>Video: It’s a Boy!</text>
+        </navLabel>
+        <content src="chapter02.html#com_apple_itunes_epub_end0024" />
+      </navPoint>
+    </navPoint>
+    <navPoint playOrder="30" class="chapter" id="play_24">
+      <navLabel>
+        <text>Nov. 11th</text>
+      </navLabel>
+      <content src="chapter02.html#com_apple_itunes_epub_end0025" />
+      <navPoint playOrder="31" class="chapter" id="play_24a">
+        <navLabel>
+          <text>Video: That’s Enough</text>
+        </navLabel>
+        <content src="chapter02.html#com_apple_itunes_epub_end0026" />
+      </navPoint>
+    </navPoint>
+    <navPoint playOrder="32" class="chapter" id="play_25">
+      <navLabel>
+        <text>Nov. 20th</text>
+      </navLabel>
+      <content src="chapter02.html#com_apple_itunes_epub_end0027" />
+    </navPoint>
+    <navPoint playOrder="33" class="chapter" id="play_26">
+      <navLabel>
+        <text>Nov. 30th</text>
+      </navLabel>
+      <content src="chapter02.html#com_apple_itunes_epub_end0028" />
+      <navPoint playOrder="34" class="chapter" id="play_26a">
+        <navLabel>
+          <text>Video: The Boy at the Bus Stop</text>
+        </navLabel>
+        <content src="chapter02.html#com_apple_itunes_epub_end0029" />
+      </navPoint>
+      <navPoint playOrder="35" class="chapter" id="play_26b">
+        <navLabel>
+          <text>Video: Who Do You Love?</text>
+        </navLabel>
+        <content src="chapter02.html#com_apple_itunes_epub_end0030" />
+      </navPoint>
+    </navPoint>
+    <navPoint playOrder="36" class="chapter" id="play_27">
+      <navLabel>
+        <text>Dec. 2nd</text>
+      </navLabel>
+      <content src="chapter02.html#com_apple_itunes_epub_end0031" />
+    </navPoint>
+    <navPoint playOrder="37" class="chapter" id="play_28">
+      <navLabel>
+        <text>Jan. 10th</text>
+      </navLabel>
+      <content src="chapter02.html#com_apple_itunes_epub_end0032" />
+      <navPoint playOrder="38" class="chapter" id="play_28a">
+        <navLabel>
+          <text>Video: This Isn’t Easy</text>
+        </navLabel>
+        <content src="chapter02.html#com_apple_itunes_epub_end0033" />
+      </navPoint>
+    </navPoint>
+    <navPoint playOrder="39" class="chapter" id="play_29">
+      <navLabel>
+        <text>Feb. 4th</text>
+      </navLabel>
+      <content src="chapter02.html#com_apple_itunes_epub_end0034" />
+    </navPoint>
+    <navPoint playOrder="40" class="chapter" id="play_30">
+      <navLabel>
+        <text>Feb. 5th</text>
+      </navLabel>
+      <content src="chapter02.html#com_apple_itunes_epub_end0035" />
+    </navPoint>
+    <navPoint playOrder="41" class="chapter" id="play_31">
+      <navLabel>
+        <text>Feb. 6th</text>
+      </navLabel>
+      <content src="chapter02.html#com_apple_itunes_epub_end0036" />
+      <navPoint playOrder="42" class="chapter" id="play_31a">
+        <navLabel>
+          <text>Video: His Name is John</text>
+        </navLabel>
+        <content src="chapter02.html#com_apple_itunes_epub_end0037" />
+      </navPoint>
+    </navPoint>
+    <navPoint playOrder="43" class="chapter" id="play_32">
+      <navLabel>
+        <text>Feb. 7th</text>
+      </navLabel>
+      <content src="chapter02.html#com_apple_itunes_epub_end0038" />
+    </navPoint>
+    <navPoint playOrder="44" class="chapter" id="play_33">
+      <navLabel>
+        <text>Aug. 23rd</text>
+      </navLabel>
+      <content src="chapter02.html#com_apple_itunes_epub_end0039" />
+    </navPoint>
+    <navPoint playOrder="45" class="chapter" id="play_34">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="chapter02.html#com_apple_itunes_epub_end0040" />
+    </navPoint>
+  </navMap>
+</ncx>
+

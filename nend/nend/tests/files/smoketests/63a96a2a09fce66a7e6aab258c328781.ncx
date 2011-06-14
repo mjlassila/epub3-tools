@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="UND">
+  <head>
+    <meta content="554a36c6-707b-426b-9e25-1925d6689060" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.24)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>The Windup Girl</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="a5663fee3-4860-4c84-b1ff-eeaff6ed7d07" playOrder="1">
+      <navLabel>
+        <text>http://www.nightshadebooks.com</text>
+      </navLabel>
+      <content src="index_split_0.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

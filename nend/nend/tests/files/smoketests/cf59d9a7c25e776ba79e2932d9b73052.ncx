@@ -1,0 +1,5289 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="cover" content="cover"/>
+    <meta name="dtb:uid" content="isbn:9781449302122"/>
+    <meta name="dtb:depth" content="-1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>JavaScript: The Definitive Guide</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="id3464334" playOrder="1">
+      <navLabel>
+        <text>JavaScript: The Definitive Guide</text>
+      </navLabel>
+      <content src="index.html"/>
+      <navPoint id="id3087353" playOrder="2">
+        <navLabel>
+          <text>Preface</text>
+        </navLabel>
+        <content src="pr01.html"/>
+        <navPoint id="id3053030" playOrder="3">
+          <navLabel>
+            <text>Conventions Used in This Book</text>
+          </navLabel>
+          <content src="pr01.html#I_sect1_d1e230"/>
+        </navPoint>
+        <navPoint id="id3485286" playOrder="4">
+          <navLabel>
+            <text>Example Code</text>
+          </navLabel>
+          <content src="pr01s02.html"/>
+        </navPoint>
+        <navPoint id="id3485254" playOrder="5">
+          <navLabel>
+            <text>Errata and How to Contact Us</text>
+          </navLabel>
+          <content src="pr01s03.html"/>
+        </navPoint>
+        <navPoint id="id3480749" playOrder="6">
+          <navLabel>
+            <text>Acknowledgments</text>
+          </navLabel>
+          <content src="pr01s04.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id3491069" playOrder="7">
+        <navLabel>
+          <text>1. Introduction to JavaScript</text>
+        </navLabel>
+        <content src="ch01.html"/>
+        <navPoint id="id3062010" playOrder="8">
+          <navLabel>
+            <text>Core JavaScript</text>
+          </navLabel>
+          <content src="ch01.html#corejavascript"/>
+        </navPoint>
+        <navPoint id="id3504462" playOrder="9">
+          <navLabel>
+            <text>Client-Side JavaScript</text>
+          </navLabel>
+          <content src="ch01s02.html"/>
+          <navPoint id="id3519859" playOrder="10">
+            <navLabel>
+              <text>Example: A JavaScript Loan Calculator</text>
+            </navLabel>
+            <content src="ch01s02.html#id3519859"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id3520398" playOrder="11">
+        <navLabel>
+          <text>I. Core JavaScript</text>
+        </navLabel>
+        <content src="pt01.html"/>
+        <navPoint id="id3520538" playOrder="12">
+          <navLabel>
+            <text>2. Lexical Structure</text>
+          </navLabel>
+          <content src="ch02.html"/>
+          <navPoint id="id3520556" playOrder="13">
+            <navLabel>
+              <text>Character Set</text>
+            </navLabel>
+            <content src="ch02.html#I_sect11_d1e1004"/>
+            <navPoint id="id3520604" playOrder="14">
+              <navLabel>
+                <text>Case Sensitivity</text>
+              </navLabel>
+              <content src="ch02.html#id3520604"/>
+            </navPoint>
+            <navPoint id="id3520730" playOrder="15">
+              <navLabel>
+                <text>Whitespace, Line Breaks, and Format Control Characters</text>
+              </navLabel>
+              <content src="ch02.html#id3520730"/>
+            </navPoint>
+            <navPoint id="id3520948" playOrder="16">
+              <navLabel>
+                <text>Unicode Escape Sequences</text>
+              </navLabel>
+              <content src="ch02.html#id3520948"/>
+            </navPoint>
+            <navPoint id="id3521038" playOrder="17">
+              <navLabel>
+                <text>Normalization</text>
+              </navLabel>
+              <content src="ch02.html#id3521038"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3521101" playOrder="18">
+            <navLabel>
+              <text>Comments</text>
+            </navLabel>
+            <content src="ch02s02.html"/>
+          </navPoint>
+          <navPoint id="id3521174" playOrder="19">
+            <navLabel>
+              <text>Literals</text>
+            </navLabel>
+            <content src="ch02s03.html"/>
+          </navPoint>
+          <navPoint id="id3521244" playOrder="20">
+            <navLabel>
+              <text>Identifiers and Reserved Words</text>
+            </navLabel>
+            <content src="ch02s04.html"/>
+            <navPoint id="id3521349" playOrder="21">
+              <navLabel>
+                <text>Reserved Words</text>
+              </navLabel>
+              <content src="ch02s04.html#reservedwords"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3521551" playOrder="22">
+            <navLabel>
+              <text>Optional Semicolons</text>
+            </navLabel>
+            <content src="ch02s05.html"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id3522158" playOrder="23">
+          <navLabel>
+            <text>3. Types, Values, and Variables</text>
+          </navLabel>
+          <content src="ch03.html"/>
+          <navPoint id="id3522997" playOrder="24">
+            <navLabel>
+              <text>Numbers</text>
+            </navLabel>
+            <content src="ch03.html#numbers"/>
+            <navPoint id="id3523165" playOrder="25">
+              <navLabel>
+                <text>Integer Literals</text>
+              </navLabel>
+              <content src="ch03.html#id3523165"/>
+            </navPoint>
+            <navPoint id="id3523317" playOrder="26">
+              <navLabel>
+                <text>Floating-Point Literals</text>
+              </navLabel>
+              <content src="ch03.html#id3523317"/>
+            </navPoint>
+            <navPoint id="id3523435" playOrder="27">
+              <navLabel>
+                <text>Arithmetic in JavaScript</text>
+              </navLabel>
+              <content src="ch03.html#id3523435"/>
+            </navPoint>
+            <navPoint id="id3524101" playOrder="28">
+              <navLabel>
+                <text>Binary Floating-Point and Rounding Errors</text>
+              </navLabel>
+              <content src="ch03.html#id3524101"/>
+            </navPoint>
+            <navPoint id="id3524336" playOrder="29">
+              <navLabel>
+                <text>Dates and Times</text>
+              </navLabel>
+              <content src="ch03.html#id3524336"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3524440" playOrder="30">
+            <navLabel>
+              <text>Text</text>
+            </navLabel>
+            <content src="ch03s02.html"/>
+            <navPoint id="id3524692" playOrder="31">
+              <navLabel>
+                <text>String Literals</text>
+              </navLabel>
+              <content src="ch03s02.html#id3524692"/>
+            </navPoint>
+            <navPoint id="id3524967" playOrder="32">
+              <navLabel>
+                <text>Escape Sequences in String Literals</text>
+              </navLabel>
+              <content src="ch03s02.html#id3524967"/>
+            </navPoint>
+            <navPoint id="id3525640" playOrder="33">
+              <navLabel>
+                <text>Working with Strings</text>
+              </navLabel>
+              <content src="ch03s02.html#id3525640"/>
+            </navPoint>
+            <navPoint id="id3525927" playOrder="34">
+              <navLabel>
+                <text>Pattern Matching</text>
+              </navLabel>
+              <content src="ch03s02.html#regexpintro"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3526113" playOrder="35">
+            <navLabel>
+              <text>Boolean Values</text>
+            </navLabel>
+            <content src="ch03s03.html"/>
+          </navPoint>
+          <navPoint id="id3526674" playOrder="36">
+            <navLabel>
+              <text>null and undefined</text>
+            </navLabel>
+            <content src="ch03s04.html"/>
+          </navPoint>
+          <navPoint id="id3526958" playOrder="37">
+            <navLabel>
+              <text>The Global Object</text>
+            </navLabel>
+            <content src="ch03s05.html"/>
+          </navPoint>
+          <navPoint id="id3527259" playOrder="38">
+            <navLabel>
+              <text>Wrapper Objects</text>
+            </navLabel>
+            <content src="ch03s06.html"/>
+          </navPoint>
+          <navPoint id="id3527691" playOrder="39">
+            <navLabel>
+              <text>Immutable Primitive Values and Mutable Object References</text>
+            </navLabel>
+            <content src="ch03s07.html"/>
+          </navPoint>
+          <navPoint id="id3528070" playOrder="40">
+            <navLabel>
+              <text>Type Conversions</text>
+            </navLabel>
+            <content src="ch03s08.html"/>
+            <navPoint id="id3529602" playOrder="41">
+              <navLabel>
+                <text>Conversions and Equality</text>
+              </navLabel>
+              <content src="ch03s08.html#conversionsandequality"/>
+            </navPoint>
+            <navPoint id="id3529762" playOrder="42">
+              <navLabel>
+                <text>Explicit Conversions</text>
+              </navLabel>
+              <content src="ch03s08.html#explicitconversions"/>
+            </navPoint>
+            <navPoint id="id3530410" playOrder="43">
+              <navLabel>
+                <text>Object to Primitive Conversions</text>
+              </navLabel>
+              <content src="ch03s08.html#objtoprim"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3531295" playOrder="44">
+            <navLabel>
+              <text>Variable Declaration</text>
+            </navLabel>
+            <content src="ch03s09.html"/>
+            <navPoint id="id3531527" playOrder="45">
+              <navLabel>
+                <text>Repeated and Omitted Declarations</text>
+              </navLabel>
+              <content src="ch03s09.html#id3531527"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3531597" playOrder="46">
+            <navLabel>
+              <text>Variable Scope</text>
+            </navLabel>
+            <content src="ch03s10.html"/>
+            <navPoint id="id3531747" playOrder="47">
+              <navLabel>
+                <text>Function Scope and Hoisting</text>
+              </navLabel>
+              <content src="ch03s10.html#functionscope"/>
+            </navPoint>
+            <navPoint id="id3531997" playOrder="48">
+              <navLabel>
+                <text>Variables As Properties</text>
+              </navLabel>
+              <content src="ch03s10.html#varsasprops"/>
+            </navPoint>
+            <navPoint id="id3532160" playOrder="49">
+              <navLabel>
+                <text>The Scope Chain</text>
+              </navLabel>
+              <content src="ch03s10.html#scopechain"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id3532420" playOrder="50">
+          <navLabel>
+            <text>4. Expressions and Operators</text>
+          </navLabel>
+          <content src="ch04.html"/>
+          <navPoint id="id3532537" playOrder="51">
+            <navLabel>
+              <text>Primary Expressions</text>
+            </navLabel>
+            <content src="ch04.html#primaryexpressions"/>
+          </navPoint>
+          <navPoint id="id3532815" playOrder="52">
+            <navLabel>
+              <text>Object and Array Initializers</text>
+            </navLabel>
+            <content src="ch04s02.html"/>
+          </navPoint>
+          <navPoint id="id3533082" playOrder="53">
+            <navLabel>
+              <text>Function Definition Expressions</text>
+            </navLabel>
+            <content src="ch04s03.html"/>
+          </navPoint>
+          <navPoint id="id3533188" playOrder="54">
+            <navLabel>
+              <text>Property Access Expressions</text>
+            </navLabel>
+            <content src="ch04s04.html"/>
+          </navPoint>
+          <navPoint id="id3533497" playOrder="55">
+            <navLabel>
+              <text>Invocation Expressions</text>
+            </navLabel>
+            <content src="ch04s05.html"/>
+          </navPoint>
+          <navPoint id="id3533727" playOrder="56">
+            <navLabel>
+              <text>Object Creation Expressions</text>
+            </navLabel>
+            <content src="ch04s06.html"/>
+          </navPoint>
+          <navPoint id="id3533875" playOrder="57">
+            <navLabel>
+              <text>Operator Overview</text>
+            </navLabel>
+            <content src="ch04s07.html"/>
+            <navPoint id="id3535906" playOrder="58">
+              <navLabel>
+                <text>Number of Operands</text>
+              </navLabel>
+              <content src="ch04s07.html#id3535906"/>
+            </navPoint>
+            <navPoint id="id3535986" playOrder="59">
+              <navLabel>
+                <text>Operand and Result Type</text>
+              </navLabel>
+              <content src="ch04s07.html#id3535986"/>
+            </navPoint>
+            <navPoint id="id3536096" playOrder="60">
+              <navLabel>
+                <text>Lvalues</text>
+              </navLabel>
+              <content src="ch04s07.html#lvalues"/>
+            </navPoint>
+            <navPoint id="id3536172" playOrder="61">
+              <navLabel>
+                <text>Operator Side Effects</text>
+              </navLabel>
+              <content src="ch04s07.html#id3536172"/>
+            </navPoint>
+            <navPoint id="id3536316" playOrder="62">
+              <navLabel>
+                <text>Operator Precedence</text>
+              </navLabel>
+              <content src="ch04s07.html#id3536316"/>
+            </navPoint>
+            <navPoint id="id3536493" playOrder="63">
+              <navLabel>
+                <text>Operator Associativity</text>
+              </navLabel>
+              <content src="ch04s07.html#id3536493"/>
+            </navPoint>
+            <navPoint id="id3536600" playOrder="64">
+              <navLabel>
+                <text>Order of Evaluation</text>
+              </navLabel>
+              <content src="ch04s07.html#id3536600"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3536755" playOrder="65">
+            <navLabel>
+              <text>Arithmetic Expressions</text>
+            </navLabel>
+            <content src="ch04s08.html"/>
+            <navPoint id="id3536979" playOrder="66">
+              <navLabel>
+                <text>The + Operator</text>
+              </navLabel>
+              <content src="ch04s08.html#plusoperator"/>
+            </navPoint>
+            <navPoint id="id3537247" playOrder="67">
+              <navLabel>
+                <text>Unary Arithmetic Operators</text>
+              </navLabel>
+              <content src="ch04s08.html#id3537247"/>
+            </navPoint>
+            <navPoint id="id3537699" playOrder="68">
+              <navLabel>
+                <text>Bitwise Operators</text>
+              </navLabel>
+              <content src="ch04s08.html#id3537699"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3538352" playOrder="69">
+            <navLabel>
+              <text>Relational Expressions</text>
+            </navLabel>
+            <content src="ch04s09.html"/>
+            <navPoint id="id3538450" playOrder="70">
+              <navLabel>
+                <text>Equality and Inequality Operators</text>
+              </navLabel>
+              <content src="ch04s09.html#equalityops"/>
+            </navPoint>
+            <navPoint id="id3539266" playOrder="71">
+              <navLabel>
+                <text>Comparison Operators</text>
+              </navLabel>
+              <content src="ch04s09.html#comparisonops"/>
+            </navPoint>
+            <navPoint id="id3539892" playOrder="72">
+              <navLabel>
+                <text>The in Operator</text>
+              </navLabel>
+              <content src="ch04s09.html#inoperator"/>
+            </navPoint>
+            <navPoint id="id3540007" playOrder="73">
+              <navLabel>
+                <text>The instanceof Operator</text>
+              </navLabel>
+              <content src="ch04s09.html#instanceof"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3540293" playOrder="74">
+            <navLabel>
+              <text>Logical Expressions</text>
+            </navLabel>
+            <content src="ch04s10.html"/>
+            <navPoint id="id3540362" playOrder="75">
+              <navLabel>
+                <text>Logical AND (&amp;&amp;)</text>
+              </navLabel>
+              <content src="ch04s10.html#logicaland"/>
+            </navPoint>
+            <navPoint id="id3540810" playOrder="76">
+              <navLabel>
+                <text>Logical OR (||)</text>
+              </navLabel>
+              <content src="ch04s10.html#logicalor"/>
+            </navPoint>
+            <navPoint id="id3540968" playOrder="77">
+              <navLabel>
+                <text>Logical NOT (!)</text>
+              </navLabel>
+              <content src="ch04s10.html#id3540968"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3541188" playOrder="78">
+            <navLabel>
+              <text>Assignment Expressions</text>
+            </navLabel>
+            <content src="ch04s11.html"/>
+            <navPoint id="id3541328" playOrder="79">
+              <navLabel>
+                <text>Assignment with Operation</text>
+              </navLabel>
+              <content src="ch04s11.html#id3541328"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3542076" playOrder="80">
+            <navLabel>
+              <text>Evaluation Expressions</text>
+            </navLabel>
+            <content src="ch04s12.html"/>
+            <navPoint id="id3542270" playOrder="81">
+              <navLabel>
+                <text>eval()</text>
+              </navLabel>
+              <content src="ch04s12.html#basiceval"/>
+            </navPoint>
+            <navPoint id="id3542443" playOrder="82">
+              <navLabel>
+                <text>Global eval()</text>
+              </navLabel>
+              <content src="ch04s12.html#globaleval"/>
+            </navPoint>
+            <navPoint id="id3542655" playOrder="83">
+              <navLabel>
+                <text>Strict eval()</text>
+              </navLabel>
+              <content src="ch04s12.html#stricteval"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3542775" playOrder="84">
+            <navLabel>
+              <text>Miscellaneous Operators</text>
+            </navLabel>
+            <content src="ch04s13.html"/>
+            <navPoint id="id3542789" playOrder="85">
+              <navLabel>
+                <text>The Conditional Operator (?:)</text>
+              </navLabel>
+              <content src="ch04s13.html#id3542789"/>
+            </navPoint>
+            <navPoint id="id3542964" playOrder="86">
+              <navLabel>
+                <text>The typeof Operator</text>
+              </navLabel>
+              <content src="ch04s13.html#typeof"/>
+            </navPoint>
+            <navPoint id="id3543462" playOrder="87">
+              <navLabel>
+                <text>The delete Operator</text>
+              </navLabel>
+              <content src="ch04s13.html#deleteoperator"/>
+            </navPoint>
+            <navPoint id="id3543747" playOrder="88">
+              <navLabel>
+                <text>The void Operator</text>
+              </navLabel>
+              <content src="ch04s13.html#id3543747"/>
+            </navPoint>
+            <navPoint id="id3543874" playOrder="89">
+              <navLabel>
+                <text>The Comma Operator (,)</text>
+              </navLabel>
+              <content src="ch04s13.html#commaoperator"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id3543986" playOrder="90">
+          <navLabel>
+            <text>5. Statements</text>
+          </navLabel>
+          <content src="ch05.html"/>
+          <navPoint id="id3544265" playOrder="91">
+            <navLabel>
+              <text>Expression Statements</text>
+            </navLabel>
+            <content src="ch05.html#I_sect14_d1e9552"/>
+          </navPoint>
+          <navPoint id="id3544520" playOrder="92">
+            <navLabel>
+              <text>Compound and Empty Statements</text>
+            </navLabel>
+            <content src="ch05s02.html"/>
+          </navPoint>
+          <navPoint id="id3544805" playOrder="93">
+            <navLabel>
+              <text>Declaration Statements</text>
+            </navLabel>
+            <content src="ch05s03.html"/>
+            <navPoint id="id3544897" playOrder="94">
+              <navLabel>
+                <text>var</text>
+              </navLabel>
+              <content src="ch05s03.html#id3544897"/>
+            </navPoint>
+            <navPoint id="id3545130" playOrder="95">
+              <navLabel>
+                <text>function</text>
+              </navLabel>
+              <content src="ch05s03.html#functiondecls"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3545390" playOrder="96">
+            <navLabel>
+              <text>Conditionals</text>
+            </navLabel>
+            <content src="ch05s04.html"/>
+            <navPoint id="id3545468" playOrder="97">
+              <navLabel>
+                <text>if</text>
+              </navLabel>
+              <content src="ch05s04.html#ifstatement"/>
+            </navPoint>
+            <navPoint id="id3545893" playOrder="98">
+              <navLabel>
+                <text>else if</text>
+              </navLabel>
+              <content src="ch05s04.html#id3545893"/>
+            </navPoint>
+            <navPoint id="id3546042" playOrder="99">
+              <navLabel>
+                <text>switch</text>
+              </navLabel>
+              <content src="ch05s04.html#switch"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3546708" playOrder="100">
+            <navLabel>
+              <text>Loops</text>
+            </navLabel>
+            <content src="ch05s05.html"/>
+            <navPoint id="id3546782" playOrder="101">
+              <navLabel>
+                <text>while</text>
+              </navLabel>
+              <content src="ch05s05.html#id3546782"/>
+            </navPoint>
+            <navPoint id="id3547018" playOrder="102">
+              <navLabel>
+                <text>do/while</text>
+              </navLabel>
+              <content src="ch05s05.html#id3547018"/>
+            </navPoint>
+            <navPoint id="id3547192" playOrder="103">
+              <navLabel>
+                <text>for</text>
+              </navLabel>
+              <content src="ch05s05.html#forloop"/>
+            </navPoint>
+            <navPoint id="id3547621" playOrder="104">
+              <navLabel>
+                <text>for/in</text>
+              </navLabel>
+              <content src="ch05s05.html#forinloop"/>
+              <navPoint id="id3548030" playOrder="105">
+                <navLabel>
+                  <text>Property enumeration order</text>
+                </navLabel>
+                <content src="ch05s05.html#id3548030"/>
+              </navPoint>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3548248" playOrder="106">
+            <navLabel>
+              <text>Jumps</text>
+            </navLabel>
+            <content src="ch05s06.html"/>
+            <navPoint id="id3548359" playOrder="107">
+              <navLabel>
+                <text>Labeled Statements</text>
+              </navLabel>
+              <content src="ch05s06.html#id3548359"/>
+            </navPoint>
+            <navPoint id="id3548526" playOrder="108">
+              <navLabel>
+                <text>break</text>
+              </navLabel>
+              <content src="ch05s06.html#id3548526"/>
+            </navPoint>
+            <navPoint id="id3548837" playOrder="109">
+              <navLabel>
+                <text>continue</text>
+              </navLabel>
+              <content src="ch05s06.html#statements-SECT-12"/>
+            </navPoint>
+            <navPoint id="id3549273" playOrder="110">
+              <navLabel>
+                <text>return</text>
+              </navLabel>
+              <content src="ch05s06.html#return"/>
+            </navPoint>
+            <navPoint id="id3549472" playOrder="111">
+              <navLabel>
+                <text>throw</text>
+              </navLabel>
+              <content src="ch05s06.html#id3549472"/>
+            </navPoint>
+            <navPoint id="id3549712" playOrder="112">
+              <navLabel>
+                <text>try/catch/finally</text>
+              </navLabel>
+              <content src="ch05s06.html#id3549712"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3550367" playOrder="113">
+            <navLabel>
+              <text>Miscellaneous Statements</text>
+            </navLabel>
+            <content src="ch05s07.html"/>
+            <navPoint id="id3550411" playOrder="114">
+              <navLabel>
+                <text>with</text>
+              </navLabel>
+              <content src="ch05s07.html#withstatement"/>
+            </navPoint>
+            <navPoint id="id3550676" playOrder="115">
+              <navLabel>
+                <text>debugger</text>
+              </navLabel>
+              <content src="ch05s07.html#id3550676"/>
+            </navPoint>
+            <navPoint id="id3550812" playOrder="116">
+              <navLabel>
+                <text>“use strict”</text>
+              </navLabel>
+              <content src="ch05s07.html#strictmode"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3551358" playOrder="117">
+            <navLabel>
+              <text>Summary of JavaScript Statements</text>
+            </navLabel>
+            <content src="ch05s08.html"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id3552111" playOrder="118">
+          <navLabel>
+            <text>6. Objects</text>
+          </navLabel>
+          <content src="ch06.html"/>
+          <navPoint id="id3552726" playOrder="119">
+            <navLabel>
+              <text>Creating Objects</text>
+            </navLabel>
+            <content src="ch06.html#creatingobjects"/>
+            <navPoint id="id3552784" playOrder="120">
+              <navLabel>
+                <text>Object Literals</text>
+              </navLabel>
+              <content src="ch06.html#id3552784"/>
+            </navPoint>
+            <navPoint id="id3552958" playOrder="121">
+              <navLabel>
+                <text>Creating Objects with new</text>
+              </navLabel>
+              <content src="ch06.html#creatingobjectswithnew"/>
+            </navPoint>
+            <navPoint id="id3553016" playOrder="122">
+              <navLabel>
+                <text>Prototypes</text>
+              </navLabel>
+              <content src="ch06.html#prototypes"/>
+            </navPoint>
+            <navPoint id="id3553298" playOrder="123">
+              <navLabel>
+                <text>Object.create()</text>
+              </navLabel>
+              <content src="ch06.html#objectcreate"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3553678" playOrder="124">
+            <navLabel>
+              <text>Querying and Setting Properties</text>
+            </navLabel>
+            <content src="ch06s02.html"/>
+            <navPoint id="id3553912" playOrder="125">
+              <navLabel>
+                <text>Objects As Associative Arrays</text>
+              </navLabel>
+              <content src="ch06s02.html#associativearrays"/>
+            </navPoint>
+            <navPoint id="id3554285" playOrder="126">
+              <navLabel>
+                <text>Inheritance</text>
+              </navLabel>
+              <content src="ch06s02.html#inheritance"/>
+            </navPoint>
+            <navPoint id="id3554653" playOrder="127">
+              <navLabel>
+                <text>Property Access Errors</text>
+              </navLabel>
+              <content src="ch06s02.html#propertyaccesserrors"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3555158" playOrder="128">
+            <navLabel>
+              <text>Deleting Properties</text>
+            </navLabel>
+            <content src="ch06s03.html"/>
+          </navPoint>
+          <navPoint id="id3555465" playOrder="129">
+            <navLabel>
+              <text>Testing Properties</text>
+            </navLabel>
+            <content src="ch06s04.html"/>
+          </navPoint>
+          <navPoint id="id3555881" playOrder="130">
+            <navLabel>
+              <text>Enumerating Properties</text>
+            </navLabel>
+            <content src="ch06s05.html"/>
+          </navPoint>
+          <navPoint id="id3556332" playOrder="131">
+            <navLabel>
+              <text>Property Getters and Setters</text>
+            </navLabel>
+            <content src="ch06s06.html"/>
+          </navPoint>
+          <navPoint id="id3556814" playOrder="132">
+            <navLabel>
+              <text>Property Attributes</text>
+            </navLabel>
+            <content src="ch06s07.html"/>
+            <navPoint id="id3557816" playOrder="133">
+              <navLabel>
+                <text>Legacy API for Getters and Setters</text>
+              </navLabel>
+              <content src="ch06s07.html#legacygettersandsetters"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3558078" playOrder="134">
+            <navLabel>
+              <text>Object Attributes</text>
+            </navLabel>
+            <content src="ch06s08.html"/>
+            <navPoint id="id3558141" playOrder="135">
+              <navLabel>
+                <text>The prototype Attribute</text>
+              </navLabel>
+              <content src="ch06s08.html#prototypeattr"/>
+            </navPoint>
+            <navPoint id="id3558601" playOrder="136">
+              <navLabel>
+                <text>The class Attribute</text>
+              </navLabel>
+              <content src="ch06s08.html#classattribute"/>
+            </navPoint>
+            <navPoint id="id3558922" playOrder="137">
+              <navLabel>
+                <text>The extensible Attribute</text>
+              </navLabel>
+              <content src="ch06s08.html#extensibleattr"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3559354" playOrder="138">
+            <navLabel>
+              <text>Serializing Objects</text>
+            </navLabel>
+            <content src="ch06s09.html"/>
+          </navPoint>
+          <navPoint id="id3559664" playOrder="139">
+            <navLabel>
+              <text>Object Methods</text>
+            </navLabel>
+            <content src="ch06s10.html"/>
+            <navPoint id="id3559811" playOrder="140">
+              <navLabel>
+                <text>The toString() Method</text>
+              </navLabel>
+              <content src="ch06s10.html#id3559811"/>
+            </navPoint>
+            <navPoint id="id3559971" playOrder="141">
+              <navLabel>
+                <text>The toLocaleString() Method</text>
+              </navLabel>
+              <content src="ch06s10.html#id3559971"/>
+            </navPoint>
+            <navPoint id="id3560086" playOrder="142">
+              <navLabel>
+                <text>The toJSON() Method</text>
+              </navLabel>
+              <content src="ch06s10.html#id3560086"/>
+            </navPoint>
+            <navPoint id="id3560193" playOrder="143">
+              <navLabel>
+                <text>The valueOf() Method</text>
+              </navLabel>
+              <content src="ch06s10.html#id3560193"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id3560328" playOrder="144">
+          <navLabel>
+            <text>7. Arrays</text>
+          </navLabel>
+          <content src="ch07.html"/>
+          <navPoint id="id3560556" playOrder="145">
+            <navLabel>
+              <text>Creating Arrays</text>
+            </navLabel>
+            <content src="ch07.html#I_sect16_d1e15713"/>
+          </navPoint>
+          <navPoint id="id3560796" playOrder="146">
+            <navLabel>
+              <text>Reading and Writing Array Elements</text>
+            </navLabel>
+            <content src="ch07s02.html"/>
+          </navPoint>
+          <navPoint id="id3561112" playOrder="147">
+            <navLabel>
+              <text>Sparse Arrays</text>
+            </navLabel>
+            <content src="ch07s03.html"/>
+          </navPoint>
+          <navPoint id="id3561302" playOrder="148">
+            <navLabel>
+              <text>Array Length</text>
+            </navLabel>
+            <content src="ch07s04.html"/>
+          </navPoint>
+          <navPoint id="id3561571" playOrder="149">
+            <navLabel>
+              <text>Adding and Deleting Array Elements</text>
+            </navLabel>
+            <content src="ch07s05.html"/>
+          </navPoint>
+          <navPoint id="id3561861" playOrder="150">
+            <navLabel>
+              <text>Iterating Arrays</text>
+            </navLabel>
+            <content src="ch07s06.html"/>
+          </navPoint>
+          <navPoint id="id3562246" playOrder="151">
+            <navLabel>
+              <text>Multidimensional Arrays</text>
+            </navLabel>
+            <content src="ch07s07.html"/>
+          </navPoint>
+          <navPoint id="id3562351" playOrder="152">
+            <navLabel>
+              <text>Array Methods</text>
+            </navLabel>
+            <content src="ch07s08.html"/>
+            <navPoint id="id3562443" playOrder="153">
+              <navLabel>
+                <text>join()</text>
+              </navLabel>
+              <content src="ch07s08.html#id3562443"/>
+            </navPoint>
+            <navPoint id="id3562536" playOrder="154">
+              <navLabel>
+                <text>reverse()</text>
+              </navLabel>
+              <content src="ch07s08.html#id3562536"/>
+            </navPoint>
+            <navPoint id="id3562620" playOrder="155">
+              <navLabel>
+                <text>sort()</text>
+              </navLabel>
+              <content src="ch07s08.html#arraysort"/>
+            </navPoint>
+            <navPoint id="id3562777" playOrder="156">
+              <navLabel>
+                <text>concat()</text>
+              </navLabel>
+              <content src="ch07s08.html#id3562777"/>
+            </navPoint>
+            <navPoint id="id3562867" playOrder="157">
+              <navLabel>
+                <text>slice()</text>
+              </navLabel>
+              <content src="ch07s08.html#id3562867"/>
+            </navPoint>
+            <navPoint id="id3562950" playOrder="158">
+              <navLabel>
+                <text>splice()</text>
+              </navLabel>
+              <content src="ch07s08.html#id3562950"/>
+            </navPoint>
+            <navPoint id="id3563114" playOrder="159">
+              <navLabel>
+                <text>push() and pop()</text>
+              </navLabel>
+              <content src="ch07s08.html#id3563114"/>
+            </navPoint>
+            <navPoint id="id3563220" playOrder="160">
+              <navLabel>
+                <text>unshift() and shift()</text>
+              </navLabel>
+              <content src="ch07s08.html#id3563220"/>
+            </navPoint>
+            <navPoint id="id3563353" playOrder="161">
+              <navLabel>
+                <text>toString() and toLocaleString()</text>
+              </navLabel>
+              <content src="ch07s08.html#id3563353"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3563531" playOrder="162">
+            <navLabel>
+              <text>ECMAScript 5 Array Methods</text>
+            </navLabel>
+            <content src="ch07s09.html"/>
+            <navPoint id="id3563634" playOrder="163">
+              <navLabel>
+                <text>forEach()</text>
+              </navLabel>
+              <content src="ch07s09.html#id3563634"/>
+            </navPoint>
+            <navPoint id="id3563803" playOrder="164">
+              <navLabel>
+                <text>map()</text>
+              </navLabel>
+              <content src="ch07s09.html#id3563803"/>
+            </navPoint>
+            <navPoint id="id3563896" playOrder="165">
+              <navLabel>
+                <text>filter()</text>
+              </navLabel>
+              <content src="ch07s09.html#id3563896"/>
+            </navPoint>
+            <navPoint id="id3564041" playOrder="166">
+              <navLabel>
+                <text>every() and some()</text>
+              </navLabel>
+              <content src="ch07s09.html#id3564041"/>
+            </navPoint>
+            <navPoint id="id3564306" playOrder="167">
+              <navLabel>
+                <text>reduce(), reduceRight()</text>
+              </navLabel>
+              <content src="ch07s09.html#id3564306"/>
+            </navPoint>
+            <navPoint id="id3564691" playOrder="168">
+              <navLabel>
+                <text>indexOf() and lastIndexOf()</text>
+              </navLabel>
+              <content src="ch07s09.html#id3564691"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3564959" playOrder="169">
+            <navLabel>
+              <text>Array Type</text>
+            </navLabel>
+            <content src="ch07s10.html"/>
+          </navPoint>
+          <navPoint id="id3565211" playOrder="170">
+            <navLabel>
+              <text>Array-Like Objects</text>
+            </navLabel>
+            <content src="ch07s11.html"/>
+          </navPoint>
+          <navPoint id="id3565704" playOrder="171">
+            <navLabel>
+              <text>Strings As Arrays</text>
+            </navLabel>
+            <content src="ch07s12.html"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id3565937" playOrder="172">
+          <navLabel>
+            <text>8. Functions</text>
+          </navLabel>
+          <content src="ch08.html"/>
+          <navPoint id="id3566158" playOrder="173">
+            <navLabel>
+              <text>Defining Functions</text>
+            </navLabel>
+            <content src="ch08.html#I_sect17_d1e17639"/>
+            <navPoint id="id3566767" playOrder="174">
+              <navLabel>
+                <text>Nested Functions</text>
+              </navLabel>
+              <content src="ch08.html#id3566767"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3566926" playOrder="175">
+            <navLabel>
+              <text>Invoking Functions</text>
+            </navLabel>
+            <content src="ch08s02.html"/>
+            <navPoint id="id3567012" playOrder="176">
+              <navLabel>
+                <text>Function Invocation</text>
+              </navLabel>
+              <content src="ch08s02.html#functioninvocation"/>
+            </navPoint>
+            <navPoint id="id3567178" playOrder="177">
+              <navLabel>
+                <text>Method Invocation</text>
+              </navLabel>
+              <content src="ch08s02.html#methodinvocation"/>
+            </navPoint>
+            <navPoint id="id3567841" playOrder="178">
+              <navLabel>
+                <text>Constructor Invocation</text>
+              </navLabel>
+              <content src="ch08s02.html#constructorinvocation"/>
+            </navPoint>
+            <navPoint id="id3568041" playOrder="179">
+              <navLabel>
+                <text>Indirect Invocation</text>
+              </navLabel>
+              <content src="ch08s02.html#indirectinvocation"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3568182" playOrder="180">
+            <navLabel>
+              <text>Function Arguments and Parameters</text>
+            </navLabel>
+            <content src="ch08s03.html"/>
+            <navPoint id="id3568244" playOrder="181">
+              <navLabel>
+                <text>Optional Parameters</text>
+              </navLabel>
+              <content src="ch08s03.html#id3568244"/>
+            </navPoint>
+            <navPoint id="id3568407" playOrder="182">
+              <navLabel>
+                <text>Variable-Length Argument Lists: The Arguments Object</text>
+              </navLabel>
+              <content src="ch08s03.html#argumentsobject"/>
+              <navPoint id="id3568835" playOrder="183">
+                <navLabel>
+                  <text>The callee and caller properties</text>
+                </navLabel>
+                <content src="ch08s03.html#id3568835"/>
+              </navPoint>
+            </navPoint>
+            <navPoint id="id3568939" playOrder="184">
+              <navLabel>
+                <text>Using Object Properties As Arguments</text>
+              </navLabel>
+              <content src="ch08s03.html#id3568939"/>
+            </navPoint>
+            <navPoint id="id3569034" playOrder="185">
+              <navLabel>
+                <text>Argument Types</text>
+              </navLabel>
+              <content src="ch08s03.html#id3569034"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3569308" playOrder="186">
+            <navLabel>
+              <text>Functions As Values</text>
+            </navLabel>
+            <content src="ch08s04.html"/>
+            <navPoint id="id3569609" playOrder="187">
+              <navLabel>
+                <text>Defining Your Own Function Properties</text>
+              </navLabel>
+              <content src="ch08s04.html#yourownfunctionprops"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3569795" playOrder="188">
+            <navLabel>
+              <text>Functions As Namespaces</text>
+            </navLabel>
+            <content src="ch08s05.html"/>
+          </navPoint>
+          <navPoint id="id3570112" playOrder="189">
+            <navLabel>
+              <text>Closures</text>
+            </navLabel>
+            <content src="ch08s06.html"/>
+          </navPoint>
+          <navPoint id="id3571193" playOrder="190">
+            <navLabel>
+              <text>Function Properties, Methods, and Constructor</text>
+            </navLabel>
+            <content src="ch08s07.html"/>
+            <navPoint id="id3571266" playOrder="191">
+              <navLabel>
+                <text>The length Property</text>
+              </navLabel>
+              <content src="ch08s07.html#id3571266"/>
+            </navPoint>
+            <navPoint id="id3571426" playOrder="192">
+              <navLabel>
+                <text>The prototype Property</text>
+              </navLabel>
+              <content src="ch08s07.html#id3571426"/>
+            </navPoint>
+            <navPoint id="id3571498" playOrder="193">
+              <navLabel>
+                <text>The call() and apply() Methods</text>
+              </navLabel>
+              <content src="ch08s07.html#applyandcall"/>
+            </navPoint>
+            <navPoint id="id3571894" playOrder="194">
+              <navLabel>
+                <text>The bind() Method</text>
+              </navLabel>
+              <content src="ch08s07.html#bind"/>
+            </navPoint>
+            <navPoint id="id3572310" playOrder="195">
+              <navLabel>
+                <text>The toString() Method</text>
+              </navLabel>
+              <content src="ch08s07.html#id3572310"/>
+            </navPoint>
+            <navPoint id="id3572373" playOrder="196">
+              <navLabel>
+                <text>The Function() Constructor</text>
+              </navLabel>
+              <content src="ch08s07.html#id3572373"/>
+            </navPoint>
+            <navPoint id="id3572604" playOrder="197">
+              <navLabel>
+                <text>Callable Objects</text>
+              </navLabel>
+              <content src="ch08s07.html#callableobjects"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3572864" playOrder="198">
+            <navLabel>
+              <text>Functional Programming</text>
+            </navLabel>
+            <content src="ch08s08.html"/>
+            <navPoint id="id3572921" playOrder="199">
+              <navLabel>
+                <text>Processing Arrays with Functions</text>
+              </navLabel>
+              <content src="ch08s08.html#id3572921"/>
+            </navPoint>
+            <navPoint id="id3573153" playOrder="200">
+              <navLabel>
+                <text>Higher-Order Functions</text>
+              </navLabel>
+              <content src="ch08s08.html#id3573153"/>
+            </navPoint>
+            <navPoint id="id3573360" playOrder="201">
+              <navLabel>
+                <text>Partial Application of Functions</text>
+              </navLabel>
+              <content src="ch08s08.html#id3573360"/>
+            </navPoint>
+            <navPoint id="id3573622" playOrder="202">
+              <navLabel>
+                <text>Memoization</text>
+              </navLabel>
+              <content src="ch08s08.html#id3573622"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id3573800" playOrder="203">
+          <navLabel>
+            <text>9. Classes and Modules</text>
+          </navLabel>
+          <content src="ch09.html"/>
+          <navPoint id="id3574062" playOrder="204">
+            <navLabel>
+              <text>Classes and Prototypes</text>
+            </navLabel>
+            <content src="ch09.html#classesandprototypes"/>
+          </navPoint>
+          <navPoint id="id3574312" playOrder="205">
+            <navLabel>
+              <text>Classes and Constructors</text>
+            </navLabel>
+            <content src="ch09s02.html"/>
+            <navPoint id="id3574694" playOrder="206">
+              <navLabel>
+                <text>Constructors and Class Identity</text>
+              </navLabel>
+              <content src="ch09s02.html#id3574694"/>
+            </navPoint>
+            <navPoint id="id3574865" playOrder="207">
+              <navLabel>
+                <text>The constructor Property</text>
+              </navLabel>
+              <content src="ch09s02.html#constructorproperty"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3575241" playOrder="208">
+            <navLabel>
+              <text>Java-Style Classes in JavaScript</text>
+            </navLabel>
+            <content src="ch09s03.html"/>
+          </navPoint>
+          <navPoint id="id3575922" playOrder="209">
+            <navLabel>
+              <text>Augmenting Classes</text>
+            </navLabel>
+            <content src="ch09s04.html"/>
+          </navPoint>
+          <navPoint id="id3576202" playOrder="210">
+            <navLabel>
+              <text>Classes and Types</text>
+            </navLabel>
+            <content src="ch09s05.html"/>
+            <navPoint id="id3576352" playOrder="211">
+              <navLabel>
+                <text>The instanceof operator</text>
+              </navLabel>
+              <content src="ch09s05.html#id3576352"/>
+            </navPoint>
+            <navPoint id="id3576608" playOrder="212">
+              <navLabel>
+                <text>The constructor property</text>
+              </navLabel>
+              <content src="ch09s05.html#id3576608"/>
+            </navPoint>
+            <navPoint id="id3576819" playOrder="213">
+              <navLabel>
+                <text>The Constructor Name</text>
+              </navLabel>
+              <content src="ch09s05.html#id3576819"/>
+            </navPoint>
+            <navPoint id="id3577111" playOrder="214">
+              <navLabel>
+                <text>Duck-Typing</text>
+              </navLabel>
+              <content src="ch09s05.html#ducktyping"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3577672" playOrder="215">
+            <navLabel>
+              <text>Object-Oriented Techniques in JavaScript</text>
+            </navLabel>
+            <content src="ch09s06.html"/>
+            <navPoint id="id3577732" playOrder="216">
+              <navLabel>
+                <text>Example: A Set Class</text>
+              </navLabel>
+              <content src="ch09s06.html#id3577732"/>
+            </navPoint>
+            <navPoint id="id3578002" playOrder="217">
+              <navLabel>
+                <text>Example: Enumerated Types</text>
+              </navLabel>
+              <content src="ch09s06.html#id3578002"/>
+            </navPoint>
+            <navPoint id="id3578428" playOrder="218">
+              <navLabel>
+                <text>Standard Conversion Methods</text>
+              </navLabel>
+              <content src="ch09s06.html#commonobjectmethods"/>
+            </navPoint>
+            <navPoint id="id3579028" playOrder="219">
+              <navLabel>
+                <text>Comparison Methods</text>
+              </navLabel>
+              <content src="ch09s06.html#comparisonmethods"/>
+            </navPoint>
+            <navPoint id="id3580023" playOrder="220">
+              <navLabel>
+                <text>Borrowing Methods</text>
+              </navLabel>
+              <content src="ch09s06.html#id3580023"/>
+            </navPoint>
+            <navPoint id="id3580313" playOrder="221">
+              <navLabel>
+                <text>Private State</text>
+              </navLabel>
+              <content src="ch09s06.html#privatestate"/>
+            </navPoint>
+            <navPoint id="id3580570" playOrder="222">
+              <navLabel>
+                <text>Constructor Overloading and Factory Methods</text>
+              </navLabel>
+              <content src="ch09s06.html#id3580570"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3580843" playOrder="223">
+            <navLabel>
+              <text>Subclasses</text>
+            </navLabel>
+            <content src="ch09s07.html"/>
+            <navPoint id="id3581030" playOrder="224">
+              <navLabel>
+                <text>Defining a Subclass</text>
+              </navLabel>
+              <content src="ch09s07.html#id3581030"/>
+            </navPoint>
+            <navPoint id="id3581384" playOrder="225">
+              <navLabel>
+                <text>Constructor and Method Chaining</text>
+              </navLabel>
+              <content src="ch09s07.html#constructorchaining"/>
+            </navPoint>
+            <navPoint id="id3581839" playOrder="226">
+              <navLabel>
+                <text>Composition Versus Subclassing</text>
+              </navLabel>
+              <content src="ch09s07.html#id3581839"/>
+            </navPoint>
+            <navPoint id="id3582083" playOrder="227">
+              <navLabel>
+                <text>Class Hierarchies and Abstract Classes</text>
+              </navLabel>
+              <content src="ch09s07.html#id3582083"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3582618" playOrder="228">
+            <navLabel>
+              <text>Classes in ECMAScript 5</text>
+            </navLabel>
+            <content src="ch09s08.html"/>
+            <navPoint id="id3582722" playOrder="229">
+              <navLabel>
+                <text>Making Properties Nonenumerable</text>
+              </navLabel>
+              <content src="ch09s08.html#nonenumerableprops"/>
+            </navPoint>
+            <navPoint id="id3582882" playOrder="230">
+              <navLabel>
+                <text>Defining Immutable Classes</text>
+              </navLabel>
+              <content src="ch09s08.html#immutableclasses"/>
+            </navPoint>
+            <navPoint id="id3583237" playOrder="231">
+              <navLabel>
+                <text>Encapsulating Object State</text>
+              </navLabel>
+              <content src="ch09s08.html#encapsulation"/>
+            </navPoint>
+            <navPoint id="id3583415" playOrder="232">
+              <navLabel>
+                <text>Preventing Class Extensions</text>
+              </navLabel>
+              <content src="ch09s08.html#id3583415"/>
+            </navPoint>
+            <navPoint id="id3583748" playOrder="233">
+              <navLabel>
+                <text>Subclasses and ECMAScript 5</text>
+              </navLabel>
+              <content src="ch09s08.html#id3583748"/>
+            </navPoint>
+            <navPoint id="id3583931" playOrder="234">
+              <navLabel>
+                <text>Property Descriptors</text>
+              </navLabel>
+              <content src="ch09s08.html#id3583931"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3584248" playOrder="235">
+            <navLabel>
+              <text>Modules</text>
+            </navLabel>
+            <content src="ch09s09.html"/>
+            <navPoint id="id3584425" playOrder="236">
+              <navLabel>
+                <text>Objects As Namespaces</text>
+              </navLabel>
+              <content src="ch09s09.html#id3584425"/>
+            </navPoint>
+            <navPoint id="id3584713" playOrder="237">
+              <navLabel>
+                <text>Function Scope As a Private Namespace</text>
+              </navLabel>
+              <content src="ch09s09.html#id3584713"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id3585076" playOrder="238">
+          <navLabel>
+            <text>10. Pattern Matching with Regular Expressions</text>
+          </navLabel>
+          <content src="ch10.html"/>
+          <navPoint id="id3585238" playOrder="239">
+            <navLabel>
+              <text>Defining Regular Expressions</text>
+            </navLabel>
+            <content src="ch10.html#I_sect19_d1e23369"/>
+            <navPoint id="id3585501" playOrder="240">
+              <navLabel>
+                <text>Literal Characters</text>
+              </navLabel>
+              <content src="ch10.html#id3585501"/>
+            </navPoint>
+            <navPoint id="id3585952" playOrder="241">
+              <navLabel>
+                <text>Character Classes</text>
+              </navLabel>
+              <content src="ch10.html#id3585952"/>
+            </navPoint>
+            <navPoint id="id3586474" playOrder="242">
+              <navLabel>
+                <text>Repetition</text>
+              </navLabel>
+              <content src="ch10.html#id3586474"/>
+              <navPoint id="id3586879" playOrder="243">
+                <navLabel>
+                  <text>Nongreedy repetition</text>
+                </navLabel>
+                <content src="ch10.html#id3586879"/>
+              </navPoint>
+            </navPoint>
+            <navPoint id="id3587024" playOrder="244">
+              <navLabel>
+                <text>Alternation, Grouping, and References</text>
+              </navLabel>
+              <content src="ch10.html#id3587024"/>
+            </navPoint>
+            <navPoint id="id3587624" playOrder="245">
+              <navLabel>
+                <text>Specifying Match Position</text>
+              </navLabel>
+              <content src="ch10.html#id3587624"/>
+            </navPoint>
+            <navPoint id="id3588245" playOrder="246">
+              <navLabel>
+                <text>Flags</text>
+              </navLabel>
+              <content src="ch10.html#id3588245"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3588542" playOrder="247">
+            <navLabel>
+              <text>String Methods for Pattern Matching</text>
+            </navLabel>
+            <content src="ch10s02.html"/>
+          </navPoint>
+          <navPoint id="id3589221" playOrder="248">
+            <navLabel>
+              <text>The RegExp Object</text>
+            </navLabel>
+            <content src="ch10s03.html"/>
+            <navPoint id="id3589374" playOrder="249">
+              <navLabel>
+                <text>RegExp Properties</text>
+              </navLabel>
+              <content src="ch10s03.html#id3589374"/>
+            </navPoint>
+            <navPoint id="id3589513" playOrder="250">
+              <navLabel>
+                <text>RegExp Methods</text>
+              </navLabel>
+              <content src="ch10s03.html#id3589513"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id3590000" playOrder="251">
+          <navLabel>
+            <text>11. JavaScript Subsets and Extensions</text>
+          </navLabel>
+          <content src="ch11.html"/>
+          <navPoint id="id3590214" playOrder="252">
+            <navLabel>
+              <text>JavaScript Subsets</text>
+            </navLabel>
+            <content src="ch11.html#subsets"/>
+            <navPoint id="id3590230" playOrder="253">
+              <navLabel>
+                <text>The Good Parts</text>
+              </navLabel>
+              <content src="ch11.html#id3590230"/>
+            </navPoint>
+            <navPoint id="id3590436" playOrder="254">
+              <navLabel>
+                <text>Subsets for Security</text>
+              </navLabel>
+              <content src="ch11.html#id3590436"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3591440" playOrder="255">
+            <navLabel>
+              <text>Constants and Scoped Variables</text>
+            </navLabel>
+            <content src="ch11s02.html"/>
+          </navPoint>
+          <navPoint id="id3592319" playOrder="256">
+            <navLabel>
+              <text>Destructuring Assignment</text>
+            </navLabel>
+            <content src="ch11s03.html"/>
+          </navPoint>
+          <navPoint id="id3592748" playOrder="257">
+            <navLabel>
+              <text>Iteration</text>
+            </navLabel>
+            <content src="ch11s04.html"/>
+            <navPoint id="id3592802" playOrder="258">
+              <navLabel>
+                <text>The for/each Loop</text>
+              </navLabel>
+              <content src="ch11s04.html#foreachloop"/>
+            </navPoint>
+            <navPoint id="id3593083" playOrder="259">
+              <navLabel>
+                <text>Iterators</text>
+              </navLabel>
+              <content src="ch11s04.html#id3593083"/>
+            </navPoint>
+            <navPoint id="id3593785" playOrder="260">
+              <navLabel>
+                <text>Generators</text>
+              </navLabel>
+              <content src="ch11s04.html#id3593785"/>
+            </navPoint>
+            <navPoint id="id3594662" playOrder="261">
+              <navLabel>
+                <text>Array Comprehensions</text>
+              </navLabel>
+              <content src="ch11s04.html#id3594662"/>
+            </navPoint>
+            <navPoint id="id3595164" playOrder="262">
+              <navLabel>
+                <text>Generator Expressions</text>
+              </navLabel>
+              <content src="ch11s04.html#id3595164"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3595408" playOrder="263">
+            <navLabel>
+              <text>Shorthand Functions</text>
+            </navLabel>
+            <content src="ch11s05.html"/>
+          </navPoint>
+          <navPoint id="id3595571" playOrder="264">
+            <navLabel>
+              <text>Multiple Catch Clauses</text>
+            </navLabel>
+            <content src="ch11s06.html"/>
+          </navPoint>
+          <navPoint id="id3595688" playOrder="265">
+            <navLabel>
+              <text>E4X: ECMAScript for XML</text>
+            </navLabel>
+            <content src="ch11s07.html"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id3596557" playOrder="266">
+          <navLabel>
+            <text>12. Server-Side JavaScript</text>
+          </navLabel>
+          <content src="ch12.html"/>
+          <navPoint id="id3596673" playOrder="267">
+            <navLabel>
+              <text>Scripting Java with Rhino</text>
+            </navLabel>
+            <content src="ch12.html#rhino"/>
+            <navPoint id="id3597660" playOrder="268">
+              <navLabel>
+                <text>Rhino Example</text>
+              </navLabel>
+              <content src="ch12.html#id3597660"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3598001" playOrder="269">
+            <navLabel>
+              <text>Asynchronous I/O with Node</text>
+            </navLabel>
+            <content src="ch12s02.html"/>
+            <navPoint id="id3599210" playOrder="270">
+              <navLabel>
+                <text>Node Example: HTTP Server</text>
+              </navLabel>
+              <content src="ch12s02.html#id3599210"/>
+            </navPoint>
+            <navPoint id="id3599407" playOrder="271">
+              <navLabel>
+                <text>Node Example: HTTP Client Utilities Module</text>
+              </navLabel>
+              <content src="ch12s02.html#id3599407"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id3599782" playOrder="272">
+        <navLabel>
+          <text>II. Client-Side JavaScript</text>
+        </navLabel>
+        <content src="pt02.html"/>
+        <navPoint id="id3599925" playOrder="273">
+          <navLabel>
+            <text>13. JavaScript in Web Browsers</text>
+          </navLabel>
+          <content src="ch13.html"/>
+          <navPoint id="id3600016" playOrder="274">
+            <navLabel>
+              <text>Client-Side JavaScript</text>
+            </navLabel>
+            <content src="ch13.html#I_sect11_d1e28115"/>
+            <navPoint id="id3600694" playOrder="275">
+              <navLabel>
+                <text>JavaScript in Web Documents</text>
+              </navLabel>
+              <content src="ch13.html#id3600694"/>
+            </navPoint>
+            <navPoint id="id3600862" playOrder="276">
+              <navLabel>
+                <text>JavaScript in Web Applications</text>
+              </navLabel>
+              <content src="ch13.html#id3600862"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3601118" playOrder="277">
+            <navLabel>
+              <text>Embedding JavaScript in HTML</text>
+            </navLabel>
+            <content src="ch13s02.html"/>
+            <navPoint id="id3601317" playOrder="278">
+              <navLabel>
+                <text>The &lt;script&gt; Element</text>
+              </navLabel>
+              <content src="ch13s02.html#id3601317"/>
+            </navPoint>
+            <navPoint id="id3601520" playOrder="279">
+              <navLabel>
+                <text>Scripts in External Files</text>
+              </navLabel>
+              <content src="ch13s02.html#browsers-SECT-2.2"/>
+            </navPoint>
+            <navPoint id="id3601897" playOrder="280">
+              <navLabel>
+                <text>Script Type</text>
+              </navLabel>
+              <content src="ch13s02.html#scripttype"/>
+            </navPoint>
+            <navPoint id="id3602197" playOrder="281">
+              <navLabel>
+                <text>Event Handlers in HTML</text>
+              </navLabel>
+              <content src="ch13s02.html#id3602197"/>
+            </navPoint>
+            <navPoint id="id3602411" playOrder="282">
+              <navLabel>
+                <text>JavaScript in URLs</text>
+              </navLabel>
+              <content src="ch13s02.html#id3602411"/>
+              <navPoint id="id3602956" playOrder="283">
+                <navLabel>
+                  <text>Bookmarklets</text>
+                </navLabel>
+                <content src="ch13s02.html#bookmarklets"/>
+              </navPoint>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3603163" playOrder="284">
+            <navLabel>
+              <text>Execution of JavaScript Programs</text>
+            </navLabel>
+            <content src="ch13s03.html"/>
+            <navPoint id="id3603437" playOrder="285">
+              <navLabel>
+                <text>Synchronous, Asynchronous, and Deferred Scripts</text>
+              </navLabel>
+              <content src="ch13s03.html#asyncdefer"/>
+            </navPoint>
+            <navPoint id="id3603950" playOrder="286">
+              <navLabel>
+                <text>Event-Driven JavaScript</text>
+              </navLabel>
+              <content src="ch13s03.html#eventdriven"/>
+            </navPoint>
+            <navPoint id="id3604614" playOrder="287">
+              <navLabel>
+                <text>Client-Side JavaScript Threading Model</text>
+              </navLabel>
+              <content src="ch13s03.html#threading"/>
+            </navPoint>
+            <navPoint id="id3604818" playOrder="288">
+              <navLabel>
+                <text>Client-Side JavaScript Timeline</text>
+              </navLabel>
+              <content src="ch13s03.html#timeline"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3605292" playOrder="289">
+            <navLabel>
+              <text>Compatibility and Interoperability</text>
+            </navLabel>
+            <content src="ch13s04.html"/>
+            <navPoint id="id3606084" playOrder="290">
+              <navLabel>
+                <text>Compatibility Libraries</text>
+              </navLabel>
+              <content src="ch13s04.html#id3606084"/>
+            </navPoint>
+            <navPoint id="id3606460" playOrder="291">
+              <navLabel>
+                <text>Graded Browser Support</text>
+              </navLabel>
+              <content src="ch13s04.html#id3606460"/>
+            </navPoint>
+            <navPoint id="id3606561" playOrder="292">
+              <navLabel>
+                <text>Feature Testing</text>
+              </navLabel>
+              <content src="ch13s04.html#featuretesting"/>
+            </navPoint>
+            <navPoint id="id3606678" playOrder="293">
+              <navLabel>
+                <text>Quirks Mode and Standards Mode</text>
+              </navLabel>
+              <content src="ch13s04.html#quirksmode"/>
+            </navPoint>
+            <navPoint id="id3606870" playOrder="294">
+              <navLabel>
+                <text>Browser Testing</text>
+              </navLabel>
+              <content src="ch13s04.html#browsertesting"/>
+            </navPoint>
+            <navPoint id="id3606998" playOrder="295">
+              <navLabel>
+                <text>Conditional Comments in Internet Explorer</text>
+              </navLabel>
+              <content src="ch13s04.html#id3606998"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3607318" playOrder="296">
+            <navLabel>
+              <text>Accessibility</text>
+            </navLabel>
+            <content src="ch13s05.html"/>
+          </navPoint>
+          <navPoint id="id3607583" playOrder="297">
+            <navLabel>
+              <text>Security</text>
+            </navLabel>
+            <content src="ch13s06.html"/>
+            <navPoint id="id3607714" playOrder="298">
+              <navLabel>
+                <text>What JavaScript Can’t Do</text>
+              </navLabel>
+              <content src="ch13s06.html#id3607714"/>
+            </navPoint>
+            <navPoint id="id3607960" playOrder="299">
+              <navLabel>
+                <text>The Same-Origin Policy</text>
+              </navLabel>
+              <content src="ch13s06.html#sameoriginpolicy"/>
+              <navPoint id="id3608201" playOrder="300">
+                <navLabel>
+                  <text>Relaxing the same-origin policy</text>
+                </navLabel>
+                <content src="ch13s06.html#relaxingsameoriginpolicy"/>
+              </navPoint>
+            </navPoint>
+            <navPoint id="id3608538" playOrder="301">
+              <navLabel>
+                <text>Scripting Plug-ins and ActiveX Controls</text>
+              </navLabel>
+              <content src="ch13s06.html#id3608538"/>
+            </navPoint>
+            <navPoint id="id3608653" playOrder="302">
+              <navLabel>
+                <text>Cross-Site Scripting</text>
+              </navLabel>
+              <content src="ch13s06.html#id3608653"/>
+            </navPoint>
+            <navPoint id="id3609061" playOrder="303">
+              <navLabel>
+                <text>Denial-of-Service Attacks</text>
+              </navLabel>
+              <content src="ch13s06.html#id3609061"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3609190" playOrder="304">
+            <navLabel>
+              <text>Client-Side Frameworks</text>
+            </navLabel>
+            <content src="ch13s07.html"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id3609541" playOrder="305">
+          <navLabel>
+            <text>14. The Window Object</text>
+          </navLabel>
+          <content src="ch14.html"/>
+          <navPoint id="id3609737" playOrder="306">
+            <navLabel>
+              <text>Timers</text>
+            </navLabel>
+            <content src="ch14.html#timers"/>
+          </navPoint>
+          <navPoint id="id3610120" playOrder="307">
+            <navLabel>
+              <text>Browser Location and Navigation</text>
+            </navLabel>
+            <content src="ch14s02.html"/>
+            <navPoint id="id3610311" playOrder="308">
+              <navLabel>
+                <text>Parsing URLs</text>
+              </navLabel>
+              <content src="ch14s02.html#id3610311"/>
+            </navPoint>
+            <navPoint id="id3610824" playOrder="309">
+              <navLabel>
+                <text>Loading New Documents</text>
+              </navLabel>
+              <content src="ch14s02.html#id3610824"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3611132" playOrder="310">
+            <navLabel>
+              <text>Browsing History</text>
+            </navLabel>
+            <content src="ch14s03.html"/>
+          </navPoint>
+          <navPoint id="id3611566" playOrder="311">
+            <navLabel>
+              <text>Browser and Screen Information</text>
+            </navLabel>
+            <content src="ch14s04.html"/>
+            <navPoint id="id3611629" playOrder="312">
+              <navLabel>
+                <text>The Navigator Object</text>
+              </navLabel>
+              <content src="ch14s04.html#id3611629"/>
+            </navPoint>
+            <navPoint id="id3612301" playOrder="313">
+              <navLabel>
+                <text>The Screen Object</text>
+              </navLabel>
+              <content src="ch14s04.html#id3612301"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3612418" playOrder="314">
+            <navLabel>
+              <text>Dialog Boxes</text>
+            </navLabel>
+            <content src="ch14s05.html"/>
+          </navPoint>
+          <navPoint id="id3612995" playOrder="315">
+            <navLabel>
+              <text>Error Handling</text>
+            </navLabel>
+            <content src="ch14s06.html"/>
+          </navPoint>
+          <navPoint id="id3613226" playOrder="316">
+            <navLabel>
+              <text>Document Elements As Window Properties</text>
+            </navLabel>
+            <content src="ch14s07.html"/>
+          </navPoint>
+          <navPoint id="id3613784" playOrder="317">
+            <navLabel>
+              <text>Multiple Windows and Frames</text>
+            </navLabel>
+            <content src="ch14s08.html"/>
+            <navPoint id="id3614017" playOrder="318">
+              <navLabel>
+                <text>Opening and Closing Windows</text>
+              </navLabel>
+              <content src="ch14s08.html#openingwindows"/>
+              <navPoint id="id3614634" playOrder="319">
+                <navLabel>
+                  <text>Closing windows</text>
+                </navLabel>
+                <content src="ch14s08.html#windowclose"/>
+              </navPoint>
+            </navPoint>
+            <navPoint id="id3614916" playOrder="320">
+              <navLabel>
+                <text>Relationships Between Frames</text>
+              </navLabel>
+              <content src="ch14s08.html#frames"/>
+            </navPoint>
+            <navPoint id="id3615724" playOrder="321">
+              <navLabel>
+                <text>JavaScript in Interacting Windows</text>
+              </navLabel>
+              <content src="ch14s08.html#interactingwindows"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id3616443" playOrder="322">
+          <navLabel>
+            <text>15. Scripting Documents</text>
+          </navLabel>
+          <content src="ch15.html"/>
+          <navPoint id="id3616616" playOrder="323">
+            <navLabel>
+              <text>Overview of the DOM</text>
+            </navLabel>
+            <content src="ch15.html#I_sect13_d1e33472"/>
+          </navPoint>
+          <navPoint id="id3617044" playOrder="324">
+            <navLabel>
+              <text>Selecting Document Elements</text>
+            </navLabel>
+            <content src="ch15s02.html"/>
+            <navPoint id="id3617177" playOrder="325">
+              <navLabel>
+                <text>Selecting Elements By ID</text>
+              </navLabel>
+              <content src="ch15s02.html#id3617177"/>
+            </navPoint>
+            <navPoint id="id3617379" playOrder="326">
+              <navLabel>
+                <text>Selecting Elements by Name</text>
+              </navLabel>
+              <content src="ch15s02.html#selectingbyname"/>
+            </navPoint>
+            <navPoint id="id3617764" playOrder="327">
+              <navLabel>
+                <text>Selecting Elements by Type</text>
+              </navLabel>
+              <content src="ch15s02.html#selectingbytype"/>
+            </navPoint>
+            <navPoint id="id3618707" playOrder="328">
+              <navLabel>
+                <text>Selecting Elements by CSS Class</text>
+              </navLabel>
+              <content src="ch15s02.html#id3618707"/>
+            </navPoint>
+            <navPoint id="id3619116" playOrder="329">
+              <navLabel>
+                <text>Selecting Elements with CSS Selectors</text>
+              </navLabel>
+              <content src="ch15s02.html#selectors"/>
+            </navPoint>
+            <navPoint id="id3619667" playOrder="330">
+              <navLabel>
+                <text>document.all[]</text>
+              </navLabel>
+              <content src="ch15s02.html#id3619667"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3619748" playOrder="331">
+            <navLabel>
+              <text>Document Structure and Traversal</text>
+            </navLabel>
+            <content src="ch15s03.html"/>
+            <navPoint id="id3619835" playOrder="332">
+              <navLabel>
+                <text>Documents As Trees of Nodes</text>
+              </navLabel>
+              <content src="ch15s03.html#treeofnodes"/>
+            </navPoint>
+            <navPoint id="id3620280" playOrder="333">
+              <navLabel>
+                <text>Documents As Trees of Elements</text>
+              </navLabel>
+              <content src="ch15s03.html#treeofelements"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3620952" playOrder="334">
+            <navLabel>
+              <text>Attributes</text>
+            </navLabel>
+            <content src="ch15s04.html"/>
+            <navPoint id="id3621094" playOrder="335">
+              <navLabel>
+                <text>HTML Attributes As Element Properties</text>
+              </navLabel>
+              <content src="ch15s04.html#attrsasprops"/>
+            </navPoint>
+            <navPoint id="id3621516" playOrder="336">
+              <navLabel>
+                <text>Getting and Setting Non-HTML Attributes</text>
+              </navLabel>
+              <content src="ch15s04.html#id3621516"/>
+            </navPoint>
+            <navPoint id="id3621805" playOrder="337">
+              <navLabel>
+                <text>Dataset Attributes</text>
+              </navLabel>
+              <content src="ch15s04.html#datasetattributes"/>
+            </navPoint>
+            <navPoint id="id3622215" playOrder="338">
+              <navLabel>
+                <text>Attributes As Attr Nodes</text>
+              </navLabel>
+              <content src="ch15s04.html#id3622215"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3622403" playOrder="339">
+            <navLabel>
+              <text>Element Content</text>
+            </navLabel>
+            <content src="ch15s05.html"/>
+            <navPoint id="id3622499" playOrder="340">
+              <navLabel>
+                <text>Element Content As HTML</text>
+              </navLabel>
+              <content src="ch15s05.html#innerandouterhtml"/>
+            </navPoint>
+            <navPoint id="id3622954" playOrder="341">
+              <navLabel>
+                <text>Element Content As Plain Text</text>
+              </navLabel>
+              <content src="ch15s05.html#plaintextcontent"/>
+            </navPoint>
+            <navPoint id="id3623310" playOrder="342">
+              <navLabel>
+                <text>Element Content As Text Nodes</text>
+              </navLabel>
+              <content src="ch15s05.html#id3623310"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3623562" playOrder="343">
+            <navLabel>
+              <text>Creating, Inserting, and Deleting Nodes</text>
+            </navLabel>
+            <content src="ch15s06.html"/>
+            <navPoint id="id3623682" playOrder="344">
+              <navLabel>
+                <text>Creating Nodes</text>
+              </navLabel>
+              <content src="ch15s06.html#id3623682"/>
+            </navPoint>
+            <navPoint id="id3624036" playOrder="345">
+              <navLabel>
+                <text>Inserting Nodes</text>
+              </navLabel>
+              <content src="ch15s06.html#id3624036"/>
+            </navPoint>
+            <navPoint id="id3624322" playOrder="346">
+              <navLabel>
+                <text>Removing and Replacing Nodes</text>
+              </navLabel>
+              <content src="ch15s06.html#id3624322"/>
+            </navPoint>
+            <navPoint id="id3624665" playOrder="347">
+              <navLabel>
+                <text>Using DocumentFragments</text>
+              </navLabel>
+              <content src="ch15s06.html#docfragments"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3625002" playOrder="348">
+            <navLabel>
+              <text>Example: Generating a Table of Contents</text>
+            </navLabel>
+            <content src="ch15s07.html"/>
+          </navPoint>
+          <navPoint id="id3625237" playOrder="349">
+            <navLabel>
+              <text>Document and Element Geometry and Scrolling</text>
+            </navLabel>
+            <content src="ch15s08.html"/>
+            <navPoint id="id3625426" playOrder="350">
+              <navLabel>
+                <text>Document Coordinates and Viewport Coordinates</text>
+              </navLabel>
+              <content src="ch15s08.html#id3625426"/>
+            </navPoint>
+            <navPoint id="id3625938" playOrder="351">
+              <navLabel>
+                <text>Querying the Geometry of an Element</text>
+              </navLabel>
+              <content src="ch15s08.html#getBoundingClientRect"/>
+            </navPoint>
+            <navPoint id="id3626425" playOrder="352">
+              <navLabel>
+                <text>Determining the Element at a Point</text>
+              </navLabel>
+              <content src="ch15s08.html#id3626425"/>
+            </navPoint>
+            <navPoint id="id3626569" playOrder="353">
+              <navLabel>
+                <text>Scrolling</text>
+              </navLabel>
+              <content src="ch15s08.html#id3626569"/>
+            </navPoint>
+            <navPoint id="id3626861" playOrder="354">
+              <navLabel>
+                <text>More on Element Size, Position and Overflow</text>
+              </navLabel>
+              <content src="ch15s08.html#moreonelementsize"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3627726" playOrder="355">
+            <navLabel>
+              <text>HTML Forms</text>
+            </navLabel>
+            <content src="ch15s09.html"/>
+            <navPoint id="id3628418" playOrder="356">
+              <navLabel>
+                <text>Selecting Forms and Form Elements</text>
+              </navLabel>
+              <content src="ch15s09.html#selectingforms"/>
+            </navPoint>
+            <navPoint id="id3628910" playOrder="357">
+              <navLabel>
+                <text>Form and Element Properties</text>
+              </navLabel>
+              <content src="ch15s09.html#id3628910"/>
+            </navPoint>
+            <navPoint id="id3629430" playOrder="358">
+              <navLabel>
+                <text>Form and Element Event Handlers</text>
+              </navLabel>
+              <content src="ch15s09.html#formevents"/>
+            </navPoint>
+            <navPoint id="id3629792" playOrder="359">
+              <navLabel>
+                <text>Push Buttons</text>
+              </navLabel>
+              <content src="ch15s09.html#id3629792"/>
+            </navPoint>
+            <navPoint id="id3629988" playOrder="360">
+              <navLabel>
+                <text>Toggle Buttons</text>
+              </navLabel>
+              <content src="ch15s09.html#id3629988"/>
+            </navPoint>
+            <navPoint id="id3630196" playOrder="361">
+              <navLabel>
+                <text>Text Fields</text>
+              </navLabel>
+              <content src="ch15s09.html#id3630196"/>
+            </navPoint>
+            <navPoint id="id3630499" playOrder="362">
+              <navLabel>
+                <text>Select and Option Elements</text>
+              </navLabel>
+              <content src="ch15s09.html#id3630499"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3630932" playOrder="363">
+            <navLabel>
+              <text>Other Document Features</text>
+            </navLabel>
+            <content src="ch15s10.html"/>
+            <navPoint id="id3630949" playOrder="364">
+              <navLabel>
+                <text>Document Properties</text>
+              </navLabel>
+              <content src="ch15s10.html#id3630949"/>
+            </navPoint>
+            <navPoint id="id3631369" playOrder="365">
+              <navLabel>
+                <text>The document.write() Method</text>
+              </navLabel>
+              <content src="ch15s10.html#dynamicdoccontent"/>
+            </navPoint>
+            <navPoint id="id3631776" playOrder="366">
+              <navLabel>
+                <text>Querying Selected Text</text>
+              </navLabel>
+              <content src="ch15s10.html#id3631776"/>
+            </navPoint>
+            <navPoint id="id3632146" playOrder="367">
+              <navLabel>
+                <text>Editable Content</text>
+              </navLabel>
+              <content src="ch15s10.html#editablecontent"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id3632904" playOrder="368">
+          <navLabel>
+            <text>16. Scripting CSS</text>
+          </navLabel>
+          <content src="ch16.html"/>
+          <navPoint id="id3633051" playOrder="369">
+            <navLabel>
+              <text>Overview of CSS</text>
+            </navLabel>
+            <content src="ch16.html#I_sect14_d1e39000"/>
+            <navPoint id="id3633502" playOrder="370">
+              <navLabel>
+                <text>The Cascade</text>
+              </navLabel>
+              <content src="ch16.html#id3633502"/>
+            </navPoint>
+            <navPoint id="id3633644" playOrder="371">
+              <navLabel>
+                <text>CSS History</text>
+              </navLabel>
+              <content src="ch16.html#id3633644"/>
+            </navPoint>
+            <navPoint id="id3633696" playOrder="372">
+              <navLabel>
+                <text>Shortcut Properties</text>
+              </navLabel>
+              <content src="ch16.html#id3633696"/>
+            </navPoint>
+            <navPoint id="id3633911" playOrder="373">
+              <navLabel>
+                <text>Nonstandard Properties</text>
+              </navLabel>
+              <content src="ch16.html#id3633911"/>
+            </navPoint>
+            <navPoint id="id3634042" playOrder="374">
+              <navLabel>
+                <text>CSS Example</text>
+              </navLabel>
+              <content src="ch16.html#id3634042"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3634345" playOrder="375">
+            <navLabel>
+              <text>Important CSS Properties</text>
+            </navLabel>
+            <content src="ch16s02.html"/>
+            <navPoint id="id3634699" playOrder="376">
+              <navLabel>
+                <text>Positioning Elements with CSS</text>
+              </navLabel>
+              <content src="ch16s02.html#csspositioning"/>
+              <navPoint id="id3635482" playOrder="377">
+                <navLabel>
+                  <text>The third dimension: z-index</text>
+                </navLabel>
+                <content src="ch16s02.html#z-index"/>
+              </navPoint>
+              <navPoint id="id3635650" playOrder="378">
+                <navLabel>
+                  <text>CSS positioning example: Shadowed text</text>
+                </navLabel>
+                <content src="ch16s02.html#id3635650"/>
+              </navPoint>
+            </navPoint>
+            <navPoint id="id3635784" playOrder="379">
+              <navLabel>
+                <text>Borders, Margins and Padding</text>
+              </navLabel>
+              <content src="ch16s02.html#id3635784"/>
+            </navPoint>
+            <navPoint id="id3636025" playOrder="380">
+              <navLabel>
+                <text>The CSS Box Model and Positioning Details</text>
+              </navLabel>
+              <content src="ch16s02.html#id3636025"/>
+              <navPoint id="id3636460" playOrder="381">
+                <navLabel>
+                  <text>The border-box model and the box-sizing property</text>
+                </navLabel>
+                <content src="ch16s02.html#boxsizing"/>
+              </navPoint>
+            </navPoint>
+            <navPoint id="id3636754" playOrder="382">
+              <navLabel>
+                <text>Element Display and Visibility</text>
+              </navLabel>
+              <content src="ch16s02.html#id3636754"/>
+            </navPoint>
+            <navPoint id="id3636994" playOrder="383">
+              <navLabel>
+                <text>Color, Transparency, and Translucency</text>
+              </navLabel>
+              <content src="ch16s02.html#id3636994"/>
+            </navPoint>
+            <navPoint id="id3637479" playOrder="384">
+              <navLabel>
+                <text>Partial Visibility: overflow and clip</text>
+              </navLabel>
+              <content src="ch16s02.html#overflowandclip"/>
+            </navPoint>
+            <navPoint id="id3637858" playOrder="385">
+              <navLabel>
+                <text>Example: Overlapping Translucent Windows</text>
+              </navLabel>
+              <content src="ch16s02.html#id3637858"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3638135" playOrder="386">
+            <navLabel>
+              <text>Scripting Inline Styles</text>
+            </navLabel>
+            <content src="ch16s03.html"/>
+            <navPoint id="id3638916" playOrder="387">
+              <navLabel>
+                <text>CSS Animations</text>
+              </navLabel>
+              <content src="ch16s03.html#cssanimations"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3639559" playOrder="388">
+            <navLabel>
+              <text>Querying Computed Styles</text>
+            </navLabel>
+            <content src="ch16s04.html"/>
+          </navPoint>
+          <navPoint id="id3640113" playOrder="389">
+            <navLabel>
+              <text>Scripting CSS Classes</text>
+            </navLabel>
+            <content src="ch16s05.html"/>
+          </navPoint>
+          <navPoint id="id3640600" playOrder="390">
+            <navLabel>
+              <text>Scripting Stylesheets</text>
+            </navLabel>
+            <content src="ch16s06.html"/>
+            <navPoint id="id3640865" playOrder="391">
+              <navLabel>
+                <text>Enabling and Disabling Stylesheets</text>
+              </navLabel>
+              <content src="ch16s06.html#id3640865"/>
+            </navPoint>
+            <navPoint id="id3641022" playOrder="392">
+              <navLabel>
+                <text>Querying, Inserting and Deleting Stylesheet Rules</text>
+              </navLabel>
+              <content src="ch16s06.html#id3641022"/>
+            </navPoint>
+            <navPoint id="id3641520" playOrder="393">
+              <navLabel>
+                <text>Creating New Stylesheets</text>
+              </navLabel>
+              <content src="ch16s06.html#id3641520"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id3641742" playOrder="394">
+          <navLabel>
+            <text>17. Handling Events</text>
+          </navLabel>
+          <content src="ch17.html"/>
+          <navPoint id="id3642430" playOrder="395">
+            <navLabel>
+              <text>Types of Events</text>
+            </navLabel>
+            <content src="ch17.html#eventtypes"/>
+            <navPoint id="id3642946" playOrder="396">
+              <navLabel>
+                <text>Legacy Event Types</text>
+              </navLabel>
+              <content src="ch17.html#legacyeventypes"/>
+              <navPoint id="id3642995" playOrder="397">
+                <navLabel>
+                  <text>Form events</text>
+                </navLabel>
+                <content src="ch17.html#id3642995"/>
+              </navPoint>
+              <navPoint id="id3643188" playOrder="398">
+                <navLabel>
+                  <text>Window events</text>
+                </navLabel>
+                <content src="ch17.html#id3643188"/>
+              </navPoint>
+              <navPoint id="id3643464" playOrder="399">
+                <navLabel>
+                  <text>Mouse events</text>
+                </navLabel>
+                <content src="ch17.html#id3643464"/>
+              </navPoint>
+              <navPoint id="id3643916" playOrder="400">
+                <navLabel>
+                  <text>Key events</text>
+                </navLabel>
+                <content src="ch17.html#id3643916"/>
+              </navPoint>
+            </navPoint>
+            <navPoint id="id3644112" playOrder="401">
+              <navLabel>
+                <text>DOM Events</text>
+              </navLabel>
+              <content src="ch17.html#domeventtypes"/>
+            </navPoint>
+            <navPoint id="id3644623" playOrder="402">
+              <navLabel>
+                <text>HTML5 Events</text>
+              </navLabel>
+              <content src="ch17.html#html5eventtypes"/>
+            </navPoint>
+            <navPoint id="id3645326" playOrder="403">
+              <navLabel>
+                <text>Touchscreen and Mobile Events</text>
+              </navLabel>
+              <content src="ch17.html#mobileeventtypes"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3645674" playOrder="404">
+            <navLabel>
+              <text>Registering Event Handlers</text>
+            </navLabel>
+            <content src="ch17s02.html"/>
+            <navPoint id="id3645776" playOrder="405">
+              <navLabel>
+                <text>Setting Event Handler Properties</text>
+              </navLabel>
+              <content src="ch17s02.html#id3645776"/>
+            </navPoint>
+            <navPoint id="id3645919" playOrder="406">
+              <navLabel>
+                <text>Setting Event Handler Attributes</text>
+              </navLabel>
+              <content src="ch17s02.html#htmleventhandlers"/>
+            </navPoint>
+            <navPoint id="id3646200" playOrder="407">
+              <navLabel>
+                <text>addEventListener()</text>
+              </navLabel>
+              <content src="ch17s02.html#addEventListener"/>
+            </navPoint>
+            <navPoint id="id3646541" playOrder="408">
+              <navLabel>
+                <text>attachEvent()</text>
+              </navLabel>
+              <content src="ch17s02.html#attachevent"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3646778" playOrder="409">
+            <navLabel>
+              <text>Event Handler Invocation</text>
+            </navLabel>
+            <content src="ch17s03.html"/>
+            <navPoint id="id3646892" playOrder="410">
+              <navLabel>
+                <text>Event Handler Argument</text>
+              </navLabel>
+              <content src="ch17s03.html#id3646892"/>
+            </navPoint>
+            <navPoint id="id3647047" playOrder="411">
+              <navLabel>
+                <text>Event Handler Context</text>
+              </navLabel>
+              <content src="ch17s03.html#id3647047"/>
+            </navPoint>
+            <navPoint id="id3647223" playOrder="412">
+              <navLabel>
+                <text>Event Handler Scope</text>
+              </navLabel>
+              <content src="ch17s03.html#id3647223"/>
+            </navPoint>
+            <navPoint id="id3647461" playOrder="413">
+              <navLabel>
+                <text>Handler Return Value</text>
+              </navLabel>
+              <content src="ch17s03.html#handlerreturnvalue"/>
+            </navPoint>
+            <navPoint id="id3647638" playOrder="414">
+              <navLabel>
+                <text>Invocation Order</text>
+              </navLabel>
+              <content src="ch17s03.html#id3647638"/>
+            </navPoint>
+            <navPoint id="id3647733" playOrder="415">
+              <navLabel>
+                <text>Event Propagation</text>
+              </navLabel>
+              <content src="ch17s03.html#eventpropagation"/>
+            </navPoint>
+            <navPoint id="id3648033" playOrder="416">
+              <navLabel>
+                <text>Event Cancellation</text>
+              </navLabel>
+              <content src="ch17s03.html#eventcancellation"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3648517" playOrder="417">
+            <navLabel>
+              <text>Document Load Events</text>
+            </navLabel>
+            <content src="ch17s04.html"/>
+          </navPoint>
+          <navPoint id="id3648951" playOrder="418">
+            <navLabel>
+              <text>Mouse Events</text>
+            </navLabel>
+            <content src="ch17s05.html"/>
+          </navPoint>
+          <navPoint id="id3649916" playOrder="419">
+            <navLabel>
+              <text>Mousewheel Events</text>
+            </navLabel>
+            <content src="ch17s06.html"/>
+          </navPoint>
+          <navPoint id="id3650667" playOrder="420">
+            <navLabel>
+              <text>Drag and Drop Events</text>
+            </navLabel>
+            <content src="ch17s07.html"/>
+          </navPoint>
+          <navPoint id="id3651785" playOrder="421">
+            <navLabel>
+              <text>Text Events</text>
+            </navLabel>
+            <content src="ch17s08.html"/>
+          </navPoint>
+          <navPoint id="id3652523" playOrder="422">
+            <navLabel>
+              <text>Keyboard Events</text>
+            </navLabel>
+            <content src="ch17s09.html"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id3653440" playOrder="423">
+          <navLabel>
+            <text>18. Scripted HTTP</text>
+          </navLabel>
+          <content src="ch18.html"/>
+          <navPoint id="id3654140" playOrder="424">
+            <navLabel>
+              <text>Using XMLHttpRequest</text>
+            </navLabel>
+            <content src="ch18.html#xhr"/>
+            <navPoint id="id3654537" playOrder="425">
+              <navLabel>
+                <text>Specifying the Request</text>
+              </navLabel>
+              <content src="ch18.html#id3654537"/>
+            </navPoint>
+            <navPoint id="id3655152" playOrder="426">
+              <navLabel>
+                <text>Retrieving the Response</text>
+              </navLabel>
+              <content src="ch18.html#id3655152"/>
+              <navPoint id="id3655816" playOrder="427">
+                <navLabel>
+                  <text>Synchronous responses</text>
+                </navLabel>
+                <content src="ch18.html#synchronousrequests"/>
+              </navPoint>
+              <navPoint id="id3655951" playOrder="428">
+                <navLabel>
+                  <text>Decoding the response</text>
+                </navLabel>
+                <content src="ch18.html#decodingtheresponse"/>
+              </navPoint>
+            </navPoint>
+            <navPoint id="id3656571" playOrder="429">
+              <navLabel>
+                <text>Encoding the Request Body</text>
+              </navLabel>
+              <content src="ch18.html#id3656571"/>
+              <navPoint id="id3656648" playOrder="430">
+                <navLabel>
+                  <text>Form-encoded requests</text>
+                </navLabel>
+                <content src="ch18.html#id3656648"/>
+              </navPoint>
+              <navPoint id="id3657111" playOrder="431">
+                <navLabel>
+                  <text>JSON-encoded requests</text>
+                </navLabel>
+                <content src="ch18.html#id3657111"/>
+              </navPoint>
+              <navPoint id="id3657217" playOrder="432">
+                <navLabel>
+                  <text>XML-encoded requests</text>
+                </navLabel>
+                <content src="ch18.html#id3657217"/>
+              </navPoint>
+              <navPoint id="id3657432" playOrder="433">
+                <navLabel>
+                  <text>Uploading a file</text>
+                </navLabel>
+                <content src="ch18.html#id3657432"/>
+              </navPoint>
+              <navPoint id="id3657755" playOrder="434">
+                <navLabel>
+                  <text>multipart/form-data requests</text>
+                </navLabel>
+                <content src="ch18.html#id3657755"/>
+              </navPoint>
+            </navPoint>
+            <navPoint id="id3657968" playOrder="435">
+              <navLabel>
+                <text>HTTP Progress Events</text>
+              </navLabel>
+              <content src="ch18.html#progressevents"/>
+              <navPoint id="id3658403" playOrder="436">
+                <navLabel>
+                  <text>Upload progress events</text>
+                </navLabel>
+                <content src="ch18.html#id3658403"/>
+              </navPoint>
+            </navPoint>
+            <navPoint id="id3658710" playOrder="437">
+              <navLabel>
+                <text>Aborting Requests and Timeouts</text>
+              </navLabel>
+              <content src="ch18.html#httpabortandtimeout"/>
+            </navPoint>
+            <navPoint id="id3659034" playOrder="438">
+              <navLabel>
+                <text>Cross-Origin HTTP Requests</text>
+              </navLabel>
+              <content src="ch18.html#crossoriginhttp"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3659489" playOrder="439">
+            <navLabel>
+              <text>HTTP by &lt;script&gt;: JSONP</text>
+            </navLabel>
+            <content src="ch18s02.html"/>
+          </navPoint>
+          <navPoint id="id3660000" playOrder="440">
+            <navLabel>
+              <text>Comet with Server-Sent Events</text>
+            </navLabel>
+            <content src="ch18s03.html"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id3661034" playOrder="441">
+          <navLabel>
+            <text>19. The jQuery Library</text>
+          </navLabel>
+          <content src="ch19.html"/>
+          <navPoint id="id3661274" playOrder="442">
+            <navLabel>
+              <text>jQuery Basics</text>
+            </navLabel>
+            <content src="ch19.html#I_sect17_d1e47330"/>
+            <navPoint id="id3661592" playOrder="443">
+              <navLabel>
+                <text>The jQuery() Function</text>
+              </navLabel>
+              <content src="ch19.html#jqueryfunc"/>
+            </navPoint>
+            <navPoint id="id3662452" playOrder="444">
+              <navLabel>
+                <text>Queries and Query Results</text>
+              </navLabel>
+              <content src="ch19.html#jqueryresults"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3663374" playOrder="445">
+            <navLabel>
+              <text>jQuery Getters and Setters</text>
+            </navLabel>
+            <content src="ch19s02.html"/>
+            <navPoint id="id3663556" playOrder="446">
+              <navLabel>
+                <text>Getting and Setting HTML Attributes</text>
+              </navLabel>
+              <content src="ch19s02.html#id3663556"/>
+            </navPoint>
+            <navPoint id="id3663639" playOrder="447">
+              <navLabel>
+                <text>Getting and Setting CSS Attributes</text>
+              </navLabel>
+              <content src="ch19s02.html#id3663639"/>
+            </navPoint>
+            <navPoint id="id3663853" playOrder="448">
+              <navLabel>
+                <text>Getting and Setting CSS Classes</text>
+              </navLabel>
+              <content src="ch19s02.html#id3663853"/>
+            </navPoint>
+            <navPoint id="id3664199" playOrder="449">
+              <navLabel>
+                <text>Getting and Setting HTML Form Values</text>
+              </navLabel>
+              <content src="ch19s02.html#id3664199"/>
+            </navPoint>
+            <navPoint id="id3664301" playOrder="450">
+              <navLabel>
+                <text>Getting and Setting Element Content</text>
+              </navLabel>
+              <content src="ch19s02.html#jquerycontent"/>
+            </navPoint>
+            <navPoint id="id3664487" playOrder="451">
+              <navLabel>
+                <text>Getting and Setting Element Geometry</text>
+              </navLabel>
+              <content src="ch19s02.html#id3664487"/>
+            </navPoint>
+            <navPoint id="id3665147" playOrder="452">
+              <navLabel>
+                <text>Getting and Setting Element Data</text>
+              </navLabel>
+              <content src="ch19s02.html#jquerydata"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3665495" playOrder="453">
+            <navLabel>
+              <text>Altering Document Structure</text>
+            </navLabel>
+            <content src="ch19s03.html"/>
+            <navPoint id="id3665578" playOrder="454">
+              <navLabel>
+                <text>Inserting and Replacing Elements</text>
+              </navLabel>
+              <content src="ch19s03.html#id3665578"/>
+            </navPoint>
+            <navPoint id="id3666080" playOrder="455">
+              <navLabel>
+                <text>Copying Elements</text>
+              </navLabel>
+              <content src="ch19s03.html#id3666080"/>
+            </navPoint>
+            <navPoint id="id3666184" playOrder="456">
+              <navLabel>
+                <text>Wrapping Elements</text>
+              </navLabel>
+              <content src="ch19s03.html#id3666184"/>
+            </navPoint>
+            <navPoint id="id3666276" playOrder="457">
+              <navLabel>
+                <text>Deleting Elements</text>
+              </navLabel>
+              <content src="ch19s03.html#id3666276"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3666524" playOrder="458">
+            <navLabel>
+              <text>Handling Events with jQuery</text>
+            </navLabel>
+            <content src="ch19s04.html"/>
+            <navPoint id="id3666581" playOrder="459">
+              <navLabel>
+                <text>Simple Event Handler Registration</text>
+              </navLabel>
+              <content src="ch19s04.html#jquerysimplereg"/>
+            </navPoint>
+            <navPoint id="id3667209" playOrder="460">
+              <navLabel>
+                <text>jQuery Event Handlers</text>
+              </navLabel>
+              <content src="ch19s04.html#id3667209"/>
+            </navPoint>
+            <navPoint id="id3667374" playOrder="461">
+              <navLabel>
+                <text>The jQuery Event Object</text>
+              </navLabel>
+              <content src="ch19s04.html#jqueryeventobject"/>
+            </navPoint>
+            <navPoint id="id3668060" playOrder="462">
+              <navLabel>
+                <text>Advanced Event Handler Registration</text>
+              </navLabel>
+              <content src="ch19s04.html#jqueryadvancedregistration"/>
+            </navPoint>
+            <navPoint id="id3668498" playOrder="463">
+              <navLabel>
+                <text>Deregistering Event Handlers</text>
+              </navLabel>
+              <content src="ch19s04.html#id3668498"/>
+            </navPoint>
+            <navPoint id="id3668814" playOrder="464">
+              <navLabel>
+                <text>Triggering Events</text>
+              </navLabel>
+              <content src="ch19s04.html#jquerytriggeringevents"/>
+            </navPoint>
+            <navPoint id="id3669435" playOrder="465">
+              <navLabel>
+                <text>Custom Events</text>
+              </navLabel>
+              <content src="ch19s04.html#id3669435"/>
+            </navPoint>
+            <navPoint id="id3669556" playOrder="466">
+              <navLabel>
+                <text>Live Events</text>
+              </navLabel>
+              <content src="ch19s04.html#id3669556"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3670146" playOrder="467">
+            <navLabel>
+              <text>Animated Effects</text>
+            </navLabel>
+            <content src="ch19s05.html"/>
+            <navPoint id="id3670651" playOrder="468">
+              <navLabel>
+                <text>Simple Effects</text>
+              </navLabel>
+              <content src="ch19s05.html#jqueryeffects"/>
+            </navPoint>
+            <navPoint id="id3671147" playOrder="469">
+              <navLabel>
+                <text>Custom Animations</text>
+              </navLabel>
+              <content src="ch19s05.html#jquerycustomanimations"/>
+              <navPoint id="id3671293" playOrder="470">
+                <navLabel>
+                  <text>The animation properties object</text>
+                </navLabel>
+                <content src="ch19s05.html#id3671293"/>
+              </navPoint>
+              <navPoint id="id3671490" playOrder="471">
+                <navLabel>
+                  <text>The animation options object</text>
+                </navLabel>
+                <content src="ch19s05.html#jqueryanimationoptions"/>
+              </navPoint>
+            </navPoint>
+            <navPoint id="id3671957" playOrder="472">
+              <navLabel>
+                <text>Canceling, Delaying, and Queuing Effects</text>
+              </navLabel>
+              <content src="ch19s05.html#id3671957"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3672447" playOrder="473">
+            <navLabel>
+              <text>Ajax with jQuery</text>
+            </navLabel>
+            <content src="ch19s06.html"/>
+            <navPoint id="id3672527" playOrder="474">
+              <navLabel>
+                <text>The load() Method</text>
+              </navLabel>
+              <content src="ch19s06.html#jqueryajaxload"/>
+            </navPoint>
+            <navPoint id="id3673016" playOrder="475">
+              <navLabel>
+                <text>Ajax Utility Functions</text>
+              </navLabel>
+              <content src="ch19s06.html#id3673016"/>
+              <navPoint id="id3673116" playOrder="476">
+                <navLabel>
+                  <text>jQuery.getScript()</text>
+                </navLabel>
+                <content src="ch19s06.html#id3673116"/>
+              </navPoint>
+              <navPoint id="id3673303" playOrder="477">
+                <navLabel>
+                  <text>jQuery.getJSON()</text>
+                </navLabel>
+                <content src="ch19s06.html#jquerygetjson"/>
+              </navPoint>
+              <navPoint id="id3673821" playOrder="478">
+                <navLabel>
+                  <text>jQuery.get() and jQuery.post()</text>
+                </navLabel>
+                <content src="ch19s06.html#jquerygetandpost"/>
+              </navPoint>
+            </navPoint>
+            <navPoint id="id3674412" playOrder="479">
+              <navLabel>
+                <text>The jQuery.ajax() Function</text>
+              </navLabel>
+              <content src="ch19s06.html#jqueryajaxajax"/>
+              <navPoint id="id3674753" playOrder="480">
+                <navLabel>
+                  <text>Common Options</text>
+                </navLabel>
+                <content src="ch19s06.html#jquerycommonajaxopts"/>
+              </navPoint>
+              <navPoint id="id3675244" playOrder="481">
+                <navLabel>
+                  <text>Callbacks</text>
+                </navLabel>
+                <content src="ch19s06.html#jqueryajaxcallbacks"/>
+              </navPoint>
+              <navPoint id="id3675702" playOrder="482">
+                <navLabel>
+                  <text>Uncommon options and hooks</text>
+                </navLabel>
+                <content src="ch19s06.html#jqueryuncommonajax"/>
+              </navPoint>
+            </navPoint>
+            <navPoint id="id3676186" playOrder="483">
+              <navLabel>
+                <text>Ajax Events</text>
+              </navLabel>
+              <content src="ch19s06.html#jqueryajaxevents"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3676676" playOrder="484">
+            <navLabel>
+              <text>Utility Functions</text>
+            </navLabel>
+            <content src="ch19s07.html"/>
+          </navPoint>
+          <navPoint id="id3677912" playOrder="485">
+            <navLabel>
+              <text>jQuery Selectors and Selection Methods</text>
+            </navLabel>
+            <content src="ch19s08.html"/>
+            <navPoint id="id3677941" playOrder="486">
+              <navLabel>
+                <text>jQuery Selectors</text>
+              </navLabel>
+              <content src="ch19s08.html#jqueryselectors"/>
+              <navPoint id="id3678062" playOrder="487">
+                <navLabel>
+                  <text>Simple selectors</text>
+                </navLabel>
+                <content src="ch19s08.html#id3678062"/>
+              </navPoint>
+              <navPoint id="id3679937" playOrder="488">
+                <navLabel>
+                  <text>Selector combinations</text>
+                </navLabel>
+                <content src="ch19s08.html#id3679937"/>
+              </navPoint>
+              <navPoint id="id3680165" playOrder="489">
+                <navLabel>
+                  <text>Selector groups</text>
+                </navLabel>
+                <content src="ch19s08.html#id3680165"/>
+              </navPoint>
+            </navPoint>
+            <navPoint id="id3680259" playOrder="490">
+              <navLabel>
+                <text>Selection Methods</text>
+              </navLabel>
+              <content src="ch19s08.html#jqueryselectionmethods"/>
+              <navPoint id="id3680809" playOrder="491">
+                <navLabel>
+                  <text>Using a selection as context</text>
+                </navLabel>
+                <content src="ch19s08.html#id3680809"/>
+              </navPoint>
+              <navPoint id="id3681357" playOrder="492">
+                <navLabel>
+                  <text>Reverting to a previous selection</text>
+                </navLabel>
+                <content src="ch19s08.html#id3681357"/>
+              </navPoint>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3681638" playOrder="493">
+            <navLabel>
+              <text>Extending jQuery with Plug-ins</text>
+            </navLabel>
+            <content src="ch19s09.html"/>
+          </navPoint>
+          <navPoint id="id3682353" playOrder="494">
+            <navLabel>
+              <text>The jQuery UI Library</text>
+            </navLabel>
+            <content src="ch19s10.html"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id3682654" playOrder="495">
+          <navLabel>
+            <text>20. Client-Side Storage</text>
+          </navLabel>
+          <content src="ch20.html"/>
+          <navPoint id="id3683228" playOrder="496">
+            <navLabel>
+              <text>localStorage and sessionStorage</text>
+            </navLabel>
+            <content src="ch20.html#storageapi"/>
+            <navPoint id="id3683437" playOrder="497">
+              <navLabel>
+                <text>Storage Lifetime and Scope</text>
+              </navLabel>
+              <content src="ch20.html#storagelifetimescope"/>
+            </navPoint>
+            <navPoint id="id3683762" playOrder="498">
+              <navLabel>
+                <text>Storage API</text>
+              </navLabel>
+              <content src="ch20.html#storagemethods"/>
+            </navPoint>
+            <navPoint id="id3684053" playOrder="499">
+              <navLabel>
+                <text>Storage Events</text>
+              </navLabel>
+              <content src="ch20.html#storageevents"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3684388" playOrder="500">
+            <navLabel>
+              <text>Cookies</text>
+            </navLabel>
+            <content src="ch20s02.html"/>
+            <navPoint id="id3684650" playOrder="501">
+              <navLabel>
+                <text>Cookie Attributes: Lifetime and Scope</text>
+              </navLabel>
+              <content src="ch20s02.html#id3684650"/>
+            </navPoint>
+            <navPoint id="id3685000" playOrder="502">
+              <navLabel>
+                <text>Storing Cookies</text>
+              </navLabel>
+              <content src="ch20s02.html#id3685000"/>
+            </navPoint>
+            <navPoint id="id3685301" playOrder="503">
+              <navLabel>
+                <text>Reading Cookies</text>
+              </navLabel>
+              <content src="ch20s02.html#id3685301"/>
+            </navPoint>
+            <navPoint id="id3685489" playOrder="504">
+              <navLabel>
+                <text>Cookie Limitations</text>
+              </navLabel>
+              <content src="ch20s02.html#id3685489"/>
+            </navPoint>
+            <navPoint id="id3685526" playOrder="505">
+              <navLabel>
+                <text>Storage with Cookies</text>
+              </navLabel>
+              <content src="ch20s02.html#id3685526"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3685701" playOrder="506">
+            <navLabel>
+              <text>IE userData Persistence</text>
+            </navLabel>
+            <content src="ch20s03.html"/>
+          </navPoint>
+          <navPoint id="id3686115" playOrder="507">
+            <navLabel>
+              <text>Application Storage and Offline Webapps</text>
+            </navLabel>
+            <content src="ch20s04.html"/>
+            <navPoint id="id3686331" playOrder="508">
+              <navLabel>
+                <text>The Application Cache Manifest</text>
+              </navLabel>
+              <content src="ch20s04.html#id3686331"/>
+              <navPoint id="id3686573" playOrder="509">
+                <navLabel>
+                  <text>Complex manifests</text>
+                </navLabel>
+                <content src="ch20s04.html#id3686573"/>
+              </navPoint>
+            </navPoint>
+            <navPoint id="id3686744" playOrder="510">
+              <navLabel>
+                <text>Cache Updates</text>
+              </navLabel>
+              <content src="ch20s04.html#cacheupdates"/>
+            </navPoint>
+            <navPoint id="id3687636" playOrder="511">
+              <navLabel>
+                <text>Offline Web Applications</text>
+              </navLabel>
+              <content src="ch20s04.html#permanote"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id3688439" playOrder="512">
+          <navLabel>
+            <text>21. Scripted Media and Graphics</text>
+          </navLabel>
+          <content src="ch21.html"/>
+          <navPoint id="id3688559" playOrder="513">
+            <navLabel>
+              <text>Scripting Images</text>
+            </navLabel>
+            <content src="ch21.html#scriptingimages"/>
+            <navPoint id="id3688813" playOrder="514">
+              <navLabel>
+                <text>Unobtrusive Image Rollovers</text>
+              </navLabel>
+              <content src="ch21.html#id3688813"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3688996" playOrder="515">
+            <navLabel>
+              <text>Scripting Audio and Video</text>
+            </navLabel>
+            <content src="ch21s02.html"/>
+            <navPoint id="id3689458" playOrder="516">
+              <navLabel>
+                <text>Type Selection and Loading</text>
+              </navLabel>
+              <content src="ch21s02.html#id3689458"/>
+            </navPoint>
+            <navPoint id="id3689621" playOrder="517">
+              <navLabel>
+                <text>Controlling Media Playback</text>
+              </navLabel>
+              <content src="ch21s02.html#id3689621"/>
+            </navPoint>
+            <navPoint id="id3690177" playOrder="518">
+              <navLabel>
+                <text>Querying Media Status</text>
+              </navLabel>
+              <content src="ch21s02.html#id3690177"/>
+            </navPoint>
+            <navPoint id="id3691231" playOrder="519">
+              <navLabel>
+                <text>Media Events</text>
+              </navLabel>
+              <content src="ch21s02.html#id3691231"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3692066" playOrder="520">
+            <navLabel>
+              <text>SVG: Scalable Vector Graphics</text>
+            </navLabel>
+            <content src="ch21s03.html"/>
+          </navPoint>
+          <navPoint id="id3693182" playOrder="521">
+            <navLabel>
+              <text>Graphics in a &lt;canvas&gt;</text>
+            </navLabel>
+            <content src="ch21s04.html"/>
+            <navPoint id="id3693960" playOrder="522">
+              <navLabel>
+                <text>Drawing Lines and Filling Polygons</text>
+              </navLabel>
+              <content src="ch21s04.html#canvaspaths"/>
+            </navPoint>
+            <navPoint id="id3694685" playOrder="523">
+              <navLabel>
+                <text>Graphics Attributes</text>
+              </navLabel>
+              <content src="ch21s04.html#canvasattributes"/>
+            </navPoint>
+            <navPoint id="id3695382" playOrder="524">
+              <navLabel>
+                <text>Canvas Dimensions and Coordinates</text>
+              </navLabel>
+              <content src="ch21s04.html#canvasdimensions"/>
+            </navPoint>
+            <navPoint id="id3695620" playOrder="525">
+              <navLabel>
+                <text>Coordinate System Transforms</text>
+              </navLabel>
+              <content src="ch21s04.html#canvastransforms"/>
+              <navPoint id="id3695904" playOrder="526">
+                <navLabel>
+                  <text>Understanding transformations mathematically</text>
+                </navLabel>
+                <content src="ch21s04.html#id3695904"/>
+              </navPoint>
+              <navPoint id="id3696311" playOrder="527">
+                <navLabel>
+                  <text>Transformation example</text>
+                </navLabel>
+                <content src="ch21s04.html#id3696311"/>
+              </navPoint>
+            </navPoint>
+            <navPoint id="id3696533" playOrder="528">
+              <navLabel>
+                <text>Drawing and Filling Curves</text>
+              </navLabel>
+              <content src="ch21s04.html#canvascurves"/>
+            </navPoint>
+            <navPoint id="id3696989" playOrder="529">
+              <navLabel>
+                <text>Rectangles</text>
+              </navLabel>
+              <content src="ch21s04.html#canvasrects"/>
+            </navPoint>
+            <navPoint id="id3697205" playOrder="530">
+              <navLabel>
+                <text>Colors, Transparency, Gradients, and Patterns</text>
+              </navLabel>
+              <content src="ch21s04.html#canvaspaint"/>
+            </navPoint>
+            <navPoint id="id3698111" playOrder="531">
+              <navLabel>
+                <text>Line Drawing Attributes</text>
+              </navLabel>
+              <content src="ch21s04.html#canvaslines"/>
+            </navPoint>
+            <navPoint id="id3698625" playOrder="532">
+              <navLabel>
+                <text>Text</text>
+              </navLabel>
+              <content src="ch21s04.html#canvastext"/>
+            </navPoint>
+            <navPoint id="id3699070" playOrder="533">
+              <navLabel>
+                <text>Clipping</text>
+              </navLabel>
+              <content src="ch21s04.html#canvasclipping"/>
+            </navPoint>
+            <navPoint id="id3699332" playOrder="534">
+              <navLabel>
+                <text>Shadows</text>
+              </navLabel>
+              <content src="ch21s04.html#canvasshadows"/>
+            </navPoint>
+            <navPoint id="id3699681" playOrder="535">
+              <navLabel>
+                <text>Images</text>
+              </navLabel>
+              <content src="ch21s04.html#canvasimages"/>
+            </navPoint>
+            <navPoint id="id3700286" playOrder="536">
+              <navLabel>
+                <text>Compositing</text>
+              </navLabel>
+              <content src="ch21s04.html#canvascompositing"/>
+            </navPoint>
+            <navPoint id="id3700973" playOrder="537">
+              <navLabel>
+                <text>Pixel Manipulation</text>
+              </navLabel>
+              <content src="ch21s04.html#canvaspixels"/>
+            </navPoint>
+            <navPoint id="id3701361" playOrder="538">
+              <navLabel>
+                <text>Hit Detection</text>
+              </navLabel>
+              <content src="ch21s04.html#canvashitdetection"/>
+            </navPoint>
+            <navPoint id="id3701737" playOrder="539">
+              <navLabel>
+                <text>Canvas Example: Sparklines</text>
+              </navLabel>
+              <content src="ch21s04.html#id3701737"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+        <navPoint id="id3702072" playOrder="540">
+          <navLabel>
+            <text>22. HTML5 APIs</text>
+          </navLabel>
+          <content src="ch22.html"/>
+          <navPoint id="id3702379" playOrder="541">
+            <navLabel>
+              <text>Geolocation</text>
+            </navLabel>
+            <content src="ch22.html#geolocation"/>
+          </navPoint>
+          <navPoint id="id3702959" playOrder="542">
+            <navLabel>
+              <text>History Management</text>
+            </navLabel>
+            <content src="ch22s02.html"/>
+          </navPoint>
+          <navPoint id="id3703956" playOrder="543">
+            <navLabel>
+              <text>Cross-Origin Messaging</text>
+            </navLabel>
+            <content src="ch22s03.html"/>
+          </navPoint>
+          <navPoint id="id3704736" playOrder="544">
+            <navLabel>
+              <text>Web Workers</text>
+            </navLabel>
+            <content src="ch22s04.html"/>
+            <navPoint id="id3704963" playOrder="545">
+              <navLabel>
+                <text>Worker Objects</text>
+              </navLabel>
+              <content src="ch22s04.html#id3704963"/>
+            </navPoint>
+            <navPoint id="id3705286" playOrder="546">
+              <navLabel>
+                <text>Worker Scope</text>
+              </navLabel>
+              <content src="ch22s04.html#id3705286"/>
+            </navPoint>
+            <navPoint id="id3706304" playOrder="547">
+              <navLabel>
+                <text>Web Worker Examples</text>
+              </navLabel>
+              <content src="ch22s04.html#id3706304"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3706887" playOrder="548">
+            <navLabel>
+              <text>Typed Arrays and ArrayBuffers</text>
+            </navLabel>
+            <content src="ch22s05.html"/>
+          </navPoint>
+          <navPoint id="id3708087" playOrder="549">
+            <navLabel>
+              <text>Blobs</text>
+            </navLabel>
+            <content src="ch22s06.html"/>
+            <navPoint id="id3708540" playOrder="550">
+              <navLabel>
+                <text>Files As Blobs</text>
+              </navLabel>
+              <content src="ch22s06.html#fileblobs"/>
+            </navPoint>
+            <navPoint id="id3708810" playOrder="551">
+              <navLabel>
+                <text>Downloading Blobs</text>
+              </navLabel>
+              <content src="ch22s06.html#downloadingblobs"/>
+            </navPoint>
+            <navPoint id="id3708923" playOrder="552">
+              <navLabel>
+                <text>Building Blobs</text>
+              </navLabel>
+              <content src="ch22s06.html#buildingblobs"/>
+            </navPoint>
+            <navPoint id="id3709032" playOrder="553">
+              <navLabel>
+                <text>Blob URLs</text>
+              </navLabel>
+              <content src="ch22s06.html#bloburls"/>
+            </navPoint>
+            <navPoint id="id3709635" playOrder="554">
+              <navLabel>
+                <text>Reading Blobs</text>
+              </navLabel>
+              <content src="ch22s06.html#readingblobs"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="id3710261" playOrder="555">
+            <navLabel>
+              <text>The Filesystem API</text>
+            </navLabel>
+            <content src="ch22s07.html"/>
+          </navPoint>
+          <navPoint id="id3711001" playOrder="556">
+            <navLabel>
+              <text>Client-Side Databases</text>
+            </navLabel>
+            <content src="ch22s08.html"/>
+          </navPoint>
+          <navPoint id="id3712082" playOrder="557">
+            <navLabel>
+              <text>Web Sockets</text>
+            </navLabel>
+            <content src="ch22s09.html"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id3712754" playOrder="558">
+        <navLabel>
+          <text>III. Core JavaScript Reference</text>
+        </navLabel>
+        <content src="pt03.html"/>
+        <navPoint id="id3713038" playOrder="559">
+          <navLabel>
+            <text>I. Core JavaScript Reference</text>
+          </navLabel>
+          <content src="rn01.html"/>
+          <navPoint id="id3713048" playOrder="560">
+            <navLabel>
+              <text>arguments[ ]</text>
+            </navLabel>
+            <content src="rn01re01.html"/>
+          </navPoint>
+          <navPoint id="id3713161" playOrder="561">
+            <navLabel>
+              <text>Arguments</text>
+            </navLabel>
+            <content src="rn01re02.html"/>
+          </navPoint>
+          <navPoint id="id3713399" playOrder="562">
+            <navLabel>
+              <text>Arguments.callee</text>
+            </navLabel>
+            <content src="rn01re03.html"/>
+          </navPoint>
+          <navPoint id="id3713499" playOrder="563">
+            <navLabel>
+              <text>Arguments.length</text>
+            </navLabel>
+            <content src="rn01re04.html"/>
+          </navPoint>
+          <navPoint id="id3713644" playOrder="564">
+            <navLabel>
+              <text>Array</text>
+            </navLabel>
+            <content src="rn01re05.html"/>
+          </navPoint>
+          <navPoint id="id3714482" playOrder="565">
+            <navLabel>
+              <text>Array.concat()</text>
+            </navLabel>
+            <content src="rn01re06.html"/>
+          </navPoint>
+          <navPoint id="id3714672" playOrder="566">
+            <navLabel>
+              <text>Array.every()</text>
+            </navLabel>
+            <content src="rn01re07.html"/>
+          </navPoint>
+          <navPoint id="id3715038" playOrder="567">
+            <navLabel>
+              <text>Array.filter()</text>
+            </navLabel>
+            <content src="rn01re08.html"/>
+          </navPoint>
+          <navPoint id="id3715378" playOrder="568">
+            <navLabel>
+              <text>Array.forEach()</text>
+            </navLabel>
+            <content src="rn01re09.html"/>
+          </navPoint>
+          <navPoint id="id3715741" playOrder="569">
+            <navLabel>
+              <text>Array.indexOf()</text>
+            </navLabel>
+            <content src="rn01re10.html"/>
+          </navPoint>
+          <navPoint id="id3715971" playOrder="570">
+            <navLabel>
+              <text>Array.join()</text>
+            </navLabel>
+            <content src="rn01re11.html"/>
+          </navPoint>
+          <navPoint id="id3716168" playOrder="571">
+            <navLabel>
+              <text>Array.lastIndexOf()</text>
+            </navLabel>
+            <content src="rn01re12.html"/>
+          </navPoint>
+          <navPoint id="id3716382" playOrder="572">
+            <navLabel>
+              <text>Array.length</text>
+            </navLabel>
+            <content src="rn01re13.html"/>
+          </navPoint>
+          <navPoint id="id3716547" playOrder="573">
+            <navLabel>
+              <text>Array.map()</text>
+            </navLabel>
+            <content src="rn01re14.html"/>
+          </navPoint>
+          <navPoint id="id3716848" playOrder="574">
+            <navLabel>
+              <text>Array.pop()</text>
+            </navLabel>
+            <content src="rn01re15.html"/>
+          </navPoint>
+          <navPoint id="id3717009" playOrder="575">
+            <navLabel>
+              <text>Array.push()</text>
+            </navLabel>
+            <content src="rn01re16.html"/>
+          </navPoint>
+          <navPoint id="id3717177" playOrder="576">
+            <navLabel>
+              <text>Array.reduce()</text>
+            </navLabel>
+            <content src="rn01re17.html"/>
+          </navPoint>
+          <navPoint id="id3717638" playOrder="577">
+            <navLabel>
+              <text>Array.reduceRight()</text>
+            </navLabel>
+            <content src="rn01re18.html"/>
+          </navPoint>
+          <navPoint id="id3717884" playOrder="578">
+            <navLabel>
+              <text>Array.reverse()</text>
+            </navLabel>
+            <content src="rn01re19.html"/>
+          </navPoint>
+          <navPoint id="id3717998" playOrder="579">
+            <navLabel>
+              <text>Array.shift()</text>
+            </navLabel>
+            <content src="rn01re20.html"/>
+          </navPoint>
+          <navPoint id="id3718178" playOrder="580">
+            <navLabel>
+              <text>Array.slice()</text>
+            </navLabel>
+            <content src="rn01re21.html"/>
+          </navPoint>
+          <navPoint id="id3718442" playOrder="581">
+            <navLabel>
+              <text>Array.some()</text>
+            </navLabel>
+            <content src="rn01re22.html"/>
+          </navPoint>
+          <navPoint id="id3718772" playOrder="582">
+            <navLabel>
+              <text>Array.sort()</text>
+            </navLabel>
+            <content src="rn01re23.html"/>
+          </navPoint>
+          <navPoint id="id3719023" playOrder="583">
+            <navLabel>
+              <text>Array.splice()</text>
+            </navLabel>
+            <content src="rn01re24.html"/>
+          </navPoint>
+          <navPoint id="id3719276" playOrder="584">
+            <navLabel>
+              <text>Array.toLocaleString()</text>
+            </navLabel>
+            <content src="rn01re25.html"/>
+          </navPoint>
+          <navPoint id="id3719440" playOrder="585">
+            <navLabel>
+              <text>Array.toString()</text>
+            </navLabel>
+            <content src="rn01re26.html"/>
+          </navPoint>
+          <navPoint id="id3719633" playOrder="586">
+            <navLabel>
+              <text>Array.unshift()</text>
+            </navLabel>
+            <content src="rn01re27.html"/>
+          </navPoint>
+          <navPoint id="id3719840" playOrder="587">
+            <navLabel>
+              <text>Boolean</text>
+            </navLabel>
+            <content src="rn01re28.html"/>
+          </navPoint>
+          <navPoint id="id3720110" playOrder="588">
+            <navLabel>
+              <text>Boolean.toString()</text>
+            </navLabel>
+            <content src="rn01re29.html"/>
+          </navPoint>
+          <navPoint id="id3720230" playOrder="589">
+            <navLabel>
+              <text>Boolean.valueOf()</text>
+            </navLabel>
+            <content src="rn01re30.html"/>
+          </navPoint>
+          <navPoint id="id3720346" playOrder="590">
+            <navLabel>
+              <text>Date</text>
+            </navLabel>
+            <content src="rn01re31.html"/>
+          </navPoint>
+          <navPoint id="id3721794" playOrder="591">
+            <navLabel>
+              <text>Date.getDate()</text>
+            </navLabel>
+            <content src="rn01re32.html"/>
+          </navPoint>
+          <navPoint id="id3721876" playOrder="592">
+            <navLabel>
+              <text>Date.getDay()</text>
+            </navLabel>
+            <content src="rn01re33.html"/>
+          </navPoint>
+          <navPoint id="id3721958" playOrder="593">
+            <navLabel>
+              <text>Date.getFullYear()</text>
+            </navLabel>
+            <content src="rn01re34.html"/>
+          </navPoint>
+          <navPoint id="id3722041" playOrder="594">
+            <navLabel>
+              <text>Date.getHours()</text>
+            </navLabel>
+            <content src="rn01re35.html"/>
+          </navPoint>
+          <navPoint id="id3722123" playOrder="595">
+            <navLabel>
+              <text>Date.getMilliseconds()</text>
+            </navLabel>
+            <content src="rn01re36.html"/>
+          </navPoint>
+          <navPoint id="id3722204" playOrder="596">
+            <navLabel>
+              <text>Date.getMinutes()</text>
+            </navLabel>
+            <content src="rn01re37.html"/>
+          </navPoint>
+          <navPoint id="id3722289" playOrder="597">
+            <navLabel>
+              <text>Date.getMonth()</text>
+            </navLabel>
+            <content src="rn01re38.html"/>
+          </navPoint>
+          <navPoint id="id3722371" playOrder="598">
+            <navLabel>
+              <text>Date.getSeconds()</text>
+            </navLabel>
+            <content src="rn01re39.html"/>
+          </navPoint>
+          <navPoint id="id3722453" playOrder="599">
+            <navLabel>
+              <text>Date.getTime()</text>
+            </navLabel>
+            <content src="rn01re40.html"/>
+          </navPoint>
+          <navPoint id="id3722632" playOrder="600">
+            <navLabel>
+              <text>Date.getTimezoneOffset()</text>
+            </navLabel>
+            <content src="rn01re41.html"/>
+          </navPoint>
+          <navPoint id="id3722739" playOrder="601">
+            <navLabel>
+              <text>Date.getUTCDate()</text>
+            </navLabel>
+            <content src="rn01re42.html"/>
+          </navPoint>
+          <navPoint id="id3722822" playOrder="602">
+            <navLabel>
+              <text>Date.getUTCDay()</text>
+            </navLabel>
+            <content src="rn01re43.html"/>
+          </navPoint>
+          <navPoint id="id3722908" playOrder="603">
+            <navLabel>
+              <text>Date.getUTCFullYear()</text>
+            </navLabel>
+            <content src="rn01re44.html"/>
+          </navPoint>
+          <navPoint id="id3722993" playOrder="604">
+            <navLabel>
+              <text>Date.getUTCHours()</text>
+            </navLabel>
+            <content src="rn01re45.html"/>
+          </navPoint>
+          <navPoint id="id3723076" playOrder="605">
+            <navLabel>
+              <text>Date.getUTCMilliseconds()</text>
+            </navLabel>
+            <content src="rn01re46.html"/>
+          </navPoint>
+          <navPoint id="id3723158" playOrder="606">
+            <navLabel>
+              <text>Date.getUTCMinutes()</text>
+            </navLabel>
+            <content src="rn01re47.html"/>
+          </navPoint>
+          <navPoint id="id3723243" playOrder="607">
+            <navLabel>
+              <text>Date.getUTCMonth()</text>
+            </navLabel>
+            <content src="rn01re48.html"/>
+          </navPoint>
+          <navPoint id="id3723330" playOrder="608">
+            <navLabel>
+              <text>Date.getUTCSeconds()</text>
+            </navLabel>
+            <content src="rn01re49.html"/>
+          </navPoint>
+          <navPoint id="id3723412" playOrder="609">
+            <navLabel>
+              <text>Date.getYear()</text>
+            </navLabel>
+            <content src="rn01re50.html"/>
+          </navPoint>
+          <navPoint id="id3723518" playOrder="610">
+            <navLabel>
+              <text>Date.now()</text>
+            </navLabel>
+            <content src="rn01re51.html"/>
+          </navPoint>
+          <navPoint id="id3723645" playOrder="611">
+            <navLabel>
+              <text>Date.parse()</text>
+            </navLabel>
+            <content src="rn01re52.html"/>
+          </navPoint>
+          <navPoint id="id3723828" playOrder="612">
+            <navLabel>
+              <text>Date.setDate()</text>
+            </navLabel>
+            <content src="rn01re53.html"/>
+          </navPoint>
+          <navPoint id="id3723943" playOrder="613">
+            <navLabel>
+              <text>Date.setFullYear()</text>
+            </navLabel>
+            <content src="rn01re54.html"/>
+          </navPoint>
+          <navPoint id="id3724127" playOrder="614">
+            <navLabel>
+              <text>Date.setHours()</text>
+            </navLabel>
+            <content src="rn01re55.html"/>
+          </navPoint>
+          <navPoint id="id3724357" playOrder="615">
+            <navLabel>
+              <text>Date.setMilliseconds()</text>
+            </navLabel>
+            <content src="rn01re56.html"/>
+          </navPoint>
+          <navPoint id="id3724471" playOrder="616">
+            <navLabel>
+              <text>Date.setMinutes()</text>
+            </navLabel>
+            <content src="rn01re57.html"/>
+          </navPoint>
+          <navPoint id="id3724658" playOrder="617">
+            <navLabel>
+              <text>Date.setMonth()</text>
+            </navLabel>
+            <content src="rn01re58.html"/>
+          </navPoint>
+          <navPoint id="id3724809" playOrder="618">
+            <navLabel>
+              <text>Date.setSeconds()</text>
+            </navLabel>
+            <content src="rn01re59.html"/>
+          </navPoint>
+          <navPoint id="id3724958" playOrder="619">
+            <navLabel>
+              <text>Date.setTime()</text>
+            </navLabel>
+            <content src="rn01re60.html"/>
+          </navPoint>
+          <navPoint id="id3725099" playOrder="620">
+            <navLabel>
+              <text>Date.setUTCDate()</text>
+            </navLabel>
+            <content src="rn01re61.html"/>
+          </navPoint>
+          <navPoint id="id3725216" playOrder="621">
+            <navLabel>
+              <text>Date.setUTCFullYear()</text>
+            </navLabel>
+            <content src="rn01re62.html"/>
+          </navPoint>
+          <navPoint id="id3725403" playOrder="622">
+            <navLabel>
+              <text>Date.setUTCHours()</text>
+            </navLabel>
+            <content src="rn01re63.html"/>
+          </navPoint>
+          <navPoint id="id3725628" playOrder="623">
+            <navLabel>
+              <text>Date.setUTCMilliseconds()</text>
+            </navLabel>
+            <content src="rn01re64.html"/>
+          </navPoint>
+          <navPoint id="id3725742" playOrder="624">
+            <navLabel>
+              <text>Date.setUTCMinutes()</text>
+            </navLabel>
+            <content src="rn01re65.html"/>
+          </navPoint>
+          <navPoint id="id3725925" playOrder="625">
+            <navLabel>
+              <text>Date.setUTCMonth()</text>
+            </navLabel>
+            <content src="rn01re66.html"/>
+          </navPoint>
+          <navPoint id="id3726074" playOrder="626">
+            <navLabel>
+              <text>Date.setUTCSeconds()</text>
+            </navLabel>
+            <content src="rn01re67.html"/>
+          </navPoint>
+          <navPoint id="id3726221" playOrder="627">
+            <navLabel>
+              <text>Date.setYear()</text>
+            </navLabel>
+            <content src="rn01re68.html"/>
+          </navPoint>
+          <navPoint id="id3726367" playOrder="628">
+            <navLabel>
+              <text>Date.toDateString()</text>
+            </navLabel>
+            <content src="rn01re69.html"/>
+          </navPoint>
+          <navPoint id="id3726477" playOrder="629">
+            <navLabel>
+              <text>Date.toGMTString()</text>
+            </navLabel>
+            <content src="rn01re70.html"/>
+          </navPoint>
+          <navPoint id="id3726609" playOrder="630">
+            <navLabel>
+              <text>Date.toISOString()</text>
+            </navLabel>
+            <content src="rn01re71.html"/>
+          </navPoint>
+          <navPoint id="id3726723" playOrder="631">
+            <navLabel>
+              <text>Date.toJSON</text>
+            </navLabel>
+            <content src="rn01re72.html"/>
+          </navPoint>
+          <navPoint id="id3726888" playOrder="632">
+            <navLabel>
+              <text>Date.toLocaleDateString()</text>
+            </navLabel>
+            <content src="rn01re73.html"/>
+          </navPoint>
+          <navPoint id="id3727004" playOrder="633">
+            <navLabel>
+              <text>Date.toLocaleString()</text>
+            </navLabel>
+            <content src="rn01re74.html"/>
+          </navPoint>
+          <navPoint id="id3727149" playOrder="634">
+            <navLabel>
+              <text>Date.toLocaleTimeString()</text>
+            </navLabel>
+            <content src="rn01re75.html"/>
+          </navPoint>
+          <navPoint id="id3727265" playOrder="635">
+            <navLabel>
+              <text>Date.toString()</text>
+            </navLabel>
+            <content src="rn01re76.html"/>
+          </navPoint>
+          <navPoint id="id3727459" playOrder="636">
+            <navLabel>
+              <text>Date.toTimeString()</text>
+            </navLabel>
+            <content src="rn01re77.html"/>
+          </navPoint>
+          <navPoint id="id3727564" playOrder="637">
+            <navLabel>
+              <text>Date.toUTCString()</text>
+            </navLabel>
+            <content src="rn01re78.html"/>
+          </navPoint>
+          <navPoint id="id3727686" playOrder="638">
+            <navLabel>
+              <text>Date.UTC()</text>
+            </navLabel>
+            <content src="rn01re79.html"/>
+          </navPoint>
+          <navPoint id="id3728043" playOrder="639">
+            <navLabel>
+              <text>Date.valueOf()</text>
+            </navLabel>
+            <content src="rn01re80.html"/>
+          </navPoint>
+          <navPoint id="id3728163" playOrder="640">
+            <navLabel>
+              <text>decodeURI()</text>
+            </navLabel>
+            <content src="rn01re81.html"/>
+          </navPoint>
+          <navPoint id="id3728364" playOrder="641">
+            <navLabel>
+              <text>decodeURIComponent()</text>
+            </navLabel>
+            <content src="rn01re82.html"/>
+          </navPoint>
+          <navPoint id="id3728568" playOrder="642">
+            <navLabel>
+              <text>encodeURI()</text>
+            </navLabel>
+            <content src="rn01re83.html"/>
+          </navPoint>
+          <navPoint id="id3728886" playOrder="643">
+            <navLabel>
+              <text>encodeURIComponent()</text>
+            </navLabel>
+            <content src="rn01re84.html"/>
+          </navPoint>
+          <navPoint id="id3729142" playOrder="644">
+            <navLabel>
+              <text>Error</text>
+            </navLabel>
+            <content src="rn01re85.html"/>
+          </navPoint>
+          <navPoint id="id3729587" playOrder="645">
+            <navLabel>
+              <text>Error.message</text>
+            </navLabel>
+            <content src="rn01re86.html"/>
+          </navPoint>
+          <navPoint id="id3729702" playOrder="646">
+            <navLabel>
+              <text>Error.name</text>
+            </navLabel>
+            <content src="rn01re87.html"/>
+          </navPoint>
+          <navPoint id="id3729806" playOrder="647">
+            <navLabel>
+              <text>Error.toString()</text>
+            </navLabel>
+            <content src="rn01re88.html"/>
+          </navPoint>
+          <navPoint id="id3729907" playOrder="648">
+            <navLabel>
+              <text>escape()</text>
+            </navLabel>
+            <content src="rn01re89.html"/>
+          </navPoint>
+          <navPoint id="id3730171" playOrder="649">
+            <navLabel>
+              <text>eval()</text>
+            </navLabel>
+            <content src="rn01re90.html"/>
+          </navPoint>
+          <navPoint id="id3730669" playOrder="650">
+            <navLabel>
+              <text>EvalError</text>
+            </navLabel>
+            <content src="rn01re91.html"/>
+          </navPoint>
+          <navPoint id="id3730944" playOrder="651">
+            <navLabel>
+              <text>Function</text>
+            </navLabel>
+            <content src="rn01re92.html"/>
+          </navPoint>
+          <navPoint id="id3731450" playOrder="652">
+            <navLabel>
+              <text>Function.apply()</text>
+            </navLabel>
+            <content src="rn01re93.html"/>
+          </navPoint>
+          <navPoint id="id3731731" playOrder="653">
+            <navLabel>
+              <text>Function.arguments[]</text>
+            </navLabel>
+            <content src="rn01re94.html"/>
+          </navPoint>
+          <navPoint id="id3731848" playOrder="654">
+            <navLabel>
+              <text>Function.bind()</text>
+            </navLabel>
+            <content src="rn01re95.html"/>
+          </navPoint>
+          <navPoint id="id3732101" playOrder="655">
+            <navLabel>
+              <text>Function.call()</text>
+            </navLabel>
+            <content src="rn01re96.html"/>
+          </navPoint>
+          <navPoint id="id3732382" playOrder="656">
+            <navLabel>
+              <text>Function.caller</text>
+            </navLabel>
+            <content src="rn01re97.html"/>
+          </navPoint>
+          <navPoint id="id3732496" playOrder="657">
+            <navLabel>
+              <text>Function.length</text>
+            </navLabel>
+            <content src="rn01re98.html"/>
+          </navPoint>
+          <navPoint id="id3732614" playOrder="658">
+            <navLabel>
+              <text>Function.prototype</text>
+            </navLabel>
+            <content src="rn01re99.html"/>
+          </navPoint>
+          <navPoint id="id3732737" playOrder="659">
+            <navLabel>
+              <text>Function.toString()</text>
+            </navLabel>
+            <content src="rn01re100.html"/>
+          </navPoint>
+          <navPoint id="id3732916" playOrder="660">
+            <navLabel>
+              <text>Global</text>
+            </navLabel>
+            <content src="rn01re101.html"/>
+          </navPoint>
+          <navPoint id="id3733993" playOrder="661">
+            <navLabel>
+              <text>Infinity</text>
+            </navLabel>
+            <content src="rn01re102.html"/>
+          </navPoint>
+          <navPoint id="id3734111" playOrder="662">
+            <navLabel>
+              <text>isFinite()</text>
+            </navLabel>
+            <content src="rn01re103.html"/>
+          </navPoint>
+          <navPoint id="id3734267" playOrder="663">
+            <navLabel>
+              <text>isNaN()</text>
+            </navLabel>
+            <content src="rn01re104.html"/>
+          </navPoint>
+          <navPoint id="id3734564" playOrder="664">
+            <navLabel>
+              <text>JSON</text>
+            </navLabel>
+            <content src="rn01re105.html"/>
+          </navPoint>
+          <navPoint id="id3734735" playOrder="665">
+            <navLabel>
+              <text>JSON.parse()</text>
+            </navLabel>
+            <content src="rn01re106.html"/>
+          </navPoint>
+          <navPoint id="id3735058" playOrder="666">
+            <navLabel>
+              <text>JSON.stringify()</text>
+            </navLabel>
+            <content src="rn01re107.html"/>
+          </navPoint>
+          <navPoint id="id3735499" playOrder="667">
+            <navLabel>
+              <text>Math</text>
+            </navLabel>
+            <content src="rn01re108.html"/>
+          </navPoint>
+          <navPoint id="id3736182" playOrder="668">
+            <navLabel>
+              <text>Math.abs()</text>
+            </navLabel>
+            <content src="rn01re109.html"/>
+          </navPoint>
+          <navPoint id="id3736285" playOrder="669">
+            <navLabel>
+              <text>Math.acos()</text>
+            </navLabel>
+            <content src="rn01re110.html"/>
+          </navPoint>
+          <navPoint id="id3736390" playOrder="670">
+            <navLabel>
+              <text>Math.asin()</text>
+            </navLabel>
+            <content src="rn01re111.html"/>
+          </navPoint>
+          <navPoint id="id3736496" playOrder="671">
+            <navLabel>
+              <text>Math.atan()</text>
+            </navLabel>
+            <content src="rn01re112.html"/>
+          </navPoint>
+          <navPoint id="id3736601" playOrder="672">
+            <navLabel>
+              <text>Math.atan2()</text>
+            </navLabel>
+            <content src="rn01re113.html"/>
+          </navPoint>
+          <navPoint id="id3736778" playOrder="673">
+            <navLabel>
+              <text>Math.ceil()</text>
+            </navLabel>
+            <content src="rn01re114.html"/>
+          </navPoint>
+          <navPoint id="id3736942" playOrder="674">
+            <navLabel>
+              <text>Math.cos()</text>
+            </navLabel>
+            <content src="rn01re115.html"/>
+          </navPoint>
+          <navPoint id="id3737053" playOrder="675">
+            <navLabel>
+              <text>Math.E</text>
+            </navLabel>
+            <content src="rn01re116.html"/>
+          </navPoint>
+          <navPoint id="id3737121" playOrder="676">
+            <navLabel>
+              <text>Math.exp()</text>
+            </navLabel>
+            <content src="rn01re117.html"/>
+          </navPoint>
+          <navPoint id="id3737249" playOrder="677">
+            <navLabel>
+              <text>Math.floor()</text>
+            </navLabel>
+            <content src="rn01re118.html"/>
+          </navPoint>
+          <navPoint id="id3737416" playOrder="678">
+            <navLabel>
+              <text>Math.LN10</text>
+            </navLabel>
+            <content src="rn01re119.html"/>
+          </navPoint>
+          <navPoint id="id3737491" playOrder="679">
+            <navLabel>
+              <text>Math.LN2</text>
+            </navLabel>
+            <content src="rn01re120.html"/>
+          </navPoint>
+          <navPoint id="id3737566" playOrder="680">
+            <navLabel>
+              <text>Math.log()</text>
+            </navLabel>
+            <content src="rn01re121.html"/>
+          </navPoint>
+          <navPoint id="id3737763" playOrder="681">
+            <navLabel>
+              <text>Math.LOG10E</text>
+            </navLabel>
+            <content src="rn01re122.html"/>
+          </navPoint>
+          <navPoint id="id3737846" playOrder="682">
+            <navLabel>
+              <text>Math.LOG2E</text>
+            </navLabel>
+            <content src="rn01re123.html"/>
+          </navPoint>
+          <navPoint id="id3737928" playOrder="683">
+            <navLabel>
+              <text>Math.max()</text>
+            </navLabel>
+            <content src="rn01re124.html"/>
+          </navPoint>
+          <navPoint id="id3738047" playOrder="684">
+            <navLabel>
+              <text>Math.min()</text>
+            </navLabel>
+            <content src="rn01re125.html"/>
+          </navPoint>
+          <navPoint id="id3738167" playOrder="685">
+            <navLabel>
+              <text>Math.PI</text>
+            </navLabel>
+            <content src="rn01re126.html"/>
+          </navPoint>
+          <navPoint id="id3738237" playOrder="686">
+            <navLabel>
+              <text>Math.pow()</text>
+            </navLabel>
+            <content src="rn01re127.html"/>
+          </navPoint>
+          <navPoint id="id3738446" playOrder="687">
+            <navLabel>
+              <text>Math.random()</text>
+            </navLabel>
+            <content src="rn01re128.html"/>
+          </navPoint>
+          <navPoint id="id3738521" playOrder="688">
+            <navLabel>
+              <text>Math.round()</text>
+            </navLabel>
+            <content src="rn01re129.html"/>
+          </navPoint>
+          <navPoint id="id3738644" playOrder="689">
+            <navLabel>
+              <text>Math.sin()</text>
+            </navLabel>
+            <content src="rn01re130.html"/>
+          </navPoint>
+          <navPoint id="id3738752" playOrder="690">
+            <navLabel>
+              <text>Math.sqrt()</text>
+            </navLabel>
+            <content src="rn01re131.html"/>
+          </navPoint>
+          <navPoint id="id3738897" playOrder="691">
+            <navLabel>
+              <text>Math.SQRT1_2</text>
+            </navLabel>
+            <content src="rn01re132.html"/>
+          </navPoint>
+          <navPoint id="id3738964" playOrder="692">
+            <navLabel>
+              <text>Math.SQRT2</text>
+            </navLabel>
+            <content src="rn01re133.html"/>
+          </navPoint>
+          <navPoint id="id3739031" playOrder="693">
+            <navLabel>
+              <text>Math.tan()</text>
+            </navLabel>
+            <content src="rn01re134.html"/>
+          </navPoint>
+          <navPoint id="id3739151" playOrder="694">
+            <navLabel>
+              <text>NaN</text>
+            </navLabel>
+            <content src="rn01re135.html"/>
+          </navPoint>
+          <navPoint id="id3739274" playOrder="695">
+            <navLabel>
+              <text>Number</text>
+            </navLabel>
+            <content src="rn01re136.html"/>
+          </navPoint>
+          <navPoint id="id3739842" playOrder="696">
+            <navLabel>
+              <text>Number.MAX_VALUE</text>
+            </navLabel>
+            <content src="rn01re137.html"/>
+          </navPoint>
+          <navPoint id="id3739921" playOrder="697">
+            <navLabel>
+              <text>Number.MIN_VALUE</text>
+            </navLabel>
+            <content src="rn01re138.html"/>
+          </navPoint>
+          <navPoint id="id3739998" playOrder="698">
+            <navLabel>
+              <text>Number.NaN</text>
+            </navLabel>
+            <content src="rn01re139.html"/>
+          </navPoint>
+          <navPoint id="id3740176" playOrder="699">
+            <navLabel>
+              <text>Number.NEGATIVE_INFINITY</text>
+            </navLabel>
+            <content src="rn01re140.html"/>
+          </navPoint>
+          <navPoint id="id3740318" playOrder="700">
+            <navLabel>
+              <text>Number.POSITIVE_INFINITY</text>
+            </navLabel>
+            <content src="rn01re141.html"/>
+          </navPoint>
+          <navPoint id="id3740462" playOrder="701">
+            <navLabel>
+              <text>Number.toExponential()</text>
+            </navLabel>
+            <content src="rn01re142.html"/>
+          </navPoint>
+          <navPoint id="id3740687" playOrder="702">
+            <navLabel>
+              <text>Number.toFixed()</text>
+            </navLabel>
+            <content src="rn01re143.html"/>
+          </navPoint>
+          <navPoint id="id3740922" playOrder="703">
+            <navLabel>
+              <text>Number.toLocaleString()</text>
+            </navLabel>
+            <content src="rn01re144.html"/>
+          </navPoint>
+          <navPoint id="id3741054" playOrder="704">
+            <navLabel>
+              <text>Number.toPrecision()</text>
+            </navLabel>
+            <content src="rn01re145.html"/>
+          </navPoint>
+          <navPoint id="id3741304" playOrder="705">
+            <navLabel>
+              <text>Number.toString()</text>
+            </navLabel>
+            <content src="rn01re146.html"/>
+          </navPoint>
+          <navPoint id="id3741502" playOrder="706">
+            <navLabel>
+              <text>Number.valueOf()</text>
+            </navLabel>
+            <content src="rn01re147.html"/>
+          </navPoint>
+          <navPoint id="id3741635" playOrder="707">
+            <navLabel>
+              <text>Object</text>
+            </navLabel>
+            <content src="rn01re148.html"/>
+          </navPoint>
+          <navPoint id="id3742366" playOrder="708">
+            <navLabel>
+              <text>Object.constructor</text>
+            </navLabel>
+            <content src="rn01re149.html"/>
+          </navPoint>
+          <navPoint id="id3742548" playOrder="709">
+            <navLabel>
+              <text>Object.create()</text>
+            </navLabel>
+            <content src="rn01re150.html"/>
+          </navPoint>
+          <navPoint id="id3742883" playOrder="710">
+            <navLabel>
+              <text>Object.defineProperties()</text>
+            </navLabel>
+            <content src="rn01re151.html"/>
+          </navPoint>
+          <navPoint id="id3743170" playOrder="711">
+            <navLabel>
+              <text>Object.defineProperty()</text>
+            </navLabel>
+            <content src="rn01re152.html"/>
+          </navPoint>
+          <navPoint id="id3743509" playOrder="712">
+            <navLabel>
+              <text>Object.freeze()</text>
+            </navLabel>
+            <content src="rn01re153.html"/>
+          </navPoint>
+          <navPoint id="id3743729" playOrder="713">
+            <navLabel>
+              <text>Object.getOwnPropertyDescriptor()</text>
+            </navLabel>
+            <content src="rn01re154.html"/>
+          </navPoint>
+          <navPoint id="id3743981" playOrder="714">
+            <navLabel>
+              <text>Object.getOwnPropertyNames()</text>
+            </navLabel>
+            <content src="rn01re155.html"/>
+          </navPoint>
+          <navPoint id="id3744156" playOrder="715">
+            <navLabel>
+              <text>Object.getPrototypeOf()</text>
+            </navLabel>
+            <content src="rn01re156.html"/>
+          </navPoint>
+          <navPoint id="id3744335" playOrder="716">
+            <navLabel>
+              <text>Object.hasOwnProperty()</text>
+            </navLabel>
+            <content src="rn01re157.html"/>
+          </navPoint>
+          <navPoint id="id3744548" playOrder="717">
+            <navLabel>
+              <text>Object.isExtensible()</text>
+            </navLabel>
+            <content src="rn01re158.html"/>
+          </navPoint>
+          <navPoint id="id3744757" playOrder="718">
+            <navLabel>
+              <text>Object.isFrozen()</text>
+            </navLabel>
+            <content src="rn01re159.html"/>
+          </navPoint>
+          <navPoint id="id3744984" playOrder="719">
+            <navLabel>
+              <text>Object.isPrototypeOf()</text>
+            </navLabel>
+            <content src="rn01re160.html"/>
+          </navPoint>
+          <navPoint id="id3745212" playOrder="720">
+            <navLabel>
+              <text>Object.isSealed()</text>
+            </navLabel>
+            <content src="rn01re161.html"/>
+          </navPoint>
+          <navPoint id="id3745427" playOrder="721">
+            <navLabel>
+              <text>Object.keys()</text>
+            </navLabel>
+            <content src="rn01re162.html"/>
+          </navPoint>
+          <navPoint id="id3745632" playOrder="722">
+            <navLabel>
+              <text>Object.preventExtensions()</text>
+            </navLabel>
+            <content src="rn01re163.html"/>
+          </navPoint>
+          <navPoint id="id3745824" playOrder="723">
+            <navLabel>
+              <text>Object.propertyIsEnumerable()</text>
+            </navLabel>
+            <content src="rn01re164.html"/>
+          </navPoint>
+          <navPoint id="id3746061" playOrder="724">
+            <navLabel>
+              <text>Object.seal()</text>
+            </navLabel>
+            <content src="rn01re165.html"/>
+          </navPoint>
+          <navPoint id="id3746258" playOrder="725">
+            <navLabel>
+              <text>Object.toLocaleString()</text>
+            </navLabel>
+            <content src="rn01re166.html"/>
+          </navPoint>
+          <navPoint id="id3746394" playOrder="726">
+            <navLabel>
+              <text>Object.toString()</text>
+            </navLabel>
+            <content src="rn01re167.html"/>
+          </navPoint>
+          <navPoint id="id3746752" playOrder="727">
+            <navLabel>
+              <text>Object.valueOf()</text>
+            </navLabel>
+            <content src="rn01re168.html"/>
+          </navPoint>
+          <navPoint id="id3747010" playOrder="728">
+            <navLabel>
+              <text>parseFloat()</text>
+            </navLabel>
+            <content src="rn01re169.html"/>
+          </navPoint>
+          <navPoint id="id3747208" playOrder="729">
+            <navLabel>
+              <text>parseInt()</text>
+            </navLabel>
+            <content src="rn01re170.html"/>
+          </navPoint>
+          <navPoint id="id3747523" playOrder="730">
+            <navLabel>
+              <text>RangeError</text>
+            </navLabel>
+            <content src="rn01re171.html"/>
+          </navPoint>
+          <navPoint id="id3747760" playOrder="731">
+            <navLabel>
+              <text>ReferenceError</text>
+            </navLabel>
+            <content src="rn01re172.html"/>
+          </navPoint>
+          <navPoint id="id3748024" playOrder="732">
+            <navLabel>
+              <text>RegExp</text>
+            </navLabel>
+            <content src="rn01re173.html"/>
+          </navPoint>
+          <navPoint id="id3748495" playOrder="733">
+            <navLabel>
+              <text>RegExp.exec()</text>
+            </navLabel>
+            <content src="rn01re174.html"/>
+          </navPoint>
+          <navPoint id="id3748931" playOrder="734">
+            <navLabel>
+              <text>RegExp.global</text>
+            </navLabel>
+            <content src="rn01re175.html"/>
+          </navPoint>
+          <navPoint id="id3749006" playOrder="735">
+            <navLabel>
+              <text>RegExp.ignoreCase</text>
+            </navLabel>
+            <content src="rn01re176.html"/>
+          </navPoint>
+          <navPoint id="id3749075" playOrder="736">
+            <navLabel>
+              <text>RegExp.lastIndex</text>
+            </navLabel>
+            <content src="rn01re177.html"/>
+          </navPoint>
+          <navPoint id="id3749232" playOrder="737">
+            <navLabel>
+              <text>RegExp.source</text>
+            </navLabel>
+            <content src="rn01re178.html"/>
+          </navPoint>
+          <navPoint id="id3749322" playOrder="738">
+            <navLabel>
+              <text>RegExp.test()</text>
+            </navLabel>
+            <content src="rn01re179.html"/>
+          </navPoint>
+          <navPoint id="id3749582" playOrder="739">
+            <navLabel>
+              <text>RegExp.toString()</text>
+            </navLabel>
+            <content src="rn01re180.html"/>
+          </navPoint>
+          <navPoint id="id3749754" playOrder="740">
+            <navLabel>
+              <text>String</text>
+            </navLabel>
+            <content src="rn01re181.html"/>
+          </navPoint>
+          <navPoint id="id3750867" playOrder="741">
+            <navLabel>
+              <text>String.charAt()</text>
+            </navLabel>
+            <content src="rn01re182.html"/>
+          </navPoint>
+          <navPoint id="id3751047" playOrder="742">
+            <navLabel>
+              <text>String.charCodeAt()</text>
+            </navLabel>
+            <content src="rn01re183.html"/>
+          </navPoint>
+          <navPoint id="id3751229" playOrder="743">
+            <navLabel>
+              <text>String.concat()</text>
+            </navLabel>
+            <content src="rn01re184.html"/>
+          </navPoint>
+          <navPoint id="id3751408" playOrder="744">
+            <navLabel>
+              <text>String.fromCharCode()</text>
+            </navLabel>
+            <content src="rn01re185.html"/>
+          </navPoint>
+          <navPoint id="id3751587" playOrder="745">
+            <navLabel>
+              <text>String.indexOf()</text>
+            </navLabel>
+            <content src="rn01re186.html"/>
+          </navPoint>
+          <navPoint id="id3751874" playOrder="746">
+            <navLabel>
+              <text>String.lastIndexOf()</text>
+            </navLabel>
+            <content src="rn01re187.html"/>
+          </navPoint>
+          <navPoint id="id3752187" playOrder="747">
+            <navLabel>
+              <text>String.length</text>
+            </navLabel>
+            <content src="rn01re188.html"/>
+          </navPoint>
+          <navPoint id="id3752312" playOrder="748">
+            <navLabel>
+              <text>String.localeCompare()</text>
+            </navLabel>
+            <content src="rn01re189.html"/>
+          </navPoint>
+          <navPoint id="id3752529" playOrder="749">
+            <navLabel>
+              <text>String.match()</text>
+            </navLabel>
+            <content src="rn01re190.html"/>
+          </navPoint>
+          <navPoint id="id3752891" playOrder="750">
+            <navLabel>
+              <text>String.replace()</text>
+            </navLabel>
+            <content src="rn01re191.html"/>
+          </navPoint>
+          <navPoint id="id3753446" playOrder="751">
+            <navLabel>
+              <text>String.search()</text>
+            </navLabel>
+            <content src="rn01re192.html"/>
+          </navPoint>
+          <navPoint id="id3753684" playOrder="752">
+            <navLabel>
+              <text>String.slice()</text>
+            </navLabel>
+            <content src="rn01re193.html"/>
+          </navPoint>
+          <navPoint id="id3753984" playOrder="753">
+            <navLabel>
+              <text>String.split()</text>
+            </navLabel>
+            <content src="rn01re194.html"/>
+          </navPoint>
+          <navPoint id="id3754361" playOrder="754">
+            <navLabel>
+              <text>String.substr()</text>
+            </navLabel>
+            <content src="rn01re195.html"/>
+          </navPoint>
+          <navPoint id="id3754621" playOrder="755">
+            <navLabel>
+              <text>String.substring()</text>
+            </navLabel>
+            <content src="rn01re196.html"/>
+          </navPoint>
+          <navPoint id="id3754921" playOrder="756">
+            <navLabel>
+              <text>String.toLocaleLowerCase()</text>
+            </navLabel>
+            <content src="rn01re197.html"/>
+          </navPoint>
+          <navPoint id="id3755032" playOrder="757">
+            <navLabel>
+              <text>String.toLocaleUpperCase()</text>
+            </navLabel>
+            <content src="rn01re198.html"/>
+          </navPoint>
+          <navPoint id="id3755144" playOrder="758">
+            <navLabel>
+              <text>String.toLowerCase()</text>
+            </navLabel>
+            <content src="rn01re199.html"/>
+          </navPoint>
+          <navPoint id="id3755225" playOrder="759">
+            <navLabel>
+              <text>String.toString()</text>
+            </navLabel>
+            <content src="rn01re200.html"/>
+          </navPoint>
+          <navPoint id="id3755359" playOrder="760">
+            <navLabel>
+              <text>String.toUpperCase()</text>
+            </navLabel>
+            <content src="rn01re201.html"/>
+          </navPoint>
+          <navPoint id="id3755443" playOrder="761">
+            <navLabel>
+              <text>String.trim()</text>
+            </navLabel>
+            <content src="rn01re202.html"/>
+          </navPoint>
+          <navPoint id="id3755539" playOrder="762">
+            <navLabel>
+              <text>String.valueOf()</text>
+            </navLabel>
+            <content src="rn01re203.html"/>
+          </navPoint>
+          <navPoint id="id3755682" playOrder="763">
+            <navLabel>
+              <text>SyntaxError</text>
+            </navLabel>
+            <content src="rn01re204.html"/>
+          </navPoint>
+          <navPoint id="id3755944" playOrder="764">
+            <navLabel>
+              <text>TypeError</text>
+            </navLabel>
+            <content src="rn01re205.html"/>
+          </navPoint>
+          <navPoint id="id3756211" playOrder="765">
+            <navLabel>
+              <text>undefined</text>
+            </navLabel>
+            <content src="rn01re206.html"/>
+          </navPoint>
+          <navPoint id="id3756334" playOrder="766">
+            <navLabel>
+              <text>unescape()</text>
+            </navLabel>
+            <content src="rn01re207.html"/>
+          </navPoint>
+          <navPoint id="id3756560" playOrder="767">
+            <navLabel>
+              <text>URIError</text>
+            </navLabel>
+            <content src="rn01re208.html"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id3756856" playOrder="768">
+        <navLabel>
+          <text>IV. Client-Side JavaScript Reference</text>
+        </navLabel>
+        <content src="pt04.html"/>
+        <navPoint id="id3757964" playOrder="769">
+          <navLabel>
+            <text>II. Client-Side JavaScript Reference</text>
+          </navLabel>
+          <content src="rn02.html"/>
+          <navPoint id="id3757974" playOrder="770">
+            <navLabel>
+              <text>ApplicationCache</text>
+            </navLabel>
+            <content src="rn02re209.html"/>
+          </navPoint>
+          <navPoint id="id3758663" playOrder="771">
+            <navLabel>
+              <text>ArrayBuffer</text>
+            </navLabel>
+            <content src="rn02re210.html"/>
+          </navPoint>
+          <navPoint id="id3758792" playOrder="772">
+            <navLabel>
+              <text>ArrayBufferView</text>
+            </navLabel>
+            <content src="rn02re211.html"/>
+          </navPoint>
+          <navPoint id="id3758977" playOrder="773">
+            <navLabel>
+              <text>Attr</text>
+            </navLabel>
+            <content src="rn02re212.html"/>
+          </navPoint>
+          <navPoint id="id3759255" playOrder="774">
+            <navLabel>
+              <text>Audio</text>
+            </navLabel>
+            <content src="rn02re213.html"/>
+          </navPoint>
+          <navPoint id="id3759367" playOrder="775">
+            <navLabel>
+              <text>BeforeUnloadEvent</text>
+            </navLabel>
+            <content src="rn02re214.html"/>
+          </navPoint>
+          <navPoint id="id3759520" playOrder="776">
+            <navLabel>
+              <text>Blob</text>
+            </navLabel>
+            <content src="rn02re215.html"/>
+          </navPoint>
+          <navPoint id="id3759754" playOrder="777">
+            <navLabel>
+              <text>BlobBuilder</text>
+            </navLabel>
+            <content src="rn02re216.html"/>
+          </navPoint>
+          <navPoint id="id3760009" playOrder="778">
+            <navLabel>
+              <text>Button</text>
+            </navLabel>
+            <content src="rn02re217.html"/>
+          </navPoint>
+          <navPoint id="id3760378" playOrder="779">
+            <navLabel>
+              <text>Canvas</text>
+            </navLabel>
+            <content src="rn02re218.html"/>
+          </navPoint>
+          <navPoint id="id3760871" playOrder="780">
+            <navLabel>
+              <text>CanvasGradient</text>
+            </navLabel>
+            <content src="rn02re219.html"/>
+          </navPoint>
+          <navPoint id="id3761071" playOrder="781">
+            <navLabel>
+              <text>CanvasPattern</text>
+            </navLabel>
+            <content src="rn02re220.html"/>
+          </navPoint>
+          <navPoint id="id3761159" playOrder="782">
+            <navLabel>
+              <text>CanvasRenderingContext2D</text>
+            </navLabel>
+            <content src="rn02re221.html"/>
+          </navPoint>
+          <navPoint id="id3767571" playOrder="783">
+            <navLabel>
+              <text>ClientRect</text>
+            </navLabel>
+            <content src="rn02re222.html"/>
+          </navPoint>
+          <navPoint id="id3767889" playOrder="784">
+            <navLabel>
+              <text>CloseEvent</text>
+            </navLabel>
+            <content src="rn02re223.html"/>
+          </navPoint>
+          <navPoint id="id3768007" playOrder="785">
+            <navLabel>
+              <text>Comment</text>
+            </navLabel>
+            <content src="rn02re224.html"/>
+          </navPoint>
+          <navPoint id="id3768396" playOrder="786">
+            <navLabel>
+              <text>Console</text>
+            </navLabel>
+            <content src="rn02re225.html"/>
+          </navPoint>
+          <navPoint id="id3769294" playOrder="787">
+            <navLabel>
+              <text>ConsoleCommandLine</text>
+            </navLabel>
+            <content src="rn02re226.html"/>
+          </navPoint>
+          <navPoint id="id3770060" playOrder="788">
+            <navLabel>
+              <text>CSS2Properties</text>
+            </navLabel>
+            <content src="rn02re227.html"/>
+          </navPoint>
+          <navPoint id="id3770084" playOrder="789">
+            <navLabel>
+              <text>CSSRule</text>
+            </navLabel>
+            <content src="rn02re228.html"/>
+          </navPoint>
+          <navPoint id="id3770589" playOrder="790">
+            <navLabel>
+              <text>CSSStyleDeclaration</text>
+            </navLabel>
+            <content src="rn02re229.html"/>
+          </navPoint>
+          <navPoint id="id3770823" playOrder="791">
+            <navLabel>
+              <text>CSSStyleSheet</text>
+            </navLabel>
+            <content src="rn02re230.html"/>
+          </navPoint>
+          <navPoint id="id3771537" playOrder="792">
+            <navLabel>
+              <text>DataTransfer</text>
+            </navLabel>
+            <content src="rn02re231.html"/>
+          </navPoint>
+          <navPoint id="id3772149" playOrder="793">
+            <navLabel>
+              <text>DataView</text>
+            </navLabel>
+            <content src="rn02re232.html"/>
+          </navPoint>
+          <navPoint id="id3773113" playOrder="794">
+            <navLabel>
+              <text>Document</text>
+            </navLabel>
+            <content src="rn02re233.html"/>
+          </navPoint>
+          <navPoint id="id3776601" playOrder="795">
+            <navLabel>
+              <text>DocumentFragment</text>
+            </navLabel>
+            <content src="rn02re234.html"/>
+          </navPoint>
+          <navPoint id="id3776791" playOrder="796">
+            <navLabel>
+              <text>DocumentType</text>
+            </navLabel>
+            <content src="rn02re235.html"/>
+          </navPoint>
+          <navPoint id="id3777023" playOrder="797">
+            <navLabel>
+              <text>DOMException</text>
+            </navLabel>
+            <content src="rn02re236.html"/>
+          </navPoint>
+          <navPoint id="id3777503" playOrder="798">
+            <navLabel>
+              <text>DOMImplementation</text>
+            </navLabel>
+            <content src="rn02re237.html"/>
+          </navPoint>
+          <navPoint id="id3777808" playOrder="799">
+            <navLabel>
+              <text>DOMSettableTokenList</text>
+            </navLabel>
+            <content src="rn02re238.html"/>
+          </navPoint>
+          <navPoint id="id3778013" playOrder="800">
+            <navLabel>
+              <text>DOMTokenList</text>
+            </navLabel>
+            <content src="rn02re239.html"/>
+          </navPoint>
+          <navPoint id="id3778414" playOrder="801">
+            <navLabel>
+              <text>Element</text>
+            </navLabel>
+            <content src="rn02re240.html"/>
+          </navPoint>
+          <navPoint id="id3783682" playOrder="802">
+            <navLabel>
+              <text>ErrorEvent</text>
+            </navLabel>
+            <content src="rn02re241.html"/>
+          </navPoint>
+          <navPoint id="id3783894" playOrder="803">
+            <navLabel>
+              <text>Event</text>
+            </navLabel>
+            <content src="rn02re242.html"/>
+          </navPoint>
+          <navPoint id="id3786959" playOrder="804">
+            <navLabel>
+              <text>EventSource</text>
+            </navLabel>
+            <content src="rn02re243.html"/>
+          </navPoint>
+          <navPoint id="id3787460" playOrder="805">
+            <navLabel>
+              <text>EventTarget</text>
+            </navLabel>
+            <content src="rn02re244.html"/>
+          </navPoint>
+          <navPoint id="id3787940" playOrder="806">
+            <navLabel>
+              <text>FieldSet</text>
+            </navLabel>
+            <content src="rn02re245.html"/>
+          </navPoint>
+          <navPoint id="id3788100" playOrder="807">
+            <navLabel>
+              <text>File</text>
+            </navLabel>
+            <content src="rn02re246.html"/>
+          </navPoint>
+          <navPoint id="id3788300" playOrder="808">
+            <navLabel>
+              <text>FileError</text>
+            </navLabel>
+            <content src="rn02re247.html"/>
+          </navPoint>
+          <navPoint id="id3788578" playOrder="809">
+            <navLabel>
+              <text>FileReader</text>
+            </navLabel>
+            <content src="rn02re248.html"/>
+          </navPoint>
+          <navPoint id="id3789611" playOrder="810">
+            <navLabel>
+              <text>FileReaderSync</text>
+            </navLabel>
+            <content src="rn02re249.html"/>
+          </navPoint>
+          <navPoint id="id3789932" playOrder="811">
+            <navLabel>
+              <text>Form</text>
+            </navLabel>
+            <content src="rn02re250.html"/>
+          </navPoint>
+          <navPoint id="id3790910" playOrder="812">
+            <navLabel>
+              <text>FormControl</text>
+            </navLabel>
+            <content src="rn02re251.html"/>
+          </navPoint>
+          <navPoint id="id3791936" playOrder="813">
+            <navLabel>
+              <text>FormData</text>
+            </navLabel>
+            <content src="rn02re252.html"/>
+          </navPoint>
+          <navPoint id="id3792126" playOrder="814">
+            <navLabel>
+              <text>FormValidity</text>
+            </navLabel>
+            <content src="rn02re253.html"/>
+          </navPoint>
+          <navPoint id="id3792618" playOrder="815">
+            <navLabel>
+              <text>Geocoordinates</text>
+            </navLabel>
+            <content src="rn02re254.html"/>
+          </navPoint>
+          <navPoint id="id3793028" playOrder="816">
+            <navLabel>
+              <text>Geolocation</text>
+            </navLabel>
+            <content src="rn02re255.html"/>
+          </navPoint>
+          <navPoint id="id3793508" playOrder="817">
+            <navLabel>
+              <text>GeolocationError</text>
+            </navLabel>
+            <content src="rn02re256.html"/>
+          </navPoint>
+          <navPoint id="id3793757" playOrder="818">
+            <navLabel>
+              <text>Geoposition</text>
+            </navLabel>
+            <content src="rn02re257.html"/>
+          </navPoint>
+          <navPoint id="id3793902" playOrder="819">
+            <navLabel>
+              <text>HashChangeEvent</text>
+            </navLabel>
+            <content src="rn02re258.html"/>
+          </navPoint>
+          <navPoint id="id3794085" playOrder="820">
+            <navLabel>
+              <text>History</text>
+            </navLabel>
+            <content src="rn02re259.html"/>
+          </navPoint>
+          <navPoint id="id3794582" playOrder="821">
+            <navLabel>
+              <text>HTMLCollection</text>
+            </navLabel>
+            <content src="rn02re260.html"/>
+          </navPoint>
+          <navPoint id="id3794858" playOrder="822">
+            <navLabel>
+              <text>HTMLDocument</text>
+            </navLabel>
+            <content src="rn02re261.html"/>
+          </navPoint>
+          <navPoint id="id3794882" playOrder="823">
+            <navLabel>
+              <text>HTMLElement</text>
+            </navLabel>
+            <content src="rn02re262.html"/>
+          </navPoint>
+          <navPoint id="id3794905" playOrder="824">
+            <navLabel>
+              <text>HTMLFormControlsCollection</text>
+            </navLabel>
+            <content src="rn02re263.html"/>
+          </navPoint>
+          <navPoint id="id3795008" playOrder="825">
+            <navLabel>
+              <text>HTMLOptionsCollection</text>
+            </navLabel>
+            <content src="rn02re264.html"/>
+          </navPoint>
+          <navPoint id="id3795451" playOrder="826">
+            <navLabel>
+              <text>IFrame</text>
+            </navLabel>
+            <content src="rn02re265.html"/>
+          </navPoint>
+          <navPoint id="id3796109" playOrder="827">
+            <navLabel>
+              <text>Image</text>
+            </navLabel>
+            <content src="rn02re266.html"/>
+          </navPoint>
+          <navPoint id="id3796562" playOrder="828">
+            <navLabel>
+              <text>ImageData</text>
+            </navLabel>
+            <content src="rn02re267.html"/>
+          </navPoint>
+          <navPoint id="id3796832" playOrder="829">
+            <navLabel>
+              <text>Input</text>
+            </navLabel>
+            <content src="rn02re268.html"/>
+          </navPoint>
+          <navPoint id="id3798602" playOrder="830">
+            <navLabel>
+              <text>jQuery</text>
+            </navLabel>
+            <content src="rn02re269.html"/>
+          </navPoint>
+          <navPoint id="id3805695" playOrder="831">
+            <navLabel>
+              <text>KeyEvent</text>
+            </navLabel>
+            <content src="rn02re270.html"/>
+          </navPoint>
+          <navPoint id="id3805719" playOrder="832">
+            <navLabel>
+              <text>Label</text>
+            </navLabel>
+            <content src="rn02re271.html"/>
+          </navPoint>
+          <navPoint id="id3805962" playOrder="833">
+            <navLabel>
+              <text>Link</text>
+            </navLabel>
+            <content src="rn02re272.html"/>
+          </navPoint>
+          <navPoint id="id3806873" playOrder="834">
+            <navLabel>
+              <text>Location</text>
+            </navLabel>
+            <content src="rn02re273.html"/>
+          </navPoint>
+          <navPoint id="id3807532" playOrder="835">
+            <navLabel>
+              <text>MediaElement</text>
+            </navLabel>
+            <content src="rn02re274.html"/>
+          </navPoint>
+          <navPoint id="id3809990" playOrder="836">
+            <navLabel>
+              <text>MediaError</text>
+            </navLabel>
+            <content src="rn02re275.html"/>
+          </navPoint>
+          <navPoint id="id3810256" playOrder="837">
+            <navLabel>
+              <text>MessageChannel</text>
+            </navLabel>
+            <content src="rn02re276.html"/>
+          </navPoint>
+          <navPoint id="id3810446" playOrder="838">
+            <navLabel>
+              <text>MessageEvent</text>
+            </navLabel>
+            <content src="rn02re277.html"/>
+          </navPoint>
+          <navPoint id="id3810811" playOrder="839">
+            <navLabel>
+              <text>MessagePort</text>
+            </navLabel>
+            <content src="rn02re278.html"/>
+          </navPoint>
+          <navPoint id="id3811150" playOrder="840">
+            <navLabel>
+              <text>Meter</text>
+            </navLabel>
+            <content src="rn02re279.html"/>
+          </navPoint>
+          <navPoint id="id3811572" playOrder="841">
+            <navLabel>
+              <text>MouseEvent</text>
+            </navLabel>
+            <content src="rn02re280.html"/>
+          </navPoint>
+          <navPoint id="id3811596" playOrder="842">
+            <navLabel>
+              <text>Navigator</text>
+            </navLabel>
+            <content src="rn02re281.html"/>
+          </navPoint>
+          <navPoint id="id3812227" playOrder="843">
+            <navLabel>
+              <text>Node</text>
+            </navLabel>
+            <content src="rn02re282.html"/>
+          </navPoint>
+          <navPoint id="id3814276" playOrder="844">
+            <navLabel>
+              <text>NodeList</text>
+            </navLabel>
+            <content src="rn02re283.html"/>
+          </navPoint>
+          <navPoint id="id3814539" playOrder="845">
+            <navLabel>
+              <text>Option</text>
+            </navLabel>
+            <content src="rn02re284.html"/>
+          </navPoint>
+          <navPoint id="id3815120" playOrder="846">
+            <navLabel>
+              <text>Output</text>
+            </navLabel>
+            <content src="rn02re285.html"/>
+          </navPoint>
+          <navPoint id="id3815337" playOrder="847">
+            <navLabel>
+              <text>PageTransitionEvent</text>
+            </navLabel>
+            <content src="rn02re286.html"/>
+          </navPoint>
+          <navPoint id="id3815504" playOrder="848">
+            <navLabel>
+              <text>PopStateEvent</text>
+            </navLabel>
+            <content src="rn02re287.html"/>
+          </navPoint>
+          <navPoint id="id3815698" playOrder="849">
+            <navLabel>
+              <text>ProcessingInstruction</text>
+            </navLabel>
+            <content src="rn02re288.html"/>
+          </navPoint>
+          <navPoint id="id3815872" playOrder="850">
+            <navLabel>
+              <text>Progress</text>
+            </navLabel>
+            <content src="rn02re289.html"/>
+          </navPoint>
+          <navPoint id="id3816228" playOrder="851">
+            <navLabel>
+              <text>ProgressEvent</text>
+            </navLabel>
+            <content src="rn02re290.html"/>
+          </navPoint>
+          <navPoint id="id3816562" playOrder="852">
+            <navLabel>
+              <text>Screen</text>
+            </navLabel>
+            <content src="rn02re291.html"/>
+          </navPoint>
+          <navPoint id="id3816858" playOrder="853">
+            <navLabel>
+              <text>Script</text>
+            </navLabel>
+            <content src="rn02re292.html"/>
+          </navPoint>
+          <navPoint id="id3817310" playOrder="854">
+            <navLabel>
+              <text>Select</text>
+            </navLabel>
+            <content src="rn02re293.html"/>
+          </navPoint>
+          <navPoint id="id3818072" playOrder="855">
+            <navLabel>
+              <text>Storage</text>
+            </navLabel>
+            <content src="rn02re294.html"/>
+          </navPoint>
+          <navPoint id="id3818494" playOrder="856">
+            <navLabel>
+              <text>StorageEvent</text>
+            </navLabel>
+            <content src="rn02re295.html"/>
+          </navPoint>
+          <navPoint id="id3818837" playOrder="857">
+            <navLabel>
+              <text>Style</text>
+            </navLabel>
+            <content src="rn02re296.html"/>
+          </navPoint>
+          <navPoint id="id3819205" playOrder="858">
+            <navLabel>
+              <text>Table</text>
+            </navLabel>
+            <content src="rn02re297.html"/>
+          </navPoint>
+          <navPoint id="id3820007" playOrder="859">
+            <navLabel>
+              <text>TableCell</text>
+            </navLabel>
+            <content src="rn02re298.html"/>
+          </navPoint>
+          <navPoint id="id3820185" playOrder="860">
+            <navLabel>
+              <text>TableRow</text>
+            </navLabel>
+            <content src="rn02re299.html"/>
+          </navPoint>
+          <navPoint id="id3820526" playOrder="861">
+            <navLabel>
+              <text>TableSection</text>
+            </navLabel>
+            <content src="rn02re300.html"/>
+          </navPoint>
+          <navPoint id="id3820782" playOrder="862">
+            <navLabel>
+              <text>Text</text>
+            </navLabel>
+            <content src="rn02re301.html"/>
+          </navPoint>
+          <navPoint id="id3821418" playOrder="863">
+            <navLabel>
+              <text>TextArea</text>
+            </navLabel>
+            <content src="rn02re302.html"/>
+          </navPoint>
+          <navPoint id="id3821920" playOrder="864">
+            <navLabel>
+              <text>TextMetrics</text>
+            </navLabel>
+            <content src="rn02re303.html"/>
+          </navPoint>
+          <navPoint id="id3822025" playOrder="865">
+            <navLabel>
+              <text>TimeRanges</text>
+            </navLabel>
+            <content src="rn02re304.html"/>
+          </navPoint>
+          <navPoint id="id3822313" playOrder="866">
+            <navLabel>
+              <text>TypedArray</text>
+            </navLabel>
+            <content src="rn02re305.html"/>
+          </navPoint>
+          <navPoint id="id3823051" playOrder="867">
+            <navLabel>
+              <text>URL</text>
+            </navLabel>
+            <content src="rn02re306.html"/>
+          </navPoint>
+          <navPoint id="id3823245" playOrder="868">
+            <navLabel>
+              <text>Video</text>
+            </navLabel>
+            <content src="rn02re307.html"/>
+          </navPoint>
+          <navPoint id="id3823592" playOrder="869">
+            <navLabel>
+              <text>WebSocket</text>
+            </navLabel>
+            <content src="rn02re308.html"/>
+          </navPoint>
+          <navPoint id="id3824378" playOrder="870">
+            <navLabel>
+              <text>Window</text>
+            </navLabel>
+            <content src="rn02re309.html"/>
+          </navPoint>
+          <navPoint id="id3828154" playOrder="871">
+            <navLabel>
+              <text>Worker</text>
+            </navLabel>
+            <content src="rn02re310.html"/>
+          </navPoint>
+          <navPoint id="id3828562" playOrder="872">
+            <navLabel>
+              <text>WorkerGlobalScope</text>
+            </navLabel>
+            <content src="rn02re311.html"/>
+          </navPoint>
+          <navPoint id="id3829378" playOrder="873">
+            <navLabel>
+              <text>WorkerLocation</text>
+            </navLabel>
+            <content src="rn02re312.html"/>
+          </navPoint>
+          <navPoint id="id3829829" playOrder="874">
+            <navLabel>
+              <text>WorkerNavigator</text>
+            </navLabel>
+            <content src="rn02re313.html"/>
+          </navPoint>
+          <navPoint id="id3830126" playOrder="875">
+            <navLabel>
+              <text>XMLHttpRequest</text>
+            </navLabel>
+            <content src="rn02re314.html"/>
+          </navPoint>
+          <navPoint id="id3832158" playOrder="876">
+            <navLabel>
+              <text>XMLHttpRequestUpload</text>
+            </navLabel>
+            <content src="rn02re315.html"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="id3832409" playOrder="877">
+        <navLabel>
+          <text>Index</text>
+        </navLabel>
+        <content src="ix01.html"/>
+      </navPoint>
+      <navPoint id="id3832422" playOrder="878">
+        <navLabel>
+          <text>About the Author</text>
+        </navLabel>
+        <content src="author_bios.html"/>
+      </navPoint>
+      <navPoint id="id3832438" playOrder="879">
+        <navLabel>
+          <text>Colophon</text>
+        </navLabel>
+        <content src="co02.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

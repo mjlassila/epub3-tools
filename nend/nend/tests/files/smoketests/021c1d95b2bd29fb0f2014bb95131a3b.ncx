@@ -1,0 +1,3717 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ncx:ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <ncx:head>
+    <ncx:meta name="cover" content="cover"/>
+    <ncx:meta name="dtb:uid" content="isbn:9780735630024"/>
+    <ncx:meta name="dtb:depth" content="-1"/>
+    <ncx:meta name="dtb:totalPageCount" content="0"/>
+    <ncx:meta name="dtb:maxPageNumber" content="0"/>
+  </ncx:head>
+  <ncx:docTitle>
+    <ncx:text>Windows 7 Plain &amp; Simple</ncx:text>
+  </ncx:docTitle>
+  <ncx:navMap>
+    <ncx:navPoint id="id2502309" playOrder="1">
+      <ncx:navLabel>
+        <ncx:text>Windows 7 Plain &amp; Simple</ncx:text>
+      </ncx:navLabel>
+      <ncx:content src="index.html"/>
+      <ncx:navPoint id="id2541545" playOrder="2">
+        <ncx:navLabel>
+          <ncx:text>Acknowledgments</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="pr01.html"/>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2613648" playOrder="3">
+        <ncx:navLabel>
+          <ncx:text>1. About This Book</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch01.html"/>
+        <ncx:navPoint id="id2534594" playOrder="4">
+          <ncx:navLabel>
+            <ncx:text>No Computerspeak!</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch01.html#no_computerspeak"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2519528" playOrder="5">
+          <ncx:navLabel>
+            <ncx:text>A Quick Overview</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch01s02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2517050" playOrder="6">
+          <ncx:navLabel>
+            <ncx:text>What's New in Windows 7?</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch01s03.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2677686" playOrder="7">
+          <ncx:navLabel>
+            <ncx:text>A Few Assumptions</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch01s04.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2506500" playOrder="8">
+          <ncx:navLabel>
+            <ncx:text>A Final Word (or Two)</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch01s05.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2548709" playOrder="9">
+        <ncx:navLabel>
+          <ncx:text>2. Jump Right In</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch02.html"/>
+        <ncx:navPoint id="id2507956" playOrder="10">
+          <ncx:navLabel>
+            <ncx:text>What's Where in Windows 7?</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02.html#whats_where_in_windows_7"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2516304" playOrder="11">
+          <ncx:navLabel>
+            <ncx:text>Starting Up</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02s02.html"/>
+          <ncx:navPoint id="id2607818" playOrder="12">
+            <ncx:navLabel>
+              <ncx:text>Start or Wake Up a Computer</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s02.html#start_or_wake_up_a_computer"/>
+            <ncx:navPoint id="id2484360" playOrder="13">
+              <ncx:navLabel>
+                <ncx:text>How to Get Your Computer Going</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s02.html#how_to_get_your_computer_going"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2563641" playOrder="14">
+          <ncx:navLabel>
+            <ncx:text>Leaving Your Computer</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02s03.html"/>
+          <ncx:navPoint id="id2518245" playOrder="15">
+            <ncx:navLabel>
+              <ncx:text>Leave It</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s03.html#leave_it"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2641943" playOrder="16">
+          <ncx:navLabel>
+            <ncx:text>Starting a Program</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02s04.html"/>
+          <ncx:navPoint id="id2567688" playOrder="17">
+            <ncx:navLabel>
+              <ncx:text>Start a Program</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s04.html#start_a_program"/>
+            <ncx:navPoint id="id2544974" playOrder="18">
+              <ncx:navLabel>
+                <ncx:text>Frequently Used Windows 7 Programs</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch02s04.html#frequently_used_windows_7_programs"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2536601" playOrder="19">
+          <ncx:navLabel>
+            <ncx:text>Accessing Your Documents</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02s05.html"/>
+          <ncx:navPoint id="id2566316" playOrder="20">
+            <ncx:navLabel>
+              <ncx:text>Open a Document</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s05.html#open_a_document"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2548484" playOrder="21">
+          <ncx:navLabel>
+            <ncx:text>Mouse and Keyboard Maneuvers</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02s06.html"/>
+          <ncx:navPoint id="id2542843" playOrder="22">
+            <ncx:navLabel>
+              <ncx:text>Mouse Moves</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s06.html#mouse_moves"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2513331" playOrder="23">
+            <ncx:navLabel>
+              <ncx:text>Keyboard Moves</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s06.html#keyboard_moves"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2634783" playOrder="24">
+            <ncx:navLabel>
+              <ncx:text>So Many Ways to Do It</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s06.html#so_many_ways_to_do_it"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2584962" playOrder="25">
+          <ncx:navLabel>
+            <ncx:text>Files, Folders, and Libraries</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02s07.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2560092" playOrder="26">
+          <ncx:navLabel>
+            <ncx:text>Quickly Finding a Program, File, or Folder</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02s08.html"/>
+          <ncx:navPoint id="id2671698" playOrder="27">
+            <ncx:navLabel>
+              <ncx:text>Search for the File or Folder</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s08.html#search_for_the_file_or_folder"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2517996" playOrder="28">
+          <ncx:navLabel>
+            <ncx:text>Searching a Specific Location</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02s09.html"/>
+          <ncx:navPoint id="id2515928" playOrder="29">
+            <ncx:navLabel>
+              <ncx:text>Refine Your Search</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s09.html#refine_your_search"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2635755" playOrder="30">
+          <ncx:navLabel>
+            <ncx:text>Accessing Everything</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02s10.html"/>
+          <ncx:navPoint id="id2634047" playOrder="31">
+            <ncx:navLabel>
+              <ncx:text>Open Any Folder</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s10.html#open_any_folder"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2528217" playOrder="32">
+            <ncx:navLabel>
+              <ncx:text>Explore</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s10.html#explore"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2678598" playOrder="33">
+          <ncx:navLabel>
+            <ncx:text>Switching Among Open Windows</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02s11.html"/>
+          <ncx:navPoint id="id2537831" playOrder="34">
+            <ncx:navLabel>
+              <ncx:text>Select a Window</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s11.html#select_a_window"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2663291" playOrder="35">
+            <ncx:navLabel>
+              <ncx:text>Switch Windows</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s11.html#switch_windows"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2535086" playOrder="36">
+            <ncx:navLabel>
+              <ncx:text>Hide the Windows</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s11.html#hide_the_windows"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2561035" playOrder="37">
+          <ncx:navLabel>
+            <ncx:text>Managing Windows</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02s12.html"/>
+          <ncx:navPoint id="id2536997" playOrder="38">
+            <ncx:navLabel>
+              <ncx:text>Use the Buttons to Switch Between Sizes</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s12.html#use_the_buttons_to_switch_between_sizes"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2672197" playOrder="39">
+            <ncx:navLabel>
+              <ncx:text>Use the Mouse to Move and Resize a Window</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s12.html#use_the_mouse_to_move_and_resize_a_windo"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2520340" playOrder="40">
+          <ncx:navLabel>
+            <ncx:text>Using Shortcut Menus for Quick Results</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02s13.html"/>
+          <ncx:navPoint id="id2552806" playOrder="41">
+            <ncx:navLabel>
+              <ncx:text>Use a Shortcut Menu Command</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s13.html#use_a_shortcut_menu_command"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2535375" playOrder="42">
+          <ncx:navLabel>
+            <ncx:text>Using Jump Lists for Quick Access</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02s14.html"/>
+          <ncx:navPoint id="id2589947" playOrder="43">
+            <ncx:navLabel>
+              <ncx:text>Use a Taskbar Jump List</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s14.html#use_a_taskbar_jump_list"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2585800" playOrder="44">
+            <ncx:navLabel>
+              <ncx:text>Use a Start Menu Jump List</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s14.html#use_a_start_menu_jump_list"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2522683" playOrder="45">
+          <ncx:navLabel>
+            <ncx:text>Getting Help</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch02s15.html"/>
+          <ncx:navPoint id="id2590569" playOrder="46">
+            <ncx:navLabel>
+              <ncx:text>Find the Information</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch02s15.html#find_the_information"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2610056" playOrder="47">
+        <ncx:navLabel>
+          <ncx:text>3. Accessing and Organizing</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch03.html"/>
+        <ncx:navPoint id="id2506761" playOrder="48">
+          <ncx:navLabel>
+            <ncx:text>Windows Views</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03.html#windows_views"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2526261" playOrder="49">
+          <ncx:navLabel>
+            <ncx:text>Changing the Window View</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s02.html"/>
+          <ncx:navPoint id="id2615164" playOrder="50">
+            <ncx:navLabel>
+              <ncx:text>Choose a View</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s02.html#choose_a_view"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2674108" playOrder="51">
+          <ncx:navLabel>
+            <ncx:text>Viewing File Information</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s03.html"/>
+          <ncx:navPoint id="id2518135" playOrder="52">
+            <ncx:navLabel>
+              <ncx:text>Show the information</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s03.html#show_the_information"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2534875" playOrder="53">
+          <ncx:navLabel>
+            <ncx:text>Arranging Your Files</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s04.html"/>
+          <ncx:navPoint id="id2514100" playOrder="54">
+            <ncx:navLabel>
+              <ncx:text>Arrange Files in a Library</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s04.html#arrange_files_in_a_library"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2546829" playOrder="55">
+            <ncx:navLabel>
+              <ncx:text>Sort by Field</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s04.html#sort_by_field"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2560045" playOrder="56">
+            <ncx:navLabel>
+              <ncx:text>Filter or Group</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s04.html#filter_or_group"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2546609" playOrder="57">
+          <ncx:navLabel>
+            <ncx:text>Classifying Your Files</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s05.html"/>
+          <ncx:navPoint id="id2547787" playOrder="58">
+            <ncx:navLabel>
+              <ncx:text>Add More Information</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s05.html#add_more_information"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2512853" playOrder="59">
+            <ncx:navLabel>
+              <ncx:text>Tag a File</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s05.html#tag_a_file"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2513137" playOrder="60">
+          <ncx:navLabel>
+            <ncx:text>Returning to a Folder or Library</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s06.html"/>
+          <ncx:navPoint id="id2552402" playOrder="61">
+            <ncx:navLabel>
+              <ncx:text>Return to a Folder or Library</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s06.html#return_to_a_folder_or_library"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2534244" playOrder="62">
+            <ncx:navLabel>
+              <ncx:text>Expand the List</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s06.html#expand_the_list"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2530316" playOrder="63">
+          <ncx:navLabel>
+            <ncx:text>Creating Quick Access to a File or Folder</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s07.html"/>
+          <ncx:navPoint id="id2542040" playOrder="64">
+            <ncx:navLabel>
+              <ncx:text>Create a Shortcut to a File or Folder</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s07.html#create_a_shortcut_to_a_file_or_folder"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2516152" playOrder="65">
+          <ncx:navLabel>
+            <ncx:text>Adding Direct Access to a Folder or Library</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s08.html"/>
+          <ncx:navPoint id="id2555330" playOrder="66">
+            <ncx:navLabel>
+              <ncx:text>Pin a Folder</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s08.html#pin_a_folder"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2555595" playOrder="67">
+            <ncx:navLabel>
+              <ncx:text>Add a Link</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s08.html#add_a_link"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2639006" playOrder="68">
+          <ncx:navLabel>
+            <ncx:text>Organizing Your Files</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s09.html"/>
+          <ncx:navPoint id="id2678056" playOrder="69">
+            <ncx:navLabel>
+              <ncx:text>Move, Copy, or Delete a File</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s09.html#move_copy_or_delete_a_file"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2525076" playOrder="70">
+            <ncx:navLabel>
+              <ncx:text>Rename a File or Folder or a Group of Files</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s09.html#rename_a_file_or_folder_or_a_group_of_fi"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2576515" playOrder="71">
+          <ncx:navLabel>
+            <ncx:text>Recovering a Deleted Item</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s10.html"/>
+          <ncx:navPoint id="id2562752" playOrder="72">
+            <ncx:navLabel>
+              <ncx:text>Undo a Deletion</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s10.html#undo_a_deletion"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2505468" playOrder="73">
+            <ncx:navLabel>
+              <ncx:text>Restore an Item</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s10.html#restore_an_item"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2578085" playOrder="74">
+          <ncx:navLabel>
+            <ncx:text>Navigating with Toolbars</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s11.html"/>
+          <ncx:navPoint id="id2553709" playOrder="75">
+            <ncx:navLabel>
+              <ncx:text>Display a Toolbar</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s11.html#display_a_toolbar"/>
+            <ncx:navPoint id="id2528484" playOrder="76">
+              <ncx:navLabel>
+                <ncx:text>The Taskbar's Toolbars</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch03s11.html#the_taskbars_toolbars"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2579639" playOrder="77">
+          <ncx:navLabel>
+            <ncx:text>Sharing Files with Other Users</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s12.html"/>
+          <ncx:navPoint id="id2544906" playOrder="78">
+            <ncx:navLabel>
+              <ncx:text>Share a File or Folder</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s12.html#share_a_file_or_folder"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2551186" playOrder="79">
+          <ncx:navLabel>
+            <ncx:text>Sharing with Selected Users</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s13.html"/>
+          <ncx:navPoint id="id2561018" playOrder="80">
+            <ncx:navLabel>
+              <ncx:text>Share a File or Folder with Selected Users</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s13.html#share_a_file_or_folder_with_selected_use"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2615491" playOrder="81">
+          <ncx:navLabel>
+            <ncx:text>Copying Files to a CD or DVD</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s14.html"/>
+          <ncx:navPoint id="id2539645" playOrder="82">
+            <ncx:navLabel>
+              <ncx:text>Archive Your Files</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s14.html#archive_your_files"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2520168" playOrder="83">
+            <ncx:navLabel>
+              <ncx:text>Copy Files for Distribution</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s14.html#copy_files_for_distribution"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2653288" playOrder="84">
+          <ncx:navLabel>
+            <ncx:text>Compressing Files</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s15.html"/>
+          <ncx:navPoint id="id2614281" playOrder="85">
+            <ncx:navLabel>
+              <ncx:text>Create a Compressed Folder</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s15.html#create_a_compressed_folder"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2546313" playOrder="86">
+            <ncx:navLabel>
+              <ncx:text>Use a Compressed File</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s15.html#use_a_compressed_file"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2625947" playOrder="87">
+          <ncx:navLabel>
+            <ncx:text>Organizing Library Folders</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s16.html"/>
+          <ncx:navPoint id="id2592110" playOrder="88">
+            <ncx:navLabel>
+              <ncx:text>Add a Folder to a Library</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s16.html#add_a_folder_to_a_library"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2626721" playOrder="89">
+            <ncx:navLabel>
+              <ncx:text>Remove a Folder from a Library</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s16.html#remove_a_folder_from_a_library"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2659395" playOrder="90">
+            <ncx:navLabel>
+              <ncx:text>Create a New Library</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s16.html#create_a_new_library"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2513128" playOrder="91">
+          <ncx:navLabel>
+            <ncx:text>Using a Removable Memory Device</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch03s17.html"/>
+          <ncx:navPoint id="id2640414" playOrder="92">
+            <ncx:navLabel>
+              <ncx:text>Use the Device</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch03s17.html#use_the_device"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2508437" playOrder="93">
+        <ncx:navLabel>
+          <ncx:text>4. Running Programs and Gadgets</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch04.html"/>
+        <ncx:navPoint id="id2535099" playOrder="94">
+          <ncx:navLabel>
+            <ncx:text>Using the Ribbon</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04.html#using_the_ribbon"/>
+          <ncx:navPoint id="id2648878" playOrder="95">
+            <ncx:navLabel>
+              <ncx:text>Explore the Ribbon</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04.html#explore_the_ribbon"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2581291" playOrder="96">
+            <ncx:navLabel>
+              <ncx:text>Use the Quick Access Toolbar</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04.html#use_the_quick_access_toolbar"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2540285" playOrder="97">
+            <ncx:navLabel>
+              <ncx:text>Access More Commands</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04.html#access_more_commands"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2638055" playOrder="98">
+          <ncx:navLabel>
+            <ncx:text>Composing a Document</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s02.html"/>
+          <ncx:navPoint id="id2537487" playOrder="99">
+            <ncx:navLabel>
+              <ncx:text>Create a Document</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s02.html#create_a_document"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2562026" playOrder="100">
+            <ncx:navLabel>
+              <ncx:text>Format the Document</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s02.html#format_the_document"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2664120" playOrder="101">
+          <ncx:navLabel>
+            <ncx:text>Saving, Closing, and Opening a Document</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s03.html"/>
+          <ncx:navPoint id="id2642169" playOrder="102">
+            <ncx:navLabel>
+              <ncx:text>Save a Document</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s03.html#save_a_document"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2614777" playOrder="103">
+            <ncx:navLabel>
+              <ncx:text>Close a Document</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s03.html#close_a_document"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2588222" playOrder="104">
+            <ncx:navLabel>
+              <ncx:text>Open a Document</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s03.html#open_a_document-id001"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2526509" playOrder="105">
+          <ncx:navLabel>
+            <ncx:text>Creating Easy Access to a Program</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s04.html"/>
+          <ncx:navPoint id="id2616921" playOrder="106">
+            <ncx:navLabel>
+              <ncx:text>Pin a Program to the Taskbar</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s04.html#pin_a_program_to_the_taskbar"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2578651" playOrder="107">
+            <ncx:navLabel>
+              <ncx:text>Pin a Program to the Start Menu</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s04.html#pin_a_program_to_the_start_menu"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2616496" playOrder="108">
+          <ncx:navLabel>
+            <ncx:text>Copying Material Between Documents</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s05.html"/>
+          <ncx:navPoint id="id2561548" playOrder="109">
+            <ncx:navLabel>
+              <ncx:text>Copy and Insert Material</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s05.html#copy_and_insert_material"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2641088" playOrder="110">
+          <ncx:navLabel>
+            <ncx:text>Dialog Box Decisions</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s06.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2660367" playOrder="111">
+          <ncx:navLabel>
+            <ncx:text>Inserting Special Characters</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s07.html"/>
+          <ncx:navPoint id="id2634953" playOrder="112">
+            <ncx:navLabel>
+              <ncx:text>Find and Insert a Character</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s07.html#find_and_insert_a_character"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2640797" playOrder="113">
+          <ncx:navLabel>
+            <ncx:text>Crunching Numbers</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s08.html"/>
+          <ncx:navPoint id="id2539368" playOrder="114">
+            <ncx:navLabel>
+              <ncx:text>Use Calculator</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s08.html#use_calculator"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2507584" playOrder="115">
+            <ncx:navLabel>
+              <ncx:text>Make Advanced Calculations</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s08.html#make_advanced_calculations"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2547222" playOrder="116">
+          <ncx:navLabel>
+            <ncx:text>Making Specialized Calculations</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s09.html"/>
+          <ncx:navPoint id="id2528642" playOrder="117">
+            <ncx:navLabel>
+              <ncx:text>Use the Specialized Calculations</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s09.html#use_the_specialized_calculations"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2677542" playOrder="118">
+          <ncx:navLabel>
+            <ncx:text>Writing Equations and Formulas</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s10.html"/>
+          <ncx:navPoint id="id2508497" playOrder="119">
+            <ncx:navLabel>
+              <ncx:text>Write an Equation</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s10.html#write_an_equation"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2671422" playOrder="120">
+          <ncx:navLabel>
+            <ncx:text>Running Multiple Copies of One Program</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s11.html"/>
+          <ncx:navPoint id="id2643095" playOrder="121">
+            <ncx:navLabel>
+              <ncx:text>Open and Use Another Copy of a Program</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s11.html#open_and_use_another_copy_of_a_program"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2635997" playOrder="122">
+          <ncx:navLabel>
+            <ncx:text>Copying Your Screen Content</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s12.html"/>
+          <ncx:navPoint id="id2619711" playOrder="123">
+            <ncx:navLabel>
+              <ncx:text>Snip an Image</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s12.html#snip_an_image"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2620000" playOrder="124">
+          <ncx:navLabel>
+            <ncx:text>Writing Your Text</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s13.html"/>
+          <ncx:navPoint id="id2675699" playOrder="125">
+            <ncx:navLabel>
+              <ncx:text>Write Your Text</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s13.html#write_your_text"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2657070" playOrder="126">
+            <ncx:navLabel>
+              <ncx:text>Add Other Elements</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s13.html#add_other_elements"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2526046" playOrder="127">
+          <ncx:navLabel>
+            <ncx:text>Typing on Your Screen</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s14.html"/>
+          <ncx:navPoint id="id2628426" playOrder="128">
+            <ncx:navLabel>
+              <ncx:text>Type Your Content</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s14.html#type_your_content"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2511952" playOrder="129">
+          <ncx:navLabel>
+            <ncx:text>Writing Quick Notes</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s15.html"/>
+          <ncx:navPoint id="id2511910" playOrder="130">
+            <ncx:navLabel>
+              <ncx:text>Write and Read Your Notes</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s15.html#write_and_read_your_notes"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2637201" playOrder="131">
+          <ncx:navLabel>
+            <ncx:text>Writing and Drawing Notes</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s16.html"/>
+          <ncx:navPoint id="id2511387" playOrder="132">
+            <ncx:navLabel>
+              <ncx:text>Write and Draw</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s16.html#write_and_draw"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2614330" playOrder="133">
+            <ncx:navLabel>
+              <ncx:text>Modify and Use Your Content</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s16.html#modify_and_use_your_content"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2544063" playOrder="134">
+          <ncx:navLabel>
+            <ncx:text>Annotating a Document</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s17.html"/>
+          <ncx:navPoint id="id2665362" playOrder="135">
+            <ncx:navLabel>
+              <ncx:text>Make Your Comments</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s17.html#make_your_comments"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2587133" playOrder="136">
+          <ncx:navLabel>
+            <ncx:text>Enlarging the Screen Content</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s18.html"/>
+          <ncx:navPoint id="id2517413" playOrder="137">
+            <ncx:navLabel>
+              <ncx:text>Magnify the Screen</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s18.html#magnify_the_screen"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2650213" playOrder="138">
+          <ncx:navLabel>
+            <ncx:text>Controlling Your Gadgets</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s19.html"/>
+          <ncx:navPoint id="id2625570" playOrder="139">
+            <ncx:navLabel>
+              <ncx:text>Control a Gadget</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s19.html#control_a_gadget"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2513476" playOrder="140">
+            <ncx:navLabel>
+              <ncx:text>Add or Delete Gadgets</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s19.html#add_or_delete_gadgets"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2663501" playOrder="141">
+          <ncx:navLabel>
+            <ncx:text>Running Commands</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s20.html"/>
+          <ncx:navPoint id="id2648702" playOrder="142">
+            <ncx:navLabel>
+              <ncx:text>Run a Command</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s20.html#run_a_command"/>
+            <ncx:navPoint id="id2546925" playOrder="143">
+              <ncx:navLabel>
+                <ncx:text>The Top 10 Command-Prompt Commands</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch04s20.html#the_top_10_command-prompt_commands"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2545576" playOrder="144">
+            <ncx:navLabel>
+              <ncx:text>Find a Command</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s20.html#find_a_command"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2674985" playOrder="145">
+            <ncx:navLabel>
+              <ncx:text>Get Information About a Command</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s20.html#get_information_about_a_command"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2523582" playOrder="146">
+          <ncx:navLabel>
+            <ncx:text>Running Older Programs</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch04s21.html"/>
+          <ncx:navPoint id="id2545897" playOrder="147">
+            <ncx:navLabel>
+              <ncx:text>Set the Compatibility</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch04s21.html#set_the_compatibility"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2513338" playOrder="148">
+        <ncx:navLabel>
+          <ncx:text>5. Personalizing</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch05.html"/>
+        <ncx:navPoint id="id2618934" playOrder="149">
+          <ncx:navLabel>
+            <ncx:text>Changing the Overall Look</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05.html#changing_the_overall_look"/>
+          <ncx:navPoint id="id2544205" playOrder="150">
+            <ncx:navLabel>
+              <ncx:text>Change the Theme</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05.html#change_the_theme"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2543832" playOrder="151">
+            <ncx:navLabel>
+              <ncx:text>Modify the Theme</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05.html#modify_the_theme"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2640641" playOrder="152">
+          <ncx:navLabel>
+            <ncx:text>Changing the Window Color</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s02.html"/>
+          <ncx:navPoint id="id2639238" playOrder="153">
+            <ncx:navLabel>
+              <ncx:text>Change the Color</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s02.html#change_the_color"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2679469" playOrder="154">
+          <ncx:navLabel>
+            <ncx:text>Enlarging Text</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s03.html"/>
+          <ncx:navPoint id="id2639222" playOrder="155">
+            <ncx:navLabel>
+              <ncx:text>Enlarge the Font</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s03.html#enlarge_the_font"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2584764" playOrder="156">
+          <ncx:navLabel>
+            <ncx:text>Setting Your Desktop Background</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s04.html"/>
+          <ncx:navPoint id="id2544214" playOrder="157">
+            <ncx:navLabel>
+              <ncx:text>Set the Background</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s04.html#set_the_background"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2654566" playOrder="158">
+            <ncx:navLabel>
+              <ncx:text>Create a Background Slide Show</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s04.html#create_a_background_slide_show"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2553865" playOrder="159">
+          <ncx:navLabel>
+            <ncx:text>Customizing the Desktop Icons</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s05.html"/>
+          <ncx:navPoint id="id2589924" playOrder="160">
+            <ncx:navLabel>
+              <ncx:text>Select and Modify the Icons</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s05.html#select_and_modify_the_icons"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2671513" playOrder="161">
+          <ncx:navLabel>
+            <ncx:text>Using a Screen Saver</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s06.html"/>
+          <ncx:navPoint id="id2568996" playOrder="162">
+            <ncx:navLabel>
+              <ncx:text>Choose a Screen Saver</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s06.html#choose_a_screen_saver"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2662069" playOrder="163">
+          <ncx:navLabel>
+            <ncx:text>Customizing Your Mouse</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s07.html"/>
+          <ncx:navPoint id="id2636167" playOrder="164">
+            <ncx:navLabel>
+              <ncx:text>Set the Buttons</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s07.html#set_the_buttons"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2672191" playOrder="165">
+            <ncx:navLabel>
+              <ncx:text>Set the Mouse Pointer</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s07.html#set_the_mouse_pointer"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2569588" playOrder="166">
+          <ncx:navLabel>
+            <ncx:text>Customizing Individual Window Elements</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s08.html"/>
+          <ncx:navPoint id="id2663614" playOrder="167">
+            <ncx:navLabel>
+              <ncx:text>Change Individual Items</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s08.html#change_individual_items"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2672237" playOrder="168">
+          <ncx:navLabel>
+            <ncx:text>Controlling the User Account Control</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s09.html"/>
+          <ncx:navPoint id="id2637609" playOrder="169">
+            <ncx:navLabel>
+              <ncx:text>Set the Notification Level</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s09.html#set_the_notification_level"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2547651" playOrder="170">
+          <ncx:navLabel>
+            <ncx:text>Customizing the Taskbar</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s10.html"/>
+          <ncx:navPoint id="id2586776" playOrder="171">
+            <ncx:navLabel>
+              <ncx:text>Customize the Taskbar</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s10.html#customize_the_taskbar"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2662766" playOrder="172">
+            <ncx:navLabel>
+              <ncx:text>Customize the Notification Area of the Taskbar</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s10.html#customize_the_notification_area_of_the_t"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2525120" playOrder="173">
+          <ncx:navLabel>
+            <ncx:text>Moving the Taskbar</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s11.html"/>
+          <ncx:navPoint id="id2556297" playOrder="174">
+            <ncx:navLabel>
+              <ncx:text>Move and Resize the Taskbar</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s11.html#move_and_resize_the_taskbar"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2629533" playOrder="175">
+          <ncx:navLabel>
+            <ncx:text>Customizing the Start Menu</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s12.html"/>
+          <ncx:navPoint id="id2513258" playOrder="176">
+            <ncx:navLabel>
+              <ncx:text>Set the Power Button and Privacy Defaults</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s12.html#set_the_power_button_and_privacy_default"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2602234" playOrder="177">
+          <ncx:navLabel>
+            <ncx:text>Customizing Windows Explorer</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s13.html"/>
+          <ncx:navPoint id="id2565097" playOrder="178">
+            <ncx:navLabel>
+              <ncx:text>Change the Way Windows Explorer Works</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s13.html#change_the_way_windows_explorer_works"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2513671" playOrder="179">
+            <ncx:navLabel>
+              <ncx:text>Change the Content That's Shown</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s13.html#change_the_content_thats_shown"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2535657" playOrder="180">
+          <ncx:navLabel>
+            <ncx:text>Changing Your Account Picture</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s14.html"/>
+          <ncx:navPoint id="id2662437" playOrder="181">
+            <ncx:navLabel>
+              <ncx:text>Change Your Picture</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s14.html#change_your_picture"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2638770" playOrder="182">
+          <ncx:navLabel>
+            <ncx:text>Setting the Way a Removable Storage Device Starts</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s15.html"/>
+          <ncx:navPoint id="id2561239" playOrder="183">
+            <ncx:navLabel>
+              <ncx:text>Set the AutoPlay</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s15.html#set_the_autoplay"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2536976" playOrder="184">
+          <ncx:navLabel>
+            <ncx:text>Using Alternative Ways of Working</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s16.html"/>
+          <ncx:navPoint id="id2508298" playOrder="185">
+            <ncx:navLabel>
+              <ncx:text>Set the Options</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s16.html#set_the_options"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2508627" playOrder="186">
+          <ncx:navLabel>
+            <ncx:text>Working Alternatives</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s17.html"/>
+          <ncx:navPoint id="id2611588" playOrder="187">
+            <ncx:navLabel>
+              <ncx:text>Alternative Tools</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s17.html#alternative_tools"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2661690" playOrder="188">
+            <ncx:navLabel>
+              <ncx:text>Alternative Settings</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s17.html#alternative_settings"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2639324" playOrder="189">
+          <ncx:navLabel>
+            <ncx:text>Working in a Different Part of the World</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s18.html"/>
+          <ncx:navPoint id="id2615773" playOrder="190">
+            <ncx:navLabel>
+              <ncx:text>Change the Default Region</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s18.html#change_the_default_region"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2584948" playOrder="191">
+            <ncx:navLabel>
+              <ncx:text>Add Keyboard and Language Support</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s18.html#add_keyboard_and_language_support"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2625348" playOrder="192">
+          <ncx:navLabel>
+            <ncx:text>Adding Time Zone Clocks</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s19.html"/>
+          <ncx:navPoint id="id2673757" playOrder="193">
+            <ncx:navLabel>
+              <ncx:text>Create the Clocks</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s19.html#create_the_clocks"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2543379" playOrder="194">
+          <ncx:navLabel>
+            <ncx:text>Controlling Updates</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s20.html"/>
+          <ncx:navPoint id="id2665722" playOrder="195">
+            <ncx:navLabel>
+              <ncx:text>Modify Windows Update</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s20.html#modify_windows_update"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2664470" playOrder="196">
+          <ncx:navLabel>
+            <ncx:text>Customizing the Action Center Messages</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s21.html"/>
+          <ncx:navPoint id="id2502695" playOrder="197">
+            <ncx:navLabel>
+              <ncx:text>Select the Type of Action Center Messages</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s21.html#select_the_type_of_action_center_message"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2554792" playOrder="198">
+          <ncx:navLabel>
+            <ncx:text>Controlling Information Gathering</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s22.html"/>
+          <ncx:navPoint id="id2616772" playOrder="199">
+            <ncx:navLabel>
+              <ncx:text>Control Sending Profiles</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s22.html#control_sending_profiles"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2676249" playOrder="200">
+          <ncx:navLabel>
+            <ncx:text>Controlling Problem Reporting</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s23.html"/>
+          <ncx:navPoint id="id2619689" playOrder="201">
+            <ncx:navLabel>
+              <ncx:text>Control Problem Information</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s23.html#control_problem_information"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2589784" playOrder="202">
+            <ncx:navLabel>
+              <ncx:text>Control Individual Program Reports</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s23.html#control_individual_program_reports"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2660002" playOrder="203">
+          <ncx:navLabel>
+            <ncx:text>Sharing Your Customizations</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch05s24.html"/>
+          <ncx:navPoint id="id2586087" playOrder="204">
+            <ncx:navLabel>
+              <ncx:text>Share Your Theme</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch05s24.html#share_your_theme"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2626471" playOrder="205">
+        <ncx:navLabel>
+          <ncx:text>6. Exploring the Internet</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch06.html"/>
+        <ncx:navPoint id="id2559543" playOrder="206">
+          <ncx:navLabel>
+            <ncx:text>What's Where in Internet Explorer?</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06.html#whats_where_in_internet_explorer"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2648386" playOrder="207">
+          <ncx:navLabel>
+            <ncx:text>Finding a Web Page</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s02.html"/>
+          <ncx:navPoint id="id2562065" playOrder="208">
+            <ncx:navLabel>
+              <ncx:text>Explore</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s02.html#explore-id001"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2549375" playOrder="209">
+          <ncx:navLabel>
+            <ncx:text>Going to a Specific Web Page</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s03.html"/>
+          <ncx:navPoint id="id2600867" playOrder="210">
+            <ncx:navLabel>
+              <ncx:text>Specify an Address</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s03.html#specify_an_address"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2561251" playOrder="211">
+          <ncx:navLabel>
+            <ncx:text>Opening Multiple Web Pages</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s04.html"/>
+          <ncx:navPoint id="id2549763" playOrder="212">
+            <ncx:navLabel>
+              <ncx:text>Specify the Web Page</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s04.html#specify_the_web_page"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2640527" playOrder="213">
+            <ncx:navLabel>
+              <ncx:text>Use a Link</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s04.html#use_a_link"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2580743" playOrder="214">
+          <ncx:navLabel>
+            <ncx:text>Viewing Multiple Web Pages</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s05.html"/>
+          <ncx:navPoint id="id2648977" playOrder="215">
+            <ncx:navLabel>
+              <ncx:text>View Different Web Pages</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s05.html#view_different_web_pages"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2674199" playOrder="216">
+            <ncx:navLabel>
+              <ncx:text>Control Your Tabs</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s05.html#control_your_tabs"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2576801" playOrder="217">
+          <ncx:navLabel>
+            <ncx:text>Returning to Your Favorite Sites</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s06.html"/>
+          <ncx:navPoint id="id2653323" playOrder="218">
+            <ncx:navLabel>
+              <ncx:text>Save a Location</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s06.html#save_a_location"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2545523" playOrder="219">
+            <ncx:navLabel>
+              <ncx:text>Return to a Location</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s06.html#return_to_a_location"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2649941" playOrder="220">
+          <ncx:navLabel>
+            <ncx:text>Setting Your Home Page or Pages</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s07.html"/>
+          <ncx:navPoint id="id2670423" playOrder="221">
+            <ncx:navLabel>
+              <ncx:text>Set Your Home Page or Pages</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s07.html#set_your_home_page_or_pages"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2550968" playOrder="222">
+          <ncx:navLabel>
+            <ncx:text>Finding Related Web Sites</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s08.html"/>
+          <ncx:navPoint id="id2611071" playOrder="223">
+            <ncx:navLabel>
+              <ncx:text>See Other Sites</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s08.html#see_other_sites"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2641632" playOrder="224">
+          <ncx:navLabel>
+            <ncx:text>Finding Information on the Internet</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s09.html"/>
+          <ncx:navPoint id="id2559406" playOrder="225">
+            <ncx:navLabel>
+              <ncx:text>Search for an Item</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s09.html#search_for_an_item"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2513005" playOrder="226">
+          <ncx:navLabel>
+            <ncx:text>Viewing One Section of a Page</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s10.html"/>
+          <ncx:navPoint id="id2641919" playOrder="227">
+            <ncx:navLabel>
+              <ncx:text>Subscribe to a Web Slice</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s10.html#subscribe_to_a_web_slice"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2547962" playOrder="228">
+          <ncx:navLabel>
+            <ncx:text>Reading RSS Feeds</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s11.html"/>
+          <ncx:navPoint id="id2555757" playOrder="229">
+            <ncx:navLabel>
+              <ncx:text>Get Your Feed</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s11.html#get_your_feed"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2517146" playOrder="230">
+            <ncx:navLabel>
+              <ncx:text>Read Your Feed</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s11.html#read_your_feed"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2538016" playOrder="231">
+          <ncx:navLabel>
+            <ncx:text>Controlling Pop-Up Windows</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s12.html"/>
+          <ncx:navPoint id="id2615285" playOrder="232">
+            <ncx:navLabel>
+              <ncx:text>Set the Pop-Up Blocker</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s12.html#set_the_pop-up_blocker"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2676772" playOrder="233">
+            <ncx:navLabel>
+              <ncx:text>Control the Pop-Up Windows</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s12.html#control_the_pop-up_windows"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2540610" playOrder="234">
+          <ncx:navLabel>
+            <ncx:text>Browsing in Private</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s13.html"/>
+          <ncx:navPoint id="id2555216" playOrder="235">
+            <ncx:navLabel>
+              <ncx:text>Forget Your History</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s13.html#forget_your_history"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2555491" playOrder="236">
+            <ncx:navLabel>
+              <ncx:text>Turn On Private Browsing</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s13.html#turn_on_private_browsing"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2528793" playOrder="237">
+          <ncx:navLabel>
+            <ncx:text>Keeping Your Information Private</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s14.html"/>
+          <ncx:navPoint id="id2633088" playOrder="238">
+            <ncx:navLabel>
+              <ncx:text>Block Information Gathering</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s14.html#block_information_gathering"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2512976" playOrder="239">
+          <ncx:navLabel>
+            <ncx:text>Managing Add-Ons</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s15.html"/>
+          <ncx:navPoint id="id2561202" playOrder="240">
+            <ncx:navLabel>
+              <ncx:text>Manage the Add-Ons</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s15.html#manage_the_add-ons"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2512682" playOrder="241">
+          <ncx:navLabel>
+            <ncx:text>Transferring Your Settings</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s16.html"/>
+          <ncx:navPoint id="id2513555" playOrder="242">
+            <ncx:navLabel>
+              <ncx:text>Save the Information</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s16.html#save_the_information"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2658978" playOrder="243">
+            <ncx:navLabel>
+              <ncx:text>Transfer the Information</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s16.html#transfer_the_information"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2652251" playOrder="244">
+          <ncx:navLabel>
+            <ncx:text>Saving a Web Page</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s17.html"/>
+          <ncx:navPoint id="id2531586" playOrder="245">
+            <ncx:navLabel>
+              <ncx:text>Save a Web Page</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s17.html#save_a_web_page"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2586848" playOrder="246">
+          <ncx:navLabel>
+            <ncx:text>Copying Material from a Web Page</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s18.html"/>
+          <ncx:navPoint id="id2548453" playOrder="247">
+            <ncx:navLabel>
+              <ncx:text>Save a Picture</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s18.html#save_a_picture"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2518021" playOrder="248">
+            <ncx:navLabel>
+              <ncx:text>Save Some Text</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s18.html#save_some_text"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2637507" playOrder="249">
+          <ncx:navLabel>
+            <ncx:text>Using Accelerators for Quick Actions</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch06s19.html"/>
+          <ncx:navPoint id="id2637522" playOrder="250">
+            <ncx:navLabel>
+              <ncx:text>Use an Accelerator</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch06s19.html#use_an_accelerator"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2548504" playOrder="251">
+        <ncx:navLabel>
+          <ncx:text>7. Playing Games</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch07.html"/>
+        <ncx:navPoint id="id2506232" playOrder="252">
+          <ncx:navLabel>
+            <ncx:text>Playing Your Games</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07.html#playing_your_games"/>
+          <ncx:navPoint id="id2671296" playOrder="253">
+            <ncx:navLabel>
+              <ncx:text>Play a Game</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07.html#play_a_game"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2513041" playOrder="254">
+            <ncx:navLabel>
+              <ncx:text>Control the Games</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07.html#control_the_games"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2510855" playOrder="255">
+          <ncx:navLabel>
+            <ncx:text>Playing Chess Titans</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07s02.html"/>
+          <ncx:navPoint id="id2677089" playOrder="256">
+            <ncx:navLabel>
+              <ncx:text>Play Chess Titans</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s02.html#play_chess_titans"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2679593" playOrder="257">
+          <ncx:navLabel>
+            <ncx:text>Playing FreeCell</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07s03.html"/>
+          <ncx:navPoint id="id2633568" playOrder="258">
+            <ncx:navLabel>
+              <ncx:text>Play FreeCell</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s03.html#play_freecell"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2596898" playOrder="259">
+          <ncx:navLabel>
+            <ncx:text>Playing Hearts</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07s04.html"/>
+          <ncx:navPoint id="id2540744" playOrder="260">
+            <ncx:navLabel>
+              <ncx:text>Play Hearts</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s04.html#play_hearts"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2616327" playOrder="261">
+          <ncx:navLabel>
+            <ncx:text>Playing Mahjong Titans</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07s05.html"/>
+          <ncx:navPoint id="id2662636" playOrder="262">
+            <ncx:navLabel>
+              <ncx:text>Play Mahjong Titans</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s05.html#play_mahjong_titans"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2635721" playOrder="263">
+          <ncx:navLabel>
+            <ncx:text>Playing Minesweeper</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07s06.html"/>
+          <ncx:navPoint id="id2556575" playOrder="264">
+            <ncx:navLabel>
+              <ncx:text>Play Minesweeper</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s06.html#play_minesweeper"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2525648" playOrder="265">
+          <ncx:navLabel>
+            <ncx:text>Playing Solitaire</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07s07.html"/>
+          <ncx:navPoint id="id2542358" playOrder="266">
+            <ncx:navLabel>
+              <ncx:text>Play Solitaire</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s07.html#play_solitaire"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2590596" playOrder="267">
+          <ncx:navLabel>
+            <ncx:text>Playing Purble Place</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07s08.html"/>
+          <ncx:navPoint id="id2671565" playOrder="268">
+            <ncx:navLabel>
+              <ncx:text>Play Comfy Cakes</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s08.html#play_comfy_cakes"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2545882" playOrder="269">
+            <ncx:navLabel>
+              <ncx:text>Play Purble Shop</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s08.html#play_purble_shop"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2675861" playOrder="270">
+            <ncx:navLabel>
+              <ncx:text>Play Purble Pairs</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s08.html#play_purble_pairs"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2514005" playOrder="271">
+          <ncx:navLabel>
+            <ncx:text>Playing Spider Solitaire</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07s09.html"/>
+          <ncx:navPoint id="id2660393" playOrder="272">
+            <ncx:navLabel>
+              <ncx:text>Play Spider Solitaire</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s09.html#play_spider_solitaire"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2670405" playOrder="273">
+          <ncx:navLabel>
+            <ncx:text>Playing Games over the Internet</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07s10.html"/>
+          <ncx:navPoint id="id2543865" playOrder="274">
+            <ncx:navLabel>
+              <ncx:text>Play a Game</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s10.html#play_a_game-id001"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2659840" playOrder="275">
+          <ncx:navLabel>
+            <ncx:text>Playing Microsoft Touch Pack Games</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch07s11.html"/>
+          <ncx:navPoint id="id2612489" playOrder="276">
+            <ncx:navLabel>
+              <ncx:text>Play the Touch Games</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch07s11.html#play_the_touch_games"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2520308" playOrder="277">
+        <ncx:navLabel>
+          <ncx:text>8. Working with Pictures</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch08.html"/>
+        <ncx:navPoint id="id2506205" playOrder="278">
+          <ncx:navLabel>
+            <ncx:text>Viewing Your Photos</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08.html#viewing_your_photos"/>
+          <ncx:navPoint id="id2628885" playOrder="279">
+            <ncx:navLabel>
+              <ncx:text>View Your Photos</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08.html#view_your_photos"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2538245" playOrder="280">
+            <ncx:navLabel>
+              <ncx:text>Use the Viewer</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08.html#use_the_viewer"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2539566" playOrder="281">
+          <ncx:navLabel>
+            <ncx:text>So Many Photo Tools!</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08s02.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2642358" playOrder="282">
+          <ncx:navLabel>
+            <ncx:text>Creating a Multimedia Slide Show</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08s03.html"/>
+          <ncx:navPoint id="id2638181" playOrder="283">
+            <ncx:navLabel>
+              <ncx:text>Assemble a DVD Slide Show</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s03.html#assemble_a_dvd_slide_show"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2590053" playOrder="284">
+            <ncx:navLabel>
+              <ncx:text>Create the Slide Show</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s03.html#create_the_slide_show"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2628403" playOrder="285">
+          <ncx:navLabel>
+            <ncx:text>Viewing Photos with Windows Media Center</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08s04.html"/>
+          <ncx:navPoint id="id2652998" playOrder="286">
+            <ncx:navLabel>
+              <ncx:text>View Individual Photos</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s04.html#view_individual_photos"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2545537" playOrder="287">
+            <ncx:navLabel>
+              <ncx:text>Create and Play a Slide Show</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s04.html#create_and_play_a_slide_show"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2671977" playOrder="288">
+          <ncx:navLabel>
+            <ncx:text>Viewing Photos with Windows Live Photo Gallery</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08s05.html"/>
+          <ncx:navPoint id="id2655809" playOrder="289">
+            <ncx:navLabel>
+              <ncx:text>Browse Your Photos</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s05.html#browse_your_photos"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2639371" playOrder="290">
+            <ncx:navLabel>
+              <ncx:text>Classify and Find Your Photos</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s05.html#classify_and_find_your_photos"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2641970" playOrder="291">
+          <ncx:navLabel>
+            <ncx:text>Editing Your Photos</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08s06.html"/>
+          <ncx:navPoint id="id2641989" playOrder="292">
+            <ncx:navLabel>
+              <ncx:text>Adjust the Picture</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s06.html#adjust_the_picture"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2516326" playOrder="293">
+            <ncx:navLabel>
+              <ncx:text>Crop a Photo</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s06.html#crop_a_photo"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2517950" playOrder="294">
+            <ncx:navLabel>
+              <ncx:text>Remove "Red Eye"</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s06.html#remove_red_eye"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2652702" playOrder="295">
+          <ncx:navLabel>
+            <ncx:text>Viewing a Custom Photo Slide Show</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08s07.html"/>
+          <ncx:navPoint id="id2610364" playOrder="296">
+            <ncx:navLabel>
+              <ncx:text>View the Show</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s07.html#view_the_show"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2506786" playOrder="297">
+          <ncx:navLabel>
+            <ncx:text>Creating a Panoramic Photo</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08s08.html"/>
+          <ncx:navPoint id="id2528593" playOrder="298">
+            <ncx:navLabel>
+              <ncx:text>Merge Your Photos</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s08.html#merge_your_photos"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2673476" playOrder="299">
+          <ncx:navLabel>
+            <ncx:text>Creating an Online Photo Album</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08s09.html"/>
+          <ncx:navPoint id="id2660840" playOrder="300">
+            <ncx:navLabel>
+              <ncx:text>Create the Album</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s09.html#create_the_album"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2590678" playOrder="301">
+          <ncx:navLabel>
+            <ncx:text>Importing Photos from Your Camera or Removable Media</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08s10.html"/>
+          <ncx:navPoint id="id2643710" playOrder="302">
+            <ncx:navLabel>
+              <ncx:text>Import Your Photos</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s10.html#import_your_photos"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2652912" playOrder="303">
+          <ncx:navLabel>
+            <ncx:text>Drawing Pictures</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08s11.html"/>
+          <ncx:navPoint id="id2632945" playOrder="304">
+            <ncx:navLabel>
+              <ncx:text>Create a Picture</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s11.html#create_a_picture"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2679642" playOrder="305">
+            <ncx:navLabel>
+              <ncx:text>Edit a Picture</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s11.html#edit_a_picture"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2521995" playOrder="306">
+          <ncx:navLabel>
+            <ncx:text>Changing a Picture's Resolution</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch08s12.html"/>
+          <ncx:navPoint id="id2522012" playOrder="307">
+            <ncx:navLabel>
+              <ncx:text>Resize with Paint</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch08s12.html#resize_with_paint"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2634771" playOrder="308">
+        <ncx:navLabel>
+          <ncx:text>9. Working with Multimedia</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch09.html"/>
+        <ncx:navPoint id="id2678756" playOrder="309">
+          <ncx:navLabel>
+            <ncx:text>Playing Multimedia with Media Player</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch09.html#playing_multimedia_with_media_player"/>
+          <ncx:navPoint id="id2581623" playOrder="310">
+            <ncx:navLabel>
+              <ncx:text>Start Playing</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09.html#start_playing"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2590272" playOrder="311">
+            <ncx:navLabel>
+              <ncx:text>Play Anything</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09.html#play_anything"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2619278" playOrder="312">
+          <ncx:navLabel>
+            <ncx:text>Arranging Your Media with Playlists</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch09s02.html"/>
+          <ncx:navPoint id="id2556710" playOrder="313">
+            <ncx:navLabel>
+              <ncx:text>Create a Playlist</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s02.html#create_a_playlist"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2550860" playOrder="314">
+            <ncx:navLabel>
+              <ncx:text>Create an Auto Playlist</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s02.html#create_an_auto_playlist"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2676378" playOrder="315">
+          <ncx:navLabel>
+            <ncx:text>Copying CD Music</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch09s03.html"/>
+          <ncx:navPoint id="id2511020" playOrder="316">
+            <ncx:navLabel>
+              <ncx:text>Rip from a CD</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s03.html#rip_from_a_cd"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2618046" playOrder="317">
+            <ncx:navLabel>
+              <ncx:text>Create a Music CD</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s03.html#create_a_music_cd"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2652138" playOrder="318">
+          <ncx:navLabel>
+            <ncx:text>Controlling Video Playback</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch09s04.html"/>
+          <ncx:navPoint id="id2614792" playOrder="319">
+            <ncx:navLabel>
+              <ncx:text>Adjust the Playback</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s04.html#adjust_the_playback"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2649280" playOrder="320">
+          <ncx:navLabel>
+            <ncx:text>Changing Media Player's Appearance</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch09s05.html"/>
+          <ncx:navPoint id="id2538142" playOrder="321">
+            <ncx:navLabel>
+              <ncx:text>Apply a Skin</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s05.html#apply_a_skin"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2578359" playOrder="322">
+          <ncx:navLabel>
+            <ncx:text>Synchronizing Media with a Portable Device</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch09s06.html"/>
+          <ncx:navPoint id="id2671995" playOrder="323">
+            <ncx:navLabel>
+              <ncx:text>Synchronize</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s06.html#synchronize"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2518398" playOrder="324">
+            <ncx:navLabel>
+              <ncx:text>Control the Synchronization Settings</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s06.html#control_the_synchronization_settings"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2601680" playOrder="325">
+          <ncx:navLabel>
+            <ncx:text>Sharing Media Libraries on Your Network</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch09s07.html"/>
+          <ncx:navPoint id="id2535289" playOrder="326">
+            <ncx:navLabel>
+              <ncx:text>Share with Specific Computers and Devices</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s07.html#share_with_specific_computers_and_device"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2613623" playOrder="327">
+            <ncx:navLabel>
+              <ncx:text>Share with Everyone</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s07.html#share_with_everyone"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2643613" playOrder="328">
+          <ncx:navLabel>
+            <ncx:text>Accessing Your Media over the Internet</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch09s08.html"/>
+          <ncx:navPoint id="id2672061" playOrder="329">
+            <ncx:navLabel>
+              <ncx:text>Set Up the Connection</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s08.html#set_up_the_connection"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2526884" playOrder="330">
+            <ncx:navLabel>
+              <ncx:text>Troubleshoot the Connection</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s08.html#troubleshoot_the_connection"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2513358" playOrder="331">
+          <ncx:navLabel>
+            <ncx:text>Playing Your Media on Another Computer or Device</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch09s09.html"/>
+          <ncx:navPoint id="id2513374" playOrder="332">
+            <ncx:navLabel>
+              <ncx:text>Set Up a Computer or a Device to Receive Media</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s09.html#set_up_a_computer_or_a_device_to_receive"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2676222" playOrder="333">
+            <ncx:navLabel>
+              <ncx:text>Play Media to a Device</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s09.html#play_media_to_a_device"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2567257" playOrder="334">
+          <ncx:navLabel>
+            <ncx:text>Using Windows Media Center</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch09s10.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2564300" playOrder="335">
+          <ncx:navLabel>
+            <ncx:text>Watching Windows Media Center</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch09s11.html"/>
+          <ncx:navPoint id="id2561151" playOrder="336">
+            <ncx:navLabel>
+              <ncx:text>Control Media Center</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s11.html#control_media_center"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2528713" playOrder="337">
+          <ncx:navLabel>
+            <ncx:text>Creating a Video DVD</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch09s12.html"/>
+          <ncx:navPoint id="id2603042" playOrder="338">
+            <ncx:navLabel>
+              <ncx:text>Create the DVD</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s12.html#create_the_dvd"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2631070" playOrder="339">
+          <ncx:navLabel>
+            <ncx:text>Recording Video from a Camera</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch09s13.html"/>
+          <ncx:navPoint id="id2617364" playOrder="340">
+            <ncx:navLabel>
+              <ncx:text>Record Live Video</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s13.html#record_live_video"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2641710" playOrder="341">
+          <ncx:navLabel>
+            <ncx:text>Downloading Recorded Video from a Camera</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch09s14.html"/>
+          <ncx:navPoint id="id2641726" playOrder="342">
+            <ncx:navLabel>
+              <ncx:text>Download the Entire Video</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s14.html#download_the_entire_video"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2542611" playOrder="343">
+            <ncx:navLabel>
+              <ncx:text>Download Video Clips</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s14.html#download_video_clips"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2661823" playOrder="344">
+          <ncx:navLabel>
+            <ncx:text>Making a Movie</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch09s15.html"/>
+          <ncx:navPoint id="id2661839" playOrder="345">
+            <ncx:navLabel>
+              <ncx:text>Create a Movie</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch09s15.html#create_a_movie"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2526772" playOrder="346">
+        <ncx:navLabel>
+          <ncx:text>10. Using Voice and Sounds</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch10.html"/>
+        <ncx:navPoint id="id2522538" playOrder="347">
+          <ncx:navLabel>
+            <ncx:text>Controlling the Volume</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch10.html#controlling_the_volume"/>
+          <ncx:navPoint id="id2649563" playOrder="348">
+            <ncx:navLabel>
+              <ncx:text>Set the Master Volume Level</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10.html#set_the_master_volume_level"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2641857" playOrder="349">
+            <ncx:navLabel>
+              <ncx:text>Set the Volume for Events and Programs</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10.html#set_the_volume_for_events_and_programs"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2634966" playOrder="350">
+          <ncx:navLabel>
+            <ncx:text>Controlling the Sound System</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch10s02.html"/>
+          <ncx:navPoint id="id2610849" playOrder="351">
+            <ncx:navLabel>
+              <ncx:text>Set the Speaker Defaults</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s02.html#set_the_speaker_defaults"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2614878" playOrder="352">
+            <ncx:navLabel>
+              <ncx:text>Set the Input Defaults</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s02.html#set_the_input_defaults"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2591069" playOrder="353">
+            <ncx:navLabel>
+              <ncx:text>Set the Background Level</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s02.html#set_the_background_level"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2655747" playOrder="354">
+          <ncx:navLabel>
+            <ncx:text>Creating a Sound Theme</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch10s03.html"/>
+          <ncx:navPoint id="id2659123" playOrder="355">
+            <ncx:navLabel>
+              <ncx:text>Change the Sounds in a Theme</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s03.html#change_the_sounds_in_a_theme"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2676514" playOrder="356">
+            <ncx:navLabel>
+              <ncx:text>Create a Sound Scheme</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s03.html#create_a_sound_scheme"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2670252" playOrder="357">
+          <ncx:navLabel>
+            <ncx:text>Directing Your Computer with Voice Commands</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch10s04.html"/>
+          <ncx:navPoint id="id2582824" playOrder="358">
+            <ncx:navLabel>
+              <ncx:text>Start Speech Recognition</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s04.html#start_speech_recognition"/>
+            <ncx:navPoint id="id2551682" playOrder="359">
+              <ncx:navLabel>
+                <ncx:text>Use the Commands</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch10s04.html#use_the_commands"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2589548" playOrder="360">
+          <ncx:navLabel>
+            <ncx:text>Dictating Text</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch10s05.html"/>
+          <ncx:navPoint id="id2655685" playOrder="361">
+            <ncx:navLabel>
+              <ncx:text>Dictate Your Text</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s05.html#dictate_your_text"/>
+            <ncx:navPoint id="id2655426" playOrder="362">
+              <ncx:navLabel>
+                <ncx:text>Use the Commands</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch10s05.html#use_the_commands-id001"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2584576" playOrder="363">
+            <ncx:navLabel>
+              <ncx:text>Correct Errors</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s05.html#correct_errors"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2546899" playOrder="364">
+          <ncx:navLabel>
+            <ncx:text>Customizing Speech Recognition</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch10s06.html"/>
+          <ncx:navPoint id="id2536413" playOrder="365">
+            <ncx:navLabel>
+              <ncx:text>Customize</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s06.html#customize"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2657881" playOrder="366">
+          <ncx:navLabel>
+            <ncx:text>Talking to the Mouse</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch10s07.html"/>
+          <ncx:navPoint id="id2613320" playOrder="367">
+            <ncx:navLabel>
+              <ncx:text>Use the Grid</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s07.html#use_the_grid"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2507515" playOrder="368">
+          <ncx:navLabel>
+            <ncx:text>Letting Your Computer Do the Talking</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch10s08.html"/>
+          <ncx:navPoint id="id2633994" playOrder="369">
+            <ncx:navLabel>
+              <ncx:text>Listen to Narrator</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s08.html#listen_to_narrator"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2528203" playOrder="370">
+          <ncx:navLabel>
+            <ncx:text>Creating a Sound File</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch10s09.html"/>
+          <ncx:navPoint id="id2642197" playOrder="371">
+            <ncx:navLabel>
+              <ncx:text>Record Sounds</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s09.html#record_sounds"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2631264" playOrder="372">
+          <ncx:navLabel>
+            <ncx:text>Using Alternatives to Sound</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch10s10.html"/>
+          <ncx:navPoint id="id2631276" playOrder="373">
+            <ncx:navLabel>
+              <ncx:text>Turn on Visual Cues</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch10s10.html#turn_on_visual_cues"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2671405" playOrder="374">
+        <ncx:navLabel>
+          <ncx:text>11. Printing and Scanning</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch11.html"/>
+        <ncx:navPoint id="id2544247" playOrder="375">
+          <ncx:navLabel>
+            <ncx:text>Printing a File</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch11.html#printing_a_file"/>
+          <ncx:navPoint id="id2612844" playOrder="376">
+            <ncx:navLabel>
+              <ncx:text>Print a Document</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch11.html#print_a_document"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2626204" playOrder="377">
+          <ncx:navLabel>
+            <ncx:text>Specifying a Default Printer</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch11s02.html"/>
+          <ncx:navPoint id="id2613284" playOrder="378">
+            <ncx:navLabel>
+              <ncx:text>Change the Default Printer</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch11s02.html#change_the_default_printer"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2531550" playOrder="379">
+          <ncx:navLabel>
+            <ncx:text>Controlling Your Printing</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch11s03.html"/>
+          <ncx:navPoint id="id2529904" playOrder="380">
+            <ncx:navLabel>
+              <ncx:text>Control the Print Queue</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch11s03.html#control_the_print_queue"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2625921" playOrder="381">
+            <ncx:navLabel>
+              <ncx:text>Control the Printer</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch11s03.html#control_the_printer"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2583067" playOrder="382">
+          <ncx:navLabel>
+            <ncx:text>Printing Your Photographs</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch11s04.html"/>
+          <ncx:navPoint id="id2654050" playOrder="383">
+            <ncx:navLabel>
+              <ncx:text>Print the Photos</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch11s04.html#print_the_photos"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2562319" playOrder="384">
+          <ncx:navLabel>
+            <ncx:text>Printing Web Pages</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch11s05.html"/>
+          <ncx:navPoint id="id2553316" playOrder="385">
+            <ncx:navLabel>
+              <ncx:text>Fix the Layout</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch11s05.html#fix_the_layout"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2648770" playOrder="386">
+          <ncx:navLabel>
+            <ncx:text>Creating an XPS Document</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch11s06.html"/>
+          <ncx:navPoint id="id2648304" playOrder="387">
+            <ncx:navLabel>
+              <ncx:text>Create a Document</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch11s06.html#create_a_document-id001"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2563766" playOrder="388">
+          <ncx:navLabel>
+            <ncx:text>Scanning a Picture into Paint</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch11s07.html"/>
+          <ncx:navPoint id="id2673876" playOrder="389">
+            <ncx:navLabel>
+              <ncx:text>Scan a Picture</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch11s07.html#scan_a_picture"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2589131" playOrder="390">
+          <ncx:navLabel>
+            <ncx:text>Scanning Anything</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch11s08.html"/>
+          <ncx:navPoint id="id2661616" playOrder="391">
+            <ncx:navLabel>
+              <ncx:text>Scan an Item</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch11s08.html#scan_an_item"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2663813" playOrder="392">
+            <ncx:navLabel>
+              <ncx:text>Manage Your Scans</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch11s08.html#manage_your_scans"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2632710" playOrder="393">
+          <ncx:navLabel>
+            <ncx:text>Quickly Scanning an Item</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch11s09.html"/>
+          <ncx:navPoint id="id2678111" playOrder="394">
+            <ncx:navLabel>
+              <ncx:text>Choose Your Scanning Settings</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch11s09.html#choose_your_scanning_settings"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2521883" playOrder="395">
+        <ncx:navLabel>
+          <ncx:text>12. Communicating</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch12.html"/>
+        <ncx:navPoint id="id2526234" playOrder="396">
+          <ncx:navLabel>
+            <ncx:text>E-Mailing Your Photos</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch12.html#e-mailing_your_photos"/>
+          <ncx:navPoint id="id2540391" playOrder="397">
+            <ncx:navLabel>
+              <ncx:text>Send Your Photos</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12.html#send_your_photos"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2661693" playOrder="398">
+          <ncx:navLabel>
+            <ncx:text>E-Mailing Your Files</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch12s02.html"/>
+          <ncx:navPoint id="id2661720" playOrder="399">
+            <ncx:navLabel>
+              <ncx:text>E-Mail Your Files</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12s02.html#e-mail_your_files"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2608853" playOrder="400">
+          <ncx:navLabel>
+            <ncx:text>Sending a Fax</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch12s03.html"/>
+          <ncx:navPoint id="id2625498" playOrder="401">
+            <ncx:navLabel>
+              <ncx:text>Fax a Document</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12s03.html#fax_a_document"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2550145" playOrder="402">
+            <ncx:navLabel>
+              <ncx:text>Fax Anything</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12s03.html#fax_anything"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2591004" playOrder="403">
+          <ncx:navLabel>
+            <ncx:text>Receiving a Fax</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch12s04.html"/>
+          <ncx:navPoint id="id2676324" playOrder="404">
+            <ncx:navLabel>
+              <ncx:text>Manually Receive a Fax</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12s04.html#manually_receive_a_fax"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2487403" playOrder="405">
+            <ncx:navLabel>
+              <ncx:text>View a Fax</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12s04.html#view_a_fax"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2675046" playOrder="406">
+          <ncx:navLabel>
+            <ncx:text>Connecting with Your Contacts</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch12s05.html"/>
+          <ncx:navPoint id="id2615294" playOrder="407">
+            <ncx:navLabel>
+              <ncx:text>Enter Your Contacts</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12s05.html#enter_your_contacts"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2541438" playOrder="408">
+            <ncx:navLabel>
+              <ncx:text>Use Your Contacts</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12s05.html#use_your_contacts"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2582862" playOrder="409">
+          <ncx:navLabel>
+            <ncx:text>Sharing Your Contacts</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch12s06.html"/>
+          <ncx:navPoint id="id2520501" playOrder="410">
+            <ncx:navLabel>
+              <ncx:text>Send Contact Information by E-Mail</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12s06.html#send_contact_information_by_e-mail"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2535552" playOrder="411">
+            <ncx:navLabel>
+              <ncx:text>Share Multiple Contacts</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12s06.html#share_multiple_contacts"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2544648" playOrder="412">
+            <ncx:navLabel>
+              <ncx:text>Receive Contacts</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12s06.html#receive_contacts"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2611865" playOrder="413">
+          <ncx:navLabel>
+            <ncx:text>Creating a Contacts Group</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch12s07.html"/>
+          <ncx:navPoint id="id2536762" playOrder="414">
+            <ncx:navLabel>
+              <ncx:text>Create a Group</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12s07.html#create_a_group"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2507431" playOrder="415">
+          <ncx:navLabel>
+            <ncx:text>Understanding E-Mail Clients and Webmail</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch12s08.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2527741" playOrder="416">
+          <ncx:navLabel>
+            <ncx:text>Using Windows Live Mail</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch12s09.html"/>
+          <ncx:navPoint id="id2598221" playOrder="417">
+            <ncx:navLabel>
+              <ncx:text>Use Windows Live Mail</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12s09.html#use_windows_live_mail"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2510801" playOrder="418">
+          <ncx:navLabel>
+            <ncx:text>Sending E-Mail with Windows Live Mail</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch12s10.html"/>
+          <ncx:navPoint id="id2552266" playOrder="419">
+            <ncx:navLabel>
+              <ncx:text>Create a Message</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12s10.html#create_a_message"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2591890" playOrder="420">
+          <ncx:navLabel>
+            <ncx:text>E-Mailing a File with Windows Live Mail</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch12s11.html"/>
+          <ncx:navPoint id="id2608555" playOrder="421">
+            <ncx:navLabel>
+              <ncx:text>Send a File by E-Mail</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12s11.html#send_a_file_by_e-mail"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2665452" playOrder="422">
+            <ncx:navLabel>
+              <ncx:text>Receive an Attachment</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12s11.html#receive_an_attachment"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2663206" playOrder="423">
+          <ncx:navLabel>
+            <ncx:text>Sending Photos with Windows Live Mail</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch12s12.html"/>
+          <ncx:navPoint id="id2662164" playOrder="424">
+            <ncx:navLabel>
+              <ncx:text>Add Your Photos</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12s12.html#add_your_photos"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2651674" playOrder="425">
+            <ncx:navLabel>
+              <ncx:text>Format the Photos</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch12s12.html#format_the_photos"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2559954" playOrder="426">
+          <ncx:navLabel>
+            <ncx:text>Communicating with Windows Live</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch12s13.html"/>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2546088" playOrder="427">
+        <ncx:navLabel>
+          <ncx:text>13. Networking</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch13.html"/>
+        <ncx:navPoint id="id2563446" playOrder="428">
+          <ncx:navLabel>
+            <ncx:text>Joining a Homegroup</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch13.html#joining_a_homegroup"/>
+          <ncx:navPoint id="id2502345" playOrder="429">
+            <ncx:navLabel>
+              <ncx:text>Join a Homegroup</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch13.html#join_a_homegroup"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2614420" playOrder="430">
+          <ncx:navLabel>
+            <ncx:text>Accessing Your Homegroup</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch13s02.html"/>
+          <ncx:navPoint id="id2515582" playOrder="431">
+            <ncx:navLabel>
+              <ncx:text>Access Shared Libraries</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch13s02.html#access_shared_libraries"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2641682" playOrder="432">
+          <ncx:navLabel>
+            <ncx:text>Sharing with Your Homegroup</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch13s03.html"/>
+          <ncx:navPoint id="id2600720" playOrder="433">
+            <ncx:navLabel>
+              <ncx:text>Share Your Libraries</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch13s03.html#share_your_libraries"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2525334" playOrder="434">
+            <ncx:navLabel>
+              <ncx:text>Share a Custom Library</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch13s03.html#share_a_custom_library"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2549577" playOrder="435">
+          <ncx:navLabel>
+            <ncx:text>Controlling Homegroup Sharing</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch13s04.html"/>
+          <ncx:navPoint id="id2549615" playOrder="436">
+            <ncx:navLabel>
+              <ncx:text>Allow Changes to a File</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch13s04.html#allow_changes_to_a_file"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2588957" playOrder="437">
+            <ncx:navLabel>
+              <ncx:text>Prevent Access to a File</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch13s04.html#prevent_access_to_a_file"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2616258" playOrder="438">
+          <ncx:navLabel>
+            <ncx:text>Understanding Networks in Windows 7</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch13s05.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2564342" playOrder="439">
+          <ncx:navLabel>
+            <ncx:text>Allowing Your Files to Be Shared</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch13s06.html"/>
+          <ncx:navPoint id="id2535349" playOrder="440">
+            <ncx:navLabel>
+              <ncx:text>Set Up Sharing Permission</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch13s06.html#set_up_sharing_permission"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2579373" playOrder="441">
+          <ncx:navLabel>
+            <ncx:text>Viewing Your Network</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch13s07.html"/>
+          <ncx:navPoint id="id2610522" playOrder="442">
+            <ncx:navLabel>
+              <ncx:text>View the Network</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch13s07.html#view_the_network"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2531480" playOrder="443">
+          <ncx:navLabel>
+            <ncx:text>Connecting to a Network Computer</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch13s08.html"/>
+          <ncx:navPoint id="id2531513" playOrder="444">
+            <ncx:navLabel>
+              <ncx:text>Connect to a Computer</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch13s08.html#connect_to_a_computer"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2539924" playOrder="445">
+            <ncx:navLabel>
+              <ncx:text>Connect to a Computer That's Not Listed</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch13s08.html#connect_to_a_computer_thats_not_listed"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2553569" playOrder="446">
+          <ncx:navLabel>
+            <ncx:text>Creating a Connection to a Network Folder</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch13s09.html"/>
+          <ncx:navPoint id="id2559118" playOrder="447">
+            <ncx:navLabel>
+              <ncx:text>Assign a Drive</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch13s09.html#assign_a_drive"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2637444" playOrder="448">
+          <ncx:navLabel>
+            <ncx:text>Transferring Files</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch13s10.html"/>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2521920" playOrder="449">
+          <ncx:navLabel>
+            <ncx:text>Connecting to a Network over the Internet</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch13s11.html"/>
+          <ncx:navPoint id="id2530931" playOrder="450">
+            <ncx:navLabel>
+              <ncx:text>Create a VPN Connection</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch13s11.html#create_a_vpn_connection"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2542072" playOrder="451">
+            <ncx:navLabel>
+              <ncx:text>Configure the Connection</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch13s11.html#configure_the_connection"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2561728" playOrder="452">
+          <ncx:navLabel>
+            <ncx:text>Connecting to a Network over the Telephone</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch13s12.html"/>
+          <ncx:navPoint id="id2561754" playOrder="453">
+            <ncx:navLabel>
+              <ncx:text>Call In</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch13s12.html#call_in"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2619165" playOrder="454">
+          <ncx:navLabel>
+            <ncx:text>Reconnecting to a Network</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch13s13.html"/>
+          <ncx:navPoint id="id2652959" playOrder="455">
+            <ncx:navLabel>
+              <ncx:text>Use Your Connections</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch13s13.html#use_your_connections"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2649892" playOrder="456">
+          <ncx:navLabel>
+            <ncx:text>Connecting to a Public Wireless Network</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch13s14.html"/>
+          <ncx:navPoint id="id2512634" playOrder="457">
+            <ncx:navLabel>
+              <ncx:text>Connect to a Network</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch13s14.html#connect_to_a_network"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2539212" playOrder="458">
+            <ncx:navLabel>
+              <ncx:text>Connect to a Hidden Network</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch13s14.html#connect_to_a_hidden_network"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2524352" playOrder="459">
+          <ncx:navLabel>
+            <ncx:text>Managing Your Network Connections</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch13s15.html"/>
+          <ncx:navPoint id="id2627755" playOrder="460">
+            <ncx:navLabel>
+              <ncx:text>Manage Wireless Network Connections</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch13s15.html#manage_wireless_network_connections"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2537438" playOrder="461">
+            <ncx:navLabel>
+              <ncx:text>Manage Other Network Connections</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch13s15.html#manage_other_network_connections"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2679399" playOrder="462">
+          <ncx:navLabel>
+            <ncx:text>Connecting Without a Network</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch13s16.html"/>
+          <ncx:navPoint id="id2679433" playOrder="463">
+            <ncx:navLabel>
+              <ncx:text>Create a Network</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch13s16.html#create_a_network"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2655937" playOrder="464">
+            <ncx:navLabel>
+              <ncx:text>Connect to the Network</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch13s16.html#connect_to_the_network"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2521481" playOrder="465">
+        <ncx:navLabel>
+          <ncx:text>14. Setting Up</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch14.html"/>
+        <ncx:navPoint id="id2534146" playOrder="466">
+          <ncx:navLabel>
+            <ncx:text>Transferring Files and Settings</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch14.html#transferring_files_and_settings"/>
+          <ncx:navPoint id="id2649467" playOrder="467">
+            <ncx:navLabel>
+              <ncx:text>Set Up the Computers</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14.html#set_up_the_computers"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2590004" playOrder="468">
+            <ncx:navLabel>
+              <ncx:text>Transfer the Information</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14.html#transfer_the_information-id001"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2584870" playOrder="469">
+          <ncx:navLabel>
+            <ncx:text>Setting Your Default Programs</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch14s02.html"/>
+          <ncx:navPoint id="id2620474" playOrder="470">
+            <ncx:navLabel>
+              <ncx:text>Set the System Defaults</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14s02.html#set_the_system_defaults"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2650452" playOrder="471">
+            <ncx:navLabel>
+              <ncx:text>Customize the Settings</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14s02.html#customize_the_settings"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2537318" playOrder="472">
+          <ncx:navLabel>
+            <ncx:text>Turning Windows Features On or Off</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch14s03.html"/>
+          <ncx:navPoint id="id2539589" playOrder="473">
+            <ncx:navLabel>
+              <ncx:text>Turn a Feature On or Off</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14s03.html#turn_a_feature_on_or_off"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2678046" playOrder="474">
+          <ncx:navLabel>
+            <ncx:text>Associating a File Type with a Program</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch14s04.html"/>
+          <ncx:navPoint id="id2520212" playOrder="475">
+            <ncx:navLabel>
+              <ncx:text>Set a Program to Always Open a File</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14s04.html#set_a_program_to_always_open_a_file"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2671550" playOrder="476">
+          <ncx:navLabel>
+            <ncx:text>Setting Up a Homegroup</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch14s05.html"/>
+          <ncx:navPoint id="id2671562" playOrder="477">
+            <ncx:navLabel>
+              <ncx:text>Create the Homegroup</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14s05.html#create_the_homegroup"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2586604" playOrder="478">
+            <ncx:navLabel>
+              <ncx:text>Change the Password</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14s05.html#change_the_password"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2516976" playOrder="479">
+          <ncx:navLabel>
+            <ncx:text>Setting Up Dial-Up Internet Access</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch14s06.html"/>
+          <ncx:navPoint id="id2558179" playOrder="480">
+            <ncx:navLabel>
+              <ncx:text>Set Up a Connection</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14s06.html#set_up_a_connection"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2577483" playOrder="481">
+            <ncx:navLabel>
+              <ncx:text>Control the Connection</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14s06.html#control_the_connection"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2557888" playOrder="482">
+          <ncx:navLabel>
+            <ncx:text>Setting Up a Modem</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch14s07.html"/>
+          <ncx:navPoint id="id2662672" playOrder="483">
+            <ncx:navLabel>
+              <ncx:text>Set the Dialing Rules</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14s07.html#set_the_dialing_rules"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2641486" playOrder="484">
+          <ncx:navLabel>
+            <ncx:text>Setting Up Internet Connection Sharing</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch14s08.html"/>
+          <ncx:navPoint id="id2542216" playOrder="485">
+            <ncx:navLabel>
+              <ncx:text>Share the Connection</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14s08.html#share_the_connection"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2554984" playOrder="486">
+          <ncx:navLabel>
+            <ncx:text>Setting Up Windows Backup</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch14s09.html"/>
+          <ncx:navPoint id="id2543719" playOrder="487">
+            <ncx:navLabel>
+              <ncx:text>Set Up Backup</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14s09.html#set_up_backup"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2658110" playOrder="488">
+          <ncx:navLabel>
+            <ncx:text>Setting Up Windows Live Essentials Programs</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch14s10.html"/>
+          <ncx:navPoint id="id2643448" playOrder="489">
+            <ncx:navLabel>
+              <ncx:text>Set Up Windows Live</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14s10.html#set_up_windows_live"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2505414" playOrder="490">
+          <ncx:navLabel>
+            <ncx:text>Setting Up Windows Live Mail</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch14s11.html"/>
+          <ncx:navPoint id="id2505442" playOrder="491">
+            <ncx:navLabel>
+              <ncx:text>Set Up Your E-Mail Account</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14s11.html#set_up_your_e-mail_account"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2539806" playOrder="492">
+            <ncx:navLabel>
+              <ncx:text>Add an Account</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14s11.html#add_an_account"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2530272" playOrder="493">
+            <ncx:navLabel>
+              <ncx:text>Modify Account Settings</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14s11.html#modify_account_settings"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2601424" playOrder="494">
+          <ncx:navLabel>
+            <ncx:text>Setting Up for Faxing</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch14s12.html"/>
+          <ncx:navPoint id="id2611175" playOrder="495">
+            <ncx:navLabel>
+              <ncx:text>Set Up the Fax</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14s12.html#set_up_the_fax"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2579106" playOrder="496">
+            <ncx:navLabel>
+              <ncx:text>Personalize the Fax</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14s12.html#personalize_the_fax"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2525558" playOrder="497">
+          <ncx:navLabel>
+            <ncx:text>Setting Up a Printer</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch14s13.html"/>
+          <ncx:navPoint id="id2648928" playOrder="498">
+            <ncx:navLabel>
+              <ncx:text>Set Up a Local Printer</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14s13.html#set_up_a_local_printer"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2551019" playOrder="499">
+            <ncx:navLabel>
+              <ncx:text>Connect to a Network Printer</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14s13.html#connect_to_a_network_printer"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2634936" playOrder="500">
+          <ncx:navLabel>
+            <ncx:text>Sharing a Printer over the Network</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch14s14.html"/>
+          <ncx:navPoint id="id2517888" playOrder="501">
+            <ncx:navLabel>
+              <ncx:text>Share the Printer</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch14s14.html#share_the_printer"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2626505" playOrder="502">
+        <ncx:navLabel>
+          <ncx:text>15. Maintaining Security</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch15.html"/>
+        <ncx:navPoint id="id2658196" playOrder="503">
+          <ncx:navLabel>
+            <ncx:text>Setting Your Password</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch15.html#setting_your_password"/>
+          <ncx:navPoint id="id2536263" playOrder="504">
+            <ncx:navLabel>
+              <ncx:text>Create a Password</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch15.html#create_a_password"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2652451" playOrder="505">
+          <ncx:navLabel>
+            <ncx:text>Changing Your Password</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch15s02.html"/>
+          <ncx:navPoint id="id2528012" playOrder="506">
+            <ncx:navLabel>
+              <ncx:text>Change Your Password</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch15s02.html#change_your_password"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2664418" playOrder="507">
+          <ncx:navLabel>
+            <ncx:text>Resetting Your Password</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch15s03.html"/>
+          <ncx:navPoint id="id2616606" playOrder="508">
+            <ncx:navLabel>
+              <ncx:text>Create and Use a Password Reset Disk</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch15s03.html#create_and_use_a_password_reset_disk"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2678782" playOrder="509">
+            <ncx:navLabel>
+              <ncx:text>Force a New Password</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch15s03.html#force_a_new_password"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2601612" playOrder="510">
+          <ncx:navLabel>
+            <ncx:text>Restricting User Rights</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch15s04.html"/>
+          <ncx:navPoint id="id2570652" playOrder="511">
+            <ncx:navLabel>
+              <ncx:text>Change the Type of Access</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch15s04.html#change_the_type_of_access"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2617960" playOrder="512">
+            <ncx:navLabel>
+              <ncx:text>Use the Guest Account</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch15s04.html#use_the_guest_account"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2641265" playOrder="513">
+          <ncx:navLabel>
+            <ncx:text>Know Your Rights</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch15s05.html"/>
+          <ncx:navPoint id="id2641294" playOrder="514">
+            <ncx:navLabel>
+              <ncx:text>User Groups</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch15s05.html#user_groups"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2526491" playOrder="515">
+          <ncx:navLabel>
+            <ncx:text>Monitoring Your Security Settings</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch15s06.html"/>
+          <ncx:navPoint id="id2656314" playOrder="516">
+            <ncx:navLabel>
+              <ncx:text>Check Your Settings</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch15s06.html#check_your_settings"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2564895" playOrder="517">
+          <ncx:navLabel>
+            <ncx:text>Configuring the Windows Firewall</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch15s07.html"/>
+          <ncx:navPoint id="id2658374" playOrder="518">
+            <ncx:navLabel>
+              <ncx:text>Configure the Firewall</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch15s07.html#configure_the_firewall"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2616382" playOrder="519">
+            <ncx:navLabel>
+              <ncx:text>Allow or Block Specific Programs</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch15s07.html#allow_or_block_specific_programs"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2630067" playOrder="520">
+          <ncx:navLabel>
+            <ncx:text>Protecting Yourself from Spyware</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch15s08.html"/>
+          <ncx:navPoint id="id2598155" playOrder="521">
+            <ncx:navLabel>
+              <ncx:text>Set Your Options</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch15s08.html#set_your_options"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2587471" playOrder="522">
+            <ncx:navLabel>
+              <ncx:text>Take Action</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch15s08.html#take_action"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2672139" playOrder="523">
+          <ncx:navLabel>
+            <ncx:text>Limiting Access to the Computer</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch15s09.html"/>
+          <ncx:navPoint id="id2663255" playOrder="524">
+            <ncx:navLabel>
+              <ncx:text>Create the Rules</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch15s09.html#create_the_rules"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2536201" playOrder="525">
+          <ncx:navLabel>
+            <ncx:text>Restricting Time on the Computer</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch15s10.html"/>
+          <ncx:navPoint id="id2536229" playOrder="526">
+            <ncx:navLabel>
+              <ncx:text>Restrict Access Times</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch15s10.html#restrict_access_times"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2543390" playOrder="527">
+          <ncx:navLabel>
+            <ncx:text>Restricting Access to Games</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch15s11.html"/>
+          <ncx:navPoint id="id2616423" playOrder="528">
+            <ncx:navLabel>
+              <ncx:text>Restrict the Games</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch15s11.html#restrict_the_games"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2596702" playOrder="529">
+          <ncx:navLabel>
+            <ncx:text>Restricting Access to Programs</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch15s12.html"/>
+          <ncx:navPoint id="id2648786" playOrder="530">
+            <ncx:navLabel>
+              <ncx:text>Block Programs</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch15s12.html#block_programs"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2506654" playOrder="531">
+          <ncx:navLabel>
+            <ncx:text>Restricting Internet Content</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch15s13.html"/>
+          <ncx:navPoint id="id2506693" playOrder="532">
+            <ncx:navLabel>
+              <ncx:text>Enable Content Advisor</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch15s13.html#enable_content_advisor"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2558811" playOrder="533">
+          <ncx:navLabel>
+            <ncx:text>Maintaining High Security</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch15s14.html"/>
+          <ncx:navPoint id="id2614530" playOrder="534">
+            <ncx:navLabel>
+              <ncx:text>Doing Your Part</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch15s14.html#doing_your_part"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2649982" playOrder="535">
+          <ncx:navLabel>
+            <ncx:text>Setting Internet Explorer Security</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch15s15.html"/>
+          <ncx:navPoint id="id2650002" playOrder="536">
+            <ncx:navLabel>
+              <ncx:text>Set Your Security</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch15s15.html#set_your_security"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2581081" playOrder="537">
+          <ncx:navLabel>
+            <ncx:text>Restricting DVD Movies in Windows Media Player</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch15s16.html"/>
+          <ncx:navPoint id="id2609115" playOrder="538">
+            <ncx:navLabel>
+              <ncx:text>Specify the Allowable DVD Rating</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch15s16.html#specify_the_allowable_dvd_rating"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2677625" playOrder="539">
+          <ncx:navLabel>
+            <ncx:text>Restricting Content in Windows Media Center</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch15s17.html"/>
+          <ncx:navPoint id="id2517112" playOrder="540">
+            <ncx:navLabel>
+              <ncx:text>Set the Movie and DVD Control</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch15s17.html#set_the_movie_and_dvd_control"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2658221" playOrder="541">
+            <ncx:navLabel>
+              <ncx:text>Set the TV Control</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch15s17.html#set_the_tv_control"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2552320" playOrder="542">
+          <ncx:navLabel>
+            <ncx:text>Installing Critical Fixes</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch15s18.html"/>
+          <ncx:navPoint id="id2552338" playOrder="543">
+            <ncx:navLabel>
+              <ncx:text>Configure Your Downloading</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch15s18.html#configure_your_downloading"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+      <ncx:navPoint id="id2610013" playOrder="544">
+        <ncx:navLabel>
+          <ncx:text>16. Managing Windows 7</ncx:text>
+        </ncx:navLabel>
+        <ncx:content src="ch16.html"/>
+        <ncx:navPoint id="id2616542" playOrder="545">
+          <ncx:navLabel>
+            <ncx:text>Changing the Date and Time</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch16.html#changing_the_date_and_time"/>
+          <ncx:navPoint id="id2651050" playOrder="546">
+            <ncx:navLabel>
+              <ncx:text>Change the Date, Time, or Time Zone</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16.html#change_the_date_time_or_time_zone"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2653984" playOrder="547">
+          <ncx:navLabel>
+            <ncx:text>Changing the Display</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch16s02.html"/>
+          <ncx:navPoint id="id2520452" playOrder="548">
+            <ncx:navLabel>
+              <ncx:text>Increase the Computer's Screen Area</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s02.html#increase_the_computers_screen_area"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2613110" playOrder="549">
+          <ncx:navLabel>
+            <ncx:text>Managing Windows Arrangements</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch16s03.html"/>
+          <ncx:navPoint id="id2612767" playOrder="550">
+            <ncx:navLabel>
+              <ncx:text>Turn off Automatic Window Arrangements</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s03.html#turn_off_automatic_window_arrangements"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2586835" playOrder="551">
+          <ncx:navLabel>
+            <ncx:text>Changing Search Options</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch16s04.html"/>
+          <ncx:navPoint id="id2620714" playOrder="552">
+            <ncx:navLabel>
+              <ncx:text>Set the Search Options</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s04.html#set_the_search_options"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2617181" playOrder="553">
+          <ncx:navLabel>
+            <ncx:text>Changing Indexing Options</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch16s05.html"/>
+          <ncx:navPoint id="id2654486" playOrder="554">
+            <ncx:navLabel>
+              <ncx:text>Set Your Indexing Options</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s05.html#set_your_indexing_options"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2545779" playOrder="555">
+          <ncx:navLabel>
+            <ncx:text>Managing Your Credentials</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch16s06.html"/>
+          <ncx:navPoint id="id2581365" playOrder="556">
+            <ncx:navLabel>
+              <ncx:text>Manage the Vault</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s06.html#manage_the_vault"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2584443" playOrder="557">
+          <ncx:navLabel>
+            <ncx:text>Adding or Deleting User Accounts</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch16s07.html"/>
+          <ncx:navPoint id="id2520230" playOrder="558">
+            <ncx:navLabel>
+              <ncx:text>Add a Standard Account</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s07.html#add_a_standard_account"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2635968" playOrder="559">
+            <ncx:navLabel>
+              <ncx:text>Delete an Account</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s07.html#delete_an_account"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2520590" playOrder="560">
+          <ncx:navLabel>
+            <ncx:text>Creating a Linked Online ID</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch16s08.html"/>
+          <ncx:navPoint id="id2640935" playOrder="561">
+            <ncx:navLabel>
+              <ncx:text>Link the IDs</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s08.html#link_the_ids"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2534774" playOrder="562">
+          <ncx:navLabel>
+            <ncx:text>Managing Travel Settings</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch16s09.html"/>
+          <ncx:navPoint id="id2530141" playOrder="563">
+            <ncx:navLabel>
+              <ncx:text>Control the Settings</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s09.html#control_the_settings"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2568884" playOrder="564">
+          <ncx:navLabel>
+            <ncx:text>Controlling the Power Options</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch16s10.html"/>
+          <ncx:navPoint id="id2585745" playOrder="565">
+            <ncx:navLabel>
+              <ncx:text>Use a Power Plan</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s10.html#use_a_power_plan"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2534637" playOrder="566">
+            <ncx:navLabel>
+              <ncx:text>Set the Power Buttons and the Password Requirement</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s10.html#set_the_power_buttons_and_the_password_r"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2569897" playOrder="567">
+          <ncx:navLabel>
+            <ncx:text>Managing Multiple Monitors</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch16s11.html"/>
+          <ncx:navPoint id="id2542020" playOrder="568">
+            <ncx:navLabel>
+              <ncx:text>Configure the Displays</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s11.html#configure_the_displays"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2629988" playOrder="569">
+            <ncx:navLabel>
+              <ncx:text>Manage the Extended Desktop</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s11.html#manage_the_extended_desktop"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2515143" playOrder="570">
+          <ncx:navLabel>
+            <ncx:text>Configuring a Pen or Touch Computer</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch16s12.html"/>
+          <ncx:navPoint id="id2531053" playOrder="571">
+            <ncx:navLabel>
+              <ncx:text>Change the Settings</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s12.html#change_the_settings"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2640383" playOrder="572">
+          <ncx:navLabel>
+            <ncx:text>Managing Pen Settings</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch16s13.html"/>
+          <ncx:navPoint id="id2613186" playOrder="573">
+            <ncx:navLabel>
+              <ncx:text>Set the Pen Options</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s13.html#set_the_pen_options"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2576239" playOrder="574">
+          <ncx:navLabel>
+            <ncx:text>Managing Navigational and Editing Flicks</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch16s14.html"/>
+          <ncx:navPoint id="id2650528" playOrder="575">
+            <ncx:navLabel>
+              <ncx:text>Control Your Flicks</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s14.html#control_your_flicks"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2616694" playOrder="576">
+            <ncx:navLabel>
+              <ncx:text>Customize the Flicks</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s14.html#customize_the_flicks"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2538563" playOrder="577">
+          <ncx:navLabel>
+            <ncx:text>Managing Touch Settings</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch16s15.html"/>
+          <ncx:navPoint id="id2538586" playOrder="578">
+            <ncx:navLabel>
+              <ncx:text>Customize Your Touch</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s15.html#customize_your_touch"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2588188" playOrder="579">
+            <ncx:navLabel>
+              <ncx:text>Customize Panning</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s15.html#customize_panning"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2519635" playOrder="580">
+          <ncx:navLabel>
+            <ncx:text>Checking the Performance Status of Windows</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch16s16.html"/>
+          <ncx:navPoint id="id2519667" playOrder="581">
+            <ncx:navLabel>
+              <ncx:text>Check the Performance Status</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s16.html#check_the_performance_status"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2563692" playOrder="582">
+          <ncx:navLabel>
+            <ncx:text>Maintaining Your Hard Disk</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch16s17.html"/>
+          <ncx:navPoint id="id2654916" playOrder="583">
+            <ncx:navLabel>
+              <ncx:text>Maintain a Drive</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s17.html#maintain_a_drive"/>
+            <ncx:navPoint id="id2597658" playOrder="584">
+              <ncx:navLabel>
+                <ncx:text>Disk-Maintenance Tools</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch16s17.html#disk-maintenance_tools"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2635634" playOrder="585">
+          <ncx:navLabel>
+            <ncx:text>Troubleshooting Problems</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch16s18.html"/>
+          <ncx:navPoint id="id2635662" playOrder="586">
+            <ncx:navLabel>
+              <ncx:text>Find a Troubleshooter</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s18.html#find_a_troubleshooter"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2608426" playOrder="587">
+            <ncx:navLabel>
+              <ncx:text>Run a Troubleshooter</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s18.html#run_a_troubleshooter"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2506150" playOrder="588">
+          <ncx:navLabel>
+            <ncx:text>Helping Each Other</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch16s19.html"/>
+          <ncx:navPoint id="id2524142" playOrder="589">
+            <ncx:navLabel>
+              <ncx:text>Start the Session</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s19.html#start_the_session"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2637707" playOrder="590">
+            <ncx:navLabel>
+              <ncx:text>Solve The Problem</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s19.html#solve_the_problem"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2650039" playOrder="591">
+          <ncx:navLabel>
+            <ncx:text>All Those Tools and Settings!</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch16s20.html"/>
+          <ncx:navPoint id="id2650092" playOrder="592">
+            <ncx:navLabel>
+              <ncx:text>Information-Gathering Tools</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s20.html#information-gathering_tools"/>
+          </ncx:navPoint>
+          <ncx:navPoint id="id2610393" playOrder="593">
+            <ncx:navLabel>
+              <ncx:text>System Settings Tools</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s20.html#system_settings_tools"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2576035" playOrder="594">
+          <ncx:navLabel>
+            <ncx:text>Speeding Up Your System</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch16s21.html"/>
+          <ncx:navPoint id="id2649025" playOrder="595">
+            <ncx:navLabel>
+              <ncx:text>Use ReadyBoost</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s21.html#use_readyboost"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2659674" playOrder="596">
+          <ncx:navLabel>
+            <ncx:text>Removing a Software Program</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch16s22.html"/>
+          <ncx:navPoint id="id2590347" playOrder="597">
+            <ncx:navLabel>
+              <ncx:text>Uninstall a Program</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s22.html#uninstall_a_program"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2537377" playOrder="598">
+          <ncx:navLabel>
+            <ncx:text>Starting Up When There's a Problem</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch16s23.html"/>
+          <ncx:navPoint id="id2537422" playOrder="599">
+            <ncx:navLabel>
+              <ncx:text>Control the Startup</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s23.html#control_the_startup"/>
+            <ncx:navPoint id="id2510932" playOrder="600">
+              <ncx:navLabel>
+                <ncx:text>Windows Error-Recovery Startup Options</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch16s23.html#windows_error-recovery_startup_options"/>
+            </ncx:navPoint>
+            <ncx:navPoint id="id2650176" playOrder="601">
+              <ncx:navLabel>
+                <ncx:text>Additional Options Using the Windows Advanced Boot Options Menu</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch16s23.html#additional_options_using_the_windows_adv"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2642136" playOrder="602">
+          <ncx:navLabel>
+            <ncx:text>Repairing the System</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch16s24.html"/>
+          <ncx:navPoint id="id2616175" playOrder="603">
+            <ncx:navLabel>
+              <ncx:text>Repair the System</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s24.html#repair_the_system"/>
+            <ncx:navPoint id="id2559780" playOrder="604">
+              <ncx:navLabel>
+                <ncx:text>Repair Tools Available from the Repair Your Computer Wizard</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch16s24.html#repair_tools_available_from_the_repair_y"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2651314" playOrder="605">
+          <ncx:navLabel>
+            <ncx:text>Fixing System Problems</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch16s25.html"/>
+          <ncx:navPoint id="id2651349" playOrder="606">
+            <ncx:navLabel>
+              <ncx:text>Restore the System</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s25.html#restore_the_system"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2639053" playOrder="607">
+          <ncx:navLabel>
+            <ncx:text>Managing Everything</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch16s26.html"/>
+          <ncx:navPoint id="id2602270" playOrder="608">
+            <ncx:navLabel>
+              <ncx:text>Use the Console</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s26.html#use_the_console"/>
+            <ncx:navPoint id="id2625791" playOrder="609">
+              <ncx:navLabel>
+                <ncx:text>Computer Management Console Items</ncx:text>
+              </ncx:navLabel>
+              <ncx:content src="ch16s26.html#computer_management_console_items"/>
+            </ncx:navPoint>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2520913" playOrder="610">
+          <ncx:navLabel>
+            <ncx:text>Backing Up Your Files</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch16s27.html"/>
+          <ncx:navPoint id="id2665779" playOrder="611">
+            <ncx:navLabel>
+              <ncx:text>Back Up Now</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s27.html#back_up_now"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2677776" playOrder="612">
+          <ncx:navLabel>
+            <ncx:text>Restoring Backed-Up Files</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch16s28.html"/>
+          <ncx:navPoint id="id2671836" playOrder="613">
+            <ncx:navLabel>
+              <ncx:text>Restore the Files</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s28.html#restore_the_files"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2542765" playOrder="614">
+          <ncx:navLabel>
+            <ncx:text>Saving Everything</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch16s29.html"/>
+          <ncx:navPoint id="id2657116" playOrder="615">
+            <ncx:navLabel>
+              <ncx:text>Create a System Image</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s29.html#create_a_system_image"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+        <ncx:navPoint id="id2650365" playOrder="616">
+          <ncx:navLabel>
+            <ncx:text>Downloading Free Software</ncx:text>
+          </ncx:navLabel>
+          <ncx:content src="ch16s30.html"/>
+          <ncx:navPoint id="id2650388" playOrder="617">
+            <ncx:navLabel>
+              <ncx:text>Download the Software</ncx:text>
+            </ncx:navLabel>
+            <ncx:content src="ch16s30.html#download_the_software"/>
+          </ncx:navPoint>
+        </ncx:navPoint>
+      </ncx:navPoint>
+    </ncx:navPoint>
+  </ncx:navMap>
+</ncx:ncx>

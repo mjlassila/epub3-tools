@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content=""/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>People of the Abyss</text>
+  </docTitle>  
+  <navMap>
+    
+            <navPoint id="np-1" playOrder="1">
+              <navLabel>
+                <text>Cover</text>
+              </navLabel>
+              <content src="people_of_the_abyss-AAH803_cover.html"/>
+            </navPoint>
+        
+            <navPoint id="np-2" playOrder="2">
+              <navLabel>
+                <text>Title Page</text>
+              </navLabel>
+              <content src="people_of_the_abyss-AAH803_booktitlepage.html"/>
+            </navPoint>
+        
+            <navPoint id="np-3" playOrder="3">
+              <navLabel>
+                <text>Copyright</text>
+              </navLabel>
+              <content src="people_of_the_abyss-AAH803_copyright.html"/>
+            </navPoint>
+                
+            <navPoint id="np-4" playOrder="4">
+              <navLabel>
+                <text>The People Of The Abyss</text>
+              </navLabel>
+              <content src="people_of_the_abyss-AAH803_introduction.html"/>
+            </navPoint>
+        
+            <navPoint id="np-5" playOrder="5">
+              <navLabel>
+                <text>Preface</text>
+              </navLabel>
+              <content src="people_of_the_abyss-AAH803_preface.html"/>
+            </navPoint>
+        
+            <navPoint id="np-6" playOrder="6">
+              <navLabel>
+                <text>1: The Descent</text>
+              </navLabel>
+              <content src="people_of_the_abyss-AAH803_chapter_01.html"/>
+            </navPoint>
+        
+            <navPoint id="np-7" playOrder="7">
+              <navLabel>
+                <text>2: Johnny Upright</text>
+              </navLabel>
+              <content src="people_of_the_abyss-AAH803_chapter_02.html"/>
+            </navPoint>
+        
+            <navPoint id="np-8" playOrder="8">
+              <navLabel>
+                <text>3: My Lodging And Some Others</text>
+              </navLabel>
+              <content src="people_of_the_abyss-AAH803_chapter_03.html"/>
+            </navPoint>
+        
+            <navPoint id="np-9" playOrder="9">
+              <navLabel>
+                <text>4: A Man And The Abyss</text>
+              </navLabel>
+              <content src="people_of_the_abyss-AAH803_chapter_04.html"/>
+            </navPoint>
+        
+            <navPoint id="np-10" playOrder="10">
+              <navLabel>
+                <text>5: Those On The Edge</text>
+              </navLabel>
+              <content src="people_of_the_abyss-AAH803_chapter_05.html"/>
+            </navPoint>
+        
+            <navPoint id="np-11" playOrder="11">
+              <navLabel>
+                <text>6: Frying-Pan Alley And A Glimpse Of Inferno</text>
+              </navLabel>
+              <content src="people_of_the_abyss-AAH803_chapter_06.html"/>
+            </navPoint>
+        
+            <navPoint id="np-12" playOrder="12">
+              <navLabel>
+                <text>7: A Winner Of The Victoria Cross</text>
+              </navLabel>
+              <content src="people_of_the_abyss-AAH803_chapter_07.html"/>
+            </navPoint>
+        
+            <navPoint id="np-13" playOrder="13">
+              <navLabel>
+                <text>8: The Carter And The Carpenter</text>
+              </navLabel>
+              <content src="people_of_the_abyss-AAH803_chapter_08.html"/>
+            </navPoint>
+        
+            <navPoint id="np-14" playOrder="14">
+              <navLabel>
+                <text>9: The Spike</text>
+              </navLabel>
+              <content src="people_of_the_abyss-AAH803_chapter_09.html"/>
+            </navPoint>
+        
+            <navPoint id="np-15" playOrder="15">
+              <navLabel>
+                <text>10: Carrying The Banner</text>
+              </navLabel>
+              <content src="people_of_the_abyss-AAH803_chapter_10.html"/>
+            </navPoint>
+        
+            <navPoint id="np-16" playOrder="16">
+              <navLabel>
+                <text>11: The Peg</text>
+              </navLabel>
+              <content src="people_of_the_abyss-AAH803_chapter_11.html"/>
+            </navPoint>
+        
+            <navPoint id="np-17" playOrder="17">
+              <navLabel>
+                <text>12: Coronation Day</text>
+              </navLabel>
+              <content src="people_of_the_abyss-AAH803_chapter_12.html"/>
+            </navPoint>
+        
+            <navPoint id="np-18" playOrder="18">
+              <navLabel>
+                <text>13: Dan Cullen, Docker</text>
+              </navLabel>
+              <content src="people_of_the_abyss-AAH803_chapter_13.html"/>
+            </navPoint>
+        
+            <navPoint id="np-19" playOrder="19">
+              <navLabel>
+                <text>14: Hops And Hoppers</text>
+              </navLabel>
+              <content src="people_of_the_abyss-AAH803_chapter_14.html"/>
+            </navPoint>
+        
+            <navPoint id="np-20" playOrder="20">
+              <navLabel>
+                <text>15: The Sea Wife</text>
+              </navLabel>
+              <content src="people_of_the_abyss-AAH803_chapter_15.html"/>
+            </navPoint>
+        
+            <navPoint id="np-21" playOrder="21">
+              <navLabel>
+                <text>16: Property Versus Person</text>
+              </navLabel>
+              <content src="people_of_the_abyss-AAH803_chapter_16.html"/>
+            </navPoint>
+        
+            <navPoint id="np-22" playOrder="22">
+              <navLabel>
+                <text>17: Inefficiency</text>
+              </navLabel>
+              <content src="people_of_the_abyss-AAH803_chapter_17.html"/>
+            </navPoint>
+        
+            <navPoint id="np-23" playOrder="23">
+              <navLabel>
+                <text>18: Wages</text>
+              </navLabel>
+              <content src="people_of_the_abyss-AAH803_chapter_18.html"/>
+            </navPoint>
+        
+            <navPoint id="np-24" playOrder="24">
+              <navLabel>
+                <text>19: The Ghetto</text>
+              </navLabel>
+              <content src="people_of_the_abyss-AAH803_chapter_19.html"/>
+            </navPoint>
+        
+            <navPoint id="np-25" playOrder="25">
+              <navLabel>
+                <text>20: Coffee-Houses And Doss-Houses</text>
+              </navLabel>
+              <content src="people_of_the_abyss-AAH803_chapter_20.html"/>
+            </navPoint>
+        
+            <navPoint id="np-26" playOrder="26">
+              <navLabel>
+                <text>21: The Precariousness Of Life</text>
+              </navLabel>
+              <content src="people_of_the_abyss-AAH803_chapter_21.html"/>
+            </navPoint>
+        
+            <navPoint id="np-27" playOrder="27">
+              <navLabel>
+                <text>22: Suicide</text>
+              </navLabel>
+              <content src="people_of_the_abyss-AAH803_chapter_22.html"/>
+            </navPoint>
+        
+            <navPoint id="np-28" playOrder="28">
+              <navLabel>
+                <text>23: The Children</text>
+              </navLabel>
+              <content src="people_of_the_abyss-AAH803_chapter_23.html"/>
+            </navPoint>
+        
+            <navPoint id="np-29" playOrder="29">
+              <navLabel>
+                <text>24: A Vision Of The Night</text>
+              </navLabel>
+              <content src="people_of_the_abyss-AAH803_chapter_24.html"/>
+            </navPoint>
+        
+            <navPoint id="np-30" playOrder="30">
+              <navLabel>
+                <text>25: The Hunger Wail</text>
+              </navLabel>
+              <content src="people_of_the_abyss-AAH803_chapter_25.html"/>
+            </navPoint>
+        
+            <navPoint id="np-31" playOrder="31">
+              <navLabel>
+                <text>26: Drink, Temperance, And Thrift</text>
+              </navLabel>
+              <content src="people_of_the_abyss-AAH803_chapter_26.html"/>
+            </navPoint>
+        
+            <navPoint id="np-32" playOrder="32">
+              <navLabel>
+                <text>27: The Management</text>
+              </navLabel>
+              <content src="people_of_the_abyss-AAH803_chapter_27.html"/>
+            </navPoint>
+        
+            <navPoint id="np-33" playOrder="33">
+              <navLabel>
+                <text>28: Challenge</text>
+              </navLabel>
+              <content src="people_of_the_abyss-AAH803_chapter_28.html"/>
+            </navPoint>
+        
+  </navMap>
+</ncx>

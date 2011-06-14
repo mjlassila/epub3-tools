@@ -1,0 +1,349 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="test id" name="dtb:uid"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Abroad</text>
+  </docTitle>
+  <docAuthor>
+    <text>Crane, Thomas, b. 1843?</text>
+  </docAuthor>
+  <navMap>
+    <navInfo>
+      <text>Book navigation</text>
+    </navInfo>
+    <navPoint playOrder="1" id="navpointnavpoint000001" class="navpoint-level1">
+      <navLabel>
+        <text>Front Cover</text>
+      </navLabel>
+      <content src="leaf0000.html"/>
+    </navPoint>
+    <navPoint playOrder="2" id="navpointnavpoint000002" class="navpoint-level1">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="leaf0004.html"/>
+    </navPoint>
+    <navPoint playOrder="3" id="navpointnavpoint000003" class="navpoint-level1">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="leaf0005.html"/>
+    </navPoint>
+    <navPoint playOrder="4" id="navpointnavpoint000004" class="navpoint-level1">
+      <navLabel>
+        <text>Pages</text>
+      </navLabel>
+      <content src="part0000.html"/>
+    </navPoint>
+    <navPoint playOrder="5" id="navpointnavpoint000005" class="navpoint-level1">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="leaf0010.html"/>
+    </navPoint>
+    <navPoint playOrder="54" id="navpointnavpoint000054" class="navpoint-level1">
+      <navLabel>
+        <text>Back Cover</text>
+      </navLabel>
+      <content src="leaf0063.html"/>
+    </navPoint>
+  </navMap>
+  <pageList>
+    <navLabel>
+      <text>Pages</text>
+    </navLabel>
+    <pageTarget type="normal" id="pagetarget000006" value="9" playOrder="6">
+      <navLabel>
+        <text>9</text>
+      </navLabel>
+      <content src="part0001.html#page-9"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000007" value="10" playOrder="7">
+      <navLabel>
+        <text>10</text>
+      </navLabel>
+      <content src="part0001.html#page-10"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000008" value="11" playOrder="8">
+      <navLabel>
+        <text>11</text>
+      </navLabel>
+      <content src="part0001.html#page-11"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000009" value="12" playOrder="9">
+      <navLabel>
+        <text>12</text>
+      </navLabel>
+      <content src="part0001.html#page-12"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000010" value="13" playOrder="10">
+      <navLabel>
+        <text>13</text>
+      </navLabel>
+      <content src="part0001.html#page-13"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000011" value="14" playOrder="11">
+      <navLabel>
+        <text>14</text>
+      </navLabel>
+      <content src="part0001.html#page-14"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000012" value="15" playOrder="12">
+      <navLabel>
+        <text>15</text>
+      </navLabel>
+      <content src="part0001.html#page-15"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000013" value="16" playOrder="13">
+      <navLabel>
+        <text>16</text>
+      </navLabel>
+      <content src="part0001.html#page-16"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000014" value="17" playOrder="14">
+      <navLabel>
+        <text>17</text>
+      </navLabel>
+      <content src="part0001.html#page-17"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000015" value="18" playOrder="15">
+      <navLabel>
+        <text>18</text>
+      </navLabel>
+      <content src="part0001.html#page-18"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000016" value="19" playOrder="16">
+      <navLabel>
+        <text>19</text>
+      </navLabel>
+      <content src="part0001.html#page-19"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000017" value="20" playOrder="17">
+      <navLabel>
+        <text>20</text>
+      </navLabel>
+      <content src="part0001.html#page-20"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000018" value="21" playOrder="18">
+      <navLabel>
+        <text>21</text>
+      </navLabel>
+      <content src="part0001.html#page-21"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000019" value="22" playOrder="19">
+      <navLabel>
+        <text>22</text>
+      </navLabel>
+      <content src="part0001.html#page-22"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000020" value="23" playOrder="20">
+      <navLabel>
+        <text>23</text>
+      </navLabel>
+      <content src="part0001.html#page-23"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000021" value="24" playOrder="21">
+      <navLabel>
+        <text>24</text>
+      </navLabel>
+      <content src="part0001.html#page-24"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000022" value="25" playOrder="22">
+      <navLabel>
+        <text>25</text>
+      </navLabel>
+      <content src="part0001.html#page-25"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000023" value="26" playOrder="23">
+      <navLabel>
+        <text>26</text>
+      </navLabel>
+      <content src="part0001.html#page-26"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000024" value="27" playOrder="24">
+      <navLabel>
+        <text>27</text>
+      </navLabel>
+      <content src="part0001.html#page-27"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000025" value="28" playOrder="25">
+      <navLabel>
+        <text>28</text>
+      </navLabel>
+      <content src="part0001.html#page-28"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000026" value="29" playOrder="26">
+      <navLabel>
+        <text>29</text>
+      </navLabel>
+      <content src="part0001.html#page-29"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000027" value="30" playOrder="27">
+      <navLabel>
+        <text>30</text>
+      </navLabel>
+      <content src="part0001.html#page-30"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000028" value="31" playOrder="28">
+      <navLabel>
+        <text>31</text>
+      </navLabel>
+      <content src="part0001.html#page-31"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000029" value="32" playOrder="29">
+      <navLabel>
+        <text>32</text>
+      </navLabel>
+      <content src="part0001.html#page-32"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000030" value="33" playOrder="30">
+      <navLabel>
+        <text>33</text>
+      </navLabel>
+      <content src="part0001.html#page-33"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000031" value="34" playOrder="31">
+      <navLabel>
+        <text>34</text>
+      </navLabel>
+      <content src="part0001.html#page-34"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000032" value="35" playOrder="32">
+      <navLabel>
+        <text>35</text>
+      </navLabel>
+      <content src="part0001.html#page-35"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000033" value="36" playOrder="33">
+      <navLabel>
+        <text>36</text>
+      </navLabel>
+      <content src="part0001.html#page-36"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000034" value="37" playOrder="34">
+      <navLabel>
+        <text>37</text>
+      </navLabel>
+      <content src="part0001.html#page-37"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000035" value="38" playOrder="35">
+      <navLabel>
+        <text>38</text>
+      </navLabel>
+      <content src="part0001.html#page-38"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000036" value="39" playOrder="36">
+      <navLabel>
+        <text>39</text>
+      </navLabel>
+      <content src="part0001.html#page-39"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000037" value="40" playOrder="37">
+      <navLabel>
+        <text>40</text>
+      </navLabel>
+      <content src="part0001.html#page-40"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000038" value="41" playOrder="38">
+      <navLabel>
+        <text>41</text>
+      </navLabel>
+      <content src="part0001.html#page-41"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000039" value="42" playOrder="39">
+      <navLabel>
+        <text>42</text>
+      </navLabel>
+      <content src="part0001.html#page-42"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000040" value="43" playOrder="40">
+      <navLabel>
+        <text>43</text>
+      </navLabel>
+      <content src="part0001.html#page-43"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000041" value="44" playOrder="41">
+      <navLabel>
+        <text>44</text>
+      </navLabel>
+      <content src="part0001.html#page-44"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000042" value="45" playOrder="42">
+      <navLabel>
+        <text>45</text>
+      </navLabel>
+      <content src="part0001.html#page-45"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000043" value="46" playOrder="43">
+      <navLabel>
+        <text>46</text>
+      </navLabel>
+      <content src="part0001.html#page-46"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000044" value="47" playOrder="44">
+      <navLabel>
+        <text>47</text>
+      </navLabel>
+      <content src="part0001.html#page-47"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000045" value="48" playOrder="45">
+      <navLabel>
+        <text>48</text>
+      </navLabel>
+      <content src="part0001.html#page-48"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000046" value="49" playOrder="46">
+      <navLabel>
+        <text>49</text>
+      </navLabel>
+      <content src="part0001.html#page-49"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000047" value="50" playOrder="47">
+      <navLabel>
+        <text>50</text>
+      </navLabel>
+      <content src="part0001.html#page-50"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000048" value="51" playOrder="48">
+      <navLabel>
+        <text>51</text>
+      </navLabel>
+      <content src="part0001.html#page-51"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000049" value="52" playOrder="49">
+      <navLabel>
+        <text>52</text>
+      </navLabel>
+      <content src="part0001.html#page-52"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000050" value="53" playOrder="50">
+      <navLabel>
+        <text>53</text>
+      </navLabel>
+      <content src="part0001.html#page-53"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000051" value="54" playOrder="51">
+      <navLabel>
+        <text>54</text>
+      </navLabel>
+      <content src="part0001.html#page-54"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000052" value="55" playOrder="52">
+      <navLabel>
+        <text>55</text>
+      </navLabel>
+      <content src="part0001.html#page-55"/>
+    </pageTarget>
+    <pageTarget type="normal" id="pagetarget000053" value="56" playOrder="53">
+      <navLabel>
+        <text>56</text>
+      </navLabel>
+      <content src="part0001.html#page-56"/>
+    </pageTarget>
+  </pageList>
+</ncx>

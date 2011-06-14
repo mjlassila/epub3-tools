@@ -1,0 +1,5732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE ncx PUBLIC
+     "-//NISO//DTD ncx 2005-1//EN"
+     "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx version="2005-1"
+     xml:lang="en"
+     xmlns="http://www.daisy.org/z3986/2005/ncx/">
+
+  <head>
+    <!-- The following four metadata items are required for all
+        NCX documents, including those conforming to the relaxed
+        constraints of OPS 2.0 -->
+
+    <meta name="dtb:uid" content="28321a18-f319-11dd-bc56-001cc0a62c0b"/>
+
+    <meta name="dtb:depth" content="2"/>
+
+    <meta name="dtb:totalPageCount" content="0"/>
+
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+
+ <docTitle>
+   <text>Anna Karenina</text>
+ </docTitle>
+
+ <docAuthor>
+   
+     <text>Tolstoy, Lev Nikolayevich</text>
+   
+ </docAuthor>
+
+  
+
+
+
+  <navMap>
+    
+    <navPoint class="titlepage" id="level1-titlepage" playOrder="1">
+      <navLabel><text>Title</text></navLabel>
+      <content src="title.xml"/>
+    </navPoint>
+    
+    
+    
+    
+    <navPoint class="about" id="level1-about" playOrder="2">
+      <navLabel><text>About</text></navLabel>
+      <content src="about.xml"/>
+    </navPoint>
+    
+    
+    
+    
+    
+    
+    
+    
+      
+        
+        
+
+
+
+
+
+
+
+<navPoint class="part" id="level1-book1" playOrder="3">
+  <navLabel><text>Part 1</text></navLabel> 
+  <content src="main0.xml"/>
+   
+  
+   
+  
+    
+      
+      
+
+
+
+  
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book1chap1" playOrder="4">
+  
+  <navLabel><text>Chapter 1</text></navLabel> 
+  <content src="main1.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book1chap2" playOrder="5">
+  
+  <navLabel><text>Chapter 2</text></navLabel> 
+  <content src="main2.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book1chap3" playOrder="6">
+  
+  <navLabel><text>Chapter 3</text></navLabel> 
+  <content src="main3.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book1chap4" playOrder="7">
+  
+  <navLabel><text>Chapter 4</text></navLabel> 
+  <content src="main4.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book1chap5" playOrder="8">
+  
+  <navLabel><text>Chapter 5</text></navLabel> 
+  <content src="main5.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book1chap6" playOrder="9">
+  
+  <navLabel><text>Chapter 6</text></navLabel> 
+  <content src="main6.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book1chap7" playOrder="10">
+  
+  <navLabel><text>Chapter 7</text></navLabel> 
+  <content src="main7.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book1chap8" playOrder="11">
+  
+  <navLabel><text>Chapter 8</text></navLabel> 
+  <content src="main8.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book1chap9" playOrder="12">
+  
+  <navLabel><text>Chapter 9</text></navLabel> 
+  <content src="main9.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book1chap10" playOrder="13">
+  
+  <navLabel><text>Chapter 10</text></navLabel> 
+  <content src="main10.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book1chap11" playOrder="14">
+  
+  <navLabel><text>Chapter 11</text></navLabel> 
+  <content src="main11.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book1chap12" playOrder="15">
+  
+  <navLabel><text>Chapter 12</text></navLabel> 
+  <content src="main12.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book1chap13" playOrder="16">
+  
+  <navLabel><text>Chapter 13</text></navLabel> 
+  <content src="main13.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book1chap14" playOrder="17">
+  
+  <navLabel><text>Chapter 14</text></navLabel> 
+  <content src="main14.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book1chap15" playOrder="18">
+  
+  <navLabel><text>Chapter 15</text></navLabel> 
+  <content src="main15.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book1chap16" playOrder="19">
+  
+  <navLabel><text>Chapter 16</text></navLabel> 
+  <content src="main16.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book1chap17" playOrder="20">
+  
+  <navLabel><text>Chapter 17</text></navLabel> 
+  <content src="main17.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book1chap18" playOrder="21">
+  
+  <navLabel><text>Chapter 18</text></navLabel> 
+  <content src="main18.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book1chap19" playOrder="22">
+  
+  <navLabel><text>Chapter 19</text></navLabel> 
+  <content src="main19.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book1chap20" playOrder="23">
+  
+  <navLabel><text>Chapter 20</text></navLabel> 
+  <content src="main20.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book1chap21" playOrder="24">
+  
+  <navLabel><text>Chapter 21</text></navLabel> 
+  <content src="main21.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book1chap22" playOrder="25">
+  
+  <navLabel><text>Chapter 22</text></navLabel> 
+  <content src="main22.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book1chap23" playOrder="26">
+  
+  <navLabel><text>Chapter 23</text></navLabel> 
+  <content src="main23.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book1chap24" playOrder="27">
+  
+  <navLabel><text>Chapter 24</text></navLabel> 
+  <content src="main24.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book1chap25" playOrder="28">
+  
+  <navLabel><text>Chapter 25</text></navLabel> 
+  <content src="main25.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book1chap26" playOrder="29">
+  
+  <navLabel><text>Chapter 26</text></navLabel> 
+  <content src="main26.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book1chap27" playOrder="30">
+  
+  <navLabel><text>Chapter 27</text></navLabel> 
+  <content src="main27.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book1chap28" playOrder="31">
+  
+  <navLabel><text>Chapter 28</text></navLabel> 
+  <content src="main28.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book1chap29" playOrder="32">
+  
+  <navLabel><text>Chapter 29</text></navLabel> 
+  <content src="main29.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book1chap30" playOrder="33">
+  
+  <navLabel><text>Chapter 30</text></navLabel> 
+  <content src="main30.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book1chap31" playOrder="34">
+  
+  <navLabel><text>Chapter 31</text></navLabel> 
+  <content src="main31.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book1chap32" playOrder="35">
+  
+  <navLabel><text>Chapter 32</text></navLabel> 
+  <content src="main32.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book1chap33" playOrder="36">
+  
+  <navLabel><text>Chapter 33</text></navLabel> 
+  <content src="main33.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book1chap34" playOrder="37">
+  
+  <navLabel><text>Chapter 34</text></navLabel> 
+  <content src="main34.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+</navPoint>
+       
+    
+      
+        
+        
+
+
+
+
+
+
+
+<navPoint class="part" id="level1-book2" playOrder="38">
+  <navLabel><text>Part 2</text></navLabel> 
+  <content src="main35.xml"/>
+   
+  
+   
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book2chap1" playOrder="39">
+  
+  <navLabel><text>Chapter 1</text></navLabel> 
+  <content src="main36.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book2chap2" playOrder="40">
+  
+  <navLabel><text>Chapter 2</text></navLabel> 
+  <content src="main37.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book2chap3" playOrder="41">
+  
+  <navLabel><text>Chapter 3</text></navLabel> 
+  <content src="main38.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book2chap4" playOrder="42">
+  
+  <navLabel><text>Chapter 4</text></navLabel> 
+  <content src="main39.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book2chap5" playOrder="43">
+  
+  <navLabel><text>Chapter 5</text></navLabel> 
+  <content src="main40.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book2chap6" playOrder="44">
+  
+  <navLabel><text>Chapter 6</text></navLabel> 
+  <content src="main41.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book2chap7" playOrder="45">
+  
+  <navLabel><text>Chapter 7</text></navLabel> 
+  <content src="main42.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book2chap8" playOrder="46">
+  
+  <navLabel><text>Chapter 8</text></navLabel> 
+  <content src="main43.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book2chap9" playOrder="47">
+  
+  <navLabel><text>Chapter 9</text></navLabel> 
+  <content src="main44.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book2chap10" playOrder="48">
+  
+  <navLabel><text>Chapter 10</text></navLabel> 
+  <content src="main45.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book2chap11" playOrder="49">
+  
+  <navLabel><text>Chapter 11</text></navLabel> 
+  <content src="main46.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book2chap12" playOrder="50">
+  
+  <navLabel><text>Chapter 12</text></navLabel> 
+  <content src="main47.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book2chap13" playOrder="51">
+  
+  <navLabel><text>Chapter 13</text></navLabel> 
+  <content src="main48.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book2chap14" playOrder="52">
+  
+  <navLabel><text>Chapter 14</text></navLabel> 
+  <content src="main49.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book2chap15" playOrder="53">
+  
+  <navLabel><text>Chapter 15</text></navLabel> 
+  <content src="main50.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book2chap16" playOrder="54">
+  
+  <navLabel><text>Chapter 16</text></navLabel> 
+  <content src="main51.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book2chap17" playOrder="55">
+  
+  <navLabel><text>Chapter 17</text></navLabel> 
+  <content src="main52.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book2chap18" playOrder="56">
+  
+  <navLabel><text>Chapter 18</text></navLabel> 
+  <content src="main53.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book2chap19" playOrder="57">
+  
+  <navLabel><text>Chapter 19</text></navLabel> 
+  <content src="main54.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book2chap20" playOrder="58">
+  
+  <navLabel><text>Chapter 20</text></navLabel> 
+  <content src="main55.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book2chap21" playOrder="59">
+  
+  <navLabel><text>Chapter 21</text></navLabel> 
+  <content src="main56.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book2chap22" playOrder="60">
+  
+  <navLabel><text>Chapter 22</text></navLabel> 
+  <content src="main57.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book2chap23" playOrder="61">
+  
+  <navLabel><text>Chapter 23</text></navLabel> 
+  <content src="main58.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book2chap24" playOrder="62">
+  
+  <navLabel><text>Chapter 24</text></navLabel> 
+  <content src="main59.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book2chap25" playOrder="63">
+  
+  <navLabel><text>Chapter 25</text></navLabel> 
+  <content src="main60.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book2chap26" playOrder="64">
+  
+  <navLabel><text>Chapter 26</text></navLabel> 
+  <content src="main61.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book2chap27" playOrder="65">
+  
+  <navLabel><text>Chapter 27</text></navLabel> 
+  <content src="main62.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book2chap28" playOrder="66">
+  
+  <navLabel><text>Chapter 28</text></navLabel> 
+  <content src="main63.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book2chap29" playOrder="67">
+  
+  <navLabel><text>Chapter 29</text></navLabel> 
+  <content src="main64.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book2chap30" playOrder="68">
+  
+  <navLabel><text>Chapter 30</text></navLabel> 
+  <content src="main65.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book2chap31" playOrder="69">
+  
+  <navLabel><text>Chapter 31</text></navLabel> 
+  <content src="main66.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book2chap32" playOrder="70">
+  
+  <navLabel><text>Chapter 32</text></navLabel> 
+  <content src="main67.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book2chap33" playOrder="71">
+  
+  <navLabel><text>Chapter 33</text></navLabel> 
+  <content src="main68.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book2chap34" playOrder="72">
+  
+  <navLabel><text>Chapter 34</text></navLabel> 
+  <content src="main69.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book2chap35" playOrder="73">
+  
+  <navLabel><text>Chapter 35</text></navLabel> 
+  <content src="main70.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+</navPoint>
+       
+    
+      
+        
+        
+
+
+
+
+
+
+
+<navPoint class="part" id="level1-book3" playOrder="74">
+  <navLabel><text>Part 3</text></navLabel> 
+  <content src="main71.xml"/>
+   
+  
+   
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book3chap1" playOrder="75">
+  
+  <navLabel><text>Chapter 1</text></navLabel> 
+  <content src="main72.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book3chap2" playOrder="76">
+  
+  <navLabel><text>Chapter 2</text></navLabel> 
+  <content src="main73.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book3chap3" playOrder="77">
+  
+  <navLabel><text>Chapter 3</text></navLabel> 
+  <content src="main74.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book3chap4" playOrder="78">
+  
+  <navLabel><text>Chapter 4</text></navLabel> 
+  <content src="main75.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book3chap5" playOrder="79">
+  
+  <navLabel><text>Chapter 5</text></navLabel> 
+  <content src="main76.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book3chap6" playOrder="80">
+  
+  <navLabel><text>Chapter 6</text></navLabel> 
+  <content src="main77.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book3chap7" playOrder="81">
+  
+  <navLabel><text>Chapter 7</text></navLabel> 
+  <content src="main78.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book3chap8" playOrder="82">
+  
+  <navLabel><text>Chapter 8</text></navLabel> 
+  <content src="main79.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book3chap9" playOrder="83">
+  
+  <navLabel><text>Chapter 9</text></navLabel> 
+  <content src="main80.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book3chap10" playOrder="84">
+  
+  <navLabel><text>Chapter 10</text></navLabel> 
+  <content src="main81.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book3chap11" playOrder="85">
+  
+  <navLabel><text>Chapter 11</text></navLabel> 
+  <content src="main82.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book3chap12" playOrder="86">
+  
+  <navLabel><text>Chapter 12</text></navLabel> 
+  <content src="main83.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book3chap13" playOrder="87">
+  
+  <navLabel><text>Chapter 13</text></navLabel> 
+  <content src="main84.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book3chap14" playOrder="88">
+  
+  <navLabel><text>Chapter 14</text></navLabel> 
+  <content src="main85.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book3chap15" playOrder="89">
+  
+  <navLabel><text>Chapter 15</text></navLabel> 
+  <content src="main86.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book3chap16" playOrder="90">
+  
+  <navLabel><text>Chapter 16</text></navLabel> 
+  <content src="main87.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book3chap17" playOrder="91">
+  
+  <navLabel><text>Chapter 17</text></navLabel> 
+  <content src="main88.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book3chap18" playOrder="92">
+  
+  <navLabel><text>Chapter 18</text></navLabel> 
+  <content src="main89.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book3chap19" playOrder="93">
+  
+  <navLabel><text>Chapter 19</text></navLabel> 
+  <content src="main90.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book3chap20" playOrder="94">
+  
+  <navLabel><text>Chapter 20</text></navLabel> 
+  <content src="main91.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book3chap21" playOrder="95">
+  
+  <navLabel><text>Chapter 21</text></navLabel> 
+  <content src="main92.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book3chap22" playOrder="96">
+  
+  <navLabel><text>Chapter 22</text></navLabel> 
+  <content src="main93.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book3chap23" playOrder="97">
+  
+  <navLabel><text>Chapter 23</text></navLabel> 
+  <content src="main94.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book3chap24" playOrder="98">
+  
+  <navLabel><text>Chapter 24</text></navLabel> 
+  <content src="main95.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book3chap25" playOrder="99">
+  
+  <navLabel><text>Chapter 25</text></navLabel> 
+  <content src="main96.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book3chap26" playOrder="100">
+  
+  <navLabel><text>Chapter 26</text></navLabel> 
+  <content src="main97.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book3chap27" playOrder="101">
+  
+  <navLabel><text>Chapter 27</text></navLabel> 
+  <content src="main98.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book3chap28" playOrder="102">
+  
+  <navLabel><text>Chapter 28</text></navLabel> 
+  <content src="main99.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book3chap29" playOrder="103">
+  
+  <navLabel><text>Chapter 29</text></navLabel> 
+  <content src="main100.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book3chap30" playOrder="104">
+  
+  <navLabel><text>Chapter 30</text></navLabel> 
+  <content src="main101.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book3chap31" playOrder="105">
+  
+  <navLabel><text>Chapter 31</text></navLabel> 
+  <content src="main102.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book3chap32" playOrder="106">
+  
+  <navLabel><text>Chapter 32</text></navLabel> 
+  <content src="main103.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+</navPoint>
+       
+    
+      
+        
+        
+
+
+
+
+
+
+
+<navPoint class="part" id="level1-book4" playOrder="107">
+  <navLabel><text>Part 4</text></navLabel> 
+  <content src="main104.xml"/>
+   
+  
+   
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book4chap1" playOrder="108">
+  
+  <navLabel><text>Chapter 1</text></navLabel> 
+  <content src="main105.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book4chap2" playOrder="109">
+  
+  <navLabel><text>Chapter 2</text></navLabel> 
+  <content src="main106.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book4chap3" playOrder="110">
+  
+  <navLabel><text>Chapter 3</text></navLabel> 
+  <content src="main107.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book4chap4" playOrder="111">
+  
+  <navLabel><text>Chapter 4</text></navLabel> 
+  <content src="main108.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book4chap5" playOrder="112">
+  
+  <navLabel><text>Chapter 5</text></navLabel> 
+  <content src="main109.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book4chap6" playOrder="113">
+  
+  <navLabel><text>Chapter 6</text></navLabel> 
+  <content src="main110.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book4chap7" playOrder="114">
+  
+  <navLabel><text>Chapter 7</text></navLabel> 
+  <content src="main111.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book4chap8" playOrder="115">
+  
+  <navLabel><text>Chapter 8</text></navLabel> 
+  <content src="main112.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book4chap9" playOrder="116">
+  
+  <navLabel><text>Chapter 9</text></navLabel> 
+  <content src="main113.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book4chap10" playOrder="117">
+  
+  <navLabel><text>Chapter 10</text></navLabel> 
+  <content src="main114.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book4chap11" playOrder="118">
+  
+  <navLabel><text>Chapter 11</text></navLabel> 
+  <content src="main115.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book4chap12" playOrder="119">
+  
+  <navLabel><text>Chapter 12</text></navLabel> 
+  <content src="main116.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book4chap13" playOrder="120">
+  
+  <navLabel><text>Chapter 13</text></navLabel> 
+  <content src="main117.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book4chap14" playOrder="121">
+  
+  <navLabel><text>Chapter 14</text></navLabel> 
+  <content src="main118.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book4chap15" playOrder="122">
+  
+  <navLabel><text>Chapter 15</text></navLabel> 
+  <content src="main119.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book4chap16" playOrder="123">
+  
+  <navLabel><text>Chapter 16</text></navLabel> 
+  <content src="main120.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book4chap17" playOrder="124">
+  
+  <navLabel><text>Chapter 17</text></navLabel> 
+  <content src="main121.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book4chap18" playOrder="125">
+  
+  <navLabel><text>Chapter 18</text></navLabel> 
+  <content src="main122.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book4chap19" playOrder="126">
+  
+  <navLabel><text>Chapter 19</text></navLabel> 
+  <content src="main123.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book4chap20" playOrder="127">
+  
+  <navLabel><text>Chapter 20</text></navLabel> 
+  <content src="main124.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book4chap21" playOrder="128">
+  
+  <navLabel><text>Chapter 21</text></navLabel> 
+  <content src="main125.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book4chap22" playOrder="129">
+  
+  <navLabel><text>Chapter 22</text></navLabel> 
+  <content src="main126.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book4chap23" playOrder="130">
+  
+  <navLabel><text>Chapter 23</text></navLabel> 
+  <content src="main127.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+</navPoint>
+       
+    
+      
+        
+        
+
+
+
+
+
+
+
+<navPoint class="part" id="level1-book5" playOrder="131">
+  <navLabel><text>Part 5</text></navLabel> 
+  <content src="main128.xml"/>
+   
+  
+   
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book5chap1" playOrder="132">
+  
+  <navLabel><text>Chapter 1</text></navLabel> 
+  <content src="main129.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book5chap2" playOrder="133">
+  
+  <navLabel><text>Chapter 2</text></navLabel> 
+  <content src="main130.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book5chap3" playOrder="134">
+  
+  <navLabel><text>Chapter 3</text></navLabel> 
+  <content src="main131.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book5chap4" playOrder="135">
+  
+  <navLabel><text>Chapter 4</text></navLabel> 
+  <content src="main132.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book5chap5" playOrder="136">
+  
+  <navLabel><text>Chapter 5</text></navLabel> 
+  <content src="main133.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book5chap6" playOrder="137">
+  
+  <navLabel><text>Chapter 6</text></navLabel> 
+  <content src="main134.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book5chap7" playOrder="138">
+  
+  <navLabel><text>Chapter 7</text></navLabel> 
+  <content src="main135.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book5chap8" playOrder="139">
+  
+  <navLabel><text>Chapter 8</text></navLabel> 
+  <content src="main136.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book5chap9" playOrder="140">
+  
+  <navLabel><text>Chapter 9</text></navLabel> 
+  <content src="main137.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book5chap10" playOrder="141">
+  
+  <navLabel><text>Chapter 10</text></navLabel> 
+  <content src="main138.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book5chap11" playOrder="142">
+  
+  <navLabel><text>Chapter 11</text></navLabel> 
+  <content src="main139.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book5chap12" playOrder="143">
+  
+  <navLabel><text>Chapter 12</text></navLabel> 
+  <content src="main140.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book5chap13" playOrder="144">
+  
+  <navLabel><text>Chapter 13</text></navLabel> 
+  <content src="main141.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book5chap14" playOrder="145">
+  
+  <navLabel><text>Chapter 14</text></navLabel> 
+  <content src="main142.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book5chap15" playOrder="146">
+  
+  <navLabel><text>Chapter 15</text></navLabel> 
+  <content src="main143.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book5chap16" playOrder="147">
+  
+  <navLabel><text>Chapter 16</text></navLabel> 
+  <content src="main144.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book5chap17" playOrder="148">
+  
+  <navLabel><text>Chapter 17</text></navLabel> 
+  <content src="main145.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book5chap18" playOrder="149">
+  
+  <navLabel><text>Chapter 18</text></navLabel> 
+  <content src="main146.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book5chap19" playOrder="150">
+  
+  <navLabel><text>Chapter 19</text></navLabel> 
+  <content src="main147.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book5chap20" playOrder="151">
+  
+  <navLabel><text>Chapter 20</text></navLabel> 
+  <content src="main148.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book5chap21" playOrder="152">
+  
+  <navLabel><text>Chapter 21</text></navLabel> 
+  <content src="main149.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book5chap22" playOrder="153">
+  
+  <navLabel><text>Chapter 22</text></navLabel> 
+  <content src="main150.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book5chap23" playOrder="154">
+  
+  <navLabel><text>Chapter 23</text></navLabel> 
+  <content src="main151.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book5chap24" playOrder="155">
+  
+  <navLabel><text>Chapter 24</text></navLabel> 
+  <content src="main152.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book5chap25" playOrder="156">
+  
+  <navLabel><text>Chapter 25</text></navLabel> 
+  <content src="main153.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book5chap26" playOrder="157">
+  
+  <navLabel><text>Chapter 26</text></navLabel> 
+  <content src="main154.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book5chap27" playOrder="158">
+  
+  <navLabel><text>Chapter 27</text></navLabel> 
+  <content src="main155.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book5chap28" playOrder="159">
+  
+  <navLabel><text>Chapter 28</text></navLabel> 
+  <content src="main156.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book5chap29" playOrder="160">
+  
+  <navLabel><text>Chapter 29</text></navLabel> 
+  <content src="main157.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book5chap30" playOrder="161">
+  
+  <navLabel><text>Chapter 30</text></navLabel> 
+  <content src="main158.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book5chap31" playOrder="162">
+  
+  <navLabel><text>Chapter 31</text></navLabel> 
+  <content src="main159.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book5chap32" playOrder="163">
+  
+  <navLabel><text>Chapter 32</text></navLabel> 
+  <content src="main160.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book5chap33" playOrder="164">
+  
+  <navLabel><text>Chapter 33</text></navLabel> 
+  <content src="main161.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+</navPoint>
+       
+    
+      
+        
+        
+
+
+
+
+
+
+
+<navPoint class="part" id="level1-book6" playOrder="165">
+  <navLabel><text>Part 6</text></navLabel> 
+  <content src="main162.xml"/>
+   
+  
+   
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book6chap1" playOrder="166">
+  
+  <navLabel><text>Chapter 1</text></navLabel> 
+  <content src="main163.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book6chap2" playOrder="167">
+  
+  <navLabel><text>Chapter 2</text></navLabel> 
+  <content src="main164.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book6chap3" playOrder="168">
+  
+  <navLabel><text>Chapter 3</text></navLabel> 
+  <content src="main165.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book6chap4" playOrder="169">
+  
+  <navLabel><text>Chapter 4</text></navLabel> 
+  <content src="main166.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book6chap5" playOrder="170">
+  
+  <navLabel><text>Chapter 5</text></navLabel> 
+  <content src="main167.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book6chap6" playOrder="171">
+  
+  <navLabel><text>Chapter 6</text></navLabel> 
+  <content src="main168.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book6chap7" playOrder="172">
+  
+  <navLabel><text>Chapter 7</text></navLabel> 
+  <content src="main169.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book6chap8" playOrder="173">
+  
+  <navLabel><text>Chapter 8</text></navLabel> 
+  <content src="main170.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book6chap9" playOrder="174">
+  
+  <navLabel><text>Chapter 9</text></navLabel> 
+  <content src="main171.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book6chap10" playOrder="175">
+  
+  <navLabel><text>Chapter 10</text></navLabel> 
+  <content src="main172.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book6chap11" playOrder="176">
+  
+  <navLabel><text>Chapter 11</text></navLabel> 
+  <content src="main173.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book6chap12" playOrder="177">
+  
+  <navLabel><text>Chapter 12</text></navLabel> 
+  <content src="main174.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book6chap13" playOrder="178">
+  
+  <navLabel><text>Chapter 13</text></navLabel> 
+  <content src="main175.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book6chap14" playOrder="179">
+  
+  <navLabel><text>Chapter 14</text></navLabel> 
+  <content src="main176.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book6chap15" playOrder="180">
+  
+  <navLabel><text>Chapter 15</text></navLabel> 
+  <content src="main177.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book6chap16" playOrder="181">
+  
+  <navLabel><text>Chapter 16</text></navLabel> 
+  <content src="main178.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book6chap17" playOrder="182">
+  
+  <navLabel><text>Chapter 17</text></navLabel> 
+  <content src="main179.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book6chap18" playOrder="183">
+  
+  <navLabel><text>Chapter 18</text></navLabel> 
+  <content src="main180.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book6chap19" playOrder="184">
+  
+  <navLabel><text>Chapter 19</text></navLabel> 
+  <content src="main181.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book6chap20" playOrder="185">
+  
+  <navLabel><text>Chapter 20</text></navLabel> 
+  <content src="main182.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book6chap21" playOrder="186">
+  
+  <navLabel><text>Chapter 21</text></navLabel> 
+  <content src="main183.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book6chap22" playOrder="187">
+  
+  <navLabel><text>Chapter 22</text></navLabel> 
+  <content src="main184.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book6chap23" playOrder="188">
+  
+  <navLabel><text>Chapter 23</text></navLabel> 
+  <content src="main185.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book6chap24" playOrder="189">
+  
+  <navLabel><text>Chapter 24</text></navLabel> 
+  <content src="main186.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book6chap25" playOrder="190">
+  
+  <navLabel><text>Chapter 25</text></navLabel> 
+  <content src="main187.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book6chap26" playOrder="191">
+  
+  <navLabel><text>Chapter 26</text></navLabel> 
+  <content src="main188.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book6chap27" playOrder="192">
+  
+  <navLabel><text>Chapter 27</text></navLabel> 
+  <content src="main189.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book6chap28" playOrder="193">
+  
+  <navLabel><text>Chapter 28</text></navLabel> 
+  <content src="main190.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book6chap29" playOrder="194">
+  
+  <navLabel><text>Chapter 29</text></navLabel> 
+  <content src="main191.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book6chap30" playOrder="195">
+  
+  <navLabel><text>Chapter 30</text></navLabel> 
+  <content src="main192.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book6chap31" playOrder="196">
+  
+  <navLabel><text>Chapter 31</text></navLabel> 
+  <content src="main193.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book6chap32" playOrder="197">
+  
+  <navLabel><text>Chapter 32</text></navLabel> 
+  <content src="main194.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+</navPoint>
+       
+    
+      
+        
+        
+
+
+
+
+
+
+
+<navPoint class="part" id="level1-book7" playOrder="198">
+  <navLabel><text>Part 7</text></navLabel> 
+  <content src="main195.xml"/>
+   
+  
+   
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book7chap1" playOrder="199">
+  
+  <navLabel><text>Chapter 1</text></navLabel> 
+  <content src="main196.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book7chap2" playOrder="200">
+  
+  <navLabel><text>Chapter 2</text></navLabel> 
+  <content src="main197.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book7chap3" playOrder="201">
+  
+  <navLabel><text>Chapter 3</text></navLabel> 
+  <content src="main198.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book7chap4" playOrder="202">
+  
+  <navLabel><text>Chapter 4</text></navLabel> 
+  <content src="main199.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book7chap5" playOrder="203">
+  
+  <navLabel><text>Chapter 5</text></navLabel> 
+  <content src="main200.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book7chap6" playOrder="204">
+  
+  <navLabel><text>Chapter 6</text></navLabel> 
+  <content src="main201.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book7chap7" playOrder="205">
+  
+  <navLabel><text>Chapter 7</text></navLabel> 
+  <content src="main202.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book7chap8" playOrder="206">
+  
+  <navLabel><text>Chapter 8</text></navLabel> 
+  <content src="main203.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book7chap9" playOrder="207">
+  
+  <navLabel><text>Chapter 9</text></navLabel> 
+  <content src="main204.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book7chap10" playOrder="208">
+  
+  <navLabel><text>Chapter 10</text></navLabel> 
+  <content src="main205.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book7chap11" playOrder="209">
+  
+  <navLabel><text>Chapter 11</text></navLabel> 
+  <content src="main206.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book7chap12" playOrder="210">
+  
+  <navLabel><text>Chapter 12</text></navLabel> 
+  <content src="main207.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book7chap13" playOrder="211">
+  
+  <navLabel><text>Chapter 13</text></navLabel> 
+  <content src="main208.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book7chap14" playOrder="212">
+  
+  <navLabel><text>Chapter 14</text></navLabel> 
+  <content src="main209.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book7chap15" playOrder="213">
+  
+  <navLabel><text>Chapter 15</text></navLabel> 
+  <content src="main210.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book7chap16" playOrder="214">
+  
+  <navLabel><text>Chapter 16</text></navLabel> 
+  <content src="main211.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book7chap17" playOrder="215">
+  
+  <navLabel><text>Chapter 17</text></navLabel> 
+  <content src="main212.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book7chap18" playOrder="216">
+  
+  <navLabel><text>Chapter 18</text></navLabel> 
+  <content src="main213.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book7chap19" playOrder="217">
+  
+  <navLabel><text>Chapter 19</text></navLabel> 
+  <content src="main214.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book7chap20" playOrder="218">
+  
+  <navLabel><text>Chapter 20</text></navLabel> 
+  <content src="main215.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book7chap21" playOrder="219">
+  
+  <navLabel><text>Chapter 21</text></navLabel> 
+  <content src="main216.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book7chap22" playOrder="220">
+  
+  <navLabel><text>Chapter 22</text></navLabel> 
+  <content src="main217.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book7chap23" playOrder="221">
+  
+  <navLabel><text>Chapter 23</text></navLabel> 
+  <content src="main218.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book7chap24" playOrder="222">
+  
+  <navLabel><text>Chapter 24</text></navLabel> 
+  <content src="main219.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book7chap25" playOrder="223">
+  
+  <navLabel><text>Chapter 25</text></navLabel> 
+  <content src="main220.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book7chap26" playOrder="224">
+  
+  <navLabel><text>Chapter 26</text></navLabel> 
+  <content src="main221.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book7chap27" playOrder="225">
+  
+  <navLabel><text>Chapter 27</text></navLabel> 
+  <content src="main222.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book7chap28" playOrder="226">
+  
+  <navLabel><text>Chapter 28</text></navLabel> 
+  <content src="main223.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book7chap29" playOrder="227">
+  
+  <navLabel><text>Chapter 29</text></navLabel> 
+  <content src="main224.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book7chap30" playOrder="228">
+  
+  <navLabel><text>Chapter 30</text></navLabel> 
+  <content src="main225.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book7chap31" playOrder="229">
+  
+  <navLabel><text>Chapter 31</text></navLabel> 
+  <content src="main226.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+</navPoint>
+       
+    
+      
+        
+        
+
+
+
+
+
+
+
+<navPoint class="part" id="level1-book8" playOrder="230">
+  <navLabel><text>Part 8</text></navLabel> 
+  <content src="main227.xml"/>
+   
+  
+   
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book8chap1" playOrder="231">
+  
+  <navLabel><text>Chapter 1</text></navLabel> 
+  <content src="main228.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book8chap2" playOrder="232">
+  
+  <navLabel><text>Chapter 2</text></navLabel> 
+  <content src="main229.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book8chap3" playOrder="233">
+  
+  <navLabel><text>Chapter 3</text></navLabel> 
+  <content src="main230.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book8chap4" playOrder="234">
+  
+  <navLabel><text>Chapter 4</text></navLabel> 
+  <content src="main231.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book8chap5" playOrder="235">
+  
+  <navLabel><text>Chapter 5</text></navLabel> 
+  <content src="main232.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book8chap6" playOrder="236">
+  
+  <navLabel><text>Chapter 6</text></navLabel> 
+  <content src="main233.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book8chap7" playOrder="237">
+  
+  <navLabel><text>Chapter 7</text></navLabel> 
+  <content src="main234.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book8chap8" playOrder="238">
+  
+  <navLabel><text>Chapter 8</text></navLabel> 
+  <content src="main235.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book8chap9" playOrder="239">
+  
+  <navLabel><text>Chapter 9</text></navLabel> 
+  <content src="main236.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book8chap10" playOrder="240">
+  
+  <navLabel><text>Chapter 10</text></navLabel> 
+  <content src="main237.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book8chap11" playOrder="241">
+  
+  <navLabel><text>Chapter 11</text></navLabel> 
+  <content src="main238.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book8chap12" playOrder="242">
+  
+  <navLabel><text>Chapter 12</text></navLabel> 
+  <content src="main239.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book8chap13" playOrder="243">
+  
+  <navLabel><text>Chapter 13</text></navLabel> 
+  <content src="main240.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book8chap14" playOrder="244">
+  
+  <navLabel><text>Chapter 14</text></navLabel> 
+  <content src="main241.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book8chap15" playOrder="245">
+  
+  <navLabel><text>Chapter 15</text></navLabel> 
+  <content src="main242.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book8chap16" playOrder="246">
+  
+  <navLabel><text>Chapter 16</text></navLabel> 
+  <content src="main243.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book8chap17" playOrder="247">
+  
+  <navLabel><text>Chapter 17</text></navLabel> 
+  <content src="main244.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book8chap18" playOrder="248">
+  
+  <navLabel><text>Chapter 18</text></navLabel> 
+  <content src="main245.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+    
+      
+      
+
+
+
+
+
+
+
+
+<navPoint class="chapter" id="level2-book8chap19" playOrder="249">
+  
+  <navLabel><text>Chapter 19</text></navLabel> 
+  <content src="main246.xml"/>
+    
+  
+    
+  
+</navPoint>
+      
+    
+  
+</navPoint>
+       
+    
+    
+    
+      
+    
+      <navPoint class="similar" id="level1-similar" playOrder="250">
+        <navLabel><text>Recommendations</text></navLabel>
+        <content src="similar.xml"/>
+      </navPoint>
+    
+    
+  </navMap>
+
+</ncx>

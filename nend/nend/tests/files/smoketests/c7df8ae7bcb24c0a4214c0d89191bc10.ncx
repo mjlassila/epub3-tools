@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE ncx PUBLIC
+     "-//NISO//DTD ncx 2005-1//EN"
+     "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx version="2005-1"
+     xml:lang="en"
+     xmlns="http://www.daisy.org/z3986/2005/ncx/">
+
+  <head>
+    <!-- The following four metadata items are required for all
+        NCX documents, including those conforming to the relaxed
+        constraints of OPS 2.0 -->
+
+    <meta name="dtb:uid" content="b851349c-d591-11df-91a9-001cc0a62c0b"/>
+
+    <meta name="dtb:depth" content="1"/>
+
+    <meta name="dtb:totalPageCount" content="0"/>
+
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+
+ <docTitle>
+   <text>The Sakabura Style</text>
+ </docTitle>
+
+ <docAuthor>
+   
+     <text>Anthony Omen</text>
+   
+ </docAuthor>
+
+  
+
+
+
+  <navMap>
+    
+    <navPoint class="titlepage" id="level1-titlepage" playOrder="1">
+      <navLabel><text>Title</text></navLabel>
+      <content src="title.xml"/>
+    </navPoint>
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+      
+        
+
+
+
+
+
+
+
+<navPoint class="section" id="sec393392" playOrder="2">
+  <navLabel><text>one</text></navLabel>
+  
+    <content src="main0.xml"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+        
+       
+    
+      
+        
+
+
+
+
+
+
+
+<navPoint class="section" id="sec393394" playOrder="3">
+  <navLabel><text>two</text></navLabel>
+  
+    <content src="main1.xml"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+        
+       
+    
+      
+        
+
+
+
+
+
+
+
+<navPoint class="section" id="sec393396" playOrder="4">
+  <navLabel><text>three</text></navLabel>
+  
+    <content src="main2.xml"/>
+  
+    
+    
+    
+  
+</navPoint>
+
+        
+       
+    
+
+  
+    
+    
+      
+      
+      <navPoint class="similar" id="level1-similar" playOrder="5">
+        <navLabel><text>From the same author on Feedbooks</text></navLabel>
+        <content src="similar.xml"/>
+      </navPoint>
+    
+    
+    
+    
+  </navMap>
+
+
+</ncx>

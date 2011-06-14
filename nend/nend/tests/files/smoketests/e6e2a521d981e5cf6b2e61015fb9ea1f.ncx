@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE ncx PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="cover" content="cover"/>
+    <meta name="dtb:uid" content="isbn:9780596801366"/>
+    <meta name="dtb:depth" content="-1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>StartWithXML: Making the Case for Applying XML to a Publishing Workflow</text>
+  </docTitle>
+  <navMap>
+    <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2442195" playOrder="1">
+      <navLabel>
+        <text>StartWithXML: Making the Case for Applying XML to a Publishing Workflow</text>
+      </navLabel>
+      <content src="index.html"/>
+      <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2491425" playOrder="2">
+        <navLabel>
+          <text>Acknowledgements</text>
+        </navLabel>
+        <content src="pr01.html"/>
+      </navPoint>
+      <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2491631" playOrder="3">
+        <navLabel>
+          <text>Executive Summary</text>
+        </navLabel>
+        <content src="pr02.html"/>
+      </navPoint>
+      <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2491985" playOrder="4">
+        <navLabel>
+          <text>1. What is XML? And should it really make a difference to what I do?</text>
+        </navLabel>
+        <content src="ch01.html"/>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2492107" playOrder="5">
+          <navLabel>
+            <text>What the trends mean, economically</text>
+          </navLabel>
+          <content src="ch01.html#what_the_trends_mean_comma_economically"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2492318" playOrder="6">
+          <navLabel>
+            <text>So, what’s a publisher to do?</text>
+          </navLabel>
+          <content src="ch01s02.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2492425" playOrder="7">
+          <navLabel>
+            <text>That’s where XML comes in</text>
+          </navLabel>
+          <content src="ch01s03.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2492615" playOrder="8">
+          <navLabel>
+            <text>So why isn’t everybody doing it?</text>
+          </navLabel>
+          <content src="ch01s04.html"/>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2492658" playOrder="9">
+          <navLabel>
+            <text>How important is a migration to XML?</text>
+          </navLabel>
+          <content src="ch01s05.html"/>
+        </navPoint>
+      </navPoint>
+      <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2492772" playOrder="10">
+        <navLabel>
+          <text>2. Why StartWithXML: The Business Perspective</text>
+        </navLabel>
+        <content src="ch02.html"/>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2492805" playOrder="11">
+          <navLabel>
+            <text>The business case</text>
+          </navLabel>
+          <content src="ch02.html#the_business_case"/>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2491112" playOrder="12">
+            <navLabel>
+              <text>Identifying ways in which XML provides a return on investment (ROI)</text>
+            </navLabel>
+            <content src="ch02.html#identifying_ways_in_which_xml_provides"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2493265" playOrder="13">
+            <navLabel>
+              <text>Different impacts for different books</text>
+            </navLabel>
+            <content src="ch02.html#different_impacts_for_different_books"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2493377" playOrder="14">
+            <navLabel>
+              <text>Different models for different publishing programs</text>
+            </navLabel>
+            <content src="ch02.html#different_models_for_different_publishi"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2493452" playOrder="15">
+            <navLabel>
+              <text>Creating options for the future</text>
+            </navLabel>
+            <content src="ch02.html#creating_options_for_the_future"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2493545" playOrder="16">
+            <navLabel>
+              <text>Taking company culture into consideration</text>
+            </navLabel>
+            <content src="ch02.html#taking_company_culture_into_considerati"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2493677" playOrder="17">
+            <navLabel>
+              <text>Balancing investment resources and strategic goals</text>
+            </navLabel>
+            <content src="ch02.html#balancing_investment_resources_and_stra"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2493714" playOrder="18">
+            <navLabel>
+              <text>Alternatives to XML (uses/shortcomings)</text>
+            </navLabel>
+            <content src="ch02.html#alternatives_to_xml_open_parenthesis_us"/>
+          </navPoint>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2493773" playOrder="19">
+          <navLabel>
+            <text>Shortcomings of prevailing workflows</text>
+          </navLabel>
+          <content src="ch02s02.html"/>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2493805" playOrder="20">
+            <navLabel>
+              <text>Optimized for only a single use of content</text>
+            </navLabel>
+            <content src="ch02s02.html#optimized_for_only_a_single_use_of_cont"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2493829" playOrder="21">
+            <navLabel>
+              <text>Difficulty outputting multiple formats</text>
+            </navLabel>
+            <content src="ch02s02.html#difficulty_outputting_multiple_formats"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2493852" playOrder="22">
+            <navLabel>
+              <text>Cumbersome storage and retrieval</text>
+            </navLabel>
+            <content src="ch02s02.html#cumbersome_storage_and_retrieval"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2493887" playOrder="23">
+            <navLabel>
+              <text>Lead times lengthened by process itself</text>
+            </navLabel>
+            <content src="ch02s02.html#lead_times_lengthened_by_process_itself"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2493934" playOrder="24">
+            <navLabel>
+              <text>Internal silos and resulting rework</text>
+            </navLabel>
+            <content src="ch02s02.html#internal_silos_and_resulting_rework"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2493959" playOrder="25">
+            <navLabel>
+              <text>Limits to marketing and product use</text>
+            </navLabel>
+            <content src="ch02s02.html#limits_to_marketing_and_product_use"/>
+          </navPoint>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2494009" playOrder="26">
+          <navLabel>
+            <text>Product benefits available from adopting an XML workflow</text>
+          </navLabel>
+          <content src="ch02s03.html"/>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2494042" playOrder="27">
+            <navLabel>
+              <text>Shorter lead times, improving market responsiveness</text>
+            </navLabel>
+            <content src="ch02s03.html#shorter_lead_times_comma_improving_mark"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2494107" playOrder="28">
+            <navLabel>
+              <text>Readily identify, tag and monetize chunkable assets</text>
+            </navLabel>
+            <content src="ch02s03.html#readily_identify_comma_tag_and_monetize"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2494144" playOrder="29">
+            <navLabel>
+              <text>Produce multiple versions from a single source</text>
+            </navLabel>
+            <content src="ch02s03.html#produce_multiple_versions_from_a_single"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2494172" playOrder="30">
+            <navLabel>
+              <text>Support recombinant and reusable content</text>
+            </navLabel>
+            <content src="ch02s03.html#support_recombinant_and_reusable_conten"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2494214" playOrder="31">
+            <navLabel>
+              <text>Enable one-to-one or many-to-many marketing</text>
+            </navLabel>
+            <content src="ch02s03.html#enable_one-to-one_or_many-to-many_marke"/>
+          </navPoint>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2494285" playOrder="32">
+          <navLabel>
+            <text>Process benefits available from adopting an XML workflow</text>
+          </navLabel>
+          <content src="ch02s04.html"/>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2494312" playOrder="33">
+            <navLabel>
+              <text>Readily support search</text>
+            </navLabel>
+            <content src="ch02s04.html#readily_support_search"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2494393" playOrder="34">
+            <navLabel>
+              <text>Reduce errors and make corrections more easily</text>
+            </navLabel>
+            <content src="ch02s04.html#reduce_errors_and_make_corrections_more"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2494439" playOrder="35">
+            <navLabel>
+              <text>Improve cross-departmental interaction (break down silos)</text>
+            </navLabel>
+            <content src="ch02s04.html#improve_cross-departmental_interaction"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2494491" playOrder="36">
+            <navLabel>
+              <text>Easily embed rights information</text>
+            </navLabel>
+            <content src="ch02s04.html#easily_embed_rights_information"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2494561" playOrder="37">
+            <navLabel>
+              <text>Designing to output in XML—write once; read many</text>
+            </navLabel>
+            <content src="ch02s04.html#designing_to_output_in_xml_-_write_once"/>
+          </navPoint>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2494676" playOrder="38">
+          <navLabel>
+            <text>Collecting data to support a business case: a planning checklist</text>
+          </navLabel>
+          <content src="ch02s05.html"/>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2494698" playOrder="39">
+            <navLabel>
+              <text>Establish and evaluate customer (end-user) requirements</text>
+            </navLabel>
+            <content src="ch02s05.html#establish_and_evaluate_customer_open_pa"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2494768" playOrder="40">
+            <navLabel>
+              <text>Assess processes across functions (handoffs)</text>
+            </navLabel>
+            <content src="ch02s05.html#assess_processes_across_functions_open"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2494821" playOrder="41">
+            <navLabel>
+              <text>Model both current (operational) and future (strategic) benefits</text>
+            </navLabel>
+            <content src="ch02s05.html#model_both_current_open_parenthesis_ope"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2494870" playOrder="42">
+            <navLabel>
+              <text>Solicit senior-level support for sustained change</text>
+            </navLabel>
+            <content src="ch02s05.html#solicit_senior-level_support_for_sustai"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2494907" playOrder="43">
+            <navLabel>
+              <text>When do you “StartWithXML”?</text>
+            </navLabel>
+            <content src="ch02s05.html#when_do_you_quotation_mark_startwithxml"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2494987" playOrder="44">
+        <navLabel>
+          <text>3. How to StartWithXML: The Operational Perspective</text>
+        </navLabel>
+        <content src="ch03.html"/>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2495063" playOrder="45">
+          <navLabel>
+            <text>Planning for change</text>
+          </navLabel>
+          <content src="ch03.html#planning_for_change"/>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2495737" playOrder="46">
+            <navLabel>
+              <text>Establishing where you are</text>
+            </navLabel>
+            <content src="ch03.html#establishing_where_you_are"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2496070" playOrder="47">
+            <navLabel>
+              <text>Determining where you want to be</text>
+            </navLabel>
+            <content src="ch03.html#determining_where_you_want_to_be"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2496214" playOrder="48">
+            <navLabel>
+              <text>Creating a plan to get to a future state</text>
+            </navLabel>
+            <content src="ch03.html#creating_a_plan_to_get_to_a_future_stat"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2496341" playOrder="49">
+            <navLabel>
+              <text>Managing a content workflow transition</text>
+            </navLabel>
+            <content src="ch03.html#managing_a_content_workflow_transition"/>
+          </navPoint>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2496484" playOrder="50">
+          <navLabel>
+            <text>How deeply do you want to tag content?</text>
+          </navLabel>
+          <content src="ch03s02.html"/>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2496548" playOrder="51">
+            <navLabel>
+              <text>Setting business goals to shape future planning</text>
+            </navLabel>
+            <content src="ch03s02.html#setting_business_goals_to_shape_future"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2496681" playOrder="52">
+            <navLabel>
+              <text>Developing taxonomies</text>
+            </navLabel>
+            <content src="ch03s02.html#developing_taxonomies"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2496871" playOrder="53">
+            <navLabel>
+              <text>Impact of publishing characteristics</text>
+            </navLabel>
+            <content src="ch03s02.html#impact_of_publishing_characteristics"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2497036" playOrder="54">
+            <navLabel>
+              <text>Metadata rights</text>
+            </navLabel>
+            <content src="ch03s02.html#metadata_rights"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2492897" playOrder="55">
+            <navLabel>
+              <text>Iterative nature of tagging</text>
+            </navLabel>
+            <content src="ch03s02.html#iterative_nature_of_tagging"/>
+          </navPoint>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2492941" playOrder="56">
+          <navLabel>
+            <text>Making a transition to XML workflows</text>
+          </navLabel>
+          <content src="ch03s03.html"/>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2493001" playOrder="57">
+            <navLabel>
+              <text>In-house software options</text>
+            </navLabel>
+            <content src="ch03s03.html#in-house_software_options"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2497647" playOrder="58">
+            <navLabel>
+              <text>Vendor segments</text>
+            </navLabel>
+            <content src="ch03s03.html#vendor_segments"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2501043" playOrder="59">
+            <navLabel>
+              <text>Working with vendors</text>
+            </navLabel>
+            <content src="ch03s03.html#working_with_vendors"/>
+          </navPoint>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2501115" playOrder="60">
+          <navLabel>
+            <text>Operational planning and transition management</text>
+          </navLabel>
+          <content src="ch03s04.html"/>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2501136" playOrder="61">
+            <navLabel>
+              <text>Estimating project development timeframes and costs</text>
+            </navLabel>
+            <content src="ch03s04.html#estimating_project_development_timefram"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2501259" playOrder="62">
+            <navLabel>
+              <text>Working in XML when you use both internal and freelance resources</text>
+            </navLabel>
+            <content src="ch03s04.html#working_in_xml_when_you_use_both_intern"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2501321" playOrder="63">
+            <navLabel>
+              <text>Implementing XML while still publishing</text>
+            </navLabel>
+            <content src="ch03s04.html#implementing_xml_while_still_publishing"/>
+          </navPoint>
+        </navPoint>
+        <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2501365" playOrder="64">
+          <navLabel>
+            <text>A common-sense implementation checklist</text>
+          </navLabel>
+          <content src="ch03s05.html"/>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2501446" playOrder="65">
+            <navLabel>
+              <text>Obtain and maintain operating buy-in, support and continuing dialogue</text>
+            </navLabel>
+            <content src="ch03s05.html#obtain_and_maintain_operating_buy-in_co"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2501492" playOrder="66">
+            <navLabel>
+              <text>Rank the key business benefits and measure progress openly</text>
+            </navLabel>
+            <content src="ch03s05.html#rank_the_key_business_benefits_and_meas"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2501531" playOrder="67">
+            <navLabel>
+              <text>Plan for early wins, ideally spread across multiple functions</text>
+            </navLabel>
+            <content src="ch03s05.html#plan_for_early_wins_comma_ideally_sprea"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2501589" playOrder="68">
+            <navLabel>
+              <text>Exploit the value of prototyping</text>
+            </navLabel>
+            <content src="ch03s05.html#exploit_the_value_of_prototyping"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2501630" playOrder="69">
+            <navLabel>
+              <text>Capture and share deep editorial knowledge</text>
+            </navLabel>
+            <content src="ch03s05.html#capture_and_share_deep_editorial_knowle"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2501680" playOrder="70">
+            <navLabel>
+              <text>Foster objective measurements</text>
+            </navLabel>
+            <content src="ch03s05.html#foster_objective_measurements"/>
+          </navPoint>
+          <navPoint xmlns="http://www.daisy.org/z3986/2005/ncx/" id="id2501820" playOrder="71">
+            <navLabel>
+              <text>Capitalize on the value of downstream uses</text>
+            </navLabel>
+            <content src="ch03s05.html#capitalize_on_the_value_of_down-stream"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

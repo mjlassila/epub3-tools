@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="http://www.hxa7241.org/articles/content/epup-guide_hxa7241_2007_1.epub"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>taz vom 23.05.2009</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>taz</text>
+      </navLabel>
+      <content src="TAZ_01.html"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>01 Seite 1</text>
+        </navLabel>
+        <content src="TAZ_01.html#start"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>02 der tag * Thema des Tages</text>
+        </navLabel>
+        <content src="TAZ_02.html"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>03 reportage</text>
+        </navLabel>
+        <content src="TAZ_03.html"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>04 Inland</text>
+        </navLabel>
+        <content src="TAZ_04.html"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>05 Inland</text>
+        </navLabel>
+        <content src="TAZ_05.html"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>06 Wirtschaft und Umwelt</text>
+        </navLabel>
+        <content src="TAZ_06.html"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>07 Wirtschaft und Umwelt</text>
+        </navLabel>
+        <content src="TAZ_07.html"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>08 Ausland</text>
+        </navLabel>
+        <content src="TAZ_08.html"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>09 Ausland</text>
+        </navLabel>
+        <content src="TAZ_09.html"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>10 Meinung und Diskussion</text>
+        </navLabel>
+        <content src="TAZ_10.html"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>11 Meinung und Diskussion</text>
+        </navLabel>
+        <content src="TAZ_11.html"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>12 Leibesübungen</text>
+        </navLabel>
+        <content src="TAZ_12.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Sonntaz</text>
+      </navLabel>
+      <content src="TAZS_13.html"/>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>13 Seite 1</text>
+        </navLabel>
+        <content src="TAZS_13.html#start"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>14 STREIT DER WOCHE</text>
+        </navLabel>
+        <content src="TAZS_14.html"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>15 NÄCHSTE WOCHE</text>
+        </navLabel>
+        <content src="TAZS_15.html"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>16-17 DAS SONNTAZ-GESPRÄCH</text>
+        </navLabel>
+        <content src="TAZS_16-17.html"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>18 GENUSS</text>
+        </navLabel>
+        <content src="TAZS_18.html"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>19 KONSUM</text>
+        </navLabel>
+        <content src="TAZS_19.html"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>20 METATAZ</text>
+        </navLabel>
+        <content src="TAZS_20.html"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>21 Kultur</text>
+        </navLabel>
+        <content src="TAZS_21.html"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>22 Kultur</text>
+        </navLabel>
+        <content src="TAZS_22.html"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>23 ESSAY</text>
+        </navLabel>
+        <content src="TAZS_23.html"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>24 LITERATUR</text>
+        </navLabel>
+        <content src="TAZS_24.html"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>25 Politisches Buch</text>
+        </navLabel>
+        <content src="TAZS_25.html"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>26 Flimmern und Rauschen</text>
+        </navLabel>
+        <content src="TAZS_26.html"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>27 Flimmern und Rauschen</text>
+        </navLabel>
+        <content src="TAZS_27.html"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>28 Reise</text>
+        </navLabel>
+        <content src="TAZS_28.html"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>29 Reise</text>
+        </navLabel>
+        <content src="TAZS_29.html"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>32 Die Wahrheit</text>
+        </navLabel>
+        <content src="TAZS_32.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>taz Berlin lokal</text>
+      </navLabel>
+      <content src="TAZB_33.html"/>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>33 Berlin Aktuell</text>
+        </navLabel>
+        <content src="TAZB_33.html#start"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>34 Berlin Aktuell</text>
+        </navLabel>
+        <content src="TAZB_34.html"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>36 RECHT</text>
+        </navLabel>
+        <content src="TAZB_36.html"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>37 RECHT</text>
+        </navLabel>
+        <content src="TAZB_37.html"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>38 tazplan-Programm</text>
+        </navLabel>
+        <content src="TAZB_38.html"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>39 tazplan-Programm</text>
+        </navLabel>
+        <content src="TAZB_39.html"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>40 Kultur</text>
+        </navLabel>
+        <content src="TAZB_40.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>taz Nord</text>
+      </navLabel>
+      <content src="TAZN_33.html"/>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>33 Nord Aktuell</text>
+        </navLabel>
+        <content src="TAZN_33.html#start"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>34 Nord Aktuell</text>
+        </navLabel>
+        <content src="TAZN_34.html"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>35 Kultur</text>
+        </navLabel>
+        <content src="TAZN_35.html"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>36 GESUNDHEIT</text>
+        </navLabel>
+        <content src="TAZN_36.html"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>37 GESUNDHEIT</text>
+        </navLabel>
+        <content src="TAZN_37.html"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>39 Bremen Aktuell</text>
+        </navLabel>
+        <content src="TAZN_39.html"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>39 Hamburg Aktuell</text>
+        </navLabel>
+        <content src="TAZN_39-1.html"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>40 Bremen Aktuell</text>
+        </navLabel>
+        <content src="TAZN_40.html"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>40 Hamburg Aktuell</text>
+        </navLabel>
+        <content src="TAZN_40-1.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

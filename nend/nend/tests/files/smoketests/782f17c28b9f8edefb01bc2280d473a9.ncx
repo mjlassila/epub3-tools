@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" 
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="c98702cc-1def-4789-9366-18d8bdf83710"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Stranded with a Spy</text>
+  </docTitle>
+<navMap>
+<navPoint id="navpoint-1" playOrder="1"><navLabel><text>Cover</text></navLabel><content src="strandedwithaspy_cov.html"/></navPoint>
+<navPoint id="navpoint-2" playOrder="2"><navLabel><text>Author Intro</text></navLabel><content src="strandedwithaspy_intro.html#intro"/></navPoint>
+<navPoint id="navpoint-3" playOrder="3"><navLabel><text>Dear Reader</text></navLabel><content src="strandedwithaspy_fm02.html#fm02"/></navPoint>
+<navPoint id="navpoint-4" playOrder="4"><navLabel><text>Title Page</text></navLabel><content src="strandedwithaspy_tp01.html#tp01"/></navPoint>
+<navPoint id="navpoint-5" playOrder="5"><navLabel><text>Books by Merline Lovelace</text></navLabel><content src="strandedwithaspy_adc01.html#adc01"/></navPoint>
+<navPoint id="navpoint-6" playOrder="6"><navLabel><text>MERLINE LOVELACE</text></navLabel><content src="strandedwithaspy_ata01.html#ata01"/></navPoint>
+<navPoint id="navpoint-7" playOrder="7"><navLabel><text>Dedication</text></navLabel><content src="strandedwithaspy_ded01.html#ded01"/></navPoint>
+<navPoint id="navpoint-8" playOrder="8"><navLabel><text>Contents</text></navLabel><content src="strandedwithaspy_con01.html#con01"/></navPoint>
+<navPoint id="navpoint-9" playOrder="9"><navLabel><text>Prologue</text></navLabel><content src="strandedwithaspy_fm03.html#fm03"/></navPoint>
+<navPoint id="navpoint-10" playOrder="10"><navLabel><text>Chapter 1</text></navLabel><content src="strandedwithaspy_ch01.html#ch01"/></navPoint>
+<navPoint id="navpoint-11" playOrder="11"><navLabel><text>Chapter 2</text></navLabel><content src="strandedwithaspy_ch02.html#ch02"/></navPoint>
+<navPoint id="navpoint-12" playOrder="12"><navLabel><text>Chapter 3</text></navLabel><content src="strandedwithaspy_ch03.html#ch03"/></navPoint>
+<navPoint id="navpoint-13" playOrder="13"><navLabel><text>Chapter 4</text></navLabel><content src="strandedwithaspy_ch04.html#ch04"/></navPoint>
+<navPoint id="navpoint-14" playOrder="14"><navLabel><text>Chapter 5</text></navLabel><content src="strandedwithaspy_ch05.html#ch05"/></navPoint>
+<navPoint id="navpoint-15" playOrder="15"><navLabel><text>Chapter 6</text></navLabel><content src="strandedwithaspy_ch06.html#ch06"/></navPoint>
+<navPoint id="navpoint-16" playOrder="16"><navLabel><text>Chapter 7</text></navLabel><content src="strandedwithaspy_ch07.html#ch07"/></navPoint>
+<navPoint id="navpoint-17" playOrder="17"><navLabel><text>Chapter 8</text></navLabel><content src="strandedwithaspy_ch08.html#ch08"/></navPoint>
+<navPoint id="navpoint-18" playOrder="18"><navLabel><text>Chapter 9</text></navLabel><content src="strandedwithaspy_ch09.html#ch09"/></navPoint>
+<navPoint id="navpoint-19" playOrder="19"><navLabel><text>Chapter 10</text></navLabel><content src="strandedwithaspy_ch10.html#ch10"/></navPoint>
+<navPoint id="navpoint-20" playOrder="20"><navLabel><text>Chapter 11</text></navLabel><content src="strandedwithaspy_ch11.html#ch11"/></navPoint>
+<navPoint id="navpoint-21" playOrder="21"><navLabel><text>Chapter 12</text></navLabel><content src="strandedwithaspy_ch12.html#ch12"/></navPoint>
+<navPoint id="navpoint-22" playOrder="22"><navLabel><text>Chapter 13</text></navLabel><content src="strandedwithaspy_ch13.html#ch13"/></navPoint>
+<navPoint id="navpoint-23" playOrder="23"><navLabel><text>Chapter 14</text></navLabel><content src="strandedwithaspy_ch14.html#ch14"/></navPoint>
+<navPoint id="navpoint-24" playOrder="24"><navLabel><text>Chapter 15</text></navLabel><content src="strandedwithaspy_ch15.html#ch15"/></navPoint>
+<navPoint id="navpoint-25" playOrder="25"><navLabel><text>Epilogue</text></navLabel><content src="strandedwithaspy_backMatterPage_01.html#backMatterPage_01"/></navPoint>
+<navPoint id="navpoint-26" playOrder="26"><navLabel><text>BPA</text></navLabel><content src="strandedwithaspy_backMatterPage_02.html#backMatterPage_02"/></navPoint>
+<navPoint id="navpoint-27" playOrder="27"><navLabel><text>Copyright</text></navLabel><content src="strandedwithaspy_cop01.html#cop01"/></navPoint>
+</navMap>
+</ncx>

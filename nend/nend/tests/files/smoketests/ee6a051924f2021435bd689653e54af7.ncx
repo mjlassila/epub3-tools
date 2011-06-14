@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx
+  PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <!--The following four metadata items are required for all
+            NCX documents, including those conforming to the relaxed
+            constraints of OPS 2.0-->
+      <meta name="dtb:uid" content="19504A72-6BF8-1014-A6B1-D2D4E7FAB7E8"/>
+      <meta name="epub-creator" content="epubBooks (www.epubbooks.com)"/>
+      <meta name="dtb:depth" content="2"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+   <docTitle>
+      <text>The Decameron</text>
+   </docTitle>
+   <docAuthor>
+      <text>Giovanni Boccaccio</text>
+   </docAuthor>
+   <navMap>
+      <navPoint id="navpoint-1" playOrder="1">
+         <navLabel>
+            <text>Title Page</text>
+         </navLabel>
+         <content src="title.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-2" playOrder="2">
+         <navLabel>
+            <text>epubBooks Information</text>
+         </navLabel>
+         <content src="epubbooksinfo.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-3" playOrder="3">
+         <navLabel>
+            <text>PROEM</text>
+         </navLabel>
+         <content src="preface.xml"/>
+      </navPoint>
+      <navPoint id="navpoint-4" playOrder="4">
+         <navLabel>
+            <text>Day the First</text>
+         </navLabel>
+         <content src="book-01.xml"/>
+         <navPoint id="navpoint-5" playOrder="5">
+            <navLabel>
+               <text>THE FIRST STORY</text>
+            </navLabel>
+            <content src="chapter-001.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-6" playOrder="6">
+            <navLabel>
+               <text>THE SECOND STORY</text>
+            </navLabel>
+            <content src="chapter-002.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-7" playOrder="7">
+            <navLabel>
+               <text>THE THIRD STORY</text>
+            </navLabel>
+            <content src="chapter-003.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-8" playOrder="8">
+            <navLabel>
+               <text>THE FOURTH STORY</text>
+            </navLabel>
+            <content src="chapter-004.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-9" playOrder="9">
+            <navLabel>
+               <text>THE FIFTH STORY</text>
+            </navLabel>
+            <content src="chapter-005.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-10" playOrder="10">
+            <navLabel>
+               <text>THE SIXTH STORY</text>
+            </navLabel>
+            <content src="chapter-006.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-11" playOrder="11">
+            <navLabel>
+               <text>THE SEVENTH STORY</text>
+            </navLabel>
+            <content src="chapter-007.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-12" playOrder="12">
+            <navLabel>
+               <text>THE EIGHTH STORY</text>
+            </navLabel>
+            <content src="chapter-008.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-13" playOrder="13">
+            <navLabel>
+               <text>THE NINTH STORY</text>
+            </navLabel>
+            <content src="chapter-009.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-14" playOrder="14">
+            <navLabel>
+               <text>THE TENTH STORY</text>
+            </navLabel>
+            <content src="chapter-010.xml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-15" playOrder="15">
+         <navLabel>
+            <text>Day the Second</text>
+         </navLabel>
+         <content src="book-02.xml"/>
+         <navPoint id="navpoint-16" playOrder="16">
+            <navLabel>
+               <text>THE FIRST STORY</text>
+            </navLabel>
+            <content src="chapter-011.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-17" playOrder="17">
+            <navLabel>
+               <text>THE SECOND STORY</text>
+            </navLabel>
+            <content src="chapter-012.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-18" playOrder="18">
+            <navLabel>
+               <text>THE THIRD STORY</text>
+            </navLabel>
+            <content src="chapter-013.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-19" playOrder="19">
+            <navLabel>
+               <text>THE FOURTH STORY</text>
+            </navLabel>
+            <content src="chapter-014.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-20" playOrder="20">
+            <navLabel>
+               <text>THE FIFTH STORY</text>
+            </navLabel>
+            <content src="chapter-015.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-21" playOrder="21">
+            <navLabel>
+               <text>THE SIXTH STORY</text>
+            </navLabel>
+            <content src="chapter-016.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-22" playOrder="22">
+            <navLabel>
+               <text>THE SEVENTH STORY</text>
+            </navLabel>
+            <content src="chapter-017.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-23" playOrder="23">
+            <navLabel>
+               <text>THE EIGHTH STORY</text>
+            </navLabel>
+            <content src="chapter-018.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-24" playOrder="24">
+            <navLabel>
+               <text>THE NINTH STORY</text>
+            </navLabel>
+            <content src="chapter-019.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-25" playOrder="25">
+            <navLabel>
+               <text>THE TENTH STORY</text>
+            </navLabel>
+            <content src="chapter-020.xml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-26" playOrder="26">
+         <navLabel>
+            <text>Day the Third</text>
+         </navLabel>
+         <content src="book-03.xml"/>
+         <navPoint id="navpoint-27" playOrder="27">
+            <navLabel>
+               <text>THE FIRST STORY</text>
+            </navLabel>
+            <content src="chapter-021.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-28" playOrder="28">
+            <navLabel>
+               <text>THE SECOND STORY</text>
+            </navLabel>
+            <content src="chapter-022.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-29" playOrder="29">
+            <navLabel>
+               <text>THE THIRD STORY</text>
+            </navLabel>
+            <content src="chapter-023.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-30" playOrder="30">
+            <navLabel>
+               <text>THE FOURTH STORY</text>
+            </navLabel>
+            <content src="chapter-024.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-31" playOrder="31">
+            <navLabel>
+               <text>THE FIFTH STORY</text>
+            </navLabel>
+            <content src="chapter-025.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-32" playOrder="32">
+            <navLabel>
+               <text>THE SIXTH STORY</text>
+            </navLabel>
+            <content src="chapter-026.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-33" playOrder="33">
+            <navLabel>
+               <text>THE SEVENTH STORY</text>
+            </navLabel>
+            <content src="chapter-027.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-34" playOrder="34">
+            <navLabel>
+               <text>THE EIGHTH STORY</text>
+            </navLabel>
+            <content src="chapter-028.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-35" playOrder="35">
+            <navLabel>
+               <text>THE NINTH STORY</text>
+            </navLabel>
+            <content src="chapter-029.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-36" playOrder="36">
+            <navLabel>
+               <text>THE TENTH STORY</text>
+            </navLabel>
+            <content src="chapter-030.xml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-37" playOrder="37">
+         <navLabel>
+            <text>Day the Fourth</text>
+         </navLabel>
+         <content src="book-04.xml"/>
+         <navPoint id="navpoint-38" playOrder="38">
+            <navLabel>
+               <text>THE FIRST STORY</text>
+            </navLabel>
+            <content src="chapter-031.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-39" playOrder="39">
+            <navLabel>
+               <text>THE SECOND STORY</text>
+            </navLabel>
+            <content src="chapter-032.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-40" playOrder="40">
+            <navLabel>
+               <text>THE THIRD STORY</text>
+            </navLabel>
+            <content src="chapter-033.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-41" playOrder="41">
+            <navLabel>
+               <text>THE FOURTH STORY</text>
+            </navLabel>
+            <content src="chapter-034.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-42" playOrder="42">
+            <navLabel>
+               <text>THE FIFTH STORY</text>
+            </navLabel>
+            <content src="chapter-035.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-43" playOrder="43">
+            <navLabel>
+               <text>THE SIXTH STORY</text>
+            </navLabel>
+            <content src="chapter-036.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-44" playOrder="44">
+            <navLabel>
+               <text>THE SEVENTH STORY</text>
+            </navLabel>
+            <content src="chapter-037.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-45" playOrder="45">
+            <navLabel>
+               <text>THE EIGHTH STORY</text>
+            </navLabel>
+            <content src="chapter-038.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-46" playOrder="46">
+            <navLabel>
+               <text>THE NINTH STORY</text>
+            </navLabel>
+            <content src="chapter-039.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-47" playOrder="47">
+            <navLabel>
+               <text>THE TENTH STORY</text>
+            </navLabel>
+            <content src="chapter-040.xml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-48" playOrder="48">
+         <navLabel>
+            <text>Day the Fifth</text>
+         </navLabel>
+         <content src="book-05.xml"/>
+         <navPoint id="navpoint-49" playOrder="49">
+            <navLabel>
+               <text>THE FIRST STORY</text>
+            </navLabel>
+            <content src="chapter-041.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-50" playOrder="50">
+            <navLabel>
+               <text>THE SECOND STORY</text>
+            </navLabel>
+            <content src="chapter-042.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-51" playOrder="51">
+            <navLabel>
+               <text>THE THIRD STORY</text>
+            </navLabel>
+            <content src="chapter-043.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-52" playOrder="52">
+            <navLabel>
+               <text>THE FOURTH STORY</text>
+            </navLabel>
+            <content src="chapter-044.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-53" playOrder="53">
+            <navLabel>
+               <text>THE FIFTH STORY</text>
+            </navLabel>
+            <content src="chapter-045.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-54" playOrder="54">
+            <navLabel>
+               <text>THE SIXTH STORY</text>
+            </navLabel>
+            <content src="chapter-046.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-55" playOrder="55">
+            <navLabel>
+               <text>THE SEVENTH STORY</text>
+            </navLabel>
+            <content src="chapter-047.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-56" playOrder="56">
+            <navLabel>
+               <text>THE EIGHTH STORY</text>
+            </navLabel>
+            <content src="chapter-048.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-57" playOrder="57">
+            <navLabel>
+               <text>THE NINTH STORY</text>
+            </navLabel>
+            <content src="chapter-049.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-58" playOrder="58">
+            <navLabel>
+               <text>THE TENTH STORY</text>
+            </navLabel>
+            <content src="chapter-050.xml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-59" playOrder="59">
+         <navLabel>
+            <text>Day the Sixth</text>
+         </navLabel>
+         <content src="book-06.xml"/>
+         <navPoint id="navpoint-60" playOrder="60">
+            <navLabel>
+               <text>THE FIRST STORY</text>
+            </navLabel>
+            <content src="chapter-051.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-61" playOrder="61">
+            <navLabel>
+               <text>THE SECOND STORY</text>
+            </navLabel>
+            <content src="chapter-052.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-62" playOrder="62">
+            <navLabel>
+               <text>THE THIRD STORY</text>
+            </navLabel>
+            <content src="chapter-053.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-63" playOrder="63">
+            <navLabel>
+               <text>THE FOURTH STORY</text>
+            </navLabel>
+            <content src="chapter-054.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-64" playOrder="64">
+            <navLabel>
+               <text>THE FIFTH STORY</text>
+            </navLabel>
+            <content src="chapter-055.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-65" playOrder="65">
+            <navLabel>
+               <text>THE SIXTH STORY</text>
+            </navLabel>
+            <content src="chapter-056.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-66" playOrder="66">
+            <navLabel>
+               <text>THE SEVENTH STORY</text>
+            </navLabel>
+            <content src="chapter-057.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-67" playOrder="67">
+            <navLabel>
+               <text>THE EIGHTH STORY</text>
+            </navLabel>
+            <content src="chapter-058.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-68" playOrder="68">
+            <navLabel>
+               <text>THE NINTH STORY</text>
+            </navLabel>
+            <content src="chapter-059.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-69" playOrder="69">
+            <navLabel>
+               <text>THE TENTH STORY</text>
+            </navLabel>
+            <content src="chapter-060.xml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-70" playOrder="70">
+         <navLabel>
+            <text>Day the Seventh</text>
+         </navLabel>
+         <content src="book-07.xml"/>
+         <navPoint id="navpoint-71" playOrder="71">
+            <navLabel>
+               <text>THE FIRST STORY</text>
+            </navLabel>
+            <content src="chapter-061.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-72" playOrder="72">
+            <navLabel>
+               <text>THE SECOND STORY</text>
+            </navLabel>
+            <content src="chapter-062.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-73" playOrder="73">
+            <navLabel>
+               <text>THE THIRD STORY</text>
+            </navLabel>
+            <content src="chapter-063.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-74" playOrder="74">
+            <navLabel>
+               <text>THE FOURTH STORY</text>
+            </navLabel>
+            <content src="chapter-064.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-75" playOrder="75">
+            <navLabel>
+               <text>THE FIFTH STORY</text>
+            </navLabel>
+            <content src="chapter-065.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-76" playOrder="76">
+            <navLabel>
+               <text>THE SIXTH STORY</text>
+            </navLabel>
+            <content src="chapter-066.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-77" playOrder="77">
+            <navLabel>
+               <text>THE SEVENTH STORY</text>
+            </navLabel>
+            <content src="chapter-067.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-78" playOrder="78">
+            <navLabel>
+               <text>THE EIGHTH STORY</text>
+            </navLabel>
+            <content src="chapter-068.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-79" playOrder="79">
+            <navLabel>
+               <text>THE NINTH STORY</text>
+            </navLabel>
+            <content src="chapter-069.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-80" playOrder="80">
+            <navLabel>
+               <text>THE TENTH STORY</text>
+            </navLabel>
+            <content src="chapter-070.xml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-81" playOrder="81">
+         <navLabel>
+            <text>Day the Eighth</text>
+         </navLabel>
+         <content src="book-08.xml"/>
+         <navPoint id="navpoint-82" playOrder="82">
+            <navLabel>
+               <text>THE FIRST STORY</text>
+            </navLabel>
+            <content src="chapter-071.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-83" playOrder="83">
+            <navLabel>
+               <text>THE SECOND STORY</text>
+            </navLabel>
+            <content src="chapter-072.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-84" playOrder="84">
+            <navLabel>
+               <text>THE THIRD STORY</text>
+            </navLabel>
+            <content src="chapter-073.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-85" playOrder="85">
+            <navLabel>
+               <text>THE FOURTH STORY</text>
+            </navLabel>
+            <content src="chapter-074.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-86" playOrder="86">
+            <navLabel>
+               <text>THE FIFTH STORY</text>
+            </navLabel>
+            <content src="chapter-075.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-87" playOrder="87">
+            <navLabel>
+               <text>THE SIXTH STORY</text>
+            </navLabel>
+            <content src="chapter-076.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-88" playOrder="88">
+            <navLabel>
+               <text>THE SEVENTH STORY</text>
+            </navLabel>
+            <content src="chapter-077.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-89" playOrder="89">
+            <navLabel>
+               <text>THE EIGHTH STORY</text>
+            </navLabel>
+            <content src="chapter-078.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-90" playOrder="90">
+            <navLabel>
+               <text>THE NINTH STORY</text>
+            </navLabel>
+            <content src="chapter-079.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-91" playOrder="91">
+            <navLabel>
+               <text>THE TENTH STORY</text>
+            </navLabel>
+            <content src="chapter-080.xml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-92" playOrder="92">
+         <navLabel>
+            <text>Day the Ninth</text>
+         </navLabel>
+         <content src="book-09.xml"/>
+         <navPoint id="navpoint-93" playOrder="93">
+            <navLabel>
+               <text>THE FIRST STORY</text>
+            </navLabel>
+            <content src="chapter-081.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-94" playOrder="94">
+            <navLabel>
+               <text>THE SECOND STORY</text>
+            </navLabel>
+            <content src="chapter-082.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-95" playOrder="95">
+            <navLabel>
+               <text>THE THIRD STORY</text>
+            </navLabel>
+            <content src="chapter-083.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-96" playOrder="96">
+            <navLabel>
+               <text>THE FOURTH STORY</text>
+            </navLabel>
+            <content src="chapter-084.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-97" playOrder="97">
+            <navLabel>
+               <text>THE FIFTH STORY</text>
+            </navLabel>
+            <content src="chapter-085.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-98" playOrder="98">
+            <navLabel>
+               <text>THE SIXTH STORY</text>
+            </navLabel>
+            <content src="chapter-086.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-99" playOrder="99">
+            <navLabel>
+               <text>THE SEVENTH STORY</text>
+            </navLabel>
+            <content src="chapter-087.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-100" playOrder="100">
+            <navLabel>
+               <text>THE EIGHTH STORY</text>
+            </navLabel>
+            <content src="chapter-088.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-101" playOrder="101">
+            <navLabel>
+               <text>THE NINTH STORY</text>
+            </navLabel>
+            <content src="chapter-089.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-102" playOrder="102">
+            <navLabel>
+               <text>THE TENTH STORY</text>
+            </navLabel>
+            <content src="chapter-090.xml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-103" playOrder="103">
+         <navLabel>
+            <text>Day the Tenth</text>
+         </navLabel>
+         <content src="book-10.xml"/>
+         <navPoint id="navpoint-104" playOrder="104">
+            <navLabel>
+               <text>THE FIRST STORY</text>
+            </navLabel>
+            <content src="chapter-091.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-105" playOrder="105">
+            <navLabel>
+               <text>THE SECOND STORY</text>
+            </navLabel>
+            <content src="chapter-092.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-106" playOrder="106">
+            <navLabel>
+               <text>THE THIRD STORY</text>
+            </navLabel>
+            <content src="chapter-093.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-107" playOrder="107">
+            <navLabel>
+               <text>THE FOURTH STORY</text>
+            </navLabel>
+            <content src="chapter-094.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-108" playOrder="108">
+            <navLabel>
+               <text>THE FIFTH STORY</text>
+            </navLabel>
+            <content src="chapter-095.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-109" playOrder="109">
+            <navLabel>
+               <text>THE SIXTH STORY</text>
+            </navLabel>
+            <content src="chapter-096.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-110" playOrder="110">
+            <navLabel>
+               <text>THE SEVENTH STORY</text>
+            </navLabel>
+            <content src="chapter-097.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-111" playOrder="111">
+            <navLabel>
+               <text>THE EIGHTH STORY</text>
+            </navLabel>
+            <content src="chapter-098.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-112" playOrder="112">
+            <navLabel>
+               <text>THE NINTH STORY</text>
+            </navLabel>
+            <content src="chapter-099.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-113" playOrder="113">
+            <navLabel>
+               <text>THE TENTH STORY</text>
+            </navLabel>
+            <content src="chapter-100.xml"/>
+         </navPoint>
+         <navPoint id="navpoint-114" playOrder="114">
+            <navLabel>
+               <text>Conclusion of the Author</text>
+            </navLabel>
+            <content src="chapter-101.xml"/>
+         </navPoint>
+      </navPoint>
+      <navPoint id="navpoint-115" playOrder="115">
+         <navLabel>
+            <text>Footnotes</text>
+         </navLabel>
+         <content src="footnotes.xml"/>
+      </navPoint>
+   </navMap>
+</ncx>

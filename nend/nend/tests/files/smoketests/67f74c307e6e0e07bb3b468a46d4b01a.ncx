@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" 
+                 "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:1276007329-4881764bf52dba8ddf9f37ec698eaedd2915d6893d2b32abe0324913771fb3c6"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="18"/>
+    <meta name="dtb:maxPageNumber" content="18"/>
+  </head>
+  <docTitle>
+    <text>Hacker News Monthly June 2010</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navpoint-1" playOrder="1">
+      <navLabel>
+        <text>Hacker News Monthly June 2010</text>
+      </navLabel>
+      <content src="title.html"/>
+    </navPoint>
+
+    <navPoint id="navpoint-2" playOrder="2">
+      <navLabel>
+        <text>Curator's Note</text>
+      </navLabel>
+      <content src="da11fc9a3cd14d6f6a5a6df95fdbc5f328a299f8a591cee9a3ef54ef031e8c72.html"/>
+    </navPoint>
+
+    <navPoint id="navpoint-3" playOrder="3">
+      <navLabel>
+        <text>Flying the SR-71 Blackbird</text>
+      </navLabel>
+      <content src="da49aa80d38ba57ee323719c54f292d1def843b15b1389b45f88458e8fbaced4.html"/>
+    </navPoint>
+
+    <navPoint id="navpoint-4" playOrder="4">
+      <navLabel>
+        <text>A Dismal Guide to Concurrency</text>
+      </navLabel>
+      <content src="a1824c9b367dc779173aa616723ae0335577f8087b67fe6d34865fa5ae2c7fe5.html"/>
+    </navPoint>
+
+    <navPoint id="navpoint-5" playOrder="5">
+      <navLabel>
+        <text>iPhone Developer: "This is why I sell beer"</text>
+      </navLabel>
+      <content src="877b56f7f122beae0a77b87aff58fa115d05110d98b41c1d2e0b9ccbd7b0543b.html"/>
+    </navPoint>
+
+    <navPoint id="navpoint-6" playOrder="6">
+      <navLabel>
+        <text>2 Steps to Becoming a Great Developer</text>
+      </navLabel>
+      <content src="1b28778072cd2b3dd48ca9fc677783819876ee44e1af72572f8015f287379d59.html"/>
+    </navPoint>
+
+    <navPoint id="navpoint-7" playOrder="7">
+      <navLabel>
+        <text>Top Three Motivators for Developers</text>
+      </navLabel>
+      <content src="30bf3f26a92513ae2c60bf890283b22c21652911c1f81487113c7a49191babf4.html"/>
+    </navPoint>
+
+    <navPoint id="navpoint-8" playOrder="8">
+      <navLabel>
+        <text>What Value Do We Create Here?</text>
+      </navLabel>
+      <content src="3599ddc8cc32183d1ef46bf07007c1a9f1c05661f8e19a5fbdf863f9d4113ae6.html"/>
+    </navPoint>
+
+    <navPoint id="navpoint-9" playOrder="9">
+      <navLabel>
+        <text>7 Tips for Successful Self-Learning</text>
+      </navLabel>
+      <content src="46b4c11d3198d9f22bc477e3350a549d52329d3c47311e63c3c2728369c84e5c.html"/>
+    </navPoint>
+
+    <navPoint id="navpoint-10" playOrder="10">
+      <navLabel>
+        <text>Adam? ...is there a reason your laptop is in the fridge?</text>
+      </navLabel>
+      <content src="bcdf2fc2d70a5a9cc123ee652f793fabdffb3f05785de2a586ca5d2b7d01952b.html"/>
+    </navPoint>
+
+    <navPoint id="navpoint-11" playOrder="11">
+      <navLabel>
+        <text>The Scariest Pricing Idea Ever</text>
+      </navLabel>
+      <content src="ff52a58f8791d3b68143f565d985e3da61ede02c0f46af85fcd360ae517fb417.html"/>
+    </navPoint>
+
+    <navPoint id="navpoint-12" playOrder="12">
+      <navLabel>
+        <text>5 Actions that Made Me Happier</text>
+      </navLabel>
+      <content src="9ce30b7e5af269fdcf92589c0820bdbfb116346a62666a855dad48cc5870eae4.html"/>
+    </navPoint>
+
+    <navPoint id="navpoint-13" playOrder="13">
+      <navLabel>
+        <text>How Not to Run an A/B Test</text>
+      </navLabel>
+      <content src="eb16104997d7ba8b7e753b338e36c0a826a09bb8318b05d95d7b96f76688bb7e.html"/>
+    </navPoint>
+
+    <navPoint id="navpoint-14" playOrder="14">
+      <navLabel>
+        <text>How I Took My Web-App to Market in 3 Days</text>
+      </navLabel>
+      <content src="31ad8aa71058a545f97a8c74d361761148e5ae92b2315f27f90d21b63b6b5501.html"/>
+    </navPoint>
+
+    <navPoint id="navpoint-15" playOrder="15">
+      <navLabel>
+        <text>Organic Startup Ideas</text>
+      </navLabel>
+      <content src="c915bb2dbc1edd1624556a31cde7f200ca2e6facf72e279000006ea504e56fe3.html"/>
+    </navPoint>
+
+    <navPoint id="navpoint-16" playOrder="16">
+      <navLabel>
+        <text>Not Disruptive, and Proud of It</text>
+      </navLabel>
+      <content src="980ffa8297ef77f07c16fba78e0a8c678fe5657e151737c42672e4d10148f415.html"/>
+    </navPoint>
+
+    <navPoint id="navpoint-17" playOrder="17">
+      <navLabel>
+        <text>Turning On Your Reality Distortion Field</text>
+      </navLabel>
+      <content src="1336f1573e004c5c71842b52ed40bdb12b4b1fde3f51d865df3ad95e27d6987a.html"/>
+    </navPoint>
+
+    <navPoint id="navpoint-18" playOrder="18">
+      <navLabel>
+        <text>Best Writing Advice for Engineers</text>
+      </navLabel>
+      <content src="c6d99a0ce502fbcb1f88bac5d26266c1bf5ae0462a59d3d96d6d46902f6e6a9b.html"/>
+    </navPoint>
+
+    <navPoint id="navpoint-19" playOrder="19">
+      <navLabel>
+        <text>Tell us what you think</text>
+      </navLabel>
+      <content src="0a263d885de9c0c5d139ec7e7b20596cc7c0641f671a238840f9d6e609095d86.html"/>
+    </navPoint>
+
+  </navMap>
+</ncx>
