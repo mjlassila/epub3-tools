@@ -1,7 +1,0 @@
-    def test_all_invalid(self):
-    def test_all_valid(self):
-    def test_end_not_valid_rnc(self): 
-    def test_end_not_valid_sch(self): 
-    def test_end_valid(self): 
-    def test_ncx_end_output_same_smoke(self):
-    def test_xhtml_nend_output_valid_smoke(self):
