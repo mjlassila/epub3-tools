@@ -24,7 +24,3 @@ def as_end(ncx):
     if str(errors).strip() != '':
         log.warn(errors)
     return end
-
-
-
-

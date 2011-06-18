@@ -24,7 +24,7 @@ setup(name='nend',
       zip_safe=False,
       install_requires=[
           # -*- Extra requirements: -*-
-          'lxml >= 2.2'
+          'lxml >= 2.3'
       ],
       entry_points="""
       # -*- Entry points: -*-

@@ -36,13 +36,13 @@ class TestNend(object):
 
     def test_end_not_valid_rnc(self): 
         '''An EPUB Navigation Document with RELAX NG errors should not be able to be successfully validated'''
-        not_valid_end_fn = os.path.join(self.testfiles_dir, 'invalid.rnc.html')
+        not_valid_end_fn = os.path.join(self.testfiles_dir, 'invalid.nav.rnc.html')
         not_valid = etree.parse(not_valid_end_fn)
         assert(not(nend.nav_validate(not_valid)))
 
     def test_end_not_valid_sch(self): 
         '''An EPUB Navigation Document with Schematron errors should not be able to be successfully validated'''
-        not_valid_end_fn = os.path.join(self.testfiles_dir, 'invalid.sch.html')
+        not_valid_end_fn = os.path.join(self.testfiles_dir, 'invalid.nav.sch.html')
         not_valid = etree.parse(not_valid_end_fn)
         assert(not(nend.nav_validate(not_valid)))
 
