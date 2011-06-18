@@ -38,7 +38,7 @@ class TestNCX(object):
             ncx = etree.parse(ncx_fn)
             end = nend.ncx.as_end(ncx)
             # Ensure the output is valid before testing the exact representation
-            assert(nend.validate(end))
+            assert(nend.nav_validate(end))
             try:
                 assert_equal(etree.tostring(expected_end), etree.tostring(end))
             except AssertionError:
@@ -60,6 +60,6 @@ class TestNCX(object):
             log.debug('\nSmoke testing transformation and validation of %s' % ncx_fn)
             ncx = etree.parse(ncx_fn)
             end = nend.ncx.as_end(ncx)
-            assert(nend.validate(end))
+            assert(nend.nav_validate(end))
 
 

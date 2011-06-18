@@ -38,7 +38,7 @@ SCH_XSL = os.path.join(os.path.dirname(__file__),
                        'epub3',
                        'epub-nav-30.sch.xsl')
 
-def validate(nav_doc):
+def nav_validate(nav_doc):
     """Validate the supplied EPUB Navigation Document (as etree) against the RELAX NG Compact and Schematron schemas. Returns boolean. Writes warnings
        to this classes' log stream."""
     jing_result = jing_validate(nav_doc, NAV_RNC)
