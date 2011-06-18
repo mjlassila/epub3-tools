@@ -5,7 +5,7 @@ version = '0.1'
 
 setup(name='nend',
       version=version,
-      description="nend transforms EPUB NCX documents into EPUB 3 Navigation Documents",
+      description="nend transforms EPUB NCX and OPF documents into their EPUB 3 equivalents",
       long_description="""\
 """,
       classifiers=[], # Get strings from http://pypi.python.org/pypi?%3Aaction=list_classifiers
