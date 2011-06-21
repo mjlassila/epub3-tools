@@ -1,0 +1,9 @@
+# Put this in your ~/.bash_profile
+
+# This makes a .epub (either EPUB or EPUB 3) based
+# on the contents of the current directory.
+function epub()
+{
+  rm -f $@; zip -q0X $@ mimetype; zip -qXr9D $@ * -x "*.svn*" -x "*~" -x "*.hg*" -x "*.swp"
+}
+

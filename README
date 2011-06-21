@@ -1,4 +1,5 @@
 This repository holds a number of tiny projects for creating, transforming, and using EPUB 3 documents.
 
 Current projects:
-  nend: An XSLT 1.0 stylesheet for transforming EPUB NCX documents into EPUB 3's XHTML5-based EPUB Navigation Documents (http://blog.threepress.org/2011/06/14/ncx-into-epub3/)
+  bash_helpers: Some example scripts/commands for Bash users wanting to manipulate EPUB/3s
+  transformers/nend: An XSLT 1.0 stylesheet for transforming EPUB NCX documents into EPUB 3's XHTML5-based EPUB Navigation Documents (http://blog.threepress.org/2011/06/14/ncx-into-epub3/)
