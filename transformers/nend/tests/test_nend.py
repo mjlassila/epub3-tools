@@ -62,38 +62,40 @@ class TestNend(object):
 
 
 # ===============
+# This code should move to an OPF-specific package
+#
+#
+#     def test_packdoc_valid(self): 
+#         '''A Publication Document should be able to be successfully validated'''
+#         valid_packdoc_fn = os.path.join(self.testfiles_dir, 'good.package.opf')
+#         valid_end = etree.parse(valid_packdoc_fn)
+#         assert(nend.package_validate(valid_end))
 
-    def test_packdoc_valid(self): 
-        '''A Publication Document should be able to be successfully validated'''
-        valid_packdoc_fn = os.path.join(self.testfiles_dir, 'good.package.opf')
-        valid_end = etree.parse(valid_packdoc_fn)
-        assert(nend.package_validate(valid_end))
+#     def test_packdoc_not_valid_rnc(self): 
+#         '''A Publication Document with RELAX NG errors should not be able to be successfully validated'''
+#         not_valid_packdoc_fn = os.path.join(self.testfiles_dir, 'invalid.package.rnc.opf')
+#         not_valid = etree.parse(not_valid_packdoc_fn)
+#         assert(not(nend.package_validate(not_valid)))
 
-    def test_packdoc_not_valid_rnc(self): 
-        '''A Publication Document with RELAX NG errors should not be able to be successfully validated'''
-        not_valid_packdoc_fn = os.path.join(self.testfiles_dir, 'invalid.package.rnc.opf')
-        not_valid = etree.parse(not_valid_packdoc_fn)
-        assert(not(nend.package_validate(not_valid)))
+#     def test_packdoc_not_valid_sch(self): 
+#         '''An Publication Document with Schematron errors should not be able to be successfully validated'''
+#         not_valid_packdoc_fn = os.path.join(self.testfiles_dir, 'invalid.package.sch.opf')
+#         not_valid = etree.parse(not_valid_packdoc_fn)
+#         assert(not(nend.package_validate(not_valid)))
 
-    def test_packdoc_not_valid_sch(self): 
-        '''An Publication Document with Schematron errors should not be able to be successfully validated'''
-        not_valid_packdoc_fn = os.path.join(self.testfiles_dir, 'invalid.package.sch.opf')
-        not_valid = etree.parse(not_valid_packdoc_fn)
-        assert(not(nend.package_validate(not_valid)))
+#     def test_packdoc_all_invalid(self):
+#         '''All invalid Publication Documents from the IDPF should not be able to be successfully validated'''
+#         smoketests_dir = os.path.join(self.testfiles_dir, 'invalid', 'package')
+#         for end_fn in glob.glob(smoketests_dir + '/*.opf'):
+#             not_valid = etree.parse(end_fn)
+#             assert(not(nend.package_validate(not_valid)))
 
-    def test_packdoc_all_invalid(self):
-        '''All invalid Publication Documents from the IDPF should not be able to be successfully validated'''
-        smoketests_dir = os.path.join(self.testfiles_dir, 'invalid', 'package')
-        for end_fn in glob.glob(smoketests_dir + '/*.opf'):
-            not_valid = etree.parse(end_fn)
-            assert(not(nend.package_validate(not_valid)))
-
-    def test_packdoc_all_valid(self):
-        '''All valid Publication Documents from the IDPF should be able to be successfully validated'''
-        smoketests_dir = os.path.join(self.testfiles_dir, 'valid', 'package')
-        for end_fn in glob.glob(smoketests_dir + '/*.opf'):
-            valid = etree.parse(end_fn)
-            assert(nend.package_validate(valid))
+#     def test_packdoc_all_valid(self):
+#         '''All valid Publication Documents from the IDPF should be able to be successfully validated'''
+#         smoketests_dir = os.path.join(self.testfiles_dir, 'valid', 'package')
+#         for end_fn in glob.glob(smoketests_dir + '/*.opf'):
+#             valid = etree.parse(end_fn)
+#             assert(nend.package_validate(valid))
 
 
 # ===============

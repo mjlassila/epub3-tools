@@ -1,7 +1,7 @@
 Metadata-Version: 1.0
 Name: nend
 Version: 0.1dev
-Summary: nend transforms EPUB NCX documents into EPUB 3 Navigation Documents
+Summary: nend transforms EPUB NCX and OPF documents into their EPUB 3 equivalents
 Home-page: http://threepress.org
 Author: Keith Fahlgren
 Author-email: keith@threepress.org

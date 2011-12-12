@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" version="3.0" profile="http://www.idpf.org/epub/30/profile/package/" xml:lang="en" unique-identifier="pub-id">
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0"  xml:lang="en" unique-identifier="pub-id">
 <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <dc:title prefer="dcterms-title">Moby-Dick</dc:title>
 <meta unknown="invalid" property="dcterms:title" id="dcterms-title">Moby-Dick</meta>

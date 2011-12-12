@@ -14,7 +14,7 @@
 
 
   <xsl:template match="ncx:ncx">
-    <html profile="http://www.idpf.org/epub/30/profile/content/">
+    <html>
       <xsl:call-template name="html-head"/>
       <body>
         <xsl:apply-templates/>

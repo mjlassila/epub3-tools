@@ -1,9 +1,16 @@
 setup.cfg
 setup.py
 nend/__init__.py
+nend/ncx.py
 nend.egg-info/PKG-INFO
 nend.egg-info/SOURCES.txt
 nend.egg-info/dependency_links.txt
 nend.egg-info/entry_points.txt
 nend.egg-info/not-zip-safe
+nend.egg-info/requires.txt
 nend.egg-info/top_level.txt
+nend/externals/__init__.py
+nend/externals/schemas/__init__.py
+nend/externals/schemas/epub3/__init__.py
+nend/externals/schemas/epub3/mod/__init__.py
+nend/externals/xslt/__init__.py
